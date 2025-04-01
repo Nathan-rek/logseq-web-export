@@ -1,0 +1,27 @@
+- Mouvement artistique des [[Avant-Gardes "Historique"]] à tendance abstraite
+	- Suite à la rupture du [[De Stijl - Néo-plasticisme]] The van Doesbourg publie en 1933 le [[Manifeste]] de l'Art Concret.
+	- Point du [[Manifeste]] d'art concret
+		- L'art concret n'est pas un dogme, pas un « isme », il est l'expression d'une pensée intellectuelle. Il connaît une pluralité de langages.
+		- L'art concret est déterminé par le résultat, par la visualisation d'une pensée et non d'une méthode.
+		- L'art concret est le reflet de l'esprit humain pour l'esprit humain.
+		- L'art concret s'oppose au sentimental, s'oppose au mysticisme.
+		- L'art concret n'est pas une interprétation, une illustration, un symbole. Il est le réel.
+		- L'art concret n'est pas une transposition de la nature.
+		- L'art concret n'est pas une [[Abstraction]] .
+		- L'art concret n'est pas narratif, littéraire. Il est proche de la musique.
+		- L'art concret prend forme avec l'aide de la couleur, de l'espace, de la lumière, du mouvement. C'est ainsi qu'il se concrétise.
+		- L'art concret ne témoigne pas du privé. Il confirme l'universel.
+		- L'art concret est lié à l'architecture, au dessin industriel.
+		- L'art concret englobe le monde artificiel. Il ne différencie pas l'Art de l'art appliqué. La différence se situe dans la fonction.
+		- L'art concret veut mobiliser notre sens esthétique, notre créativité, notre conscience sociale.
+		- L'art concret veut clarifier, participer à l'harmonisation de notre monde artificiel.
+		- L'art concret prend ce qu'il peut pourvu qu'il contribue à propulser la vie, la vraie.
+	- L'œuvre d'art doit être conçu par l'esprit avant sa construction
+	- Construction purement plastique
+	- Simple et contrôlable
+	- Technique mécanique anti impressionniste
+- Reflet d'une réalité marquée par la rationalité du progrès
+- # Allianz
+	- Groupe d'artiste suisses qui défendent l'art concret notamment Max Bill qui aura une forte influence sur le concrétisme au Brésil
+		- Contrairement à leur confrère du [[Constructivisme Russe]] il donne plus d'importance à la couleur qu'à la géométrie
+	- Max Bill, [*Expansion in Four Directions*](https://www.moma.org/collection/works/95064), 1961-62 ![Max Bill. Expansion in Four Directions. 1961-62 | MoMA](https://www.moma.org/media/W1siZiIsIjE0MDUyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=edb60955e04e62d6)

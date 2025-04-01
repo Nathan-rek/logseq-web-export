@@ -1,0 +1,15 @@
+- Macédonien d'origine il formera le fils du roi (Alexandre le Grand)
+- Les athéniens l'exile régulièrement
+- Recherche non pas que sur la Philosophie mais sur le savoir en générale: biologie, physique, métaphysique, logique, poétique, politique, rhétorique...
+	- Il aime examiner monde animales végétales et les catégoriser
+- # La poétique
+  id:: 676198ab-3488-448e-8e7a-da4ce5a9b5f7
+	- La poétique d'Aristote est une étude du théâtre qui a énormément influencé les récits occidentaux
+		- Aristote applique au théâtres une approche logique comparable a ce qu'il fait lorsqu'il observe des espèces.
+			- Il cherche une science de la production d'un objet qui s'appelle une œuvre d'art
+		- Pour cela il établie des règles
+			- L'**unité d'action**, selon Aristote, est l'une des trois unités classiques de la dramaturgie. Cette unité stipule que la pièce doit raconter **une seule intrigue principale**, cohérente et complète, avec un début, un milieu et une fin. L'action doit être centrée sur une série d'événements liés entre eux, sans digressions ou intrigues secondaires qui pourraient détourner l'attention du public.
+			- Il y a aussi une nécessité de vraisemblance et de raison, il ne faut pas de scène irrationnel ou d'invraisemblance
+		- Pour qu'une pièce soit bonne il faut que les actions parlent d'elle même:
+		- Aristote aime Œdipe roi
+	- Contrairement à son enseignant [[Platon]] Aristote croit au bien fait de l'art pour la cité, car il y accorde une fonction cathartique

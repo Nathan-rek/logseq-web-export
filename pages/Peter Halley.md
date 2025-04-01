@@ -1,0 +1,316 @@
+# The Crisis in Geometry
+id:: 67d560df-a0b9-4ec6-9eec-88135ab9b30b
+collapsed:: true
+	- La géométrie évoquait la stabilité aujourd'hui elle confine et dissuade
+		- Le projet formaliste en géometrie est discredité
+			- Il n'existe plus de formes comme simplement des formes a explorer comme le fessait les [[Constructivisme Russe]] ou les [[De Stijl - Néo-plasticisme]] ou des vider les formes comme le fessaie le [[Minimalisme]]
+		- La viabilité de ces idées formalistes s'est tout simplement atrophiée avec le temps
+			- Elles ont également été déformées et pliées pour se conformer à l'idéalisme bourgeois de générations de géomètres classiques à l'esprit académique
+	- La crise de la géométrie est la même crise de tout formalisme d'après guerre
+		- La crise qui a accompagner la transition du formalisme au [[Structuralisme]] et du [[Structuralisme]] aux réexamens poststructuralistes qui ont eu lieu Barthes et [[Michel Foucault]] ([[Michel Foucault]], ou les fins du [[Modernisme]] )
+	- Ces crises et celle du la géométrie sont des crise du signifié
+		- La géométrie transcendantal est inaccessible désormais,
+			- Elle n'est plus un signifiant détaché, ni comme gestalt fondamentale de la perception visuelle
+	- Nous sommes plutôt lancés dans une quête structuraliste des signifiés voilés que le signe géométrique peut révéler
+		- Quelle est la place de la  forme géométrique dans notre culture ?
+		- Pourquoi les sociétés modernes sont elle obsédée par la formes géométrique
+	- ## * ((67b5988c-037d-4e70-bc70-f19b6e81c4a9)) *
+		- *Surveiller et punir* de [[Michel Foucault]] déconstruit les grand ordres géométrique de la société industrielles
+			- Le déploiement omniprésent de structures géométriques dans les villes, les usines et les écoles, dans les logements, les transports et les hôpitaux, se révèle comme un mécanisme inédit permettant de canaliser, de mesurer et de normaliser l'action et le mouvement. Des voies de circulation, les lignes droites omniprésentes du paysage industriel, ont été établies pour faciliter les mouvements ordonnés.
+				- Se cristallise avec la formes du panoptique dans les prisons, ou la formes est directement former pas ces désirs de surveillance
+					- Le panoptisme, combiné à la sérialité, est apparu comme le principe fondamental permettant de superviser et d'observer plus efficacement les corps et les lieux dans des lieux clés tels que la prison, l'hôpital, l'usine et l'école
+			- De plus, cette géométrisation du social s'est étendue au-delà de l'environnement physique pour englober les schémas organisationnels. L'horloge, le tableau et le graphique, permettant de mesurer et de catégoriser les corps et leurs mouvements, sont devenus des techniques omniprésentes dans l'ordre industriel
+			- Les artistes du XXe siècle ont souvent revendiqué la légitimité de leur recours à la géométrie en se référant à des sources antiques et religieuses. Ironiquement, ces mêmes sources sont citées par Foucault comme les véritables modèles des schémas géométriques de confinement et de surveillance présents dans la société industrielle
+		- Premièrement, la Rome antique a fourni à l'ère capitaliste naissante non seulement un modèle de gouvernement républicain, comme on le dit communément, mais aussi un modèle de discipline idéale, fondé sur la technologie militaire romaine
+			- La naissance de l'ordre industriel, le modèle traditionnel de la vie monastique, avec sa supervision rigide du temps et des activités, a été soudainement adopté par le corps social dans son ensemble.
+		- Cette obsession modernes pour la géometrie remet en question le mysthiscisme géometrique des figure de l'Art tel que [[Piet Mondrian]], [[Kazimir Malevitch]], [[Mark Rothko]], Newman
+		  id:: 67d5553e-03d6-4d09-a056-875117f2820a
+			- Remise en question de la géométrie constituait une forme neutre, avancée par le [[Minimalisme]] et le formalisme des années 1960. [[Clément Greenberg]]
+				- On décèle dans l'œuvre de ces transcendantalistes géométriques un mécanisme de classification à l'œuvre, où la géométrie, objet même de gêne, se transforme en objet d'adulation
+					- Dans la revendication de neutralité de la géométrie par les formalistes, on peut également voir une tentative de normaliser, d'accepter comme acquise, l'omniprésence de ces signes géométriques.
+		- Le [[Minimalisme]] prétendait avoir atteint la neutralité intellectuelle, la clarté cartésienne, voire l'intégrité du [[Marxisme]]
+			- Mais malgré les défauts de cette rhétorique, l'objet minimaliste lui-même peut être lié à la critique de [[Michel Foucault]] , même si les intentions conscientes de ses créateur..ices étaient différentes. Le [[Minimalisme]] a d'abord lié idéologiquement la géométrie à la production matérielle de l'industrie contemporaine en utilisant des matériaux et des finitions industriels sans les approuver (comme le faisait le [[Bauhaus]] )
+				- Le [[Minimalisme]] a également abandonné l'idée de composition de la Renaissance au profit d'une organisation selon les principes de sérialité et de centralité (comme les arrangements panoptiques de Noland ou d'Irwin) caractéristiques de la géométrie industrielle.
+		- Les œuvres [[Post-minimalisme]] ont approfondi cette critique à un niveau plus conscient. Dans les œuvres de Robert Smithson, par exemple, une confrontation s'est développée entre la géométrie idéaliste et les géométries réelles du paysage industriel
+			- ((67891bc6-7a7b-46fd-9505-e020292270e1))
+				- Des photographies d'architecture et de décoration intérieure idéalistes et modernistes sont juxtaposées à des photos d'usines et d'autres installations industrielles, l'utilisation d'un art géométrique idéal pour soutenir idéologiquement l'organisation sociale géométrique contemporaine est ridiculisée
+				- Robert Smithson, [*Non-site (Palisades-Edgewater, N.J.)*](https://whitney.org/collection/works/5560), 1968 ![Robert Smithson | Non-site (Palisades-Edgewater, N.J.) | Whitney Museum of  American Art](https://whitneymedia.org/assets/artwork/5560/69_6a-b_vw1_cropped.jpeg)
+					- Confrontation entre des matériaux extrait zone d'un système de trolley abandonné et une forme [[Minimalisme]] dans ce cas la celle de [[Donald Judd]]
+						- Smithson se rapproche le plus d’une critique foucaldienne explicite : les monuments géométriques de la tradition des Lumières sont transformés en instruments de confinement et de torture sado-masochistes.
+		- Dans l'oeuvre de Serra la géometrie devient menace
+			- Richard Serra, [*Corner Prop*](https://www.moma.org/collection/works/100314), 1969 ![Richard Serra, Corner Prop, 1969](https://i.pinimg.com/736x/11/dc/cb/11dccbe9366f67f2eda3cb92ca66af31.jpg)
+			- un solide cubique en plomb, à la fois polygone cartésien et produit industriel, est soulevé de manière précaire au-dessus de la tete du..la spectateur..ices
+				- Si certaines caractéristiques de la forme géométrique suscitent un sentiment immédiat d'anxiété et de menace, les œuvres de Serra n'en demeurent pas moins ambiguës par leur (et la sienne) insistance sur leur « matérialité ». Cette affirmation constante de la matérialité renforce l'idée que ces formes et processus représentent une réalité immuable et transcendante
+		- Chez Alice Aycock une variété d'espaces inaccessibles et de chemins inutiles décrivant une sorte d'impasse géométrique
+			- Alice Aycock,  *Sans titre (Sculpture de rampe)*, 1978 https://www.moma.org/d/c/installation_images/W1siZiIsIjM2MDk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDEyMDB4NjAwXHUwMDNlIl1d.jpg?sha=5849f12f619d54aa
+				- Son introduction de configurations géométriques alambiquées et irrationnelles dans son œuvre de la fin des années 70 souligne encore davantage la séparation de la géométrie et de son identité avec la raison
+				- Il est significatif que, par la suggestion constante de signifiés architecturaux et narratifs dans ses constructions de l'époque, l'œuvre réfute l'idée que la forme géométrique puisse fonctionner comme des signifiés détachés
+					- Enfin, l'insistance d'Aycock à lier ses constructions à ses propres programmes idéologiques fictifs attire l'attention sur la présence de l'idéologie dans le géométrique, où qu'il apparaisse.
+		- Suite à la traduction de surveiller et punir en anglais en 1977 Robert Morris semble avoir reconsidéré le sens implicite d'œuvres.
+			- Bien que créée dans une atmosphère de pensée formaliste et phénoménologique, elle présente une forte ressemblance avec les structures de cloisonnement utilisées dans les hôpitaux et les bureaux, surtout vue d'en haut (comme c'était le cas au musée Guggenheim dans cette illustration, d'un point de vue panoptique)
+			- La photographie de Morris pour une affiche d'exposition de 1974, dans laquelle il apparaît en tenue S&M avec chaînes, collier et casque allemand, constitue à la fois une réponse aux dessins de Smithson évoqués ci-dessus et une annonce de sa nouvelle conscience des relations de pouvoir et même de la violence implicites dans sa propre production.
+				- Robert Morris, *Poster for Robert Morris: Labyrinths—Voice—Blind Time*, 1974 ![Robert Morris. Poster for Robert Morris: Labyrinths—Voice—Blind Time. 1974  | MoMA](https://www.moma.org/media/W1siZiIsIjMwMzM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=886e9cfb117a63f3)
+		- En 1978, dans sa série de dessins intitulée « *Dans l'univers carcéral*», Morris répondait directement aux idées de « Surveiller et punir ».
+			- Robert Morris, [*In the Realm of the Carceral*](https://www.castelligallery.com/exhibitions/robert-morris-in-the-realm-of-the-carceral-1978), 1978 ![Robert Morris, In the Realm of the Carceral, 1978 - with Giovanni Battista  Piranesi - Exhibitions - Castelli Gallery](https://img.artlogic.net/w_1438,h_862,c_limit/exhibit-e/5ccc8899a5aa2c2f30864af2/d60f41295f9721762f31e22e5ded567f.jpeg)
+		- Bernard Tschumi, [*The Manhattan Transcripts*](https://www.tschumi.com/fr/projects/18) ![The Manhattan Transcripts](https://www.tschumi.com/cms/assets/c7cde3bb-2ebf-4e2c-ac6e-019cc214f2f5?width=700&fit=contain)
+			- Ces dessins s'attachent à suivre divers types de mouvements humains dans la topographie architecturale de New York
+				- Ces transformations rappellent la manière dont le mouvement humain est confiné dans le domaine industriel, où il est constamment canalisé à travers les couloirs et les rues, vers des appartements, des bureaux et des stades dont l'entrée et la sortie sont soumises à des horaires et des vitesses prescrits
+		- Lauren Ewing, *« Auto-Plastique : The Prison* ![Installations – Lauren Ewing](https://laurenewingart.com/wp-content/uploads/2018/11/42.jpg)
+			- Ewing conserve le vocabulaire formel du [[Minimalisme]] – ses structures géométriques simples, ses techniques de construction industrielles et son programme d'interaction spatiale avec le spectateur – mais ce vocabulaire minimaliste est ici exploité pour formuler une proposition explicitement foucaldienne.
+				- L'installation d'Ewing illustre les conditions de l'espace panoptique telles que Foucault les décrit, nées dans la prison : *« Par l'effet de la lumière noire, on peut observer depuis la tour, se détachant précisément sur la lumière, les petites ombres captives dans les cellules de la périphérie. Elles sont comme autant de cages, autant de petits théâtres, dans lesquels chaque acteur est seul, parfaitement individualisé et constamment visible ».*
+			- Dans la tour, en revanche, d'épais murs créent une atmosphère d'ombre, de sorte que l'inspecteur n'est pas visible pour les détenus
+				- Ewing a ajouté à sa description de cette situation sa propre invention, « l'orateur parfait », un mur à angle droit derrière lequel quelqu'un peut parler dans un haut-parleur, s'adressant à la situation panoptique, sans la voir ni être vu depuis elle
+					- Cet orateur peut être considéré comme le paradigme de l'individualisme, d'une position de protestation parfaitement détachée
+						- Mais la position de l'orateur est aussi celle d'une époque encore plus ancienne de l'histoire de l'enfermement : le cachot où le prisonnier est caché plutôt qu'observé, d'où il crie sans être entendu à un ravisseur qui ne répond pas
+	- Depuis 1980, une autre génération d'œuvres géométriques est apparue, pour laquelle le texte pertinent n'est pas tant celui de [[Michel Foucault]] que celui de Baudrillard
+	- ## ((67d56662-690a-428a-8faf-9012e2dc6e88)),  [[Jean Baudrillard]]
+		- Cette génération d'artistes n'est plus liée à une expérience industrielle (comparez l'insistance de Serra sur son passé de travailleur dans les aciéries ou l'utilisation par Aycock du bois de chantier).
+			- Ce groupe d'artistes est plutôt le produit d'un environnement post-industriel où l'expérience ne se limite pas à celle des usines, mais à celle des subdivisions, non à celle de la production, mais à celle de la consommation.
+		- Ces artistes décrivent un environnement où le système panoptique n'a plus cours, où, selon les mots de [[Jean Baudrillard]], « *la distinction entre cause et effet, entre actif et passif, entre sujet et objet »* a pris fin
+			- Il s'agit d'un environnement où l'enfermement foucaldien s'est transformé en dissuasion baudrillardienne, où les géométries dures de l'hôpital, de la prison et de l'usine ont cédé la place aux géométries douces des autoroutes, des ordinateurs et des divertissements électroniques
+		- De plus, cette génération n'attribue plus à l'art le rôle d'expérience privilégiée que des artistes comme Serra, qui affirmaient que l'art pouvait avoir un effet transformateur sur la société. L'art géométrique des années 80 se moque des mécanismes de cette réponse artistique.
+			- Pour ces artistes, il ne peut y avoir qu'un simulacre avec « récurrence orbitale des modèles » (nostalgie) et « génération simulée de la différence » (styles).
+		- Les sculptures de Fisher se font passer pour des lampes, des meubles, témoignant de sa propre désillusion face à l'idée que l'art est un objet privilégié, séparé des sphères du commerce et de l'idéologie
+			- R. M. Fischer : Half-Past Ten ![The Crisis in Geometry — PETER HALLEY](https://images.squarespace-cdn.com/content/v1/5a6b9671edaed81cd74277dc/1522865694447-RXHPIV9140L5YLIM792D/image-asset.jpeg)
+				- Elles prennent la forme de lampes (sculpture domestique compromise) ou de fontaines (sculpture publique compromise). Au sein de ces signes, elles collectent et agencent tant de signes contradictoires que la fonction signifiante est elle-même circulaire et annulée
+					- Court circuit-age sémiologique : Production D’artefact où il y a déjà un réseaux de signe rendent impossible d’assigner un sens cohérent stable unifié
+				- L'œuvre de Fischer illustre ainsi la complexité des strates que le signe géométrique contemporain a acquises
+				- Dans ces sculptures, le signe prend une circularité que [[Jean Baudrillard]]décrit comme caractéristique du sens dans la société contemporaine : *"L'ensemble devient léger, Ce n'est plus qu'un gigantesque simulacre – non pas irréel, mais un simulacre, n'échangeant plus jamais avec le réel, mais s'échangeant en lui-même, dans un circuit ininterrompu, sans référence ni circonférence."*
+		- [[Jeff Koons]], [*New Shelton Wet/Dry Triple Decker*](https://www.charlessaatchi.com/artworks/new-shelton-wet-dry-triple-decker/), 1981 ![New Shelton Wet/Dry Triple Decker - Charles Saatchi](https://www.charlessaatchi.com/wp-content/uploads/2021/03/jeff_koons_10.jpg)
+			- S'inspirent de certaines caractéristiques du [[Minimalisme]] , reflétant la nostalgie du style et la circularité des signes qui définissent le simulacre
+			- Mais chez [[Jeff Koons]] , les signifiants productifs du [[Minimalisme]] (acier, peintures industrielles, etc.) sont remplacés par des éléments (les appareils électroménagers, les boîtes en plexiglas qui ressemblent à des vitrines) qui attirent l'attention sur la consommation.
+				- Alors que le [[Minimalisme]] cherchait à révéler la structure, [[Jeff Koons]] expose des appareils dont le fonctionnement est dissimulé derrière des surfaces lisses en plastique et en émail
+				- Les œuvres de [[Jeff Koons]]  produisent sur le spectateur le même effet que [[Jean Baudrillard]]décrit le programme spatial sur le public. Koons, à l'instar de la NASA, a créé un univers *« purgé de toute menace pour les sens, en état d'asepsie et d'apesanteur »*, un univers où nous sommes *« fascinés par la maximisation des normes et la maîtrise des probabilités »*
+					- Alors que dans l'organisation sociale contemporaine, "rien ne sera laissé au hasard".
+			- La vision de cette œuvre nous offre une expérience intensifiée du simulacre. Les aspirateurs semblent non réels, mais « hyperréels ». Totalement immaculés (détachés des aléas de la réalité) ; ils sont présentés en série (sans original), où ils habitent un univers *« étrangement similaire à l'original »*, où *« les choses sont dupliquées par leur propre scénario ».*
+		- Peter Halley, [*Two Cells with Conduit and Underground Chamber*](https://www.peterhalley.com/1980s), 1983  https://images.squarespace-cdn.com/content/v1/5a6b9671edaed81cd74277dc/1522355690601-8NHY3CXI70XGKNLE0IGT/PHP+83-02.jpg
+			- Met l'accent sur le rôle du modèle au sein du simulacre
+				- Baudrillard affirme que *« la simulation se caractérise par une précession du modèle, de tous les modèles, autour du fait le plus élémentaire »*. Le  simulacre est un lieu *« où le réel se confond avec le modèle » c'est un « univers total de la norme », un « espace numérique »*, un *« champ lumineux du code »*
+			- Chez Peter Halley l'espace est considéré comme un tel champ numérique où se situent des *« cellules »* à la texture de stuc simulée d'où s'écoulent des *« conduits »* irradiés. Cet espace s'apparente à l'espace simulé du jeu vidéo, de la puce électronique et de la tour de bureaux – un espace qui n'est pas une réalité spécifique, mais plutôt un modèle de *« l'espace cellulaire »* sur lequel repose *« l'échange social [[Cybernétique]]  »* qui *« irradie le corps social de ses circuits opérationnels »*
+			- Dans le simulacre *« seule subsiste la nostalgie, la réhabilitation parodique fantasmatique de tous les référentiels perdus »* Pour cette raison Halley re-emploi un style issu du [[Color-Field Painting]] Pour Halley, ces styles, utilisés comme référence à une idée de l' [[Abstraction]] et à une idéologie du progrès technique, remplacent la référence au réel.
+		- Chez Sherrie Levine la fascination du simulacre pour la nostalgie se manifeste le plus spécifiquement.
+			- Levine a exhumé, un à un, des exemples classiques du [[Modernisme]] du XXe siècle
+			- Sherrie Levine [*After Stuart Davis*](https://whitney.org/collection/works/40598), 1984 ![A grayscale abstract cubist drawing featuring geometric shapes and fragmented forms that suggest a figure within an indistinct space. The artwork is centered on a cream-colored paper with a wide border.](https://whitneymedia.org/assets/artwork/40598/P_2011_233_cropped.jpeg)
+				- la géométrie moderniste est vidée de tout contenu, à l'exception de la nostalgie de la géométrie moderniste
+					- À mesure que le contenu est nié, l'acte de production est purifié. Levine a produit des œuvres géométriques dans lesquelles la géométrie, comme dans le formalisme, a été coupée de tout signifié
+						- Chez Levine, la production est présentée comme entrant dans une phase de « réduplication esthétique où, expulsant tout contenu et toute finalité, elle devient en quelque sorte abstraite et non figurative »
+						- L'œuvre de Levine « exprime alors la forme pure de la production ; elle assume, en tant qu'art, la valeur d'une finalité sans but »
+		- Ou placer ces recherches du [[Post-structuralisme]] sur la géométrie face au analyse des [[Visual Studies]] et du [[Pop-Art]]
+			- Si l'analyse des thèmes abordés dans les médias de masse est indéniablement importante, une exploration idéologique de la géométrie peut l'être encore plus, car malgré la profusion d'images médiatiques dans la culture contemporaine, les signes géométriques demeurent les plus omniprésents et les plus influents de notre société
+				- Nous sommes confrontés à d'innombrables signes géométriques presque à chaque instant, même dans des environnements dépourvus de signes médiatiques.
+		- De plus, si l'on peut encore croire à la distinction entre capital et travail, entre cadre et ouvrier, il faut souligner que si les signes médiatiques s'adressent principalement à la masse, au consommateur et au travailleur, ce sont les signes géométriques, sous forme d'art, d'architecture et d'analyses statistiques, que la classe dirigeante se réserve pour communiquer avec elle-même
+		- Pour les artistes, s'attaquer à cette idéologie relève de l'autocritique plutôt que de la condescendance. Enfin, nombreux sont aujourd'hui les artistes qui rejettent les tentatives de critique de la géométrie et des médias, et semblent convaincus que, grâce à l'intuition, au subconscient et aux techniques traditionnelles de la peinture à l'huile, ils peuvent redonner vie à ce monde sans vie.
+		- Baudrillard décrit cet effort désespéré :
+		- *« On assiste à une prolifération de mythes d'origine et de signes de réalité ; de vérité de seconde main, d'objectivité et d'authenticité. On assiste à une escalade du vrai, de l'expérience vécue ; une résurrection du figuratif là où l'objet et la substance ont disparu. » Ces artistes, et l'art qu'ils produisent, méconnaissent la complexité des transformations qui ont eu lieu au sein du social. Et ils sont inconscients du coût du retour romantique qu'ils prônent, que Baudrillard expose également : « Si nous nous remettons à rêver, aujourd'hui surtout, d'un monde de signes certains, d'un « ordre symbolique » fort, ne nous y trompons pas : cet ordre a existé et il était celui d'une hiérarchie féroce, puisque transparence et cruauté pour les signes vont de pair. »*
+- # Contre le [[Post-modernisme]]: reconsidérer le [[Modernisme]] avec Ortega
+  collapsed:: true
+	- Le [[Post-modernisme]] est une notion qui prête à penser une fin de l'art [[Modernisme]] et qu'un nouvelle ensemble de théorie est nécessaire pour décrire l'art actuel (1981)
+	- Pour Peter Halley le [[Modernisme]] ne serait pas révolue mais mal formulé
+		- L'assimilation du [[Modernisme]] aux idées formalistes de [[Clément Greenberg]] n'est pas suffisante
+			- José Ortega parle en 1925 de "déshumanisation de l'art"
+	- Le contexte de [[Clément Greenberg]] joue beaucoup sur la théorie formaliste, et d'un art du [[Modernisme]]
+		- Issu d'un contexte nord-américain, [[Clément Greenberg]] étudie un art d'une société qui n'est pas encore post-industriel mais qui achevais sa phase de croissance industriel.
+			- L'art américain était transcendentaliste expressionniste et confiant à l'image des [[Avant-Gardes "Historique"]] européennes à une époque où l'Europe était en voie d'industrialisation
+				- [[Clément Greenberg]] a soutenu un [[Positivisme américain]] et un déterminisme pour soutenir l'art américain. Une théorie lié au capitalisme du XIXème siècle (accent sur le gout et la qualité) et au [[Marxisme]] du XIXème siècle
+	- [[Clément Greenberg]] a ignoré dans sa théorie les [[Dada]] et [[Marcel Duchamp]]
+		- Il qualifie le [[Cubisme analytique]] de contre-révolution contre le [[Modernisme]]
+			- Dans le [[Modernisme]] de [[Clément Greenberg]] le 19eme et le 20eme siècle sont unifiées
+				- Pourtant le 19ème siècle est un siècle d'industrialisation du monde occidental et d'un art populaire [[Romantisme]] et [[Réalisme]].
+					- Caractéristique de sa confiance et de sa passion, or le 20ème est un âge de relativité et de doute
+						- La physique d'einstein remplace le mécanisme newtonien, la subjectivité de [[Freud]] abolie l'absolutisme victorien. En philosophie le positivisme marxiste est remplacé par le doute existentiel de la [[Phénoménologie]]
+						- L'automatisation, l'électronique et l'état providence freine l'ascension du..la travailler..euse dans l'industrie
+		- La théorie du [[Modernisme]] de [[Clément Greenberg]] qui englobe ces deux ères différentes est difficile or chez Ortega on trouve une théorie du [[Modernisme]] qui se limite à l'art du 20ème siècle
+			- Ortega comme [[Clément Greenberg]] joue un rôle prescriptif de l'art moderniste.
+				- Pour Ortega la principale force intellectuelle du 20ème est le relativisme.
+					- Un relativisme produit par des individus dotés d'une profonde capacité de doute et nécessite le renversement politique tolérant capable d'intégré ce doute relativiste ambient.
+	- Le libéralisme d'Ortega trouve sa conviction dans les avancés technologique et politique positives de la société et sur le fait d'individus hors du commun sépare de la masse humaine appelle par leur besoin de norme supérieur à eux même.
+		- Ortega définit l'homme de masse "ne ressent le manque de rien en dehors de lui même "
+			- L'homme de masse croit en l'action directe, et voue une haine à ce qui n'est pas lui même
+	- Le libéralisme d'Ortega est en contradiction avec les aspirations populistes qui ont influencé la pensée artistique américaine tout au long du XXe siècle
+		- Cette aspiration au populisme s'explique en partie par la croyance en l'opinion majoritaire, fondement essentiel de l'approche démocratique américaine
+			- Les auteur..icess d'art manifestent un malaise récurrent face au libéralisme, d'où le désir de conformer l'art moderniste au monde populiste
+				- Ortega, au contraire, soutient que l'art moderniste est non seulement impopulaire par nature, mais aussi antipopulaire, car les idéaux qu'il incarne sont antithétiques aux opinions du grand public
+	- Dans *« La déshumanisation de l'art »*, il expose les caractéristiques d'un tel art. Le « nouveau style » tend à :
+		- 1) déshumaniser l'art
+			- Il tente ici de dissocier l'effet de l'art, un « plaisir visuel », de l'émotivité autobiographique qui dominait l'art du XIXe siècle. Par déshumanisation, Ortega entend « dé-émotionnaliser ». Les modernistes doutant que l'art doive se tenir à l'écart de la « contagion » des « sentiments personnels »
+				- Ortega retrace ce phénomène en musique:
+					- *De Beethoven à Wagner, la musique s'est avant tout attachée à exprimer des sentiments personnels. Le compositeur a érigé de grandes structures sonores pour accueillir son autobiographie… Wagner a transposé dans Tristan et Isolde son adultère avec Mathilde Wesdendonck, et si nous voulons apprécier cette œuvre, nous devons, l'espace de quelques heures, nous laisser aller à une forme d'adultère.*
+			- Mais les réalités « vécues » sont trop puissantes pour ne pas susciter la sympathie, ce qui nous empêche de percevoir les relations esthétiques dans leur « pureté objective », et doivent donc être évitées comme contenu de l'art moderniste.
+				- La musique devait être libérée de tout sentiment personnel. Tel fut l'œuvre de Debussy. Grâce à lui, il est devenu possible d'écouter la musique sereinement, sans évanouissements ni larmes
+			- Le contraste entre ces deux attitudes est particulièrement évident dans le cinéma d'aujourd'hui, où art moderniste et art populaire cohabitent
+				- Dans le cinéma populaire, des techniques d'illusion coercitives du 24fps nous entraînent dans des expériences de peur et de joie presque involontaires.
+					- Dans le cinéma moderniste de Stan Brackage, Hollis Frampton ou Jean-Luc Goddard [[Nouvelle Vague]] , en revanche, nous sommes gratifiés d'une « algèbre de métaphores » qui nous permet d'être « surpris, émerveillés », ces facultés qui « guident l'intellectuel à travers la vie dans l'extase perpétuelle du visionnaire ».
+		- 2) éviter les formes vivantes
+		- 3) voir l'œuvre d'art comme rien d'autre qu'une œuvre d'art
+			- Ortega affirme que « l'art doit être la clarté absolue, le summum de l'intellect. Les larmes et le rire sont des tromperies esthétiques. *"Le geste de beauté ne dépasse jamais le sourire, la mélancolie ou le ravissement."* Ce n'est que dans une telle atmosphère que le doute et la réflexion sont possibles. Et dans le [[Modernisme]] ortegan, cette réflexion à une haute finalité qui l'as relie au courant dominant de la [[Phénoménologie]] du XXe siècle:
+				- *Nous utilisons nos idées de manière « humaine » lorsque nous les employons pour penser. En pensant à Napoléon, par exemple, nous nous intéressons généralement au grand homme de ce nom. Un psychologue, en revanche, adopte une attitude inhabituellement « inhumaine » lorsqu'il oublie Napoléon et, fouillant dans son propre esprit, tente d'analyser son idée de Napoléon en tant qu'idée. Sa perspective est à l'opposé de celle qui prévaut dans la vie spontanée. L'idée, au lieu de fonctionner comme un moyen de penser un objet, devient elle-même l'objet et le but de la pensée.*
+			- Ainsi, Ortega relie ce [[Modernisme]] à la [[Phénoménologie]] de ((67e6dff1-1f82-46bf-a568-239ad5dd6db0)) du XXe siècle plutôt qu'au [[Positivisme américain]] et au déterminisme [[Marxisme]] du XIXe siècle.
+				- Ortega souligne les limites de l'idéation humaine : *« Nous ne possédons de la réalité, à proprement parler, que les idées que nous avons réussi à nous en faire. »*.
+					- Mais pour Ortega, ce processus passe inaperçu. *« Par les idées, nous percevons le monde, mais dans une attitude d'esprit naturelle, nous ne voyons pas les idées… le mouvement spontané de l'esprit passe des concepts au monde. »* Il souligne que l'art traditionnel se contentait d'accepter les idées comme synonymes de réalité ; la réalité était *« idéalisée, bien qu'il s'agisse d'une falsification candide ».*
+					- Le moderniste, aspirant à une *« réalisation scrupuleuse »*, inverse ce processus :
+						- *…si, en tournant le dos à la prétendue réalité, nous prenons les idées pour ce qu’elles sont – de simples modèles subjectifs – et les faisons vivre comme telles, maigres et anguleuses, mais pures et transparentes ; en bref, si nous proposons délibérément de « réaliser » nos idées – alors nous les avons déshumanisées et, pour ainsi dire, déréalisées.*
+		- 4) considérer l'art comme un jeu et rien d'autre
+		- 5) être essentiellement ironique
+			- Ortega affirme que, imprégné du doute de ((67e6dff1-1f82-46bf-a568-239ad5dd6db0)) le moderniste est « ironique » et que « quel que soit son contenu, l'art lui-même est une plaisanterie.
+				- Considérer la fiction comme fiction… est une proposition impossible à mettre en pratique sans ironie
+					- *Être artiste, c'est cesser de prendre au sérieux la personne très sérieuse que nous sommes lorsque nous ne sommes pas un artiste.*
+						- L'art moderniste fonctionne comme « un système de miroirs qui se reflètent indéfiniment les uns les autres dans lequel aucune forme n'est ultime, toutes sont finalement ridiculisées et révélées comme de pures images. »
+		- 6) se méfier de la tromperie et donc aspirer à une réalisation scrupuleuse
+		- 7) considérer l'art comme une chose sans conséquence transcendante
+			- *« Le règne de l'art commence là où l'air paraît plus léger et où les choses, libérées des entraves formelles, se mettent à s'ébattre avec fantaisie. »*
+			- Ortega associe l'impulsion moderniste à l'espièglerie et à la jeunesse
+				- En fait, le [[Modernisme]] a été typiquement la position des jeunes artistes qui, en vieillissant, sombrent souvent dans une solennité rappelant l'artiste-héros du XIXe siècle.
+		- Dans chacun de ces points, il cherche à différencier l'art dubitatif du XXe siècle de l'art passionné, positiviste et confiant qui caractérisait le XIXe.
+	- L'artiste moderniste inverse le mouvement « spontané » du monde vers l'esprit.
+		- Le moderniste évite *« les formes rondes et molles des corps vivants »* en raison de leurs fortes associations avec les *« réalités vécues »*
+			- Abandon du [[Réalisme]] et de ses aspirations au « salut de l'humanité »,
+	- Le modernisme D'ortega est une théorie du comportement de tous les arts
+		- Les artistes du [[Modernisme]] sont résolument engagés dans une création artistique fondée sur le relativisme du XXe siècle plutôt que sur la « contagion psychique » du [[Romantisme]] ou le mécanisme de l'empirisme du XIXe siècle.
+			- Le [[Cubisme analytique]] est une négation complète des hypothèses antérieures sur les arts visuels
+				- C'est dans le [[Cubisme]] que l'on trouve pour la première fois l'artiste se contentant de considérer son œuvre comme une « chose sans conséquence transcendante », une entreprise essentiellement ironique et ludique
+		- Le [[Ready-made]] est une tentative de « réalisation scrupuleuse » dans laquelle la re-présentation de l'objet est exactement assimilée à la présence (présumée) de l'objet lui-même.
+			- De même, ((67cea6a3-9cf4-4fa8-86cc-4797cc275f5e))
+			- est, comme [[Marcel Duchamp]] le décrit lui-même, « l'apparition d'une apparence ».
+	- Chez [[Jasper Johns]] , on observe également ce souci de « réalisation scrupuleuse ». Dans ses premières œuvres, il abandonne la tentative de représenter des objets tridimensionnels sur un plan bidimensionnel, préférant soit confiner scrupuleusement ses représentations à des motifs bidimensionnels (tels que des drapeaux, des cibles ou des nombres), soit rendre des objets tridimensionnels par moulage
+		- Les objets superposés ne sont rendus que par des toiles superposées (comme dans ((653ece31-c93e-42a6-bea8-02fe7b6725c8))
+			- Malgré tout cela, [[Jasper Johns]] maintient sa position ironique. Le jeu est évoqué spécifiquement dans son œuvre par la cible (équipement de tir), l'utilisation de dessins de presse (dans Alley Oop, 1958) et de balles en caoutchouc dans Painting with Two Balls, 1960
+				- [[Jasper Johns]], [*Alley Oop*](https://www.artforum.com/features/jasper-johns-alley-oop-1958-202653/), 1958 ![JASPER JOHNS: ALLEY OOP, 1958](https://www.artforum.com/wp-content/uploads/2015/07/article00_large-164.jpg)
+				- [[Jasper Johns]], [*Painting with two balls*](https://arthur.io/art/jasper-johns/painting-with-two-balls), 1960 ![Jasper Johns - Painting With Two Balls, 1960](https://arthur.io/img/art/jpg/000173449cc5c3597/jasper-johns/painting-with-two-balls/large/jasper-johns--painting-with-two-balls.jpg)
+		- [[Jasper Johns]] lui-même affirme avoir peint « des choses que l'esprit connaît déjà. Cela m'a permis de travailler à d'autres niveaux. »
+	- Chez Reinhardt, on retrouve une approche ortégienne de l' [[Abstraction]] . Dans son « *Dogme de l'art en tant qu'art*», il affirme : *« L'art en tant qu'art est une concentration sur la nature essentielle de l'art. »* Reinhardt affirmait :
+		- *La prochaine révolution dans l’art sonnera l’adieu des vieilles chansons préférées sur « l’art et la vie »* que les vieux artistes-canards préférés aiment chanter avec les vieux oiseaux de tonnelle et le nouveau, bon et riche public d’hirondelles.
+		- Pour y parvenir, Reinhardt souhaite libérer radicalement son art de tout autre sujet que les schémas mentaux et les processus intellectuels. Dans une autre diatribe, il écrit :
+			- *…pas de représentations, pas d’associations, pas de distorsions, pas de caricatures de peinture, pas d’images à la crème ou de coulures, pas de délires, pas de sadisme ou de coupures, pas de thérapie, pas de coups de pied dans l’effigie… pas d’empâtement, pas de plasticité, pas de relations, pas d’expériences…*
+	- Il prône plutôt « la peinture comme symétrie absolue, pure raison, justesse… La peinture comme centrale, frontale, régulière, répétitive… La couleur comme noire, vide… Verticalité et horizontalité, rectiligneté, parallélisme, stase ».
+		- ((9fd66048-7c7c-46ad-838b-721c706d447e))
+		- Reinhardt illustre l'affirmation d'Ortega selon laquelle « l'art moderniste ne doit pas procéder par contagion psychique, car la contagion psychique est un phénomène inconscient, et l'art doit être pleine clarté, le summum de l'intellect ».
+	- L'esthétique de Reinhardt a été façonnée par le choix d'adopter une position ironique dans son œuvre :
+		- *Tout ce que l'on appelait mauvais les artistes [abstraits], je l'ai retenu et j'en ai fait des mots plus justes*, *Des mots comme inhumain, stérile, froid – ils sont devenus cool… Et les autres – académiques, dogmatiques, absolus – je les ai repris et je me suis dit : « Eh bien, pourquoi pas académiques ? »*
+		- [[Andy Warhol]] pousse les prémisses du [[Modernisme]] d'Ortega à leur extrême limite.
+			- [[Andy Warhol]] applique l'« inversion » de la déshumanisation moderniste non seulement à son art, mais aussi à sa vie.
+				- Il ne se contente pas de « concrétiser » ses idées dans son quotidien. Il abandonne sa vie « humaine » non seulement dans son art, mais aussi dans son existence quotidienne. Comme le dit Warhol lui-même :
+					- *Je pense qu'une fois qu'on voit les émotions sous un certain angle, on ne peut plus les considérer comme réelles. C'est plus ou moins ce qui m'est arrivé.*
+				- À l’aide d’appareils d’enregistrement électroniques, [[Andy Warhol]] a abandonné les « réalités vécues » pour se concentrer sur le « plan de verre » de la perception
+					- *L'acquisition de mon magnétophone a mis fin à toute ma vie émotionnelle, mais j'étais heureux de la voir disparaître Plus rien n'a jamais été un problème, car un problème signifiait simplement une bonne cassette, et lorsqu'un problème se transforme en une bonne cassette, il n'en est plus un.*
+			- Cela fait écho à la description de l'artiste par Ortega :
+				- *Le peintre, in fine, complètement indifférent, ne fait rien d'autre que de garder les yeux ouverts. Ce qui se passe ici ne le regarde pas ; il est, pour ainsi dire, à cent lieues de là. Son attitude est purement perceptive ; il ne parvient même pas à percevoir l'événement dans son intégralité. Toute la signification intérieure échappe à son attention, qui se porte exclusivement sur la partie visuelle… Chez le peintre, on trouve un maximum de distance et un minimum d'intervention émotionnelle.*
+	- [[Andy Warhol]] était fasciné par les figures médiatiques dont la vie avait été « déshumanisée » – stars de cinéma, célébrités, travestis.
+		- Pour [[Andy Warhol]] , le cinéma offrait l'exemple le plus frappant de cette inversion : *« La meilleure atmosphère qui me vienne à l'esprit est celle du cinéma, car elle est tridimensionnelle physiquement et bidimensionnelle émotionnellement. »*
+	- Parallèlement, [[Andy Warhol]] partage avec Ortega une appréciation du caractère ludique de toute l'entreprise moderniste.
+	- Si l'on adopte les postulats du [[Modernisme]] d'ortega , on constate que nombre de jeunes artistes, notamment ceux soutenus par la critique [[Post-modernisme]] , s'appuient sur les présupposés de cette théorie vieille de cinquante ans
+		- D'un autre côté, une grande partie de l'art produit aujourd'hui est véritablement autre chose que moderniste. Cependant, qualifier cet art de postmoderne est probablement une erreur, car il présente tous les signes d'un art prémoderniste.
+	- Le retour aux techniques de perspective, à l'objet d'art unique, à l'expression humaine, à la « sensibilité » – tout cela n'est qu'un retour aux stratégies du XIXe siècle par des artistes rétrogrades, comme l'a souligné [[Benjamin Buchloh]] dans son récent essai sur la peinture *nouvelle image*.
+		- *L'art rétrograde a toujours existé dans notre culture, mais le phénomène inhabituel aujourd'hui est que ces œuvres ont acquis le statut d'œuvres d'art majeures. C'est le résultat des changements survenus dans notre société au cours de la dernière décennie*
+			- Des années 1950 aux années 1970, c'est la classe entrepreneuriale, portée par la prospérité économique, qui a soutenu le modernisme, dans le médium qui lui était typiquement associé : les arts visuels. Aujourd'hui, cette classe a largement délaissé son intérêt pour le point de vue moderniste (tout comme elle a abandonné ses aspirations au libéralisme). Elle cherche plutôt à se rassurer en se repliant sur l'historicisme, le romantisme et une forme d'individualisme parodique.
+- # Notes sur l'Abstraction
+  collapsed:: true
+	- Il est temps de cesser de donner du sens, de remplacer l'Histoire par une myriade de théories exagérées de post-, para-, quasi- et super
+		- Histoire a été vaincue par les déterminismes du marché et des nombres, par les processus de réification et d'abstraction. Ceux-ci forment le grand mastodonte de la [[Modernité]] qui a détruit l'Histoire en l'absorbant, en détournant chacun de ses concepts indépendants à son profit.
+	- La pensée [[Marxisme]] a toujours supposé que l'effondrement des prétentions de la culture humaniste donnerait naissance à une réalité plus réactive et cohérente que celle de l'illusionnisme humaniste
+		- Pourtant, derrière le masque de l'humanisme se cachent non pas les vérités du matérialisme, mais les scénarios cauchemardesques de la logique et du déterminisme.
+	- Le capital s'est toujours présenté comme une culture du flux, fondée sur les idées de changement, d'évolution et de développement
+		- Mais le capital est, en réalité, un univers de stagnation, régi par des principes immuables et auto-entretenus qui repoussent progressivement mais incessamment toutes les autres réalités dans un processus de purification toujours croissant
+			- Ironiquement, l'univers du capital pur, caractérisé par le modèle, la vérité numérologique et les relations abstraites, est une sorte de réalisation de la philosophie idéaliste
+				- Or, le monde des essences s'avère dominé non par l'Esprit, mais par la marchandise
+					- Le monde abstrait s'avère être non pas une utopie, mais un lieu d'aliénation et de banalité.
+	- C'est peut-être là le véritable sens de la culture américaine:
+		- L'image de l'immigration par-dessus l'océan, du voyage sur la surface de l'eau.
+			- Ce voyage impliquait un processus d'effacement par lequel, par le passage sur une surface abstraite, la spécificité de l'Europe pouvait se dégager, laissant les lois du capital s'exercer librement.
+	- Dès la Renaissance, certaines caractéristiques structurelles apparaissent dans le capital qui restent inchangées jusqu’à nos jours, tout en subissant un processus continu d’intensification
+	- Si le capital est statique, comment alors expliquer l'apparition du changement en son sein ? Alors que les forces fondamentales du capital demeurent statiques et tendent vers l'établissement de leur hégémonie pure, l'économie d'échelle évolue.
+		- À mesure que la domination du capital s'accroît, le niveau d'aliénation s'intensifie
+			- Le changement dans le capitalisem repose sur deux facteurs
+				- L'augmentation de l'échelle numérique produit une évolution du caractère des institutions
+				- Chaque étape du développement technologique et social repose sur un pas supplémentaire vers l'abstraction
+					- une rupture supplémentaire des liens entre le but à atteindre et la nature matérielle, un rattachement accru de la technologie à la réalité abstraite de la pensée rationnelle
+						- Ainsi, pour reprendre l'exemple des transports, on observe une progression du voilier au bateau à vapeur, puis au sous-marin nucléaire. Dans le développement de la monnaie, on observe la progression de la pièce de métal précieux (à l'effigie du souverain), du papier-monnaie (portant les symboles de l'État) à la carte de crédit en plastique (portant le logo de l'entreprise)
+			- Cette idée d'abstraction progressive combinée à une augmentation numérique progressive pourrait être caractérisée par le terme d'hyperréalisation
+				- L'hyperréalisation est généralement utilisée pour décrire le passage entre la culture industrielle (le réel) et la culture post-industrielle (qui est hyperréelle)
+					- Cependant, on peut tirer de cette chaîne d'événements une séquence qui décrit plus généralement la progression des époques au sein du capital.
+						- Chaque époque devient une hyperréalisation de l'époque précédente, à laquelle est attribuée à son tour la valeur de réalité.
+	- L'utilisation de cette idée d'hyperréalisation est particulièrement utile pour analyser les événements de l'art du XXe siècle.
+		- On peut considérer le [[Cubisme]] comme une hyperréalisation de [[Paul Cézanne]] , ou [[Paul Cézanne]] , d'ailleurs, comme une hyperréalisation de Courbet.
+			- De même, on peut comprendre l' [[Expressionnisme Abstrait Américain]] comme une hyperréalisation du [[Modernisme]] européen d'avant-guerre, ou [[Frank Stella]] comme une hyperréalisation de l' [[Expressionnisme Abstrait Américain]]
+				- Chaque transition reflète un mouvement vers l'abstraction, au sens social du terme, par rapport à la norme antérieure
+					- Ainsi, à chaque étape, la forme devient à la fois plus vide et plus générique.
+	- L'hyperréalisation offre également une alternative utile aux concepts opposés d'influence et d'appropriation
+		- Si l'idée d'influence postule une relation historique et consciente entre une génération d'artistes et la suivante, et si l'appropriation nie des notions telles que les hiérarchies historiques et la possibilité de transformation, l'hyperréalisation implique que des changements culturels se produisent.
+			- Cependant, ces changements échappent à la volonté historique de l'artiste et sont plutôt soumis à l'évolution des conditions sociales.
+				- L'hyperréalisation se distingue en outre de l'idée psychanalytique de « forte méconnaissance », qui implique comme source de changement une lutte œdipienne entre une génération et la suivante
+					- L'hyperréalisation suggère que, indépendamment de l'existence possible de tels conflits œdipiens, le changement générationnel dans la culture est provoqué par des forces sociales déterministes extra-individuelles
+	- L'hyperréalisation contribue également à expliquer la fixation sur « Le Nouveau » qui caractérise cette culture. On dit parfois que le Nouveau est lié au concept de [[L'Originalité]] . Mais le Nouveau est plus profondément lié (comme peut-être le culte de l'originalité lui-même) au processus d'hyperréalisation
+		- Le Nouveau représente l'état hyperréalisé de quelque chose qui l'a précédé
+		  id:: 67df00a2-e733-4791-986c-5c6669f54569
+			- Ainsi, les produits de consommation sont souvent étiquetés « Nouveau » pour leur conférer l'aura de l'hyperréalisation
+			  id:: 67df00b5-83d3-4581-b720-b3626e052bc1
+				- On observe également périodiquement des mouvements culturels appelés New ou New Wave – en musique, en danse ou en littérature (il existe même un Nouvel Humanisme). De telles étiquettes annoncent l'avènement d'un phénomène qui cherche à être perçu comme une hyperréalisation de la norme culturelle antérieure. Le préfixe « pop- » (comme dans pop-culture) fonctionne de manière similaire.
+	- Les hero..ïnes parfaites du mythe de la [[Modernité]] sont la petite bourgeoisie
+	- L'art des années 1970 pensait etre à l'apoge de la culture post-capitalisme
+		- On croyait que la marchandise et son état d'esprit seraient remplacés par la performance et des œuvres in situ.
+			- Mais les années 1970 ne représentaient pas l'épanouissement d'une nouvelle conscience, mais plutôt la dernière expression incandescente du vieil idéalisme de l'autonomie.
+				- Après cela, plus aucun temps ne serait réel, plus aucun travail ne serait vivant, plus aucune expression culturelle ne serait hors du système marchand.
+	- Le capitalisme a transformer le temps en temps marchand ou médiatique, il n'y a plus de mort il y a que les répétitions enchevêtré de séquences
+	- Tout au long de ce siècle, les artistes ont décrit la transformation du corps organique en machine. Le [[Cubisme]] , le [[Futurisme]] et [[Marcel Duchamp]] (dans Le Grand Verre) se sont tous préoccupés de cette éventualité. Les premières œuvres de Robert Smithson sont obsédées par la même idée de la chair se transformant en armure, les appendices organiques en tubes rivetés. [[Andy Warhol]] , bien sûr, disait vouloir être une machine.
+		- Les artistes conceptuels ont poussé cette idée plus loin, créant des œuvres qui se rapprochaient des processus mécaniques.
+			- Roman Opalka est devenu une sorte d'horloge numérique humaine. Sol LeWitt a anticipé le trading de programmes informatiques à Wall Street avec la sculpture de programmes.
+	- Auparavant, seul le corps du travailleur était soumis aux compromis de la machine. Aujourd'hui, le corps social tout entier se soumet volontairement à la même réglementation.
+	- Malgré la contribution de [[Jean Baudrillard]] , il est important de noter que Simulation se présente comme une synthèse des recherches des années 60 et non comme une découverte originale en soi
+		- La contribution essentielle de [[Jean Baudrillard]] réside dans sa description détaillée du fonctionnement d'un système sémiotique sans référent
+	- Ainsi, le social devient enfin le lieu de la « pure abstraction ». Chaque être humain n'est plus seulement un numéro, mais une collection de nombres, chacun le reliant à une matrice d'informations différente.
+	- Avec [[Piet Mondrian]] , toute référence à la spécificité disparaît et le monde est décrit comme une grille utopique de flux et de forces abstraits.
+		- Si [[Piet Mondrian]] a mis l'accent sur la systématisation dans cette situation, l' [[Expressionnisme Abstrait Américain]] reflète l'aliénation engendrée par ce système.
+			- L'espace systématisé se révèle vidé de sens. C'est la réalité par laquelle les espaces vides de [[Mark Rothko]] , par exemple, sont remplis
+				- Ainsi, l'histoire de l'art abstrait est l'histoire d'une véritable progression sociale. C'est l'histoire de l'organisation des espaces compartimentés et des systèmes formels qui composent le monde abstrait.
+- # [[Frank Stella]] et le Simulacre
+  collapsed:: true
+	- Les critique de [[Frank Stella]] place son oeuvre soit
+		- Comme l'apothéose de la peniture moderniste
+			- Matériels dans ses effet inflexible dans sa logique, hérmetique dans sa perspective
+		- Ou alors comme dérision come une impasse désuhamnisée de la peinture. On estime alors que la complexité de la peinture a été éliminée et que les images sont devenu purement graphique.
+			- Il y a une absence de subtilité humaniste, seuls une approche bureaucratique ou administrative de la création persiste
+	- Halley mélange ces deux point pour en faire ni un moderniste ni un bureaucrate, mais que son travail se conforme étroitement à un modèle de [[Post-modernisme]] dominé par les idées d’hyper-réalisation, de simulation, de clôture et de fascination.
+		- Comment l'œuvre de [[Frank Stella]] peut-elle être postmoderne alors que le postmodernisme est une idée qui n'a émergé dans la critique que dans les années 1980 ?
+			- La réponse est que la formulation critique et la diffusion de l'idée de [[Post-modernisme]] ont été bien en retard par rapport à son apparition dans l'art et la culture.
+				- C'est en fait au début des années 1960, époque de l'émergence de [[Frank Stella]] en tant qu'artiste, que les éléments du [[Post-modernisme]] et de son phénomène apparenté, le postindustriel, ont commencé à se mettre en place.
+					- C'est en 1960 qu'on voit l'émergence de la culture informationnelle de l'ordinateur et de l'électronique
+						- Ce qui a engendré les voyages internationaux en avion à grande échelle et les changements que ce phénomène a entraînés dans les relations spatio-temporelles et culturelles
+						- Lesannées 1960 ont vu naître le réseau autoroutier inter-États et le développement associé des villes décentrées de la Sun Belt, fondées sur la circulation automobile
+					- Si les années 60 ont marqué la transition entre les mondes industriel et post-industriel, entre le réel et le simulé, l'art des années 60 a été une réponse à cette situation.
+						- D'un côté, on retrouve dans l'art des années 60 une intense nostalgie pour la culture traditionnelle et industrielle. Les musiciens de rock étaient fascinés par le blues acoustique de la culture ferroviaire des années 20 et par le sitar indien. La mode a adopté les textiles guatémaltèques et les vêtements de l'Ouest américain du XIXe siècle. Mais, parallèlement, on observe une fascination pour la technologie, le simulé et le futuriste, qui se reflète dans des phénomènes tels que le mobilier en plastique moulé, la guitare électrique et le dôme géodésique.
+			- [[Frank Stella]] , vers 1960, peut être considérée comme une réponse à cette même situation. Dans l'œuvre de [[Frank Stella]] , une transition cruciale s'opère entre les peintures noires, encore nostalgiques de l'industriel et du traditionnel, et les peintures aluminium, qui incarnent clairement des éléments du monde hyperréaliste post-industriel.
+				- Les peintures noires restent d'inspiration moderniste. L'application de la peinture, bien que mécanique, est inégale et scintille avec la sensibilité à la lumière présente, par exemple, chez un [[Mark Rothko]]
+					- La couleur noire chatoyante omniprésente relie les peintures au nihilisme et à l'existentialisme des années 1950.
+				- Dans les peintures Aluminium, une conscience totalement différente est posée. La peinture est désormais appliquée uniformément, les bandes séparées par des lignes scotchées. L'effet est saisissant, voire science-fictionnel.
+					- La peinture n'est pas seulement métallique : c'est de l'aluminium, un métal technologique contemporain associé à la légèreté, à l'efficacité et aux applications commerciales.
+						- Les configurations ont presque totalement perdu leur caractère associatif traditionnel
+							- Les bandes sont comme les voies d'une autoroute ; ce sont des bandes de mouvement ou de circulation. De plus, les bandes sont invariables et inflexibles. Elles remplissent l'espace uniformément et neutrement, devenant des substituts de l'activité du tableau et des incidents et images picturaux.
+						- Les zones découpées des peintures Aluminium ont également une fonction importante. Ces voies de mouvement, ces conduits de circulation, ne sont plus perçus sur un arrière-plan comme dans un [[Piet Mondrian]]
+				- La série ((67791120-ee30-49dd-907e-3d26337bd1b2)) introduit un nouveau niveau d'intensité simulée grâce à l'utilisation par [[Frank Stella]] de pigments violets métalliques
+					- Leurs configurations – triangles, parallélogrammes et pentagones où les bandes forment un circuit continu – définissent également une situation de fermeture et de circularité où les lignes se succèdent sans début ni fin.
+				- Dans la série V, les bandes semblent se déplacer à une vitesse nouvelle, plus proche de l'électricité circulant dans un microprocesseur que de simples automobiles sur une autoroute.
+					- ((677911e5-05ce-4d65-a804-b739af22f21b))
+				- Dans la série Moroccan, la peinture Day-Glo est introduite. La couleur elle-même n'est pas remplacée par son équivalent simulé hyperréalisé
+					- ((67791184-f588-467b-ab20-fe0466786e44))
+					- Le thème de la culture non occidentale réapparaît de manière postmoderne. Il n'y a plus aucune possibilité d'influence réelle d'une sensibilité non occidentale dans cet art. Au contraire, dans ces peintures, comme dans le phénomène des « Super Graphismes », la culture marocaine est déracinée et réduite à ses signes les plus facilement reproductibles. Une culture entière est reproduite par des procédés simples de couleurs vives et de motifs répétitifs en diagonale. L'enfermement de toutes les autres réalités par l'hyperréel est total.
+	- [[Frank Stella]] a hyperréalisé les moyens qu'il employait.
+		- Il n'utilisait que des pigments et des peintures high-tech synthétiques. Ses châssis profonds, ses formats sculptés et son échelle extra-humaine semblent également hyperréaliser le tableau en tant qu'objet : ils sont repoussés plus loin du mur qu'un « vrai » tableau ; leurs formes sont plus grandes et plus agressives.
+	- L'utilisation par [[Frank Stella]] de séries pour passer d'un groupe de tableaux à l'autre est importante.
+		- Les artistes ont souvent travaillé par séries, mais chez [[Frank Stella]] , il n'y a pas d'évolution progressive d'un tableau à l'autre, une série émergeant de la suivante.
+			- Les séries s'enchaînent à intervalles quasi annuels, comme des maquettes de voitures de Détroit.
+				- De plus, au sein de la série, il n'y a pas d'original moderniste sur lequel les autres œuvres s'appuient. Au contraire, les configurations de la série entière étaient définies à l'avance. L'identité de chaque tableau reposait sur son appartenance à la série.
+				- L'exposition de ces tableaux en séries complètes hyperréalisait l'idée moderniste de l' [[Exposition]] d'art. Aucune evolution n'est possible.
+					- Il n'y avait pas de grandes peintures importantes ni de plus petites peintures intimistes
+	- En 1967, avec la série *Protractor*, l'œuvre de [[Frank Stella]] s'inscrivait encore plus profondément dans l'univers de la simulation.
+		- ((677915c5-e98a-4b28-8909-b06927e37411))
+			- Jusqu'en 1967, les peintures de [[Frank Stella]] pouvaient encore être lues littéralement, comme des aplats de peinture sur toile, sans illusion ni ambiguïté. Mais dans la série *Protractor*, cet espace littéraliste, toujours moderniste, disparaît et est remplacé par l'espace contradictoire, théâtral et séduisant du Simulacre
+				- Il n'y a aucune recherche d'unité des indices spatiaux. Les signes spatiaux s'additionnent plutôt – ils se combinent pour produire un effet aussi intense que possible. Nous quittons ici l'espace moderne unifié de la raison pour entrer dans un espace postmoderne dont le but est de séduire.
+					- Avec la série *Protractor*, [[Frank Stella]] franchit la dernière étape du monde moderne de l'idéal vers le monde postmoderne, où le modèle prime sur tout.
+						- C'est la fin de ses peintures réalisées uniquement à la peinture sur toile, 
+						  tandis que débute son utilisation d'effets spatiaux et coloristiques additifs pour créer la surcharge visuelle qui a caractérisé son travail en relief métallique
+		- ((677a7b44-b3ef-4b54-a36d-3e15c9589042))
+			- Dans cette œuvre, nous sommes dans un monde où l'espace est spectaculaire mais n'a plus de sens, où tout est agencé pour maximiser l'effet, où, comme à Disneyworld, à Las Vegas ou au centre commercial, tout est agencé pour attirer, séduire et émerveiller.
+			- La couleur brillante et complexe n'a d'autre but que de créer l'effet de couleur. De même, la composition ne sert qu'à établir les idées de mouvement et d'attraction. L'ensemble des œuvres devient une simulation hyperréaliste et neutre de la peinture.
+				- Les seules références extérieures à l'œuvre renvoient à l'univers du Simulacre. L'aluminium alvéolaire et le magnésium gravé évoquent l'univers post-industriel des métaux ultra-légers et des circuits imprimés
+	- Comment peut-il en être ainsi alors que [[Frank Stella]] lui-même exprime des préoccupations si différentes pour son propre travail ? C'est possible car, dans le contexte postmoderne, l'artiste n'a pas nécessairement le même degré de conscience de soi que celui qui caractérisait le [[Modernisme]].
+		- Nous pouvons le voir jouer le rôle d'un artiste moderniste pour un public postmoderne, et nous pouvons voir son œuvre comme une hyperréalisation du modernisme.
+			- On peut aussi le voir si fermement ancré dans le Simulacre qu'il n'en a aucune conscience (contrairement à [[Andy Warhol]] , qui, durant les années 60, faisait constamment allusion à sa conscience de cette question – bien que ce soit peut-être la raison pour laquelle il n'ait pas pu soutenir sa critique)

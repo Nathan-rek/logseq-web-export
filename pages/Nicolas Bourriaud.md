@@ -1,0 +1,178 @@
+## Glossaire
+	- Semionaute: L'artiste contemporain est un sémionaute, il invente des trajectoire entre des signes
+	  id:: 661023c8-dea0-40a1-a795-c895454b81ad
+		- Navigue entre les signes, quelle chemin à été parcouru pour parvenir à cette forme
+	- Relationnel (art) : Des pratiques qui prennent pour point de départ ,théorique et ou pratique, la sphère des rapport humains […] et  les interactions humaines dans leur contexte social plutôt qu’un espace symbolique autonome et privé
+	- Forme: Unité structurelle imitant un monde. La pratique artistique consiste à créer une forme susceptible de "durer", en faisant se rencontrer sur un plan cohérent des entités hétérogènes, afin de produire une rapport au monde
+- # Postproduction
+  id:: 67af683a-f5cd-43f4-adfe-88a3b2c87eb0
+	- Ecrit en 2002 par Nicolas Bourriaud
+	- Les artistes sont les technicien..nes qualifié..es de la postproduction
+	- La culture comme scénario comment l'art reprogramme le monde contemporain
+	- Le réemploie de forme  ]) dans un régime de postproduction met à la mal production et consommation.
+		- Le matériaux brut n'est plus la base ce sont des matériaux déjà informées
+	- Postproduction prend le contre-pied de [[Esthétique Relationnelle]] il reprend le point de départ de l'arrivé du réseaux numérique comme bouleversement paradigmatique mais contrairement à l' [[Esthétique Relationnelle]] il ne prend pas ce bouleversement comme engrais à de nouvelles pratiques relationnelles mais comment déchiffrer ce nouveau paysage
+	- ### Reprogrammer des œuvres
+		- Mike Kelley, Paul McCarthy: *Fresh Acconci*, 1995 ![Mike Kelley, Paul McCarthy | Fresh Acconci | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/34267/2012_11_still.jpeg)
+			- Réactive des œuvres passées, ils font rejouer la performance de Vito Acconci par des mannequins.
+			- Le re-enactement comme un moyen de post produire
+		- [[Pierre Huyghe]] : [*Conical Intersect*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cEzLKe), 1997 ![Light Conical Intersect, Event, Paris - Centre Pompidou](https://www.centrepompidou.fr/media/picture/ca/b2/cab2ab8ba47d653b7b569b983bd83bc4/thumb_large.jpg)
+			- [[Pierre Huyghe]]  projette un film de Gordon Matta-clark sur les lieux de tournage de se film
+	- ### Habiter des styles
+		- [[Felix Gonzalez-Torres]] utilise le vocabulaire de l'art [[Minimalisme]] en les recodant par ses propres intérêts politiques ((65d3770e-1a25-4ab3-8402-a7762f5b422d))
+		- Maurizio Catellan: [*Sans Titre*](https://www.artnet.com/artists/maurizio-cattelan/sans-titre-zorro-1997-vIIcZACXAzy5OlsWNQ73jg2), 1997 ![SANS TITRE ZORRO, 1997 by Maurizio Cattelan on artnet](https://www.artnet.com/WebServices/images/ll00073lldZkVJFgp2qCfDrCWvaHBOcE2UF/maurizio-cattelan-sans-titre-(zorro),-1997.jpg)
+			- Repeint le Z de Zoro mais dans le style de Lucio Fontana
+	- ### Usage de l'image
+		- Angela Bulloch redouble le film Solaris de Tarkovsky
+		- Douglas Gordon: [*24 hours Psycho*](https://en.wikipedia.org/wiki/24_Hour_Psycho), 1997 ![Douglas Gordon | Gagosian Quarterly](https://gagosian.com/media/images/quarterly/douglas-gordon/PpFOU8husBGl_585x1170.jpg)
+			- Ralenti le film de Hitchkok pour qu'il fasse 24 heures
+	- ### La société comme répertoire de Formes
+		- [[Michel Majerus]] emploi la technique du sampling à travers ses compostions picturales
+			- [[Michel Majerus]]: [*overdose*](https://matthewmarks.com/exhibitions/michel-majerus-11-2015/lightbox/works/overdose-1997-39129), 1997 ![Michel Majerus at Matthew Marks, Los Angeles](https://www.we-heart.com/upload-images/michelmajerusmarksgallery1.jpg)
+		- Daniel Pflumm, [*IKEA*](https://greenenaftaligallery.com/artists/daniel-pflumm), 1999 ![](https://gngallery.nyc3.cdn.digitaloceanspaces.com/media/DP1.jpeg)
+			- Reprend des formes issus des nouveaux paysages de forme pour en faire des sculptures
+	- ### Investir les médias et la mode
+		- Vanessa Beecroft croise la performance et le shooting photo de la mode
+			- Vanessa Beecroft: [*VB16*](https://www.sothebys.com/en/buy/auction/2022/contemporary-discoveries-9/vb-16-performance-detail-deitch-projects-new-york) ![](https://www.artwiki.fr/wp-content/uploads/2023/02/VB16_VANESSA_BEECROFT_WP.jpg.webp)
+		- Toutes ces pratiques ont recourent à des formes déjà produites
+			- L'œuvre s'inscrit directement dans un réseau de signe et quitte son autonomie
+			- L'oeuvre doit s'initier du milieu ce n'est plus " *que faire de nouveau ?* " mais " *que faire avec ?* "
+				- Créer de la singularité
+		- *" Tout œuvres est issue d'un scenario que l'artiste projette sur la culture, considérée comme le cadre d'un récit - qui projette a son tour de nouveaux scénario possible "*
+		- Le sens peut être celui de l'usage qu'on en fait autant que celui de l'artiste
+			- Un communisme formelle
+	- ### De [[Marcel Duchamp]] à [[Jeff Koons]]
+		- Le [[Ready-made]] aurait comme vertu de mettre à égalité choisir et fabriquer, consommer et produire
+		- Dans les années 60 le regard sur la consommation est diffèrent [[Andy Warhol]] s'intéresse à ce qui pousse à l'achat, à l'avant et les nouveaux réalistes comme [[Daniel Spoerri]] s'intéresse aux reliques de la consommation (archéologie de la consommation)
+			- L'idée est d'en dégager une matière iconographique
+			- Ces thématiques évolueront vers le [[Simulationisme]] avec un jeu sémiologique des ces neo-formes
+				- [[Jeff Koons]] est convecteur de désire il prend le rôle du marqueteur et crée l'objet du désire en le situant dans des dispositifs qui lui ajoute cette valeurs
+					- ((653ee431-a669-4d87-99a6-fc6d40151326))
+	- ### Le marché aux puces, forme dominantes de l'art des années 1990
+		- La transition entre les années 1980 et 1990 pour [[Nicolas Bourriaud]] peut s'illustrer entre le passage d'une vitrine de magasin ([[Jeff Koons]]) a un stand au marché aux puces (Rikrit Tiravanija)
+			- Un système formel s'est substitué à un autre
+			- Le marché reste une forme et une référence omniprésente dans l'art
+				- Dan Cameron remploi l'opposition *cru et cuit* de Claude Lévi Strauss dans son exposition en présentant des artistes qui proposent des œuvres avec des matériaux transformées (cuit) et d'autres proposent des œuvres qui préservent l'aspect singulier de ces matériaux original (cru)
+					- Le marché et le lieu de cette crudité
+					- La masse chaotique du marche et de l'étalage résonne avec le paysage contemporain et son impossibilité de centre
+						- Surais Kusolwong: [*NT$20 (chaos Minimal)*](https://onarto.com/surasi-kusolwongs-performative-installations-on-consumerism-and-the-economy/) ![Surasi Kusolwong - Acclaimed Performative Installation Artist](https://onarto.com/wp-content/uploads/2016/01/Surasi-Kusolwong-%E2%80%93-Acclaimed-Performative-Installation-Artist-06.jpg)
+						- Par le biais de transaction de micro économie et met en scène les relations interhumaines via la transaction
+	- ### Figure du DJ
+		- Avec les déclarations de Guy Deborg soutenu par [[International situationnistes]] le principes de détournement artistique prend formes
+			- Un [[Ready-made]]-réciproque comme les appelles [[Marcel Duchamp]] en disant utiliser un Rembrant en planche à repasser
+				- Le détournement n'est pas une négation de style mais un style de négation
+					- Considère les œuvres comme fessant parti d'un décor dans lequel l'on peut piocher des éléments
+			- Contrairement aux artistes de la postproduction le..a situationnistes cherchent à changer la valeur des œuvres qu'i..elles prennent en corrompant la valeur de l'œuvre détournée
+		- L'interstice entre production et consommation rétrécit
+		- Le producteur tend vers l'émetteur
+		- Mike Kelley: Framed & Frame https://i.guim.co.uk/img/media/fcab233a102463516e43b87d39ffeba2e3a3ee7e/0_207_2835_1701/master/2835.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3908ceccf658fc227df2c6ad5c987fd9
+			- Utiliser les formes pour faire de l'informe
+			- Notre société marche par décontextualisation décrochage, racolage, greffes, transplantations
+				- Le cadre devient marqueur il design ce qu'il faut regarder il fait un détourage et crée un objet objet et un vertige, celui du non référencé
+				- La haute culture ce base sur le socle et le cadre pour encoder les moyens de présenter l'objets à l'inverse la culture populaire elle est exaltée par le hors limites, la transgression.
+				- Kelley organise des cours circuits entre ces deux manières d'êtres
+					- La décontextualisation se présente comme motif de cette pratique. Cela peur permettre de crée des formes en tant qu'outils cognitif car libérés de leur conditionnement originel.
+					- Mike Kelley: [*Garbage Drawing*](https://www.moma.org/collection/works/96315), 1988 https://www.marcjancou.com/custom/media/cache/resolve/enlarge/5ca28a44a5aa2c9e4b8b4567/e5c648c4d3ff555924620e0ff6faeeb6.jpeg
+						- Il décontextualise un dessin issu de commis le frame de sont autour et en fait un dessin presque abstrait car non référencé.
+	- ### La forme comme scénario
+		- Les formes qui nous entoures sont les matérialisations des récits/scripts d'un capitalisme tardif (scripte nos manières d'être au loisir, travail, amour...) ((661023c8-2b1a-4d95-9cf5-afd42ddbb0f2))
+		- L'artiste de la postproduction utilise ses formes non pas pour les affirmer mais pour les présenter comme des structures possiblement altérable et ré-agensable.
+			- Il essaie de quitter le régime de ses scénarios collectifs
+		- Rikrit Tiravanija permet de rompre la différence de geste du..la regardeur..euse et de l'artiste
+			- Rikrit Tiravanija: *Untitled (One revolution per minute)*, 1996 https://www.leconsortium.fr/sites/default/files/styles/slide_wide/public/TIRAVANIJA%20R%201996%2050_0.jpg?h=4d3ee5e8&itok=RhWa1oLG
+	- ### L'usage du monde
+		- L' [[Exposition]] devient un lieu de production et non une happy end comme le dit [[Philippe Parreno]]
+			- [[Ozone]]
+			- Dans [*Les atelier du paradises*](http://www.airdeparis.com/exhibitions/paradise.htm) à Air de Paris Pierre Joseph et [[Philippe Parreno]] habitent l'espace lors de l'exposition et suive un programme lors de la semaine.
+				- Les spectateur..ices sont invité..es à porter des t-shirt permettent à la réalisatrice Marion Vernoux de rediriger l'exposition en temps réelle grâce à ce jeu d'identité
+		- L'espace de la galerie n'est plus comme pour les artistes conceptuelle de la [[Critique institutionnelle]] un lieu à questionner dans le but de questionner un système idéologiques plus grand.
+			- Certain..es artistes ayant plutôt tendu vers une annihilation de ces lieu ou vers une désacralisation ou une disjonction
+				- Gordon Matta-Clark: [*Descending Step*](https://www.amc-archi.com/photos/derniers-jours-de-la-retrospective-gordon-matta-clark-au-musee-du-jeu-de-paume,8704/harry-gruyaert-gordon-matta-cl.6): ![Harry Gruyaert Gordon Matta Clark (en reflet) travaillant à Descending  Steps for Batan et Yvon Lambert, Galerie Yvon Lambert, Paris, 1977](https://www.amc-archi.com/mediatheque/2/2/4/000041422_large/harry-gruyaert-gordon-matta-clark-reflet.jpg)
+					- Perce le sol de la galerie Yvon Lombert
+			- Pour ces artistes il s'agit plus de situer ces espaces à l'intérieur des systèmes de production avec lesquelles les relations s'établissent
+				- La galerie est un lieu comme un autre imbriqué dans un mécanisme globale
+		- Le travail de [[Philippe Parreno]] part du principe que la réalité est structuré comme un langage et que l'art permet d'articuler ce langage
+			- Il expose l'inconscient de la production humaine et l'élève au statut d'un matériau de construction
+	- ### L'esthétique après mp3
+		- Dans les années soixante le couple production industrielle et consommation de masse sont a leur apogées.
+			- Que ce soit avec le [[Pop-Art]] et ses techniques de reproduction: sérigraphie, ben day...
+			- Ou le [[Minimalisme]] et ces productions en acier, aluminium, tôle...
+			- Et [[Art Conceptuel]] marque une esthétique contractuelle qui fond avec l'arrive brutale du service tertiaire.
+				- [[Art & Language]]: [*Index 01*](https://fr.wikipedia.org/wiki/Index_01), 1972 ![Index 01 — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/9/91/Art_%26_language_documenta_5_index_01.jpg)
+				- Des œuvres qui commence à approcher les notions de data de stockage, des opérations qui seront la base de la culture computationnelle qui apparait petit à petit dans ses années.
+- # Alter-[[Modernité]]
+	- Le terme a été inventé par Nicolas Bourriaud à l'occasion de la [Tate Triennial](https://www.tate.org.uk/whats-on/tate-britain/altermodern) en 2009.
+	- Altermodern est contre la standardisation et la massification culturelles, mais également contre les nationalismes et le relativisme culturel. Les artistes altermodernes se positionnent au sein des écarts culturels du monde. La traduction culturelle, le nomadisme mental et le croisement des formats sont les grands principes de l'art altermoderne.
+	- Considérant le temps comme une multiplicité plutôt que comme un progrès linéaire, l'artiste altermoderne navigue dans l'histoire ainsi que dans tous les fuseaux horaires planétaires produisant des liens entre des signes éloignés les uns des autres. Altermodern est « docufictionnel » dans le sens où il explore le passé et le présent pour créer des chemins originaux où les frontières entre fiction et documentaire sont floues.
+	- Formellement parlant, il privilégie les processus et les formes dynamiques aux objets uniques unidimensionnels et les trajectoires aux masses statiques.
+	- L' ((66e7f1c5-bdbc-4c3a-9bf5-f81585ae508e)) a permis de produit des choses qui touchent plus à une vison de l'histoire humaine en affirmant et utilisant de multiples temporalités.
+		- C'est de cette variation de temporalité que l'alter-modernité prend formes.
+	- [Altermodern](https://www.tate.org.uk/press/press-releases/altermodern-tate-triennial-2009) est la 4ème Triennale du [Tate](https://www.tate.org.uk/) la Tate Triennal 2009.
+		- Nicolas Bourriaud est le commissaire de cette Triennal est axe l'exposition autour de son concept d'Alter-modernité .
+			- Un concept qui tout comme la [[Modernité]] et la [[Post-Modernité]] serait un temps donné dans laquelle les choses se déroulent en rupture avec le temps, l'alter-modernité dépasse ces temps
+				- Depasse l'universalisme de [[Post-Modernité]]
+					- En 1989, le centre Georges-Pompidou et la grande halle de la Villette proposent une exposition “[*Magiciens de la terre*](https://www.centrepompidou.fr/fr/programme/agenda/evenement/cTEXnL)”, qui expose 101 artistes qui ne sont pas occidentaux..les ou qui sont orienté..es hors occident, en les exposant sans jugement hiérarchique.
+	- Dans cette exposition il y met un intérêt dans la contextualisation qui parfois présente des biais d'interprétation des signes qui sont à dépasser.
+	- L'exposition se décline en 8 thématiques explorant des principes liées à l'idée du déplacement, du voyage.
+		- ## Borders
+			- Le monde contemporain vu comme réseau se définit plus comme une archipel interconnectée que comme des entité scindée.
+				- Les frontières sont donc franchissables que ce soit à travers les formes et les traditions artistiques
+				- [[Seth Price]] : [*Untitled*](http://www.distributedhistory.com/NewmanOnPrice.pdf), 2008 ![SETH PRICE | UNTITLED | Contemporary Art Online | New York | 2019 |  Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/fbc33fd/2147483647/strip/true/crop/1815x2000+0+0/resize/385x424!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffd%2F99%2Fecaa49484a1d90d5ed59fb65b902%2F250n10168-b6gqn-0000-v1.jpg){:height 504, :width 450}
+					- Des topographies suggestives issus de forme et de silhouette provenant d'internet
+				- Pasacale Marthine Tayou: Private Collection, Year 3000, 2008 ![Pascale Marthine Tayou: something Universal - The Art Momentum](https://theartmomentum.com/wp-content/uploads/2019/02/Pascale-Marthine-Tayou_Poup%C3%A9e-Pascale_series-2016_Crystal_mixed-media_70-cm_-Courtesy-the-artist-and-GALLERIA-CONTINUA_Photo_Ela-Bialkowska_OKNO-Studio-2.jpg)
+					- Private Collection est une observation des formes passées et présentes qui restent à découvrir. Ces "pierres" sont fabriquées à partir des plastiques, silicones. Elles agissent comme des preuves de notre culture du 21e siècle, anticipant un projet archéologique anachronique sur la désignation et l'origine des objets. Lorsque les gens de demain découvriront les pierres, que penseront ils de nous et de qui nous étions ? Pratique qui jouerai d'une Heterochronie Futur
+		- ## Archive
+			- L'histoire devient un territoire qui n'as pas encore ete carthographié. Elle reste une terre inconnue que les artistes explorent
+				- Ruth Ewan: [*Squeezbox Juke-box*](http://search.it.online.fr/BIGart/?p=796), 2009 https://i.pinimg.com/originals/4f/1c/79/4f1c798ce7f71b7c8d915bb821e80848.jpg
+					- Deux bénévoles jouent une sélection de chanson des archives de Ruth Ewan
+		- ## Docu-fiction
+			- La vérité et la fiction se fonde
+				- Ils superposent des archives et des documents historiques avec des informations personnelles
+		- ## Viatorisation
+			- Le Noir et blanc consitue un élément ambivalent
+				- Etant un effet du passé marqueur d'un temps
+			- L'image peut etre vu comme un élément orchestré par une naration.
+				- Pour François Truffaut les railles naratif organise le passage des images
+			- Walead Beshty: [*Transparency (positive) Fuji provia Color Film: October 19 - october 21, 2007 ORD/LAX LAX:ORD*](https://www.sothebys.com/en/buy/auction/2020/contemporary-art/walead-beshty-transparency-positive-fuji-provia?locale=fr), 2010 ![WALEAD BESHTY | TRANSPARENCY (POSITIVE) [FUJI PROVIA 100F: APRIL 25 - 27,  2010 LAX/JFK BOS/SFO SFO/LAX] | Contemporary Art | 2020 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/9766ed3/2147483647/strip/true/crop/1581x2000+0+0/resize/385x487!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffb%2F95%2Fb87fc7574d94912180627006809e%2F492n10430-bn6zj.jpg)
+				- Il expose des pellicules photo passées au Rayon X lors de voyage
+			- Walead Beshty: FedEx Sculpture ![Walead Beshty Turns Shipped Glass Boxes Into Shattered Sculptures.](https://assets.yellowtrace.com.au/wp-content/uploads/2017/02/FedEx-Works-by-Walead-Beshty-Shipped-Glass-Boxes-Become-Shattered-Sculptures-Yellowtrace-09.jpg)
+		- ## Energy
+		- ## Travel
+		- ## Exilés
+			- L'idée de l'origine est mythifié et pousse à une interprétation de l'œuvre comme dépendant d'un contexte social de sa production.
+			- Via l'augmentation de l'exil géographique forcée et volontaire ou du nomadisme et la mondialisation des biens
+				- La notion de culture, l'idée d'origine et d'immigration sont remise en question
+			- Navin Rawanchaikul: [*Places of Rebirth*](https://www.guggenheim.org/artwork/31233), 2009 ![Navin Rawanchaikul | Places of Rebirth | The Guggenheim Museums and  Foundation](https://www.guggenheim.org/wp-content/uploads/2009/01/2012.159_cu_web_1-1.jpg)
+				- L'artiste décrit sa première visite au Pakistan (lieu de naissance de ses ancêtres)
+					- La nature fluide des migrations se traduit souvent par des échanges et des adaptations de cultures, conférant à ses participant..es une identité transgéographique
+		- ## Heterochronie
+			- L'heterochronie qui se disloque en racine latine comme temps différent, autre est un terme que Bourriaud utilise pour décrire des travaux d'artistes qui seraient difficilement ancrés dans un temps précis.
+				- Il souhaite quitter la linéarité des métarécits de la [[Modernité]] où les boucles de la [[Post-Modernité]] mais de tracer des liens et des connexions dans l'espace et le temps. A travers un regroupement de signe contemporains et historiques qui nous permettent d'explorer ce qui est maintenant.
+					- Certain..es artistes de la [[Modernité]] usait d'anachronisme comme
+						- [[Marcel Duchamp]] : [*Étant Donnés*](https://www.centrepompidou.fr/fr/ressources/oeuvre/c9nb5L5), 1946-1966 ![Etant donnés 1° La chute d'eau 2° Le gaz d'éclairage - Centre Pompidou](https://www.centrepompidou.fr/media/picture/65/9d/659d1ebf08bd5e289f8be642b2ec02a5/thumb_large.jpg)
+						  id:: 67af703b-6f54-46d8-855e-6c3d5f9a340a
+						-
+			- L'esthétique hétérochrone se caractérise par le manque de signe évident de la contemporanéité. Sauf le processus de réalisation.
+				- Charles Avery: [*Aleph Null Head*](https://www.a-n.co.uk/media/521415/), 2009 [Instalation and Drawing] ![Aleph Null Head' 2008 and 'Installation of drawings' 2009 - a-n The Artists  Information Company](https://static.a-n.co.uk/wp-content/uploads/2009/04/521415.jpg)
+					- Les dessins et les modes de constituions ne sont pas contemporain mais sa représentation l'est
+				- Matthieu Darbyshire: [*Palais*](https://www.frieze.com/article/signs-times), 2009 ![Signs of the Times | Frieze](https://static.frieze.com/files/inline-images/editorial-articles-darbyshire2.jpeg)
+					- Revisite de façon hétérochrone le notion de palais. Notion chronologiquement transversal dont les signes sont hétérochrone
+			- Ce qui rend l'œuvre hétérochrone c'est quelle rassemble des éléments hétérochroniques. Le retard cohabite avec l'immédiat.
+				- Le documentaire cohabite avec la fiction, non selon un principe d'accumulation, mais dans le but de révéler notre présent, dans lequel s'entremêlent temporalités et niveaux de réalité.
+			- Des propositions artistiques qui explorent le temps à travers la désorientation dans différents présents
+		-
+- # Radicant
+  id:: 67af8325-1638-4395-9441-36a60cf423af
+	- Ecrit de Nicolas Bourriaud: *Radicant: Pour une esthétique de la globalisation*
+		- Logique de [[Déterritorialisation]]
+	- Tout les formes de l'art peuvent nous aider à mieux circuler dans un monde de circulations, de globalisations
+		- *Les artistes, sous n'importe quelle latitude, ont aujourd'hui pour tâche d'envisager ce que serait la première* *culture véritablement mondiale,*
+	- Le terme Radicant vient d'un terme de biologies
+		- Il inverse se mouvement a la racine mais parle d'une plante radicant une plante qui déplace ses racine en fonction du milieux
+			- On se trouve dans un mouvement un itinéraire de développement
+			- Les identités sont pluriel et la rupture avec la racine original n'est pas un problèmes
+	- Ses trajectoires composées par trajets sont liées à notre paysages culturels
+		- Le web-surfing, est une forme d'itinéraire, nous sommes une culture habitué au voyage rapides
+			- Composition par trajet, la culture comme un hypertexte
+	- Renvoi à une ((6745e9c6-db9f-490a-840b-7bf2b0ab9720)) de [[Edouard Glissant]] , à une pensée rhizomatique de [[Gilles Deleuze]]
+	- [[Simon Starling]]

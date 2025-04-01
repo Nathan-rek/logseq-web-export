@@ -1,0 +1,13 @@
+- Le [[Futurisme]] se développe aussi en Russie avec Davidovich Burliuk qui en rédige un manifeste
+	- Adopte les principes du manifeste [[Futurisme]]
+- Prônant la modernisation et la culture du rajeunissement
+- Orienter vers les réalités sociales russes de l’après première guerre
+- De nombreuse femmes forment le mouvement
+	- Nathalie Gontcharova
+		- ((661023c4-057d-47b4-9f3b-98c710c2d2df))
+	- Lioubov Popova
+- Son influence c’est étendu plus tard dans le cinéma et les formes graphique de la propagande russe
+- Suit notamment les manifestes de l’art des bruit de Ruissolo
+	- Arseny Avraamov: [*Symphonie pour sirène*](https://jan-m.org/symphony-of-sirens/), 1922
+		- Commémore une révolution social a travers une œuvre social qui ferait participer tout le monde
+			- A travers une œuvre de bruit où les éléments de la ville joue en simultané

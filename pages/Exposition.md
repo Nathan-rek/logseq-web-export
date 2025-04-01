@@ -1,0 +1,233 @@
+- Volume – espace - exposition
+- ## [[Cabinet de curiosité]]
+  id:: 6783bb7d-9dff-4250-9249-366375433b37
+- ## Sculpture et exposition
+  collapsed:: true
+	- La sculpture moderne essaie de mettre à mal l’esthétique de la sculpture classique, le socle incarne cette autonomisation perspective du volume dans l’espace.
+	- Les sculpteur..ices modernes mettent à mal cette automatisation:
+	- Rodin, [*Le Balzhac*](https://www.musee-rodin.fr/ressources/focus-sur-oeuvre/balzac) https://www.musee-rodin.fr/sites/default/files/styles/carrousel/public/2021-01/2017_05_12_jardin_jm005.jpg?itok=V2Nf_yNl
+		- Le pied de la sculpture sort du socle, il interfère avec l’espace.
+		- Début d’une relation entre [[Photographie]] et sculpture avec Rodin
+			- Début compliqué mais qui petit à petit prend vie notamment avec l’exposition des photographies de Eugène Druet lors de l’exposition de Rodin. Il vient à dégager une affinité technico esthétique.
+	- Brancusi: [*l’oiseau dans l’espace*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cbLy4oX), 1941 ![L'Oiseau dans l'espace - Centre Pompidou](https://www.centrepompidou.fr/media/picture/f1/94/f19492dd834eacbfef4171db5df82fb5/thumb_large.jpg){:height 32, :width 450}
+		- irradie l’espace de lumière, ouvre l’interaction entre l’espace et le volume, intégrer l’espace négatif comme une matrice positif.
+		- Une manière d’agir qu’il expérimentera avec la photo allant à utiliser tout les aspects de la photo (sur-impression-sur-exposition etc…) Démarche expérimental qui porte notamment sur la conception et la relation positif négatif dans la photo et dans la sculpture
+	- Giacometti: sculpteur surréaliste, il présente son œuvre à travers un texte illustré d’une photo de Man Ray, dans son atelier , il élimine le socle.
+		- L’académie de la grandes chaumière: une série de cours de dessin organisés par Bourdelle( pense l’organisation du corps dans une relation entre l’énergie interne du cors et ce qui est au-delà, l’espace ), les dessins de Giacometti durant les cours sont gardés et enregistrés.
+		- La photo permet de mettre en valeur
+	- Le [[Surréalisme]] est séparé entre André Breton avec les notions de l’écriture automatique le rapport à l’inconscient etc... Et d’autre par la frange George Bataille qui s’axe autour de Revue Document notions de bas dialectique des écarts une tension entre un registre verticale rationnel et un registre pulsionnelle horizontal vers le bas. La Revue Document active les principes dialectiques des écarts entre raison et pulsion. C’est cette tension verticale qui élimine le socle et vient offrir une vision horizontal de la forme dans l’espace.
+	- Les dispositions des éléments de sculpture remettent en question le medium de la sculpture.
+	- Un processus d’ébauche de la sculpture un processus qui se rapproche de l’écriture automatique pratique par les surréaliste. Là où la sculpture est habité à un travail proche d’une anamnèse avec un retour sur image permanent
+	- Merzbau est un principe d’exposition qui est en évolution constante
+	- [[Marcel Duchamp]] : exposition qui ne mette pas en place les conditions pour exposer, permet de faire l’exposition un espace, en voyant moins on crée un désir de voir,
+		- Pour l’exposition ((653fa23b-071c-4394-90a3-969e41755b3f)) , il vient à étendre des cordes qui empêche de rentre en contact de manière direct avec l’œuvre. Ou encore demande a des enfant de faire du bruit. Il s’agit de mettre en tension le rapport de visibilité et le désir.
+- ##  Phénomènes des "zoo humains"
+  collapsed:: true
+	- Mise en scène de peuple avec la création de zone "villages", en plein expansion coloniales
+	- Philas Taylor Barnum crée au USA un spectacle présentant des curiosités et crée l'idée du zoo humains, il fait des ces expositions un spectacle itinérant et crée le modèle du *zoo humains*.
+	- Début du spectacle de l'autre:
+		- En 1654 on présente des esquimaux au roi de Suède
+		- En 1774 James Cook revient en Angleterre accompagné d'un tahitien Omaï qui va être à la base du mythe du bon sauvage
+	- Plusieurs personnes décède du aux intempéries lors de ces expositions
+	- Une femme Saartjie Baartman appelée la "Hottentot Venus" va être exposer lors de freaks show comme phénomènes de foires. Après sa mort elle sera exposé à Londres sous vitrine
+		- Aujourd’hui considérée comme l’incarnation de l’exploitation coloniale et du racisme, du ridicule et de la marchandisation du corps noir.
+			- Son cerveau, son squelette et ses organes sexuels vont rester visibles au Musée de l’Homme à Paris jusqu'en 1974.
+			- En 2002 ses restes seront rapatrie en Afrique du Sud pour y être enterrés
+				- Forme d'hypocrisie entre une conception religieuse et une religion scientifiques.
+	- Carl Hagenbeck un directeur de cirque et revendeur d’animaux sauvages invente à Hambourg la formule des **villages exotiques**. Il propose des expositions style zoo humains où l'exotisme est domestiqué, présente des tranches de vies de ces modes de vies exotiques.
+		- Il présente des hommes et des animaux en présence de végétations comme mise en scène de spectacles ethnographiques. Entreprise commercial qui mêle intérêt scientifique exotisme et anthropologies.
+		- Le succès est tel que le modèle s’exportera et sera imité dans toute l’Europe.
+	- En 1820 Londres voit défiler des spectacles d'Indiens de Lapons, d'Esquimaux au cotés des freaks show.
+	- Il y a aujourd'hui une marchandisation par des personnes blanches des archives de ces "zoo humains"
+	- Des **spectacles ethnographiques** destinés au grand public
+		- Des hommes, des femmes et des enfants sont rassemblés pour mimer des scènes de leur vie quotidienne dans des décors factices.
+		- Ces "spectacles" sont des entreprises commerciales accompagnés d’un discours mêlant stéréotypes, curiosité pour l’exotisme et discours scientifique.
+		- On retrouve des villages noirs à Paris dans le Jardin D'acclimatation en 1895, A Berlin en 1907, à Lyon un village Sénégalais en 1914 lors de l'exposition internationale de Lyon. Le village Congolais dans le parc de Tervuren peu avant l'exposition internationale de 1897
+	- En 1897 les bronzes du bénin vont interrogés par leur technicité et leur anciennetés, ils seront expiés lors d'une expédition punitive britannique au Bénin
+		- Felix von Luschan reconnaît la haute qualité technique des bronzes mais va dire que ces bronzes ont été fait pas des européens ou sous leur affluences technique car très proches des règles de l'art gréco-latins
+		- Leo Frobenius qui lors de nombreux voyage d'études va écrire sur la mythologies de l'Atlantide. Pour lui ces bronzes ont une influence grecque, pense trouver dans ces masques des résidus de l'Atlantide.
+			- Il conçoit *L'atlas Africanus* et essaie de comprendre le fonctionnement des civilisation africaines. Il est le premeir a parler de **Civilisation africaine**
+				- Tentative de compréhension avec un point de vue qui n'est plus dépréciatifs
+- ## Ecriture dans l'espace / L'altérité dans l'ethnographie
+  collapsed:: true
+	- L'exposition est une action pour "mettre en vue" rendre visible et visible
+	- L'exposition définit aussi le lieu où vont montrés les produits
+	- Il y a Jean Davallon, trois formes de muséologies:
+		- **Une muséologie d'ojet**
+			- Centré sur la présentation des objets d'une ou de collections
+			- Nécessite une réputation au préalable de l'objet
+			- Rapport au visiteur..ices, génère une rencontre (relation positive) avec le..a visiteur..ices
+			- Le savoir est présent mais il n’est donné dans la présentation que de manière codée, à travers la mise en espace des objets de la collection ou alors de manière annexe (le catalogue).
+			- Pavillon des sessions du Louvre
+				- C’est aux visiteur..ices de s’approprier ce savoir dans l’espace social extérieur au musée pour l’apporter avec el..lui lors de sa visite
+			- Musée d' [[Ethnographie]] du Trocadéro, Salle d'Océanie
+				- Nouvelle Hybrides, archipel qui maintenant sont les iles Vanuatu
+				- Sont assemblé toutes sortes d'objet, accumulation d'objets
+			- C'est aux visiteur..ices de s'approprier ce savoir dans l'espace social extérieur au musée pour l'apporter avec el..lui lors de sa visite
+		- **Une muséologie de savoir, d'idée**
+			- Centré sur la présentation d'un message qui est formé à la fois d'un savoir et d'un principe de présentation
+			- Rapport aux visiteur..ices basé sur la communication d'un savoir, d'une connaissance proposée
+			- Présentation:
+				- a) Ensemble d'objets muséaux qui font sens par le jeu du rassemblement et de la différence ou de la mise en scène
+				- b) Panneau explicatif ou un interactif qui lie le visible au lisible
+			- Exposition qui prêche un savoir, formule des informations
+		- **Une muséologie de point de vue**
+			- Présentation de un ou plusieurs points de vue pour le visiteur..ices
+				- Centre sur le visiteur..ices traité..es comme parties intégrantes de la scénographie, idée d'immersion
+			- Metropolitan Museum of Art New York
+			- Demande de situer le..a specatateur..ices, on donne des faits mais on demande aux spectateur..ices de faire sa synthèse des points de vues
+	- ### Modèles d'exposition des musées:
+		- #### Musée d'Histoire Naturelle
+			- Pratique coloniale de collecte d'objets exotiques
+				- S'inscrivent dans une tradition aristocratique de présentations de [[Cabinet de curiosité]] .
+			- Se généralise un processus de muséalisassions en Europe et ailleurs
+				- 1869, Met New York | 1873, Musée d'ethnologies de Berlin | 1878 Musée du Trocadéro
+			- Intérêt pour la taxonomies, pour les anthropologues, volonté de raconter l'histoire de l'évolution humaine
+				- Influencé par les théories évolutionnistes ((6783c643-65ed-452d-a82c-36848efb68cc))
+				- Volonté de montre la domination politique de l'Europe coloniale
+				- Tendance à l'accumulation
+					- Exhaustivité, capharnaüm, larges ensembles d'objets identiques
+				- Objets traités comme emblèmes
+					- Les armes comme signes de barbarie où les cache-sexes comme signe de [[Primitivisme]]
+				- Mélange d'aventures de science et de commerce
+				- L'exposition comme manifestation de pouvoir occidentaux sur les peuples colonisés
+					- On voit des trophées issu de décapitation des souverains africains
+			- Dans les musées d' [[Ethnographie]] le discours va primer de plus en plus
+				- Faire primer non plus une curiosité mais une information d'ordre scientifique
+			- Approche contextuelle:
+				- Tendance à placer l'objet dans son contexte de vie se confirmera tout au long du XXème siècle
+				- Impose une contextualisation de l'objets par l'écrit qui raconte l'usage de l'objets
+			- En reconstituant des modes de vie le musée ment et exotisme les mode de vies des civilisation pour les blancs
+			- Franz Boas:
+				- L'idée central de Boas est honorer le caractère unique des cultures
+				- Contre les théories évolutionnistes, étudies les cultures natives d'amérique et souligne le caractère irréductible de chaque culture
+				- Démontre l'indépendance absolue entre les caractéristiques physiques de l'homme et les traits culturel des sociétés
+				- Opposé à l'idée d'une hiérarchie entres les sociétés humaines
+				- Boas à fait une innovation dans la scénographie des musées : il a créé des « groupes de vie » de mannequins montrant le contexte dans lequel les objets étaient utilisés.
+		- #### Modèles esthétique: Valorisation formelle des objets issu de la colonisation
+		  collapsed:: true
+			- Paul Guillaume est le premier à organiser des expositions d'art africains et fonde la société des arts nègre.
+				- Fait ses premiers pas dans le [[Monde de l'art]] un peu par hasard. Il découvre dans une cargaison de caoutchouc des figurines gabonaises qu’il décide de présenter dans son garage à Montmartre
+			- Il juxtapose des œuvres de ses amies [[Cubisme]], fauves... à coté d'objets africains
+			- Les musée d'ethnographies vont avoir une approche Ethno-stylistque:
+				- Entre la contextualisation de Franz Boas et l'esthétisation de Paul Guillaume
+				- Pavillion des sessions du Louvre
+					- Exposition de 108 pièces d'art issue des culture d'Afrique d'Asie, d'Océanie et des Amériques
+					- Le collectionneur Jacques Kerchache les sélectionnes selon ces gouts esthétiques
+						- Il veut rendre hommage à Guillaume Apollinaire qui voulait faire rentrer au Louvre des objets issues d'autres civilisations
+					- Scénographie épuré qui se fait pour la délections du regard occidental.
+						- On supprime le socle et la vitrine, Pas de cartel et donc pas de contexte
+					- L'objet se donne à voir se façon solennelle
+				- ((670391ae-908f-4a79-8c0a-c3b62572d89d))
+		- #### Modèles réflexif:
+		  collapsed:: true
+			- Emergence récente d'un mode de prestation contestataire des deux autres modèles, interroger le regards que l'on porte sur ces objets
+			- Nouvelle muséologie veut analyser aussi les conditions socials qui détermine l'origine et le fonctionnement du musée et non plus seulement sa muséographie
+				- Le musée devient de plus en plus participatif
+					- On demande l'avis ou la collaboration avec les spectateur..ices.
+					- Le musée devient le forum
+				- La muséologie devient indépendante du musée dorénavant elle le précède
+				- C'est le rapport spécifique de l'H à la réalité et donc le rapport de l'H avec les objets de cette réalité
+			- Susan Vogel: [*Art/artifact*](https://www.academia.edu/42656257/African_art_through_the_western_gaze_an_exhibition_analysis_of_ART_Artifact_curated_by_Susan_Vogel), 1988 Center for African Art New York
+			  id:: fbc9e5c5-84e0-4e8a-9af1-583585b85be4
+				- Couverture symptomatique de cette tendance à comparer de choses incomparables mais par similarité formelle
+				- Réaliser les reconstitutions d'une galerie d'art, de la section "ethnographique"
+					- Place le même types d'objets dans 3 espaces différents: (Musée d'histoire naturelle, [[Cabinet de curiosité]], Musée d'art )
+				- Le regard porté sur l'objet, et notamment son appréciation en tant qu'objet d'art ou spécimen ethnographique, est étroitement conditionné par son cadre d'exposition.
+			- *African reflections Art from northeastern Zaire*, American Museum of Natural
+			  History, New York 1990
+				- exposition sur la **Congo Expedition** 1909-1915 de James Chapin et Herbert Lang
+					- Expédition scientifiques de 5ans de deux chercheurs à la quête de spécimen photographique d'animaux d'objets d'ethnographies
+					- L'exploration d'Afrique central devient une obsession
+				- Présentation d’œuvres mangbetu et azandé choisies par Lang et Chapin
+					- Beaucoup de portait photographiques des grand chefs
+				- En commandant divers objets aux artisans de la cour du souverain mangbetu, Okondo Lang et Chapin ont favorisé le développement d'un art figuratif, anthropomorphe, dont le motif distinctif jusque-là très rarement représenté, devient la tête au crâne déformé et à la coiffure évasée.
+					- En agissant de la sorte, les deux Américains ont institué tout objet présentant cette
+					  caractéristique comme étant d'origine « mangbetu ».
+				- Les hommes mangbetu deviennent potiers pour l'occasion ; des instruments de musique, comme les harpes dont les Mangbetu ne jouent pas, sont sculptés pour l'American Muséum
+			- *Exit congo Museum*, Africa Museum Tervuren, 2000
+				- L’exposition met l’accent sur la vie sociale des objets tour à tour « trophée », « fétiche » ou « chef
+				  d’oeuvre », selon leur dépositaire non sur leur qualité esthétique « universelle ».
+				- Question de la traçabilité de l'objet d'où il provient quelle voyage a t-il fait avant d'arriver là
+					- Les objets perdent leur statut en fonction de leur destinataire, quelle type de voyage.
+					- David Hammons: [*Chasing the blue train*](https://www.switchonpaper.com/en/profile/artist/david-hammons-improvising-unpredictability/) ![Chasing the Blue Train | S.M.A.K.](https://smak.be/volumes/artworks/_800x418_crop_center-center_82_none/22f45f79-f8c0-bd78-e4bf-f49f346fcca7.jpg?mtime=1711545090)
+						- Le train bleu qui est le moyen de transport américain lors de la traite des esclaves. Symbole d'une ressource du capitalisme américain base sur l'esclavagisme
+				- L’exposition marque un tournant en Belgique, en montrant que chaque exposition pourrait devenir tôt ou
+				  tard un terrain de contestation.
+				- Ce que l’on montre doit s’adresser à l’intelligence du visiteur et le placer dans une distance critique.
+				- Johan Muyle, [*Chacun son destin*]({{video https://www.youtube.com/watch?app=desktop&v=l_xl8PrEBjk}}), 2000 ![MACS | Johan Muyle. No Room for Regrets. Chacun son destin - YouTube](https://i.ytimg.com/vi/l_xl8PrEBjk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGGUgXShWMA8=&rs=AOn4CLCM_JaO289N26Jot4KmRyWbLsqv-g)
+			- *Le musée Cannibale*, Musée d' [[Ethnographie]] de Neuchâtel Suisse, 2003 Jacques Hainard
+				- Muséologie de rupture
+					- Un lieu de destabilisation culutrelle
+					- La vérité ne peut être que très relative
+					- Le..a visiteur..ices construit sa propre réflexion vis-à-vis de l'exposition qui lui est proposée.
+				- L'exposition est en huit sections
+					- Pour commencer un gigantesque mur d’objets disparates émerge de l’obscurité. C’est
+					  «L’embarras du choix».
+					- Suivent selon les différentes étapes que traverse un objet ethnologique: «Le goût des autres», «La chambre froide», «La boîte noire». «Juxtaposition à la Jean Clair», «Esthétisation à la Barbier-
+					  Müller», «Association poétique à la Harald Szeeman»…
+					- Puis l’on passe par une salle à manger, où les différentes approches muséographiques possibles sont parodiées sous forme de banquet.
+					- S'en suit alors la sieste, dans un très sécuritaire cocon de verre, et enfin, une section intitulée «Cannibale toi-même»… La table de la Cène y trône, et ses treize couverts, dominées par des photos
+					  sanguinolentes (films, happenings) transformées en vitraux.
+				- Au travers du «Musée cannibale», il ne s’agit donc plus pour l’ethnographe de parler de l’autre, mais bien de soi
+					- Jacques Hainard: *«Nous fabriquons un discours sur le monde et sur lesautres. Mais à partir de là, si nous comprenons pourquoi nous pensons comme nous pensons, pourquoi et comment nous fabriquons des stéréotypes, quand nous aurons bien "anthropologisé" notre propre comportement, nous pourrons nous positionner par rapport à d’autres savoirs, à d’autres discours.»*
+			- Musée du Quai Branly
+				- Musée d'œuvres premières, euphémisme pour [[Primitivisme]]
+					- Alllocution de M. jacques Chirac, président de la république lors de l’inauguration du Musée du Quai Branly, Paris, 20 juin 2006
+						- *"En montrant qu’il existe d’autres manières d’agir et de penser, d’autres relations entre les êtres, d’autres rapports au monde, le musée du quai Branly célèbre la luxuriante, fascinante et magnifique variété des oeuvres de l’homme. Il proclame qu’aucun peuple, aucune nation, aucune civilisation n’épuise ni ne résume le génie humain. Chaque culture l’enrichit de sa part de beauté et de vérité, et c’est seulement dans leurs expressions toujours renouvelées que s’entrevoit l’universel qui nous rassemble. Cette diversité est un trésor que nous devons plus que jamais préserver."*
+			- Muséologie participative ou inclusives
+				- Restructuration profonde de la plupart des musées ethnographiques nordaméricains et européens depuis l’an 2000.
+				- Généralisation de la muséologie participative ou inclusive dans les chartes des musées britanniques
+				- L'idée est de consulter, sinon associer, tout groupe qui se définit comme entité sociale ou culturelle, à toute forme de représentation censée lui correspondre dans l’enceinte du musée.
+					- Vision qui se veut éthique et respectueuse de l'autres
+					- Plateforme ou la société pourrait engager un dialogue avec les personnes d’origines immigrés et aborder les questions de diversité culturelle qui se posent à l’intérieur des frontières du pays
+				- Musée des cultures du mondes, Göteborg
+					- Réouverts en 2004 avec comme intention de réfléchir au nouveau regard sur les collections
+					- Réfléchir aux moyens d’améliorer l’accès à la visibilité institutionnelle
+					- Réflexion sur le rapport d’individus en situation d’immigration et sur la mise en exposition du patrimoine issu de leur culture d’origine
+			- Muséeforum
+				- Forum pour la rencontre
+					- Les collections du musée ne pouvaient plus seulement manifester une étrangeté lointaine, mais un devenir l’occasion d’une « rencontre »
+				- Forum pour l’Expression
+					- Permettre à des individus qui relevaient du référent identitaire désigné d’exercer un droit de regard et un droit de parole sur la mise en exposition de cette collection, en leur qualité de potentiels « visiteurs-auteurs
+					- Instaurer un dialogue avec l’institution et aborder des problématiques contemporaines liées au
+					  contexte migratoire.
+			- Les Banques culturels du Mali
+				- Institution villageoise qui mêle: musé, caisse de micro-crédit, un centre de formation culturelle
+				- Au Mali, en 5 ans, près de 450 objets d’art ont pu être sauvés dans la 1ère banque ; du crédit octroyé à près de la moitié de la population et près de 90% de taux de remboursement.
+				- L'objectif est de préserver les objets culturels dans un musée du village, en les mettant à l'abri de l'usure du temps et des personnes qui profitent de la pauvreté des villageois pour acheter à des prix dérisoires les plus belles pièces du patrimoine malien.
+	- ## Le rappatriement des oeuvres
+		- Le rapatriement occupe l’actualité muséale depuis quelques décennies
+			- Cela a permis de réelles avancées dans le domaine du retour des restes humains.
+			- L'établissement d’une nouvelle éthique et d’un nouveau respect entre les musées centraux et les « communautés sources
+		- Les « communautés sources » peinent à faire valoir leurs droits sur les objets de leur patrimoine, voire même la possibilité d’y avoir accès.
+		- Aux États-Unis, la Native American Graves Protection and Repatriation Act (Loi sur la protection et la restitution des
+		  tombes des Indiens américains ou NAGPRA de son sigle anglais) de 1990 fait obligation aux collections et aux musées fédéraux de restituer aux tribus amérindiennes les restes de squelettes, les objets mortuaires et sacrés qu’ils possèdent et dont certains avaient été exhumés et collectionnés dès le milieu de XIXe siècle.
+		- Le National Museum of the American Indian Act a transféré en 1989 de plus de 800.000 objets indiens à la Smithsonian et a exigé de l'institut d'envisager leur rapatriement aux tribus reconnues au niveau fédéral
+		- ### Le cas Yurok, Californie
+			- C'est l'une des plus grandes opérations de rapatriement d'objets cérémoniels autochtones américains de l'histoire
+			  américaine
+			- Les Yuroks sont la communauté la plus important de Californie. vivent au nord du fleuve Klamath au Nord depuis plus de 10 000ans
+				- À l’arrivée des européens dans la région vers 1850 suite à la présence d’or, ils furent massacrés ou en partie décimés par les maladies
+				- Les survivants sont parqués dans la réserve indienne Yurok le long du fleuve Klamath.
+			- Les Yurok ont reçu des autorités 217 objets sacrés entreposés sur les étagères des musée durant pendant près de 100 ans.
+				- Les objets restitués ont été vendus au musée (1920’s) par Grace Nicholson => célèbre collectionneur d’art indien, propriétaire d'un magasin de souvenirs à Pasadena au début du 20e siècle
+					- Les objets cérémoniels indiens etait en vogue chez les riches Américains à l'époque
+			- Dale Ann Sherman coordinatrice des restitutions pour
+			  les Yurok de Californie du Nord
+				- *« ces objets sont investis de pouvoir. Et ce pouvoir, on peut l’espérer, s’exprimera sur les plans social, économique, spirituel et religieux. »*
+		- ### Le cas des Zunis peuple du Nouveau- Mexique
+			- Pour les Zunis les objets d'art sont des êtres vivants et des membre de la communauté. Contrairement a la culture dominante en Amérique pour qui c'est une propriété aliénable
+			- Fin 1980 et début 1990, la Indian Resources Section a collaboré avec le Bureau du Ministère de l'Intérieur pour
+			  l'aider à récupérer de nombreux dieux de la guerre du peuple Zuni, ou Ahayuda, auprès de marchands d'art privés (y compris la succession d' [[Andy Warhol]] ) et des musées pour leur restitution aux membres de la tribu
+			  Zuni
+				- Les dieux de la guerre, sculptés par des prêtres Zuni et qui se détérioraient sur les sites des sanctuaires secrets à travers la réserve, sont considérés comme des déités vivantes et les gardiens de la tribu
+		- ### Le cas des Haidas de Colombie-Britannique (Canada)
+			- Les Haidas Indiens d'Amérique du Nord qui vivent sur les îles de la reine Charlotte en Colombie Britannique et sur une partie du l'île du Prince de Galles dans le sud-est de l'Alaska
+			  id:: 6783fd4c-ac97-423c-86da-cbf40707b7b4
+			- Connu pour leur Totems
+			- Entre 1897 et 1968, les restes humains de 148 personnes de la Nation Haida ont été collectionnés et conservés au Musée canadien des civilisations.
+				- En 2000, les ancêtres des Haidas ont été rapatriés à Haida Gwaii (îles de la Reine-Charlotte).
+			- Trois objets, dont un grand tambour fait en bois plié, ont été prêtés à long terme au Centre culturel de Haida Gwaii.
+				- Le tambour a été redécouvert par les Haidas et ceux-ci en ont joué au musée lors d’une cérémonie de rapatriement.
+					- La création et l’utilisation d’une copie du tambour ont permis de faire renaître une tradition perdue depuis des générations

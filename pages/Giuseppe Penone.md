@@ -1,0 +1,14 @@
+- Enfant italien issu d'une famille d'agriculteur, après avoir u son diplôme en comptabilité il intègre les beaux arts de Turin.
+	- A la fin des ses études il quitte Turin retourne dans son village d'enfance, travaille autour de sa relation aux arbres
+	- Guiseppe Penone, [*Continuerà a crescere tranne che in quel punto*](https://giuseppepenone.com/en/works/1250-continuera-a-crescere-tranne-che-in-quel-punto), 1968-2003 ![Continuerà a crescere tranne che in quel punto (It Will Continue to Grow  Except at That Point), 1968 (Cod. 1250) | Works | Giuseppe Penone](https://giuseppepenone.com/media/images/PENONE_062_Continuera_a_crescere_c1250_digAr.max-400x400.jpg)
+	- La main est incluse dans la croissance de l'arbres.
+- Il est l'un des plus jeune artiste à intégrer les artistes de l' [[Arte Povera]] .
+- Redonner au poutre le forme original de l'arbre, exhumer la mémoire de la matière
+	- Guiseppe Penone, [*Albero di 5 metri*](https://giuseppepenone.com/en/works/1173-albero-di-5-metri), 1969 ![Albero di 5 metri (5-Meter Tree), 1969 (Cod. 1173) | Works | Giuseppe Penone](https://giuseppepenone.com/media/images/01-PENONE_015_Albero_di_5m_c1173_bnArchivio_.max-400x400.jpg)
+- Guiseppe Penone, De la patate à la cymbale, 1977 ![De la patate à la cymbale - Jeu de Paume](https://jeudepaume.org/wp-content/uploads/2023/03/Giuseppe-Penone-Patate-1977-2.jpg)
+	- Moule son visage et fait pousser des pommes de terre qui prennent les formes de son visage, patate anthropomorphe
+		- ![Patate, 1977 (Cod. 2119) | Opere | Giuseppe Penone](https://giuseppepenone.com/media/images/02-PENONE_097_Patate_c332_diaArchivio_Penone.max-400x400.jpg){:height 312, :width 450}
+	- ![Patate (Pommes de terre) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/fa/73/fa73f65e06636da3d2b90c6e7e548e63/thumb_large.jpg)
+- Cherche un requestionnent [[Nature - Culture]] en travaillant la collaboration des matériaux
+- Guiseppe Penone [*Essere fiume*](https://giuseppepenone.com/en/works/0440-essere-fiume) ,1981 ![To Be a River | Words | Giuseppe Penone](https://giuseppepenone.com/media/images/01-PENONE_012_Essere_fiume2_c440_st_bnNanda_.max-400x400.jpg)
+	- Extrait une pierre d'un fleuve et refait la pierre en la taillant, Reproduire l'action du fleuve plutôt que reproduire la pierre. Réalise une sculpture issu d'action non humaine

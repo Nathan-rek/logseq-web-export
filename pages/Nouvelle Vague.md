@@ -1,0 +1,31 @@
+- Groupe de jeunes cinéaste français des années 1950-60 qui vont commencer a faire du cinéma autrement
+	- Fan de cinéma Hollywoodiens (Orson Wells...)
+		- Mais il ne veulent pas faire ce genre de films
+- Sont plus ou moins proche de la revue *Cahiers du cinéma*
+	- À partir de 1952, une nouvelle génération de critiques apparaît dans les pages de la revue (Godard au no 15, Truffaut au no 21 et Rivette au no 23). Bientôt surnommés « Jeunes Turcs », ces critiques se caractérisent par leur assiduité à la cinémathèque et par leur véhémence, notamment envers ce qu'ils appellent la *qualité française*.
+	- Leur critique leur sert surtout à défendre des idées nouvelles en termes d'écriture, de réalisation et de production. I..Els attaquent ce qu'i..els considèrent comme l'académisme du cinéma français, dominé par les scénarios littéraires et un jeu d'acteur venu du théâtre
+- Le premier film la Nouvelle Vague est [*Le Bonheur*](https://fr.wikipedia.org/wiki/Le_Bonheur_(film,_1965)) d'Agnès Varda
+	- ![Description de cette image, également commentée ci-après](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kinema-Junpo-1966-April-early-2.jpg/1024px-Kinema-Junpo-1966-April-early-2.jpg)
+	- [*Les Quatre Cents Coups*](https://fr.wikipedia.org/wiki/Les_Quatre_Cents_Coups) de Godard est l'un des films de la nouvelle vagues les plus connu ![Les Quatre Cents Coups – Cinema Galeries](https://galeries.be/wp-content/uploads/2022/11/f3c7530_9kdKJyKPtrUU1VWssPDcAGNb.jpg)
+	- [[Gilles Deleuze]] analyse *Le mépris* de Godard comme un film [[Féminisme]] car Bardot est le personnage le plus raisonné du film
+- Le but est de sortir des studio et de tourner dans la rue
+	- Jean-Luc Godard fait tourner Belmondo pour la premier fois dans [*A Bout de Souffle*](https://fr.wikipedia.org/wiki/%C3%80_bout_de_souffle)
+		- ![Description de cette image, également commentée ci-après](https://upload.wikimedia.org/wikipedia/commons/d/da/%C3%80_bout_de_souffle_movie_logo.png)
+		- Jean Seberg quand elle rencontre Belmondo sur les Champs Elysées
+			- La camera est caché dans un landau pour pouvoir filmer sur les champs Elysées sans autorisation
+- Faire des films en étant personnes autres que des spectateur..ices
+	- Achète des cameras et vont filmer dans la rues sans des vrais acteur..ices
+		- Jeu très naturel
+- Figure de..la realisateur..ice comme artiste
+	- Avant on allait voir un film pour les acteur..ices elle..ux cherchent a avoir un style comme réalisateur..ices
+	- Ils prônent alors une posture critique consistant à attribuer à certain..es réalisateur..ices un statut d'auteur..ice, et à mettre à jour la cohérence interne de l'œuvre de ces réalisateur..ices, en termes de mise en scène plutôt que sujets ou de thèmes comme le faisait la critique conventionnelle
+- Alains Renais, [*Hiroshima mon amour*](https://fr.wikipedia.org/wiki/Hiroshima,_mon_amour), 1959 ![Hiroshima, mon amour - Film 1959 - AlloCiné](https://fr.web.img6.acsta.net/pictures/210/113/21011324_20130610112841021.jpg)
+  id:: 67bded66-4ca1-4a93-a082-85bd9327aa1a
+	- Film caractéristique des procédés stylistiques de la Nouvelle Vague
+		- Scénario écrit par Marguerite Duras
+	- La musique est a contre temps rythmique et thématique avec les images
+		- Musique joyeuse et rapide sur des plans lents et lourds
+	- Le montage est déterminé par le récit
+		- Narration qui ne suit pas la logique habituelle classique occidentale
+		- La contemplation, renverse le temps habituelle substitué par l'action
+			- Le temps existe pour lui même

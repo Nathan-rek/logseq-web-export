@@ -1,0 +1,6 @@
+- Carten Holler: Love Drug (PEA) ![AO On Site – New York: Opening of Carsten Höller 'Experience' at the New  Museum through January 12, 2011 - AO Art Observed™](https://lh4.googleusercontent.com/proxy/LhXbbz2gFadna0dA81NFWJ9AsZ7LC7TzwTdFVUVTmJ52u9GDOXtGF3LIm8USgWDnaJK9vR5SvXMh1rZSvY5oNTTdtde3M87i78Q3-b9jjHQou372PEUhP-NnW-zu5mgwJHRBveRCrukZZGBB)
+	- Drogue de synthèse qui est secrétée qui lorsque que l'on inhale nous sommes empris d'un sentiment d'affection
+- Casrten holler: [*Soma*](http://www.airdeparis.com/artists/carsten-holler/holler/2010/soma.htm), 2010 ![](http://www.airdeparis.com/artists/carsten-holler/holler/2010/ch_soma_6.jpg)
+	- Boisson rituel qui nous mettrais en relation avec le monde autres, le monde des espoirs
+		- On ne sait pas de quoi elle est faite mais est évoqué dans plusieurs écrits. Une des hypothèses serait que c'était de l'urine de rennes qui aurait avaler des champignons hallucinogène
+		- Dans le dispositif certains rennes ingère le champignons et leurs urines sont garder dans un frigo qui pour un certain budget peuvent être testé

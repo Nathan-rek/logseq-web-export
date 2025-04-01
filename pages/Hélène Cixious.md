@@ -1,0 +1,32 @@
+- Intellectuelle née en Algérie en 1936 dans une famille juive d'Oran
+	- Les juives présent dans les colonies françaises se sont fait considéré comme citoyen..nes par les colonies françaises et non comme indigènes comme les populations algériennes non juives
+- Se raccroche au mouvement [[Féminisme différentialiste]]
+- Elle quitte l'Algérie pour Paris très jeunes, elle se marie et à des enfant très jeunes et est très tôt reconnue par l'académie. Elle écrit des romans, des pièces de théâtre, et des essaies théoriques
+- Grand amour de Jacques Derrida
+	- Philosophe du langages, la langue est toujours un excès d'elle même
+	- Lui aussi juif d'Algérie
+- *Le Rire de la méduse* parais en 1975
+- Le [[Féminisme]] de Cixious n'est pas tant oppositionnelle
+	- Comment les H et les F peuvent se rencontrer malgré le patriarcat
+- [[Nietzsche]] rappelle l'important de l'affirmation malgré la tragédie et Cixious comme [[Nietzsche]] pousse à l'affirmation d'existence du sujet féminin dans un système phallique qui les dépossèdent
+- ## Le Rire de la méduse
+  id:: 6717bd02-304e-46b7-b48a-96461c71318e
+	- Le projet est de redonner aux femmes l'écriture, la possibilité d'écrire leurs histoires
+		- Ecrire leurs propres mouvements, en dehors de l'histoire patriarcal
+			- La différence dans le système patriarchal à directement un lien avec le pouvoir
+				- Les hiérarchies sont des fictions qui sont encrées et réencrées dans les structures sociales
+					- Dans l'acceptation de la différence les humain..es se rencontre comme deux sujets et non comme un sujet face à un objet car diffèrent du sujet standard patriarcal
+						- Sortir du sujet standard masculin définit au contact d'autres sujets indéfini diffèrent
+					- La création d'un sujet féminin
+			- La possibilité de la différence va nourrir la littérature féministe
+	- Met en garde l'aliénation du corps des femmes
+	- La masturbation et l'écriture s'inscrivent dans un continuum
+		- Comme pour [[Audre Lorde]] l'érotique n'est pas qu'un désir sexuel c'est aussi un désir d'imagination, ((67054271-e4b7-466c-81a5-5c87c55c6c2f))
+			- Les mondes intérieurs de l'érotique sont aussi fertiles pour la masturbation et pour l'écriture
+	- Théorie de l'écriture qui passe avant tout par le corps
+		- L'imaginaire pense que l'écriture est une activité intellectuelle qui est souvent éloigné du corps
+	- Pour Cixious il est impossible de définir une pratique d'écriture féminine
+	- Lacan à fait plusieurs séminaires et dans son 20ème il parle de la sexualité féminine, il s'intitule *En corps*
+		- L'orgasme féminin dépasserai le langage et il serait impossible à décrire.
+		- La Loi chez Lacan est l'organisation social phallocentrique patriarchal
+-

@@ -1,0 +1,14 @@
+- Termes qui invite à réfléchir à des scénarios futurs
+	- Que se passe t'il après l' [[Anthropocène]]
+- Evolution culturelle scientifique et technologique qui conduit vers un chemin qui transforme la diversité culturelle et biologique en homogénéité
+	- Transgresse les limites du système terrestre et introduit des éléments toxiques qui dépassent l'expérience évolutive de tous les organismes
+- Question du dualisme [[Sujet-Objet]]
+- L'**échelle de Kardashev** est une classification proposée par l'astrophysicien soviétique Nikolai Kardashev en 1964 pour mesurer le niveau de développement technologique d'une civilisation en fonction de sa consommation d'énergie
+	- Civilisation Type 1
+		- capable d'accéder à toute l'énergie disponible sur sa planète et de la stocker pour la consommation
+	- Civilisation Type 2
+		- Peut consommer toute l'énergie directement d'une autre planète , étoile, lune, un astéroïde
+	- Civilisation Type 3
+		- Une civilisation de type 3 aurait la capacité de contrôler et d'utiliser toute l'énergie disponible dans sa galaxie entière
+- Sun Yuan & Peng Yu: [*Can't Help Myself*](https://www.guggenheim.org/artwork/34812) (2016) ![Sun Yuan & Peng Yu, Boundary-Pushing Artists,Masters of Provocative Art |  Artsy](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FiqAyKYT5BdpnMz9jNXyeLQ%252FBIG_SUN_2016_01dea.jpg&width=910)
+	- Dans la tentative de récupération il ne peut stopper le problème il l'empire

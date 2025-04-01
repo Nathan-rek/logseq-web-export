@@ -1,0 +1,45 @@
+- Née à Paris en 1859 d'une famille juive
+- Professeur au Collèges de France, a une très forte renommé international de son vivant
+	- En 1913 il va New York, il devient la cause du premier embouteillage New Yorkais
+- Il reçoit le prix Nobel de Littérature
+- A épousé une des cousines de Proust
+- Meurt en 1941, lors ce qu'il se fait recenser à Paris pendant la 2GM
+- # Concept de la Durée
+	- Pour Bergson le temps n'est pas un espace, la nature du temps c'est le temps
+	- Le temps sans sa métrique est une durée
+		- Une durée est un mouvement
+	- La durée de tout ce qui existe est pour [[Gilles Deleuze]] le temps cosmique
+	- ## Instinct chez Bergson
+		- Rompre avec le système de valeur sur l'intelligence, avec une théorie de l'instinct
+		- Le sphex par instinct agit sur la chenille
+			- Le but est de paralyser sans tuer
+			- Pour cela elle sait ou sont les 9 points de contacts nécessaires pour paralyser la chenille
+			- Ce n'est pas de l'intelligence de guêpe mais l'instinct de la guêpe
+				- L'entomologiste connait les choses pour connaitre or pour la guêpe c'est un intérêt vitale d'avoir ce savoir
+		- Dans *l'Évolution créatrice* Bergson met en avant l'évolution vitale comme une impulsion de la vie à être, à maximiser sa puissance
+			- Comme pour chez [[Nietzsche]] il y a une maximisation de la puissance de vie.
+		- L'élan vital amène une épistémologie, comment connaitre la vie si on ne la conçoit pas une force intérieur. D'où vient notre connaissance sur la vie si on la conçoit pas de l'intérieur ?
+		- Pour Darwin la vie est un phénomène que l'on peut mesurer de l'extérieur
+			- Pour Bergson la capacité cognitive le plus à même à comprendre la vie c'est l'instinct.
+				- La guêpe réussi un telle effort de sympathie (sim(avec) pathos(souffrir) souffrir avec) qu'elle sait ou piquer la chenille
+			- L'entomologiste agit de l'extérieur comme le fait l'intelligence sur son sujet
+		- Bergson invite une compréhension de l'intérieur
+		- Les êtres humains sont dénués d'instinct, [[Freud]] le pense aussi. Sauf chez les bébés, car lorsqu'on assimile le langage ou la culture on agit dans ce mode là, par instinct. On intègre les mots et la perception afin d'agir sur notre monde
+			- Les reliquats d'instincts se manifestent de façon détourné
+				- Les humain..es sont plongé..es dans les langages et les cultures, nous ne sommes pas plongé..es dans l'instinct
+		- Pour Bergson l'intelligence est liée à la perception, on perçoit pour pouvoir agir.
+			- On perçoit ce sur quoi on doit agir, on ne perçoit pas tout ce qu'on voit. On fait des objets par division de l'ensemble vu.
+				- Pour Bergson et pour Darwin on perçoit en fonction de nos besoins, il nous n'est pas nécessaire de voir tout le spectre de couleur alors on adapte le regard pour mieux percevoir
+		- L'instinct lui est sympathie
+		- La perception humain n'est pas limité
+			- Nos capacités perceptives sont liées à nos besoins, et se sont développer en fonction de
+			- C'est le Umwelt
+			- Les humains ont tendances à partager cette tendance perceptives
+				- Ce qu'on croit être le monde est une partie perçu du spectre d'informations
+- ## Art et Bergson
+	- L'instinct est délicat chez l'H, mais l'intuition est une capacité qui nous permet de nous placer à l'intérieur de l'objet pour le comprendre par effort de sympathie
+		- L'artiste pour crée une œuvre intéressante va devoir par effort d'intuition se mettre l'intérieur de son objet, il va habiter temporaire la durée de l'objets
+	- L'instinct est une puissance animale
+	- L'intuition c'est la méthode de l'art et de la philosophie,
+	- La plus haute forme de cognition pour Bergson est l'intuition, présente chez les animaux et les artistes
+	- L'intelligence ne s'intéresse qu'à ce qui utile, l'intelligence est naturellement incapable de comprendre la vie

@@ -1,0 +1,4 @@
+- Gustave MORREAU: [*L’apparition*](https://musee-moreau.fr/sites/moreau/files/o_cat.222.jpg) ![L'Apparition | Musée Gustave Moreau](https://musee-moreau.fr/sites/moreau/files/o_cat.222.jpg)
+- Odilon Redon : [*L’araignée Souriante*](https://www.boutiquesdemusees.fr/fr/animaux/redon-odilon-l-araignee-souriante/5774.html) ![L'Araignée souriante | Boutiques de Musées](https://www.boutiquesdemusees.fr/uploads/photos/5774/14596_podl.jpg)
+- Fernand KHNOPFF: Esprit du symbolique français
+	- Formes en réaction avec l’esprit de fin de siècle ( malaise )

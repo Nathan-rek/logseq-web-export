@@ -1,0 +1,24 @@
+- Notion qui désigne des pratiques artistiques qui questionne le [[Monde de l'art]] et l'institution moderne du musée
+	- Se base sur le musée une invention de la [[Modernité]]. Le musée s'adresse au public, Le musée à une mission de collection
+	- Cette critique apparait déjà dans les [[Avant-Gardes "Historique"]] pour qui l'art ne peut pas montrer le vivant car le musée à une valeur mortifère. Il neutralise les éléments qu'il expose
+		- Les [[Futurisme]] souhaitent bruler les musées
+		- Les [[International situationnistes]] souhaitent dépasser l'objet marchand et donc l'objet qui vise le musée
+- # [[Marcel Broodthaers]]
+	- ((6579946d-11b4-4e17-89c8-d1d8c8814e39))
+- Claudio Costa: [*Museum of Man*](https://m2museologie.wordpress.com/2010/09/29/vers-une-theatralisation-dun-musee-de-la-sante-ebauche/), 1974 ![Vers une théâtralisation d'un musée de la santé (ébauche) | M2Muséologie](https://m2museologie.files.wordpress.com/2010/09/musee-comme-medium_0011.jpg)
+	- Questionne le mobilier propre à certain type d'instituions muséales
+- Le [[Cabinet de curiosité]] reprend forme dans l'art contemporain notamment
+	- Karsten Bott: [*Museum of Life*](https://artfacts.net/exhibition/karsten-bott:-museum-of-life/658191), 2007 ![Journal Frankfurt Nachrichten - Karsten Botts Sammlung hat „von jedem eins“  - Ausstellung](https://www.journal-frankfurt.de/image/news/alle/38941.jpg)
+		- Met en avant via le [[Cabinet de curiosité]] un regard sur la surconsommation contemporaine de la société
+	- Michael Asher Intervient dans des salles d' [[Exposition]] et la divise en deux dans une parti il a laissé l'espace telle qu'elle (Œuvre, cimaise...) et dans l'autre a tout enlever (faux mur...) Nous fait regarder cette coquille qu'est le [[Monde de l'art]]
+		- Michael Asheur: [*Instalation, Pomona College Museum of art*](https://www.archpaper.com/2013/02/michael-asher-1943-2012/), 1970 ![Michael Asher, 1943-2012](https://www.archpaper.com/wp-content/uploads/2016/04/obit_asher_02.jpg)
+			- Pervertie la galerie en ouvrant totalement vers l'extérieur le lieu d'art en modifiant son architecture
+	- Les questionnements de socle sont les bases de cette forme de critique institutionnelle
+	- Hans Haacke: [*Condensation*](https://www.macba.cat/en/art-artists/artists/haacke-hans/condensation-cube), 1963 ![Condensation Cube, 1963-1968 - Haacke, Hans (1523) | MACBA Museum of  Contemporary Art of Barcelona](https://img.macba.cat/public/styles/width_600/public/imagenes/obras/1523_006_l.jpg?itok=chSGPJ8X)
+	  id:: 661023c4-cd58-49e6-ae23-b0af45f4ba54
+		- Considère le musée comme créant une violence sociale.
+	- Andre Fraser: [*Museum Highlight*](https://www.tate.org.uk/art/artworks/fraser-museum-highlights-a-gallery-talk-t13715), 1989 ![Museum Highlights: A Gallery Talk', Andrea Fraser, 1989 | Tate](https://media.tate.org.uk/art/images/work/T/T13/T13715_10.jpg)
+		- Propose une visite guidée et simule le rôle du conservateur et du rôle de médiation de l'art.
+			- Travaille autour des notions du capital culturelle sous l'angle sociologique de Bourdieu
+			- Analyse statistique de la sociologie des musées
+			- En ne fessant aucune médiation le musée cultive cette violence symbolique

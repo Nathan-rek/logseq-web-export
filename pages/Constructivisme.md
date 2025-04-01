@@ -1,0 +1,12 @@
+- Théorie de la connaissance qui repose sur l'idée que notre image de la réalité ou les notions structurant cette image, sont le produit de l'esprit humain en interaction avec cette réalité, et non le reflet exact de la réalité elle-même
+- Le constructivisme désigne d'abord la théorie issue de Kant selon laquelle la connaissance des phénomènes résulte d'une construction effectuée par le sujet
+	- Le constructivisme s'oppose a une vison réaliste
+		- Ernst Von Glasersfeld :
+			- *une rupture avec la notion traditionnelle selon laquelle toute connaissance humaine devrait ou pourrait s’approcher d’une représentation plus ou moins « vraie » d’une réalité indépendante ou « ontologique ». Au lieu de prétendre que la connaissance puisse représenter un monde au-delà de notre expérience, toute connaissance est considérée comme un outil dans le domaine de l’expérience*
+- Il existe différents courants de pensée constructivistes, selon les disciplines auxquelles cette approche est appliquée et selon les perspectives envisagées.
+	- Constructivisme en épistémologie
+	- Constructivisme en mathématique
+	- Constructivisme en politique
+		- Constructicisme social [[Donna Haraway]]
+			- Cette approche de la sociologie envisage la réalité social et les phénomènes sociaux comme étant construit c'est à dire comme étant produit lors des interactions social ou divers processus sociaux
+	- Constructivisme en art [[Constructivisme Russe]]

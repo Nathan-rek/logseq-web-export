@@ -1,0 +1,314 @@
+- Ce que la pensée de Baudrillard nous laisse, c’est avant tout le diagnostic d’un règne absolu des simulacres, désamarré de
+  tout référent, sans désormais l’ombre d’un dehors qui pourrait venir en interrompre l’exclusif régime.
+- Son oeuvre conjoint construction théorique et interventions pratiques, protocole de décryptage du présent et  évaluations des devenirs sociétaux.
+	- Passage au crible de la société de consommation, des idéologies, des mythes, des modes, des techniques, théorie de la marchandise et analyse de la logique des objets en termes d’une inscription dans un système de signes
+- Catégorie de Signe : Un signe qui dépasse l’origine du signe :
+	- Signe Original
+		- Le signe original est une **représentation directe** du réel. Il renvoie à une **réalité concrète** ou à un **référent réel**.
+	- Signe copie
+		- Il s'agit d'une **reproduction** qui reste dépendante de l'original, même si la copie n'est pas parfaitement identique.
+			- **Exemple** : Une photographie d’une œuvre d’art est une copie, une reproduction qui permet de voir l'œuvre, mais qui n'est pas elle-même l'original.
+	- Signe simulacre: le simulacre contrairement à la copie fait comme si l’original n’existait pas, comme s’il venait à dissimuler le référent
+	  id:: 661023ca-e0f7-4861-b357-df748ea54a17
+		- Accélération des simulacres ( du au monde contemporain )
+		- Réseaux de simulacre qui nous empêche d’être en contacte avec une réalité existante originale
+		- Culture de la virtualité: culture publicitaire, informatique :
+		- Les etat unis sont dans un processus d'autotelisme soutenu par les politique néo liberal de reagan
+			- Patrick Bateman d'[[American Psycho]] est un personnage symptomatique de cette nouvel construction
+		- Reagan est président américain: Le gouvernement n’est pas la solution c’est le problème
+			- Laisse la place à une régulation individuelle, Patrick Bateman
+			- Politique de l’historie américaine caractérisé par la mise en place d’un doctrine économique ultra libérale
+- Pour Baudrillard il y a quatre façons d’obtenir de la valeur
+	- Valeur fonctionnel : objectifs principal d’un objet
+	- Valeur d’échange : Valeur économique d’un objets, elle correspond au prix que l'on est prêt à payer pour acquérir un objet ou à la somme que l’on pourrait recevoir en le vendant.
+	- Valeur Symbolique : valeur attribuer par un sujet part rapport à un autre sujet
+	- Valeur de signe : la valeur d’un objet lié e à la **signification subjective et interpersonnelle** que cet objet prend pour un individu ou un groupe, en dehors de sa valeur fonctionnelle ou économique.
+- ## Ordre de Simulacres
+  collapsed:: true
+	- **Premier ordre** : Ce sont les simulacres qui fonctionnent comme **copies d'une réalité originale**. Ils correspondent à une époque où les signes étaient des reflets de la réalité. Par exemple, une peinture ou une carte représente un paysage réel ou un territoire. Le lien entre la représentation et ce qu'elle représente est encore visible, même s'il peut y avoir des distorsions ou des embellissements.
+	- **Deuxième ordre** : Ce sont les simulacres qui ne sont plus de simples copies, mais des **productions mécanisées** de la réalité, des reproductions en série qui imitent et dupliquent la réalité, souvent en l'altérant. Ils correspondent à l'ère industrielle et à la société de consommation. Dans cet ordre, la distinction entre l'original et la copie devient floue. Par exemple, les photographies, les films, et les objets produits en masse ne sont plus de simples reflets de la réalité, mais des versions industrialisées et standardisées. L'exemple classique serait celui de la production de masse où chaque objet est identique et où l'authenticité de l'original perd de son importance.
+		- ((661023ca-f7eb-43c2-a9e1-99a89b6a5dc9))
+	- **Troisième ordre** : Ce sont les simulacres qui n’ont plus aucun lien avec une réalité originelle ; ce sont des **simulations** pures, des créations qui ne renvoient à aucune réalité sous-jacente. Baudrillard parle ici de la [[Post-Modernité]] , où les signes (ou simulacres) ne sont plus des copies, mais des réalités autonomes, des simulacres sans original. L'exemple typique est celui des mondes virtuels ou des médias, où les images et les représentations créent leur propre réalité (ce qu'il appelle parfois « hyperréalité »).
+- # *Simulacres et Simulation*
+  id:: 67d56662-690a-428a-8faf-9012e2dc6e88
+	- Dans *Simulacres et Simulation*, 1981 Baudrillard cherche à analyser les systèmes de diffusion de l’information dans les sociétés contemporaines
+	- *Le simulacre n'est jamais ce qui cache la vérité --- c'est la vérité qui cache qu'il n'y en a pas. Le simulacre est vrai.* l'Ecclésiaste
+	- La fable de Borgès:
+		- Les cartographes de l'empire dressent une carte si détaillé qu'elle finit par recouvrir très exactement le territoire
+		- Témoigne d'un orgueil à la mesure de l'Empire
+		- Le double finit par se confonde avec le réel
+	- La fable de Borgès est un simulacre du deuxième ordre (Ce sont les simulacres qui ne sont plus de simples copies, mais des productions mécanisées de la réalité, des reproductions en série qui imitent et dupliquent la réalité)
+	- La Simulation est désormais celle tu territoire, d'un être référentiel, d'une substance
+		- Elle est la génération par les modèles d'un réelle sans origine ni réalité: hyperréel
+		- Le territoire ne précèdes plus la carte ni lui survit
+			- C'est la carte qui précède le territoire, précession (mouvement de rétrograde circulaire) des simulacres
+				- C'est la carte qui engendre le territoire
+	- Dans la carte et le territoire leur différences fait la poésie de la carte et le charme du réel
+		- Cela disparait dans la simulation, la simulation est nucléaire et génétique
+			- Elle n'est plus spéculaire et discursive
+	- La simulation n'est plus le réel puisqu'aucun imaginaire l'enveloppe
+		- C'est un hyper-réel produit de synthèse irradiant de modèles de combinaison dans un hyper-espace sans atmosphère
+	- La simulation s'ouvre donc par une liquidation de tous référentiels
+		- Ou une résurrection artificielles dans les systèmes de signes
+			- C'est n'est plus une imitation ou un redoublement mais une substitution au réel des signe du réel,
+				- Une opération de dissuasion de tout processus réelle par son double opératoire
+	- Plus jamais le réel n'aura l'occasion de se produire, c'est la fonction vitale du modèle dans un système de mort ou de résurrection anticipée qui ne laisse aucune chance à l'événement même de la mort
+	- ## L'irréférence divine des images
+		- **Dissimuler** est feindre de ne pas avoir **Simuler** c'est feindre d'avoir ce qu'on a pas
+			- L'un renvoie a la présence l'autre à l'absence
+			- Or simuler ce n'est pas feindre
+				- Celui qui feint une maladie peut simplement se mettre au lit et faire croire qu'il est malade. Celui qui simule une maladie en détermine en soi quelques symptômes
+			- Feindre ou dissimuler laisse intacte le principe de réalité: la différence est toujours clair elle n'est que masqué
+		- La simulation remet en cause la différence du vrai et du faux, du réel ou de l'imaginaire
+		- Le simulateur est il malade ou non, puisqu'il produit de vrai symptômes
+			- Il n'est ni malade ni non malade
+				- La médecine s'arrête la car si tout symptômes peut être produit et non reçu comme un fait de nature alors toutes maladie peut être considère comme simulable et simulé et la médecine perd son sens
+		- La psychanalyse elle renvoi au symptômes de l'ordre organique à l'ordre inconscient
+			- La simulation s'arrête au porte de l'inconscient
+		- La psychologie militaire recule devant les clartés cartésien de la médecine et hésite à faire la distinction du faux et du vrai, du symptôme produit et du symptôme authentique
+			- *"Si il joue si bien au fou c'est qu'il l'est"*
+		- Les fous simulé sont la pire de subversion de la raison classiques
+		- Dieux demeurent t'il instance suprême lorsque qu'il s'incarne dans l'image
+			- La querelles des iconoclastes pressentait cette tout puissance des simulacres, cette faculté d'effacer dieu en laissant l'idée que dieu n'as jamais été et qu'il en a exister que le simulacre
+				- De la venait leur rage à détruire les images.
+		- On accuse les iconoclastes de mépriser et nier les images était ceux qui leur accordait leur juste prix
+			- Au contraire des iconolâtres qui n'y voyais que le reflets et contentait de vénère dieux en filigrane
+				- Les iconolâtres pensait t'il déjà à la mort de dieux dans l'épiphanie de ses représentations
+					- donc ils savaient peut être qu'elles ne représentaient plus rien, quelles étaient un jeu pur, mais que c'était précisément là le grand jeu sachant aussi qu'il est  dangereux de démasquer les images, puisqu'elles dissimulent qu'il n'y a rien derrière
+			- Derrière le baroque des images se cache l'éminence grise de la politique.
+		- L'enjeu est donc la puissance meurtrières des images, meurtre du réel, meurtre de leur propre modèle
+			- Comme les icone de Byzance pouvaient l'être de l'identité divine
+		- A cette puissance meurtrie s'oppose la puissance dialectique
+			- Tout le foi occidental c'est engager dans le pari de la représentation
+				- Qu'un signe puisse renvoyer à la profondeur du sens, qu'un signe puissent s'échanger contre du sens
+		- La simulation s'oppose a la représentation car la simulation ne croit plus au gage du réel (dieu) et la simulation émet des signes sans références s'échangeant plus jamais contre du réel, mais s'échangeant en lui-même, dans un circuit ininterrompu
+		  dont ni la référence ni la circonférence ne sont nulle part.
+			- La représentation par du principe d'équivalence de signe et du réel
+			  id:: 67d5b65c-4b8f-454a-b17c-5b0fd3d42289
+			- La simulation part à l'inverse de l'utopie du principe d'équivalence, il part de la négation radicale du signe comme valeur
+				- Le signe est une mise a mort de toute référence
+		- Alors que la représentation tente d'absorber la simulation en l'interprétant comme fausse représentation, la simulation enveloppe tout le représentation comme simulacre.
+		- Telles seraient les phases successives de l'image:
+			- elle est le reflet d'une réalité profonde
+				- Une bonne apparence
+			- elle masque et dénature une réalité profonde
+				- une mauvaise apparence
+			- elle masque l'absence de réalité profonde
+				- joue à être une apparence
+			- elle est sans rapport à quelque réalité que ce soie: elle est son propre simulacre pur.
+				- Elle n'est plus de l'ordre de l'apparence mais de la simulation
+		- Lorsque le réel n'est plus ce qu'il était, la nostalgie prend tout son sens
+			- Apparait la surenchère des mythes d'origines et d'authenticité secondes
+				- Escalade du vrai du vécu, résurrection du figuratif la ou l'objet et la substance ont disparu
+					- Production affolé de réel et de référentiel
+			- C'est l'apparition de la simulation
+				- Une stratégie du réel de néo réel et d'hyperréel
+	- ## Ramsès, ou la résurrection en rose
+		- L' [[Ethnologie]] a frôler sa mort paradoxale en 1971 quand les Philippines décide de rendre impossible le contact avec leur primitivité Les Tasaday , Ceci à l'intuitives des anthropologies eux même  qui voulait leur contact avec les indignes une décomposition immédiate de celle ci
+		- Pour que vive l' [[Ethnologie]] il faut que son objet meurt
+			- La science plonger dans un paradoxe sur l'objet qui meurt telle Orphée se retournant trop tôt
+		- Contre cette enfer du paradoxe les ethnologues
+		- Lors de cette acte au Philippines La science y perd un capital précieux, mais l'objet sera sauf, perdu pour elle, mais intact en
+		  sa «virginité».
+			- Il ne s'agit pas d'un sacrifice (la science ne se sacrifie jamais, elle est toujours meurtrière), mais du sacrifice simulé de son objet afin de sauver son principe de réalité.
+		- Ici commence une anti- [[Ethnologie]]
+		- L'évolution logique d'un science est de s'évader de son objets
+		- L'indien plonger dans ce cercueil de verre redevient le modèle de simulation de tout les indiens possibles d'avant ethnologies.
+			- Ils sont devenus des simulacre référentiels
+		- Il en est de même pour les grottes de Lascaux
+			- le dédoublement suffi à les renvoyer coures deux dans l'artificiel
+		- De même pour la résurrection de Ramsès II après avoir pourri une dizaines d'années dans le fond d'un musée, l'occident saisi de panique a l'ide de ne pas pouvoir sauver ce que l'ordre symbolique avait su conserver
+			- Ramsès ne signifie rien Pour nous, seule la momie est d'un prix inestimable, car elle est ce qui garantie que l'accumulation a
+			  un sens
+				- Taure notre culture linéaire er accumulative s'effondre si nous ne pouvons pas stocker le passé en pleine lumière
+					- Pour cela il faut sortir les Pharaons de leur tombe er les momies de leur silence
+					- JI nous faut un passé visible, un continuum visible, un mythe visible de l'origine, qui nous rassure sur nos fins
+						- Car nous n'y avons au fond jamais cru
+			- Nous sommes fascinés par Ramsès comme les chrétiens de la Renaissance l'étaient par les Indiens d'Amérique, ces êtres (humains?) qui n'avaient jamais connu la parole du Christ
+				- Il y a eu ainsi, dans les débuts de la colonisation, un moment de stupeur er d'éblouissement devant cette possibilité même d'échapper à la loi universelle de l'Evangile
+					- Ou on admettait que cette loi n'était pas  universelle, ou on exterminait les Indiens pour effacer les preuves
+						- En général, on se contentait de les convenir, ou même simplement de les découvrir, ce qui suffirait à leur extermination lente
+		- L'exhumation de Ramsès est une violence irréparable envers tous les secrets, violence d'une civilisation sans secret, haine de toute une civilisation contre ses propres bases
+			- Et tour comme pout l' [[Ethnologie]] jouant à se dessaisir de son objet pour mieux s'assurer dans sa forme pure, ainsi la démuséi6cacion n'est qu'une spirale de plus dans l'artificialité
+		- Les américains se flatte d'avoir ramener le nombre d'indiens a celui qu'il était avant la conquête
+			- L'Amérique arrive à faire plus d'indiens que les indiens eux même n'y arrive pas
+				- Cette dérision sinistre est une façon de détruire les indiens car la culture indienne et tribale repose sur la limitation du groupe et du refus de toute croissance libre
+					- Cette promotion démographique n'est encore qu'une extermination symbologie
+		- Ainsi partout nous vivons dans un univers étrangement semblable à l'original, les choses y sont doublées par leur propre scénario
+			- Mais ce double ne signifie pas, comme dans la tradition, l'imminence de leur mort - elles sont déjà expurgées de leur mon,
+			  et mieux encore que de leur vivant ; plus souriantes, plus authentiques, dans la lumière de leur modèle, tels les visages des funeral bomes
+	- ## Hyperréel et imaginaire
+		- Disneyland est un modèle parfait de tous les ordres de simulacres enchevêtrés
+			- On parque à l'extérieur, on fait la queue à l'intérieur, on vous abandonne totalement à la sortie.
+			- La seule fantasmagorie, dans ce monde imaginaire, est celle de la tendresse et de la chaleur inhérentes à la foule
+				- À l'intérieur, tout un éventail de gadgets magnétise la foule en des flux dirigés
+				- À l'extérieur, solitude dirigée sur un seul gadget : l'automobile
+			- Ce monde enfantin surgelé se trouve avoir été conçu et réalisé par un homme lui-même aujourd'hui cryogénisé : Walt Disney, qui attend sa résurrection à moins 180 degrés centigrades
+		- Partout à Disneyland se dessine l'Amérique
+		- Disneyland est là pour cacher que c'est le pays « réel », toute l'Amérique « réelle », qui est Disneyland
+			- Un peu comme les prisons sont là pour cacher que c'est le social tout entier, dans son omniprésence banale, qui est carcéral
+			- C'est un simulacre du troisième ordre
+		- Disneyland est posé comme imaginaire afin de faire croire que le reste est réel, alors que tout Los Angeles et l'Amérique qui l'entoure ne sont déjà plus réels, mais de l'ordre de l'hyperréel et de la simulation
+		- L'imaginaire de Disneyland n'est ni vrai ni faux, c'est une machine de dissuasion mise en scène pour régénérer en contrechamp la fiction du réel
+			- Ce monde se veut enfantin pour faire croire que les adultes sont ailleurs, dans le monde « réel », et pour cacher que la véritable infantilité est partout
+		- L'imaginaire historique, féerique, légendaire des enfants et des adultes est un déchet, la première grande déjection toxique  
+		  d'une civilisation hyperréelle. Disneyland est le centre de tri de ces déchets
+		- Partout on recycle les facultés perdues, ou le corps perdu, ou la socialité perdue, ou le goût perdu de la nourriture
+			- On réinvente la pénurie, l'ascèse, la naturalité sauvage évanouie : natural food, health food, yoga
+		- Pour Marshall Sahlins, c'est l'économie de marché, et non du tout la nature, qui sécrète la pénurie
+			- À Los Angeles, aux confins sophistiqués d'une économie de marché triomphale, se réinvente une pénurie/signe,  
+			  une pénurie/simulacre, un comportement simulé de sous-développé (y compris dans l'adoption des thèses marxistes) qui, sous couvert d'écologie, de crise de l'énergie et de critique du capital, ajoute une dernière auréole ésotérique au triomphe d'une culture exotérique
+	- ## L'incantation politique
+		- Le Watergate fonctionne comme Disneyland
+			- L'effet de scandale cache qu'il n'y a aucune différence entre les faits et leur dénonciation
+			- Même opération : régénérer à travers le scandale un principe moral ou politique, à travers l'imaginaire un principe de réalité en perdition
+				- La dénonciation du scandale est toujours un hommage rendu à la loi
+			- Watergate a surtout réussi à imposer l'idée que Watergate était un scandale
+	- ## La négativité en spirale - Moebius
+		- Le Watergate est une simulation de scandale à des fins régénératrices
+		- Le capitalisme fondamental est un modèle que, même si les communistes arrivent au pouvoir, ils ne pourront pas changer
+		- Le nœud gordien pouvait au moins se trancher
+			- La bande de Moebius, elle, si on la divise, résulte en une spirale supplémentaire sans que soit résolue la réversibilité des surfaces
+		- L'enfer de la simulation, c'est la torsion subtile du sens
+		- [[Jean-François Lyotard]] disait : seul le capital jouit avant de penser que nous jouissons dans le capital
+			- C'est la versatilité du désir chez [[Gilles Deleuze]], *révolutionnaire par lui-même et comme involontairement en voulant ce qu'il veut*
+				- À vouloir sa propre répression et à investir des systèmes paranoïaques et fascistes
+		- Tous les référentiels mêlent leurs discours dans une compulsion circulaire, moebienne
+		- Sexe, travail, désir échangent leurs signifiants et leurs scénarios
+		- Faire la preuve du réel par l'imaginaire, la preuve de la vérité par le scandale, la preuve de la loi par la transgression, la preuve du travail par la grève, la preuve du système par la crise.
+			- Les Tasaday comme preuve de l' [[Ethnologie]] par la dépossession de son objet
+		- La preuve du théâtre par l'anti-théâtre, la preuve de l'art par l'anti-art
+		- Tout se métamorphose en son terme inverse pour survivre dans sa forme expurgée
+			- Tous les pouvoirs parlent d'eux-mêmes par la négation pour tenter, par simulation de mort, d'échapper à leur agonie réelle
+		- Le pouvoir met en scène son propre meurtre pour une lueur de légitimité politique
+			- Aujourd'hui, les politiques font semblant de mourir afin de préserver la grâce du pouvoir, là où le roi et Dieu mouraient
+	- ## La Stratégie du réel
+		- L'impossibilité de retrouver un niveau absolu de réel va avec l'impossibilité de mettre en scène l'illusion
+			- L'illusion n'est plus possible, parce que le réel n'est plus possible
+				- C'est le problème de la parodie, de l'hypersimulation ou de la simulation offensive
+		- Il y a une impossibilité d'isoler le processus de simulation
+		- La loi est un simulacre du deuxième ordre (ce sont les simulacres qui ne sont plus de simples copies, mais des productions mécanisées de la réalité, des reproductions en série qui imitent et dupliquent la réalité), alors que la simulation est du troisième ordre, au-delà du vrai, au-delà du faux
+		- L'*impeachment* est un signe grandiose du pouvoir, comme l'était Kennedy, pris assez au sérieux par le groupe comme danger mortel pour être destitué
+			- Simulacre d'un pouvoir déjà mort
+	- ## La fin du panoptique
+	- Le phantasme de la télé-réalité est de filmer comme si la TV n'était pas là
+		- C'est cette utopie de la non-présence qui fascine les téléspectateurs et téléspectatrices
+			- Il y a un frisson du réel ou d'une esthétique de l'hyperréel
+				- Jouissance d'un excès de sens, d'une simulation microscopique qui fait passer le réel dans l'hyperréel
+					- Tout comme dans le porno où la fascination est plus métaphysique que sexuelle
+	- Baudrillard prend l'exemple d'une TV-vérité tournée en 1971 sur la famille Loud
+		- Les Loud sont déjà hyperréels de par la sélection même comme famille américaine idéale typique
+			- L'héroïne du American Way of Life est, comme dans les sacrifices antiques, vouée à être exaltée et à mourir sous les feux du médium moderne, fatum
+				- Ce n'est plus le ciel qui s'abat sur les cités mais l'objectif qui, comme un laser, fixe et découpe la réalité pour la mettre à mort
+		- Les Loud seraient le drame liturgique d'une société de masse, un spectacle de sacrifice alimentant son scénario
+	- Il y a un virage du dispositif panoptique de surveillance à un système de dissuasion où toute distinction entre l'actif et le passif est abolie
+		- Il n'y a plus d'impératif de soumission au modèle car VOUS êtes le modèle
+			- Tel est le versant d'une socialité hyperréaliste où le réel se confond avec le modèle
+				- Ce n'est plus l'ère de la persuasion mais de la dissuasion
+					- Retournement qui rend impossible de localiser les instances du modèle
+		- Il n'y a plus de point focal, de centre ou de périphérie car vous êtes l'information : pure inflexion circulaire, plus de violence ni de surveillance, l'information devient virulence, réaction en chaîne, implosion lente et simulacre d'espace où vient encore jouer l'effet du réel
+	- La fin d'un espace perspectif et panoptique
+	- Nous ne sommes plus dans le spectaculaire dont parlent les [[International situationnistes]]
+		- Le médium lui-même n'est plus saisissable en tant que tel et la confusion du médium et du message de McLuhan est la première grande formule de cette nouvelle ère
+			- La confusion médium/message est bien sûr corrélative de celle du destinateur et du destinataire, scellant ainsi la disparition de toutes les structures duelles, polaires, qui faisaient l'organisation discursive du langage, de toute l'articulation déterminée du sens
+				- Le discours "circule" est à prendre au sens littéral : c'est-à-dire qu'il ne va plus d'un point à un autre, mais qu'il parcourt un cycle qui englobe indistinctement les positions d'émetteur et de récepteur, désormais irrepérables en tant que telles
+				- Ainsi, il n'y a plus d'instance de pouvoir, d'instance émettrice – le pouvoir est quelque chose qui circule et donc la source ne se repère plus, un cycle où s'échangent les positions de dominant et de dominé dans une réversion sans fin, qui est aussi la fin du pouvoir dans sa définition classique
+					- La circularisation du pouvoir, du savoir, du discours met fin à toute localisation des instances et des pôles. Dans l’interprétation psychanalytique elle-même, le « pouvoir » de l'interprétant ne lui vient d'aucune instance externe, mais de l'interprété lui-même
+						- Cela change tout, car aux tenants traditionnels du pouvoir, on peut toujours demander d'où ils le tiennent. Qui t’a fait duc ? Le roi. Qui t'a fait roi ? Dieu. Seul Dieu ne répond plus
+				- Mais à la question : qui t'a fait psychanalyste ? L'analyste a beau jeu de répondre : Toi. Ainsi s’exprime, par une simulation inverse, le passage de l’« analysé » à l'« analysant », du passif à l'actif, qui ne fait que décrire l'effet de tournoiement, de mouvance des pôles, de circularité où le pouvoir se perd, se dissout, se résout en manipulation parfaite (il n’est plus de l'ordre de l'instance directive et du regard, mais de l'ordre de la facilité et de la commutation)
+		- Ce simulacre d'inversion ou d'involution des pôles, ce subterfuge génial qui est le secret de tout le discours de la manipulation est donc, aujourd'hui, dans tous les domaines, le secret de tout nouveau pouvoir. Un pouvoir qui repose sur l'effacement de la scène du pouvoir lui-même, sur l'assomption de toutes les paroles, d'où résulte cette fantastique majorité silencieuse, caractéristique de notre temps
+			- Tout ceci a sans doute commencé dans la sphère politique avec le simulacre démocratique, c'est-à-dire la substitution à l’instance de Dieu de l’instance du peuple comme source du pouvoir, et au pouvoir comme domination du pouvoir comme représentation
+			- Révolution anti-copernicienne : plus d'instance transcendante, ni de soleil, ni de source lumineuse du pouvoir et du savoir – tout vient du peuple et tout y retourne. C'est avec ce magnifique recyclage que commence à se mettre en place, depuis le scénario du suffrage de masse jusqu’aux fantômes actuels des sondages, le simulacre universel de la manipulation
+	- Cette ère nouvelle. Il n'y a plus de médium au sens littéral : il est désormais insaisissable, diffus et diffracté dans le réel, et on ne peut même plus dire que celui-ci en soit altéré
+		- Dissolution de la TV dans la vie, dissolution de la vie dans la TV
+	- C'est une non-distinction du [[Sujet-Objet]] à des fins de moyens
+	- Il faut concevoir la TV sur le mode ADN comme un effet où s'évanouissent les pôles adverses de la détermination selon un schéma polaire qui tenait une distance minimale, cette distance est abolie
+		- La distance de la cause à l'effet
+	- C'est cet écart qui s'évanouit dans le procès du code génétique
+		- Plus rien ne sépare un pôle de l'autre, l'initial du terminal, il y a comme une sorte d'écrasement de l'un sur l'autre, de télescopage fantastique, d'effondrement l'un dans l'autre des deux pôles traditionnels : implosion - absorption du mode rayonnant de la causalité, du mode différentiel de la détermination
+			- C'est là où la simulation commence
+	- Partout où la distinction des deux pôles ne peut plus être maintenue, on entre dans la simulation
+		- Et donc dans la manipulation absolue, non pas dans la passivité, mais dans l'indistinction de l'actif et du passif
+			- L'ADN réalise cette réduction aléatoire au niveau de la substance vivante
+	- ## L'orbital et le nucléaire
+- ## Oublier [[Michel Foucault]]
+	- Ce livre est une mise en garde suite à la lecture du dernier opus de Michel [[Michel Foucault]] à l’époque, le premier tome de son histoire de la sexualité
+	- Ce qu’il souligne, c’est le pouvoir de séduction de l’écriture de [[Michel Foucault]] , alors que ce dernier dénonce sans cesse le Pouvoir sous toutes ses formes. Ce sera même le fond de tous ses travaux et de tous ses militantismes
+		- Or, la séduction, c’est le pouvoir incarné, c'est-à-dire le pouvoir au niveau des corps.
+		- Mais Baudrillard, lui, distinguait une séduction chaude, celle du séducteur séduit, équilibre des pouvoirs, et une séduction froide, perverse, celle de celui qui veut séduire mais se refuse à l’être
+		- Ce qui est exactement la position de [[Michel Foucault]] . Si ce dernier, blessé par ce titre, a humoristiquement souligné qu’il serait sans doute plus difficile de se souvenir de Baudrillard que de l’oublier lui, c’est, à travers ce qui se veut mot d’esprit, la reconnaissance de cette place de pouvoir qu’il voulait occuper dans l’intelligentsia française.
+		- C’est d’ailleurs bien sur cette question du pouvoir que ces deux auteurs se différencient et s’opposent le plus clairement.
+			- Baudrillard a toujours écrit en proposant sa vision du monde, laissant chacun libre de l’accepter ou non
+			- [[Michel Foucault]] argumente, prouve, démontre, veut convaincre, avec style et documents à l’appui.
+			- Mais soutenir les opprimés contre les dominants masque volontiers qu’il ne s’agit que de renverser les places, de
+			  prendre le pouvoir, sous le prétexte, toujours démenti dans les faits, que l’on sera plus démocratique, plus juste, plus humain que ceux qu’on détrône.
+	- Devant l’angoisse d’une vie qui n’aurait peut-être aucun sens, et donc qui ne pourrait justifier ni la souffrance ni la mort, chacun peut être tenté de se laisser séduire par un discours affirmé, sûr de lui.
+		- Un discours de maître dirait Lacan qui en savait quelque chose. Offrir crânement (pour Foucault, c’est le cas
+		  de le dire) des certitudes, c’est plaire à la masse de ceux qui sont à la recherche d’une servitude volontaire, abri de la responsabilité d’une vie trop lourde à porter telle qu’elle est.
+		- Les dictateurs, dont les démonstrations de puissance paraissent si ridicules après leurs défaites, n’ont-ils pas tous été de grands séducteurs ?
+- # Le complot de l'art
+	- Pour Baudrillard, l'art contemporain s'approprie la banalité et les déchets à travers un aveu d'originalité, de banalité et de nullité, érigés en valeur, voire en jouissance esthétique perverse.
+	- La duplicité de l'art contemporain est de viser la nullité alors qu'on est déjà nul
+		- Viser la superficialité alors qu'on est déjà superflu.
+		- Viser le non-sens alors qu'on est déjà insignifiant.
+	- Baudrillard pense que l'art, par la sur esthétisation, nous isole de la réalité :
+		- Un art corrompu par la science dans une volonté de vérité absolue positiviste
+		- L'art devrait être une illusion supérieure.
+		- Il dénonce l'auto-référentialité d'un monde narcissique sans rapport au réel.
+	- Pour Ludwig Feuerbach, on préfère l'image à la chose et l'apparence à l'être, ce qui est sacré, c'est l'illusion, alors que la vérité est profane.
+	- L'art entre [[Utopie]] et Anticipation :
+		- Pour Baudrillard, la peinture s'est retirée du futur pour aller vers le passé.
+			- La peinture se retire de l'anticipation, une rétraction des perspectives de l'avant-garde [[Avant-Gardes "Historiques"]].
+				- Il y a aujourd'hui des utopies d'arrière-gardes.
+					- L'art fonctionne surtout sur un travelling sur son histoire, des résurrections plus ou moins artificielles des formes de son histoire.
+						- Manque d'exploration des champs nouveaux.
+							- Il y aurait peut-être un champ esthétique fini et, par conséquent, physiquement, il y aurait une courbure, une circonférence qui romprait l'idée linéaire du développement de l'art.
+								- La fonction linéaire de l'art est problématique.
+		- Les [[Avant-Gardes "Historiques"]] ont imposé l'artiste comme précurseur.
+			- L'emploi de la figuration et sa rupture avec la figuration ainsi que le passage à l' [[Abstraction]] sont des événements qui annoncent la fin d'un système de représentation.
+				- Dans l' [[Abstraction]] , il y a un renouvellement total des choses, mais aussi une aberration dangereuse pour l'art.
+					- L'abstraction avance vers une exploration analytique de l'objet pour chercher plus de vérité, écarter le mensonge de la figuration et trouver la vérité analytique de l'objet et du monde : l'objectivité des minimalistes ou la plénitude formelle.
+				- Démarche parallèle à la science de la [[Modernité]]
+			- Une corruption de l'art par la science et la [[Modernité]]
+				- La recherche de vérité et d'objets va plus loin vers les structures élémentaires du monde.
+					- De l'autre côté du miroir de la représentation.
+				- L'art est une illusion supérieure et non une avancée vers une vérité analytique.
+	- À partir de [[Marcel Duchamp]] et du [[Ready-made]], l'art n'est plus qu'une opération magique où il n'y a plus d'illusion, mais seulement un transfert.
+		- L'acte de [[Marcel Duchamp]] est infinitésimal.
+			- La banalité entière passe dans l'esthétique et toute l'esthétique devient banale.
+				- Met fin à l'esthétique traditionnelle.
+					- Garde l'illusion de l'art dans le contexte à travers le lieu du musée.
+		- Ce vide esthétique généralisé a produit [[Andy Warhol]], qui réintroduit le vide dans l'image.
+	- L'art a connu un grand renouveau en voulant changer la vie.
+		- Il y aurait une prétention des [[Fluxus]] à faire de l'art la vie.
+			- Le destin de l'art est de se dépasser lui-même dans la vie.
+		- Or, l'art se substitue à la vie.
+			- Forme de Disneyfication du monde.
+				- Prendre le monde tel qu'il est et le cryogéniser dans le musée.
+	- L'art anticipe la virtualisation générale de toutes les sociétés à venir.
+	- Dans les galeries, on assiste à une gestion des déchets, et les styles eux-mêmes sont résiduels.
+		- Virtualité des styles par les techniques actuelles.
+	- La vidéo est une intériorisation de l'image.
+	- Nous sommes de plus en plus dans le temps réel, ce qui tue le futur.
+		- Le futur et le passé se fondent dans le réel et dans l'immédiat. ((67b4a3fb-efd2-49c9-b980-bce1164d8f53))
+			- Dans l'instantanéité, il y a citation et appropriation du passé.
+				- Réanimation indéfinie de ses propres formes.
+					- Dans le [[Simulationisme]] et l'[[Appropriationnisme]], il y a une ironie fossile.
+						- Il n'y a plus de croyance profonde en un destin de l'art.
+							- L'art n'est plus qu'un complot.
+								- Tout le monde prétend à la banalité.
+									- Le public n'a qu'à croire à cette nullité.
+	- Le [[Marché de l'art]] s'est coupé de toute valeur marchande et prolifère dans cette excentration marchande.
+		- Il y aurait quelques exceptions chez Bacon, Hopper.
+			- [[Andy Warhol]] est un objet métaphysique, un scénario pour une idée.
+	- Il ne peut y avoir que des singularités imprévisibles et éphémères.
+		- Des événements qui se font contre le politique.
+			- Des singularités trans-esthétiques qui surgissent d'une altérité en dehors du [[Monde de l'art]].
+	- Les formes sont indestructibles, et le piège réside dans la valeur et la transcription de valeur qui réduisent le champ de la forme.
+		- Les formes n'ont pas d'espoir, on ne peut donc penser les formes dans le temps.
+	- Il faut naviguer sur le côté indécidable de l'art.
+		- Ce qui alimente l'idée du marché spéculatif.
+			- L'enjeu de la [[Modernité]] a trouvé sa fin.
+				- Tout s'est achevé dans un éventail de réalités virtuelles.
+		- La multiplicité d'artistes qui retravaillent les formes n'ont pas besoin d'ordinateurs.
+	- Les arts de toutes les civilisations peuvent être tous rassemblés dans une [[Post-Modernité]]

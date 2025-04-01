@@ -1,0 +1,15 @@
+- 1973 – délitement de l’œuvre d’art avènement de la [[Modernité]] – ERG repose sur une réarticulation entre pratique et théorie.
+	- Capable de comprendre les images qui nous entourent et leurs outils
+	- Ajouter à cela une prise en compte du tissu social qui l’environne
+	- Thierry De Duve s’inscrit part du constate la fin du système des [[Académie - Beaux-Arts]]
+		- Fin d’un enseignement traditionnelle
+	- Question de la fonction de l’atelier - enseignement base sur une transversalité.
+		- Le nom de l’erg tend vers une [[Utopie]] celle d’intégrer l’artiste dans la société – faire de l’école un lieu d’ouverture dans la pratique pour palier à la problématique moderne de vide idéologique technico-ésthetique
+- Colin Roustant: Les pratiques Fonctionnelles, PAF
+	- Les usagers de l'art contemporain
+	- Perspective de l'usage de l'art, on passe du spectacle à l'usage. Ce qui rompt avec le paradigme de l'[[Académie - Beaux-Arts]] mais vers un paradigme de l'usologie
+	- Propose de désactiver la fonction esthétique de l'art pour engager sa fonction usologique
+- Ecole sur base de St Luc
+	- Groupe de jésuites qui cherche à proposer un apprentissage des métiers de l'art à une classe populaire
+		- Dans les années 1970 un des Jésuite se rend compte que l'arrivé des performance de l'installations... va nécessiter un nouvel espace d'expérimentation en fessant appelle à Thierry DeDuve
+- [[Petticoat Government]]

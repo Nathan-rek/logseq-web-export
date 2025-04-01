@@ -1,0 +1,14 @@
+- Regroupement de personnes de différent champ (politique, artistique, militantisme…)( Guy Debord...)
+	- Le projet est de mettre à bas la société spectaculaire marchande.
+	- Pour substituer aux objet qui peuvent devenir marchandise il..elles vont proposer des situations.
+		- Des moments de vie délibérément construit et conçu
+	- Ce projet politico-artistique est un dépassement de l’art
+		- La dérive est un exemple de situation.
+			- La dérive urbaine par exemple, une forme d’expérimentation de l’espace public et urbain
+	- Participe aux activités de mai 1968 dans un dernier élan moderniste de l’art comme modificateur de la société
+	- Mass Mouving: Society in Conflict, 1970
+		- Architecte et artiste belges qui organisent des rencontres, séminaire, performance... pour sensibiliser le public à des questions écologiques
+			- Mass Moving: [*Sound Stream*](https://www.muhka.be/fr/programme/detail/1580-mass-and-individual-moving), 1975 ![De diepvries als avant-garde - NRC](https://images.nrc.nl/cB5ajd9S2QYm4y4WZteH6CqsPbE=/1280x/filters:no_upscale()/s3/tark/NH/201002/19/1254196.jpg)
+				- Ont planté..e des tiges de bambous percés à certaines sections qui par le vent produit donc un son
+					- Ses sculptures sonores ont transcendés les frontières géographique, un chant qui traverse les frontières qui travers l’hémisphère Nord et Sud
+	- Forme de faille de l’ [[Utopie Moderne]] , Tout les utopies artistiques étaient incapables face au monde. Se qui accompagne le basculement vers la [[Post-Modernité]]

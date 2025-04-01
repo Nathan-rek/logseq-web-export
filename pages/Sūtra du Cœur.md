@@ -1,0 +1,36 @@
+- Le bouddhisme apparaît en Inde.
+	- Le bouddhisme apparaît avec Siddhartha Gautama, un jeune homme riche, probablement princier.
+		- Une prophétie dit qu'il sera soit chef de guerre, soit guide spirituel.
+		- Pour éviter cela, son père le surprotège en lui offrant un confort total.
+		- À 20 ans, il quitte le palais et découvre la vieillesse, la maladie et la mort.
+			- En apprenant l'existence de la mort, il décide de suivre un chemin spirituel pour éradiquer la souffrance.
+				- Il rejoint une communauté pratiquant des rituels de souffrance.
+					- Mais il réalise que la souffrance ne disparaît pas en l'augmentant.
+			- Il quitte la communauté, s'installe sous un ficus et médite pendant sept semaines avant d'atteindre l'éveil.
+				- Il ne ressent plus la souffrance, car le monde est tissé du même fil. La souffrance est liée au fait que nos egos s'attachent à des convictions qui rendent la vie infernale.
+					- L'impermanence est impossible à surmonter.
+- L'enseignement du Bouddha est que la souffrance existe, mais que l'on peut s'en libérer en suivant un chemin prônant le détachement des choses.
+	- C'est une religion très pragmatique, car elle propose un chemin permettant de se libérer de la souffrance.
+		- C'est le Noble Sentier Octuple, qui comprend : la vue juste, la pensée juste, la parole juste, l'action juste, le moyen d'existence juste, l'effort juste, l'attention juste et la concentration juste.
+- Il devient le Bouddha.
+	- Il enseigne ensuite pendant 45 ans. Son enseignement est transmis oralement, et environ 200 ans après sa mort, les premiers textes apparaissent.
+- Le Bouddha, Socrate, Confucius et Lao-Tseu ont tous vécu au 5ᵉ siècle avant J.-C.
+- Un empereur s'est converti au bouddhisme et en a fait la religion de son pays.
+- Entre 100 avant et après J.-C., le bouddhisme diverge en deux tendances :
+	- ### **Bouddhisme Theravāda**
+		- Ce qui compte, c'est l'éveil, un moment spirituel qui agit comme une révélation.
+	- ### **Bouddhisme Mahāyāna**
+		- L'éveil n'a de sens que s'il sert la communauté.
+			- Il doit avoir pour but de servir la communauté.
+		- Les bodhisattvas sont des êtres qui renaissent dans le monde pour alléger les souffrances.
+- Quand le bouddhisme Mahāyāna arrive en Chine.
+- **Thích Nhất Hạnh**
+	- Moine ayant connu la [[Guerre Du Vietnam]]
+		- Il crée un bouddhisme engagé où la pratique sociale est aussi importante que la pratique spirituelle.
+		- Il se rend à Princeton et se voit interdire l'accès au Vietnam. Coincé en Occident, il immigre en France, où il fonde son propre monastère et crée le Village des Pruniers.
+- **Pensée de la non-substance**
+	- Depuis Socrate et [[Platon]], on pense que chaque individu est animé d'une essence propre. Or, le bouddhisme prend le contre-pied de cette idée.
+		- Le vide est un concept central autour duquel les autres s'articulent. Tous les phénomènes sont empreints du vide.
+		- Dans le vide, les entités ne sont pas dotées d'un soi séparé.
+		- Il s'agit de déconstruire notre perception première du monde. En réalité, nos sensations s'inscrivent dans un récit.
+	- Défaire l'ego, c'est supprimer le récit que l'on se raconte comme une vérité unique.

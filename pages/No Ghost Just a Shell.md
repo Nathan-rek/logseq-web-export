@@ -1,0 +1,51 @@
+- Projet nommé No Ghost , Just a shell, est un projet monté par deux artistes [[Pierre Huyghe]] et [[Philippe Parreno]]. Achetant le design d’un personnage de manga à l’agence K-Works acheté sous licence Copyleft. Le design est une image bidimensionnelle et une biographie que les artistes ont utilisé..es pour en faire un modèle 3D Une trentaine d’artistes ont travaillé..es avec le personnage d’Ann Lee
+- Le projet "No Ghost Just a Shell" devait durer plusieurs années. Ils ont offert «Ann Lee» gratuitement à une série d'artistes, «commandés» par les initiateurs, à utiliser pour leurs «propres» histoires. Dans le même temps, les artistes installent à Paris des moyens de production coordonnés par Anna-Léna Vaney , notamment pour disposer d'une animation vidéo élaborée et coûteuse pour le personnage. Chacun des projets réalisés avec 'Ann Lee' est un "chapitre de l'histoire d'un signe", et à une 'vie' dans le contexte des activités individuelles des artistes et au sein du projet commun. Les mesures de "prolongation de vie" prises par le projet "No Ghost Just a Shell" pour un être éphémère, virtuel et commercial soulèvent des questions humanitaires "mélancoliques", mais aussi saper les mécanismes économiques en permettant l'utilisation gratuite d'un produit qui n'est par ailleurs viable que dans un contexte commercial ; les conditions de production autonome des artistes sont un autre facteur.
+- ## Projet
+	- L’identité de Ann Lee :
+		- [[Pierre Huyghe]] : [*Two minutes out of time*](https://archives.mamco.ch/artistes_fichiers/H/huyghe.html), 2000 ![](https://archives.mamco.ch/artistes_fichiers/H/huyghe/annlee.jpg)
+			- Ann Lee est une image prête à l’emploi
+			- Dans cette interprétation de [[Pierre Huyghe]] le personnage reflète son existence en tant que produit visuel chargé de l’imagination d’un individu *«je suis hanté par votre imagination»* Ann Lee reste une coquille jusqu’à ce que sa propre imagination la rattrape
+		- [[Philippe Parreno]] : [*Anywhere Out of the World*](https://www.frac-poitou-charentes.org/pages/collection_artistes-parreno_FRAC.html), 2000 ![Philippe PARRENO - Anywhere out of the world | Portail des collections des  23 Frac](https://images.navigart.fr/1000/3A/40/3A40510.JPG)
+			- Explore la trame de fond de Ann Lee
+			- Ann Lee évoque son statut de potentiel personnage et parle des autres personnages de son catalogue d’origine et dit *«il en avait qui avait le potentiel de devenir des héros»*
+	- Ann Lee est donc un personnage / Signe qui précède, habite et succède à l’histoire
+		- Elle précède l’histoire en ce sens qu’elle existe en tant qu’images de manga avant d’être acheté
+	- Dans une interview [[Philippe Parreno]] dit que le regard mélancolique de Ann Lee donne l’impression que le personnage est conscient de des faiblesses et de ses faibles chances d’être un personnage principale
+		- [[Pierre Huyghe]] lui dévie son statut de fille en «elle» mais en «ça»
+	- Ann Lee ne peut se dessiner elle-même en tant que signe elle ne peut parler ou écrire aux artistes pour leur accorder le droit de la représenter dans l’art
+	- Le professeur Kathryn Davis qui de manière ludique explore la question de savoir qui à crée Ann Lee à travers une lettre destinée à elle
+	- [[Pierre Huyghe]] [*One Million Kingdom*](https://lesoeuvres.pinaultcollection.com/fr/oeuvre/one-million-kingdoms),2001 ![](https://lesoeuvres.pinaultcollection.com/media/styles/ex_v/s3/art/10780_visuel_DET_HUYGHE_OneMillionKingdoms.jpg?itok=E9xvngYL)
+		- Ann Lee va incarnée avec une voix transformée le discours de Neil Amstrong posant le pied sur la lune et des extraits de [*Voyage au centre*](https://fr.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre) de la Terre de Jules Verne
+		- Le personnage se déplace dans un environnement où la topologie est générées graphiquement par les paroles du personnage
+			- Elle apparaît translucide comme vide pourtant elle est autrice de son propre environnement
+		- Au-delà du fait que la légalité intervient dans le débat sur le statut du personnage conscience, ce projet illustre les manières complexes dont le grand art s’approprie les formes de roman graphique
+	- Des artistes qui alimente le projet Ann Lee de façon plastique:
+		- [*No ghost just a shell*](http://www.noghostjustashell.com/) ( poster ) M/M PARIS: ![](http://www.mmparis.com/noghost/no%20ghost_1280.jpg){:height 368, :width 450}
+		- Agence de Graphisme qui réalise des posters pour plusieurs des films réalisés dans le projet, il design notamment des papiers peint qui décorent les murs où les vidéos sont exposées avec la création de motif pour le projet
+		- Angela Bulloch qui en collaboration avec Imke Wagener va crée plusieurs objets [*Annlee Konnekit*](https://unipub.uni-graz.at/obvugrhs/download/pdf/4590829?originalFilename=true), 2002 pour le projet. Conçus des objets polymorphes en plastique blanc qui servent d’outils ou de jouets à Ann Lee
+			- Les objets relient le monde virtuel de Ann Lee et le lieux d’expositions
+	- Liam Gillick: [*Ann Lee You Proposes*](https://www.youtube.com/watch?v=gPyndN9HSVw): ![Mamco / Liam Gillick](https://archive.mamco.ch/artistes_fichiers/G/gillick/AnnLee.jpg)
+		- Vidéo d’animation co-réalisé avec Lars Magnus Holmgren
+		- Alors que l’artiste est à Kitakyushu une ville dominé par ses industrie sidérurgiques. La ville était la cible initiale de la première bombe atomique de la premier guerre mondial
+			- Ann Lee fait références à cette évènement dans la vidéo, à une identité construite et à des espace semi-publics et semi-privés
+	- Alors que le projet critique la subjectivité humaine contemporaine en tant qu’individualité médiatisée et centralise les questions sur le pouvoir social, l’individualité féminine et l’identité [[Post-Humanisme]]
+	- Le projet invite à une «lecture» comme lire un récit
+		- Il contient un contexte narratif
+			- Le référent originel du manga
+		- Le projet lui-même est fortement Narrativisé
+			- Il présente un possible fin
+				- En 2002 Ann Lee ne peut plus être utilisée en tant que modèles numérique car les droits reviennent au personnage d’Ann Lee, Ann Lee obtient un contrat qui lui transfère les droits d'auteur et d'exploitation. Elle a été libéré en l’affranchissant de son copyright
+					- Le contrat est exposé dans la même salle qu’est exposé [*DIY or How to kill yourself anywhere in the world for under $399*](https://joescanlan.biz/store/diy/)
+						- [*DIY or How to kill yourself anywhere in the world for under $399*](https://joescanlan.biz/store/diy/) Joe Scanlan ![Joe Scanlan DIY cover](https://joescanlan.biz/wp-content/uploads/2018/06/1-Joe-Scanlan-DIY-Cover.jpg)
+							- Le livre présente quelle matériaux acheter et comment construire son propre [cercueil](http://ensembles.mhka.be/items/9419/assets/20327) dans n’importe quel IKEA pour moins de 399
+							- Un compte banal qui sur base la transformations de marchandises banales en un véhicule d’évasion transcendantal
+							- On y retrouve Ann Lee qui fait office de personnage de présentation
+						- [*Last Call*](http://ensembles.mhka.be/items/9419/assets/20785) de Joe Scanlan ![](https://s3.amazonaws.com/mhka_ensembles_production/assets/public/000/020/785/large/Joe_Scanlan__Last_Call__2002_Peter_Cox__Eindhoven__Nederland_Collectie_Van_Abbemuseum__Eindhoven__Nederland.jpg?1392816706)
+						- Ce poster présente ce qui pourrait être le dernière appelle de Ann Lee. L’appel d’Ann Lee peut présente ce que [[Philippe Parreno]] considéré comme une esthétique de l’alliance que le projet peut forme à travers les alliances des différents artistes au sein du projet
+				- Une fin à été envisagé par [[Philippe Parreno]] en 2003 avec le feu d’artifice [*Now You’ve Killed Me, I’m Alive*] ![](https://www.iesa.edu/sites/default/files/li_xiaoyuan_philippe_parreno_and_quasi-objects3.jpg)(https://www.iesa.edu/paris/news-events/philippe_parreno)
+	- Apparition:
+		- Lili Fleury, [*A Worm in an Apple, 2002*](https://www.nitesha.com/?pid=52746420)  ![](https://img20.shop-pro.jp/PA01188/451/product/52746420.jpg?20121210182736)
+			- Un livre qui présente une collection d’œuvres de l’artiste après son diplôme à École nationale supérieur des Art décoratifs de Paris on y retrouve des illustrations et des dessins d’Ann Lee
+- ### Ann Lee et ses droits
+	- La fin de Ann Lee est arrivé lorsqu'elle à repris possession de ses droits. En créant un contrat qui donne au personnage de Ann Lee sa pleine possession de ses droits de représentation.
+	- Ann Lee passe donc d’un signe visuel qui peut être utilisé dans un contexte narratif

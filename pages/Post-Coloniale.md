@@ -1,0 +1,42 @@
+- La théorie Post-coloniale intègre ce qui est porté par toutes les cultures touchées par l'impérialisme européens et le [[Colonialisme]], il prend acte de la fin du [[Colonialisme]]
+	- Questionne les pratiques artistiques d'origine non occidentale, en vue de développer de nouvelles analyses esthétiques à travers un prisme qui n'est ni celui de l'HDA occidentale, ni celui de l' [[Ethnographie]]
+- L'Orientalisme, Edward Said
+	- Professeur de littérature comparé palestiniens qui a étudie une série de ressources de la littérature pour comprendre la notion d'orient
+		- L'orient comme fabrication d'une altérité
+- Dans le terme Postcolonialisme il y a une survivance d'une relation de dépendance à la fin formelle du [[Colonialisme]] occidentale
+	- La France et l'Algérie dans un projet de peuplement garde un lien avec l'Algérie après sa déclaration d'indépendance
+- Remise en cause radicale du projet philosophique de la [[Modernité]]
+- # La tournant décoloniale
+	- Réseau intellectuelle d'Amérique latine des années 1990 qui témoigne du rapport de force toujours présent dans les pays colonialisé. Remettent en question l’épistémologie occidentale tant dans le discours scientifique que dans le sphère politique, en réaction à la persistance du racisme, du sexisme, écocide, ethnocide et génocide.
+	- théories inspirées par des regards critiques sur la [[Modernité]] occidentale, puisque la colonialité est considérée comme son côté le plus sombre.
+		- Refuse l'idée d'une réelle fin du [[Colonialisme]]
+			- Les relations de pouvoir ne sont pas que des dominations économique, politique, et administrative du centre. Mais un rôle sur la dimension épistémique et culturelle
+		- Questionne la place des [[Industries Culturelles]]
+	- Colonialité du pouvoir du savoir, rapport de force inégale issue du [[Colonialisme]]
+		- Négation ontologique des sujets racialisés
+			- La race n'existe pas du point de vue scientifique
+				- Les identités raciales sont des fictions
+		- Racisé quelqu'un c'est mettre un stigma physique, altériser l'autre
+			- L'autre est l'autre car il n'est pas moi
+	- Blanchité: identité raciale
+	  id:: 66f1210b-a5e3-4309-9886-f50827578fa5
+		- Intérêt matériels des personnes blanches
+			- Question de l'hégémonie social, culturelle et politique à laquelle sont confrontés les minorités ethno raciales
+			- Renvoi à un construit social et un mode d'assignation ou d'adhésion, processus d'auto identification à une identité blanche socialement gratifiante
+	- L'hégémonie blanche est une propriété structurelle des pratiques sociales violentes qui déterminent la fonction des institutions et des représentations culturelles en plaçant certains groupes sociaux dans une situation de privilège et d'autres en situation de subordination
+		- Implique une perception racialisée de la réalité qui définit l'identité individuelle des personnes
+		- L'identité du groupe blanc dominant blanc est ainsi construite comme l'unique représentation de l'humanité
+		- Etre blanc signifie ne pas appartenir à un groupe racial, puisque seules les minorités raciales sont racisées
+		- La blanchité raciale apparait comme une identité raciale socialement invisible et paradoxalement aussi extrêmement visible
+	- Ces théories sont inspirées par des regards critiques sur la [[Modernité]] occidentale, puisque la colonialité est considérée comme son côté le plus sombre
+- ## Colonialité
+	- Type de pouvoir né du [[Colonialisme]] moderne qui lui survit durablement sous d'autre formes
+		- Les relations coloniales de pouvoir ne sont pas limitées aux dominations économique, politique, juridique mais ont aussi une importante dimension épistémique et culturelle
+			- Le débat politique au Sénégal était français car langue assimilé au pouvoir de l'état et aujourd'hui est en walof
+	- Pluriversalisme transmoderne: Vision pluriel de la [[Modernité]]
+		- La [[Modernité]] se base sur la récupération des ressources premières pour développé la [[Modernité]]
+- # Laakkuluk Willamson Bathory
+	- Laakkuluk Willamson Bathory, Greenlandic Mask Painting, 2021 ![MASTER CLASS: GREENLANDIC MASK PAINTING with Laakkuluk Williamson Bathory](https://i.ytimg.com/vi/Ywu0nRx8sR8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2BjMVFdCv627Ow78wi-Y1ogLcLw)
+		- D'origine kaalaleq ou inuk groenlandaise basée a Iqaluit Nunavut
+			- Connue pour sa danse de masque *uaajeerneq* "une forme d'art idiosyncratique" qui ne se réfère qu'à sa propre mythologie
+		- La danse sur uaajeerneq a été rejetée lors des missions colonialistes, c'est une réappropriation qui s'inscrit dans un discours Post-Coloniale

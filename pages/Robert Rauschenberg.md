@@ -1,0 +1,65 @@
+- Lui et son collègue [[Jasper Johns]] sont qualifié de néo dadaïste [[Proto-Pop Néo Dada]].
+	- Une envie de rapprocher l'art et la vie qui les rapproche des intentions [[Dada]] et [[Fluxus]]
+	- [[Jasper Johns]] et Rauschenberg sont fort influencé par les [[Ready-made]] de [[Marcel Duchamp]]
+- Art Magazine s'intéresse au *Blueprint* de Rauschenberg.
+	- *Blueprint* en collaboration avec Susan Weil à la suite de leur mariage
+	- Robert Rauschenberg and Susan Weil, *Untitled (Double Rauschenberg)*, 1950 ![*Untitled (Double Rauschenberg)*](https://www.moma.org/d/assets/W1siZiIsIjIwMTcvMDYvMjIvNG5iN3hxdDNoc18xNDk0NjkxNTU4XzgwMV9Eb3VibGVfUmF1c2NoZW5iZXJnLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/1494691558_801_Double_Rauschenberg.jpg?sha=a81655b455c2ec69)
+		- *Blueprint* réalisés à échelle 1/1. Le MoMA fait l'acquisistion d'un de ses blueprint
+- ## [[Black Mountain College]]
+	- En 1951 il rejoint le [[Black Mountain College]] où il réalise *Night Blooming* avec une peinture à base de cailloux et de gravier
+		- Robert Rauschenberg [*Night Blooming*](https://www.rauschenbergfoundation.org/art/artwork/untitled-night-blooming), 1951  https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/2025-03/51.012_00.jpg?itok=YbnEwd_y
+	- Il recontre [[John Cage]] avec qui il collaborera de nombreuse fois. Une de leur premier collaboration est
+		- Robert Rauschenberg, [*Automobile Tire print*](https://www.rauschenbergfoundation.org/art/artwork/automobile-tire-print), 1953 ![Automobile Tire Print | Robert Rauschenberg Foundation](https://www.rauschenbergfoundation.org/sites/default/files/2025-03/53.E001_00.jpg)
+			- Une longe trainer de pneu réaliser avec la voiture de [[John Cage]]
+		- Ensembles ils réaliseront *Antic Meet* un pièce de théâtre ou Rauschenberg fera les costume et la scénographie, Merce Cunningham fera la chorégraphie et [[John Cage]] la musique
+			- Merce Cunningham, [*Antic Meet*](https://www.moma.org/audio/playlist/297/777), 1958 ![Merce Cunningham. Antic Meet. 1958 | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMjAvMDEvMjQvMXV5ZDlibHU3eF8yODJhbnRpY21lZXRfdXBzaXplZC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/282anticmeet_upsized.jpg?sha=1598788b7fb8d285)
+- Il deviendra parent aves Susan et quittera Susan par la suite pour [[Cy Twombly]]
+	- Il entreprend par la suite un voyage en Afrique du Nord avec son ami [[Cy Twombly]], de se voyage il crée des sculptures et des collages à partir de matériaux trouvés
+		- Robert Rauschenberg, [*Senza titolo (Feticcio/Scatola)*](https://wannenesgroup.com/lots/402-110-robert-rauschenberg-2/), 1951 ![ROBERT RAUSCHENBERG](https://wannenesgroup.com/wp-content/uploads/cssas/lotimages/slider/9848_0303_0001.jpg){:height 458, :width 450}
+		- ((661023c4-fc5f-4888-b5d3-e4045e211c0e))
+- A son retour il continue ses méthodes de collages avec des matériaux trouvés dans son quartier
+- Face à la domination de [[Expressionnisme Abstrait Américain]]  sur la scène artistique américaine et New Yorkaise, il demande en 1953 à [[Willem DeKooning]] un dessin dans le but de l'effacer.
+	- Il ne voulait pas être un membre de la seconde génération d' [[Expressionnisme Abstrait Américain]]
+	- Robert Rauschenberg : [*Erased deKooning*](https://www.sfmoma.org/artwork/98.298/), 1953 ![Robert Rauschenberg, Erased de Kooning Drawing, 1953 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/08/25062920/98.298_01_B02-Large-TIFF_4000-pixels-long-scaled.jpg)
+	- [[Willem DeKooning]] lui donnait une peinture qu'il serait difficile a effacer
+		- Robert réalise une œuvre par substruction conceptuelle
+	- Il rejette le cloisonnement abstrait de [[Expressionnisme Abstrait Américain]] il cherche plus de figuration
+- Il rencontre [[Jasper Johns]] avec qui il développe une long relation
+	- Tout deux réfutais l'[[Expressionnisme Abstrait Américain]] et commençait à mettre les bases du [[Pop-Art]]
+- Rauschenberg dans un état de précarité se met a collecter des déchets comme matériaux artistique
+	- Début d'un regard sur la production visuel issu de la société consommation américaine florissante
+- De la va naitre ses premières *combine paintings*
+	- Robert Rauschenberg, [*Bed*](https://www.rauschenbergfoundation.org/art/artwork/bed), 1955 ![](https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/2025-03/55.004_00.jpg?itok=krLXtxEB)
+- La critique rejette ses premiers *combine painting*
+- Suite à un adultère de Rauschenberg avec un danseur de la compagnie de Cunningham [[Jasper Johns]] quitte Robert
+- Peu après il est sélectionner par la biennale et remporte le lion d'or
+	- Premier américain a remporter ce prix
+- Il réaliser sa première rétrospectif en Angleterre
+	- Un succès critique qui le compare à [[Jackson Pollock]]
+- En 1963 après une visite au studio d'[[Andy Warhol]] Rauschenberg se met à la sérigraphie, ce qui ont poussée les critiques à l'identifier au [[Pop-Art]]
+	- Robert Rauschenberg, [*Sans titre*](https://www.guggenheim-bilbao.eus/fr/exposition/salles-202), 2023 ![Salles 202 | Musée Guggenheim Bilbao](https://cms.guggenheim-bilbao.eus/uploads/2024/01/Rauschenberg.jpg)
+- Rauschenberg commence petit à petit à danser de plus en plus notamment en collaborant avec Merce Cunningham
+	- Il intègre les rollers dans beaucoup de ces danses
+		- Robert Rauschenberg, [*Spring Training*](https://www.rauschenbergfoundation.org/art/archive/spring-training), 1965  ![](https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/2023-05/P1275_00.jpg?itok=2T6vHB_D)
+- L'une de ses plus grosse pièce est *Open Score* presenter comme *9 evening Theatrhe & Engineering*
+  id:: 67d6c496-6885-4796-a10c-e3ea157238ce
+	- Robert Rauschnberg, [*Open Score*](https://www.rauschenbergfoundation.org/art/archive/open-score-0), 1966 ![](https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/2023-05/P1476_00.jpg?itok=vhOb0GTW)
+		- Lors de la perfomance des matchs de tennis avait lieu
+			- [[Frank Stella]] participa a un match avec sa compagne
+		- Les raquettes était rallier a un system son pour que chaque coup de raquette produisent un son métallique fort
+		- Le lieux avait un écho de 5seconde ce qui correspond au temps entre les deux coups
+	- Apres la salle et plonger dans le noirs et une centain de personne apparaisent et disent my name is
+	- A la fin on voit robert récupérer un sac dont une voix enfantine émane
+	- C'est le début de sa collaboration avec les nouvelle technologies et l'ingénierie notamment en collaborant avec Bill Clover
+		- En collaboration avec un ingénieur de Bell il réalise une installation lumineuse audio réactives
+			- Robert Rauschenberg, [*Sounding*](https://www.rauschenbergfoundation.org/art/artwork/soundings), 1968 ![Soundings | Robert Rauschenberg Foundation](https://www.rauschenbergfoundation.org/sites/default/files/2024-12/68.001_00.jpg)
+- De par son intérêt technologique la Nasa l'invite pour assister au lancement de Apollo 11, à la suite du lancement il réalise des lithographies à base d'archive d'images de la Nasa
+	- Robert Rauschenberg, [*Stoned Moon*](![Stoned Moon | Robert Rauschenberg Foundation](https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/70.D078.jpg?itok=5WAXmznm)), 1969 ![](https://www.rauschenbergfoundation.org/sites/default/files/styles/767x/public/70.D078.jpg?itok=5WAXmznm)
+- Il achète un immense studio où il collabore et travail avec de nombreus..es artistes créant un univers de travail joviale
+	- L'un des membres du studio est Christopher le fils de Rauschenberg
+- Il est alcoolique et son indépendance financière empire le problème
+	- Ne travaillant pas alcoolisé il commence à travailler de moins en moins
+		- Il apparait de moins en moins respectueux avec les autres
+- Suite à cela il part s'installer en Floride en 1970 où il développe d'autres techniques d'impressions
+	- Robert Rauschenrg, [*Hoarfrost*](https://www.guggenheim.org/artwork/3553), 1974 ![Robert Rauschenberg | Glaze (Hoarfrost) | The Guggenheim Museums and  Foundation](https://www.guggenheim.org/wp-content/uploads/1975/01/84.3165_ph_web-1.jpg)
+- id:: 657053ca-41ba-45fe-bbaa-9122a695274c

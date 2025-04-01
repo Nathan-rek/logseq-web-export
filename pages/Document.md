@@ -1,0 +1,109 @@
+- Quelle lien la les artistes ont aves les productions périphérique au objets d'art traditionnel (documents, notes de travail, esquisses)
+	- Chez Sherrie Levine ou Richard Prince leurs oeuvres sont ici une reproduction d’un document sélectionné par l’artiste, ou se
+	  présentent comme un assemblage de différents documents (ainsi que pour l’exemple de Prince reprenant certaines images de la série des *Womens* de [[Willem DeKooning]] )
+- ### [[Marcel Duchamp]] : [*Le Grand verre*](https://www.google.com/url?sa=i&url=https%3A%2F%2F321histoire.wordpress.com%2F2013%2F05%2F12%2Fle-grand-verre%2F&psig=AOvVaw0x38L-Nr7jRPrhRDqsZ4B2&ust=1681891673683000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjLlPD8sv4CFQAAAAAdAAAAABAE)(1915-1923) ![Le Grand Verre est une oeuvre de Marcel Duchamp, commencée en 1915, et laissée inachevée.](https://321histoire.files.wordpress.com/2013/05/duchamp_largeglass.jpg?w=490&h=756){:height 702, :width 450}
+  id:: 67cea6a3-9cf4-4fa8-86cc-4797cc275f5e
+  collapsed:: true
+	- Aborder la question de l’œuvre à travers le document:
+		- De clivage entre œuvre et document
+			- Il emporte avec lui un document, le schéma du grand verre:
+	- L’œuvre est inachevée il se demande si elle est donc œuvre.
+		- L’œuvre va être arrêtée dû à une «destruction» imprévue, laissée en état d’inachèvement
+			- D’un point de vue théorique c’est une non œuvre
+				- La trace de quelque chose celle de l’œuvre brisée
+	- D’autres œuvres préparent la construction du grand verre
+		- Stratégie d’expérimentation qui prépare le grand verre Système documentaire préparatoire
+		- [[Marcel Duchamp]], [*Les trois stoppage d’étalons*](https://www.centrepompidou.fr/fr/ressources/oeuvre/crb5LdB), 1913 -1964 ![3 stoppages-étalon - Centre Pompidou](https://www.centrepompidou.fr/media/picture/70/bd/70bd53265b8b553704c2a57d570df0c9/thumb_large.jpg)
+		- 3 cordes de 1 mètres de longueurs déterminée ( instrumentation des valeurs > issue de la [[Modernité]] ) en lâchant la corde
+		- Fait un élevage de poussière en laissant à l’abandon le Grand verre
+			- Transformé en pigment
+		- Prépare de manière expérimentale des éléments iconographiques:
+			- [[Marcel Duchamp]]: [*Le moulin à eau*](https://www.artnet.fr/artistes/marcel-duchamp/le-moulin-%C3%A0-eau-IiW54s02ho_mbY8dcSkbPg2), 1965 ![Réunion des Musées Nationaux-Grand Palais -](https://www.photo.rmn.fr/CorexDoc/RMN/Media/TR1/71PTBI/15-596814.jpg)
+		- D’autre œuvres témoignent de la germination du *Grand verre*
+			- ((677beea6-6219-4876-b087-c911b7eb80e5))
+			- Élabore progressivement le registre de la mariés
+			- Une œuvre c’est une fenêtre ouverte sur le monde
+				- Réalise structurellement une peinture sur une fenêtre guillotine
+			- Rencontre entre la partie féminine (partie supérieur) et la partie masculine (partie inférieur) en deux parties: prépare la construction du Grand verre
+	- Système documentaire préparatoire
+		- L’œuvre est rabattue au statue de document qui devrait être manipulé par ces artefacts
+		- Une valise qui reprend les éléments qui environnent la préparation du Grand verre
+			- La production de cette boite ont autant d’autonomie artistique que les œuvres en elles mêmes
+			- L’œuvre advient au dessus de la matérialité de l’œuvre
+				- Déconstruit le statue traditionnelle de l’œuvre
+			- Rend le grand verre à un statut documentaire
+		- [*La boite verte:*](https://www.museoreinasofia.es/en/collection/artwork/boite-verte-mariee-mise-nu-par-ses-celibataires-meme-green-box-bride-stripped) boite qui recueille non pas que des images mais essentiellement des notes qui traitent de l’approche du *Grand verre* ( Traité d’optique / lecture de poésie / pataphysique ) > partie théorique mystique
+			- Le document est un élément d’approche à travers l’appareillage hétérogène de l’œuvre
+	- Notes manuscrites de [[Marcel Duchamp]]
+	- Le vert pour le tapis de jeu, document numérotés mais non organisé
+- ### [*Revue Document*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k32951f&psig=AOvVaw0vTbVnbWPb_9fHFg4263gn&ust=1681891804742000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4yq79sv4CFQAAAAAdAAAAABAI)(1928- 1930):
+	- Georges BATAILLE, mise à mal du régime esthétique occidentale > Le super livre dissident > Revue en deux exemplaires > Toutes productions humaines est un fait d’art: Artefact > élément de critique de l’idéalisme et du [[Surréalisme]] dogmatique d’André Breton
+	  id:: 65d3770d-ce90-47ca-975b-7dea2048eaf7
+		- Éditée en Noir & Blanc soutenue par un galeriste > édité deux années
+		- Approche culturelle de l’art
+			- La gazette des Beaux art: Revue qui témoigne le point de vue du statue des beaux arts
+				- A l’inverse il n’y a pas ce titre dans Document
+		- Essaie d’analyser des éléments théoriques – Archéologiques – De Beaux Art (intègre des pratiques populaires) –  ethnographique: Revue multidisciplinaire > Construire une méthodologie d’approche artistique
+		  id:: 65d3770d-812b-4143-a25c-69a4c6fd4d9e
+			- Anticipe les clivages disciplinaires > Transformation méthodologique
+			- Désamorcer l’esthétique traditionnelle occidentales:
+			- Théorie dialectique des écarts entre pulsions rationnelles et pulsion vitales:
+				- Mettre en tension l’humanité entre rationalité et rapport pulsionnelle
+					- Théorie du bas > Tension de l’humanité vers un verticalité (tropisme normatif) les mouvent entre la verticalité et l’horizontalité;
+						- signe du crachat > élément rationnelle qui provient de la bouche ( la tête le cerveau éléments rationnelle ) tombant de vers le sol > Opposition face a théorie de la verticalité
+			- [*Le Cheval académique*](https://semio4evah.home.blog/2019/04/30/chapitre-4-documents/) > mettre en acte le projet méthodologique du Document: Remarque une détérioration de l’élément symbolique:
+				- La lecture traditionnelle impliquerait une lacune de représentation symbolique
+				- Bataille s’oppose à cela: La mise à mal de l’entité anatomique du cheval
+					- Le cheval représente l’animal domestiqué par le pouvoir le pouvoir sait sur la nature et exercice sont pouvoir sur celle si > en mettant à mal l’anatomie du cheval il met à mal l’articulation savoir / pouvoir
+		- Le sommaire présente cette méthode d’approche à travers la pluralité des sujets ( [[Ethnographie]]  – Archéologie – [[Académie - Beaux-Arts]] )
+		- Radicaliser les approches des œuvres d’arts  > approche documentaire qui aborde une multiplicité de mediums qui considère les artefacts
+- ### Artistes allemand..es qui vont développer un rapport au document:
+	- [[Gerhard Richter]] Engage la peinture (geste picturale) dans un point d’ancrage historique: Un geste subjectif qui permet de re-subjectiver un élément objectif historique
+		- [[Gerhard Richter]] September, 2005 ![September, 2005 - Gerhard Richter - WikiArt.org](https://uploads4.wikiart.org/00283/images/gerhard-richter/september-2005.jpg!Blog.jpg)
+			- Applique un geste picturale sur une photo du 11 septembre
+			  id:: 661023c5-a3b4-4cad-8c79-6569f1d79609
+		- Organisation d’un Atlas planche de même format qui lui permet d’agencer l’arrière plan de la productions de ces peintures: réorganiser un ensemble de matériaux issue de différent type de reproduction agencer de manière libre sans normes
+		- S’articuler à travers un montage d’image
+			- Construire certaine représentation de l’histoire par l’image
+		- Partir d’image personnelle pour produire une représentation visuel à travers une expérience personnelle
+	- En opposition à la perte de l’aura de l’œuvre de [[Walter Benjamin]]
+		- Face à cette reproductibilité c’est de reproduire un aura du à cette reproductibilité
+		- Interroger le principe de vérité qui accompagne cette reproduction de l’image
+			- Re-subjectivisation de ce qui accompagne les images
+	- Le travail documentaire en référence:
+		- Warburg: [*Atlas Mnémosyne*](http://indexgrafik.fr/atlas-mnemosyne-aby-warburg/): Collecte de formes en fonction de mouvement emphatique
+		- [[Joseph Beuys]] : Déployer son travail d’artiste à partir d’un trauma historique (Allemand qui à participé de la second guerre mondiale) en construisant un mythologie personnelle
+	- ROTH: installe un système de captation visuel dans sa maison lors de sa dernière années de vie (film 24/24):
+		- œuvre de nature testamentaire.
+		- Narcissisme détourné: se considère comme sujet d’inspection à travers l’outil technologie
+			- L’artiste n’est pas que sujet, il est sujet et objet
+		- Recours à des stratégies de documentation pour interroge une vérité > La vérité de l’image
+			- L’image photographique dispose d’une valeur de vérité > au déploiement des nouvelles images numériques les images de vérité se déplacent des modèles photographiques et déplace la valeur de vérité de l’image
+	- Hans Peter Feldmann: [*Die Toten*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.fr%2FDie-Toten-1967-1993-Peter-Feldman%2Fdp%2F3933485010&psig=AOvVaw3xm74lsUb-un7u-I_sY21P&ust=1682501047558000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODo0fvaxP4CFQAAAAAdAAAAABAE): recueille d’images de massacre terroriste
+		- Peut être exposé de façon [[Exposition]]
+		- Travaille historique de l’image, au delà de la dramatisation de l’image
+			- A travers une grille de mise en page
+				- Animé et standardisé les images met à distance la brutalité du fait historique
+			- Interroger un fait historique allemand et les stratégies de médiatisation de l’image
+				- Brutalité pris en charge par des systèmes médiatiques qui ont participé à la mise en contexte de ce sentiment de terreur
+			- Attentat du 9/11 collectionne les première de couverture de une de journée publié dans la foule de l’attentat
+				- Comment le spectre médiatique à véhiculer les faits historiques
+				- Constitue un corpus d’image sur la manière dont se fait à été mis en image
+				- La fonction répétitive de la mise en page permet aux spectateurs de ce mettre lui même dans une position d’analyse de la médiatisation des images
+- ### [*Atlas Group*](https://www.theatlasgroup1989.org/)(collectif fictif), Walid Raad
+	- ![Walid Raad, Inside Information | Zérodeux / 02](https://www.zerodeux.fr/wp-content/uploads/2014/10/atlasGroup_the_weather_helped-USA_Switzerland.jpg)
+	- le conflit Israël / Liban :
+	- Une instance fictionnelle partir du quelle une interrogation historique va naître
+	- La fictionnalisation au-delà de sa vérité énonce quelque chose de véritable
+	- Les images sont référencées par l’utilisation de gommette qui présente les munitions utilisées (chaque gommette incarne un type de munition > Basé sur des informations historiques)
+		- Retravailler les fichiers photographiques non pas dans leurs histoires même mais à travers le processus de [*Altas Group*](https://www.theatlasgroup1989.org/) révéler une autre vérité
+		- [*Altas Group*](https://www.theatlasgroup1989.org/)ne cherche pas à faire acte d’historien..ne mais acte de retranscription de vérité
+		- Questionner l’économie de guerre en révélant des leurs comment
+		- Oscillation entre la beauté et l’effroi dans les productions
+	- Monochrome de couleur qui représente les codes couleurs de zone maritime libanaise
+		- Prendre un échantillon du code couleur de la carte maritime ou un bateau à été immergé lors du conflit
+- Hall Foester : questionne le tournant archivistique
+	- Pratique artistique capable de charger en histoire les archives
+		- Archive Fever:- Exposition montée par Okwui Enwezor issue du livre de Derrida (Mal d’archives): analyse en quoi les problématiques de l’archivage sont des enjeux idéologiques:
+			- Se ressaisir des archives historiques pour repenser la situation
+			- Œuvre > Ergon  / Document préparatoire > Parergon

@@ -1,0 +1,50 @@
+- Donc l'art des nouveaux médias propose une interrelation esthétique et une collaboration entre l'art, le plus que humaine, la science et la technologie. Diverses pratiques artistiques inventent leurs propres technologies ou utilisent les technologies existantes et servent même
+  d'innovateur pour les nouvelles technologies.
+- Les New-media art remettent en question le principe d’objet d’art
+	- Différence explicite avec les pratiques artistiques qui utilisent des médias visuels traditionnels: Comme la peinture, la sculpture, etc.
+		- [[Bio-Art]]
+- L’interactivité
+- Processualité
+	- Le processus fait parti intégrante de l’œuvre, les œuvres se sont pas fixes
+- Non-linéaire
+- Immatérialité
+- Créer ces propres technologies
+	- Englobe les formes d'art qui sont soit produites, modifiées et transmises par l'utilisation de technologies «nouvelles» ou «anciennes» (Des technologies de rituels et cérémonies (avec la terre), aux technologies de manipulation génétique ou d'astronomie ou d' [[AI]] ….)
+	- ## Cannupa Hanska Lugar
+		- [Cannupa Hanska Lugar](https://www.cannupahanska.com/) est un artiste né dans la réserve de Standing Rock, Dakota du Nord USA (Dakota: grand communauté indigène nord américaine)
+			- Crée des instalations qui à travers l'histoire met en avant la condition de l'indigénéité.
+			- [*The Mirror Shield Project*](https://www.cannupahanska.com/social-engagement/mirror-shield-project) ![Mirror Shield Project — Cannupa Hanska Luger](https://images.squarespace-cdn.com/content/v1/63debd46d3ba8f71b9f866e0/1676414203729-JONIEKVKQNIWNZ033IU0/09+Mirror+Shield+Project++Concept+Artist_+Cannupa+Hanska+Luger+Oceti+Sakowin+camp%2C+Standing+Rock%2C+ND+2016+.jpg?format=1500w){:height 292, :width 450}
+			  id:: 656dc6a5-40c4-4f2b-8f11-ad339ffee2e8
+				- Vidéo Tuto qui invitent les gens à créer des boucliers miroir de défense activiste face à la création du projet Dakota Acces
+				- Basé sur la construction du pipeline Dakota Acces. Une ligne de 1886km de canalisation souterraine qui transport du pétrole brut tout les jours. Cette pipeline traverse plusieurs lieux sacrée et les met en péril en les traversant ( risque de contamination )
+				- De nombreux..ses membres de la tribu de Standing Rock et d'autres communautés ou des activistes écologistes ont protesté..es contre ce projet. Dans le risque d'une faillite du tube qui polluerai les lieux sacrés
+		- Il use des de la fiction spéculative pour repenser le futur de son peuple
+		- [*Future Ancestral Technologies*](https://www.cannupahanska.com/fat), 2017 ![Cannupa Hanska Luger: Sé'sh Shóto'sh Psí'sh | MAH](https://santacruz-mah.imgix.net/uploads/6.-Muscle-Bone-Sinew.-Cannupa-Hanska-Luger.-Film-Still.-Cinematogrpaher-Lucas-Mullikan-2021-cropped_color-correct-version.jpeg?auto=format&crop=focalpoint&domain=santacruz-mah.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=800&ixlib=php-3.3.1&q=82&w=800)
+			- Série de Vidéos, sculpture, performance qui combien science-fiction avec la réceptivité indigène, utilisant l'artisanat humain
+			- Comment maintenenit la culture à l'avenir furute ?
+				- Vaincre le capitalisme [[Colonialisme]] avoir une économie de l'échange émotionnelle ( enjeux du [[Capitalocène]] )
+				- Pratiquer la maintenance plus que de la préservation
+				- Propose d'appendre à un modèles d' [[AI]] à être responsable envers le paysage et l'environnement
+	- ## Nicole L'Huillier
+		- ((6564978f-a334-447d-a1ed-fc1c68fa9d26))
+		- Travaille l'intersection de [[Art & Science]] avec des sons, des vibrations, des résonance,
+		- Nicole L'Huillier: [*El Poema de la Fabrica Cosmica*](https://elephant.art/nicole-lhuillier-interview-robots-sound-space-28062020/el-poema-de-la-fabrica-cosmica_01_-credit-nicole-lhuillier/), 2019 ![El Poema de la Fabrica Cosmica_01_ Credit Nicole L'Huillier - ELEPHANT](https://elephant.art/wp-content/uploads/2020/08/El-Poema-de-la-Fabrica-Cosmica_01_-Credit-Nicole-LHuillier-scaled.jpg)
+			- Un rituel sonore qui consiste en séance d'écoute de la performance du lieu guidée par le PARACANTORA
+				- Un appareil sonore qui agit comme un medium entre les mondes (le monde visible perceptible et imperceptibles)
+				- Il s'agit d'un dispositif transductif qui contient des capteurs environnementaux qui sont mappés en temps réel sur des sons (synthétiseurs, échantillons, textures, mots et autres voix) pour créer une empreinte sonore de ce moment spécifique dans l'espace et le temps.
+				- User de sa propre technologie pour rendre sensible les liaisons avec le plus qu'humain
+	- ## Alberta Whittle
+		- Artiste originaire des Barbades elle travail son héritage diasporique, à la fois historique et présent dans des communautés noires des Caraïbes et au-delà
+		- Alberta Whittle: [*Between a whisper and a cry*](https://artscouncilcollection.org.uk/artwork/between-whisper-and-cry), 2019 ![Alberta Whittle, between a whisper and a cry: accumulating gestures | LUX  Scotland](https://luxscotland.org.uk/assets/images/_1200x630_crop_center-center_none/4.-between-a-whisper.jpg)
+			- Traite de la mer comme cimetière du commerce esclavagiste transatlantique
+				- Une problématique qui s'actualise notamment avec l'augmentation des réfugiés climatiques
+		- Alberta Whittle: [*Mammmmmywata presents life solutions international*](https://lux.org.uk/work/mammmmmywata-presents-life-solutions-international/), 2016 ![Mammmmmywata presents life solutions international - LUX](https://lux.org.uk/wp-content/uploads/2021/07/1-mammmmmmywata-presents_orig.jpg)
+			- *Mammmmmywata* représente une figure mythique identité hybride
+				- Cette figure cherche à demander le pardon de la part de l'Ecosse par rapport aux actes de [[Colonialisme]] de l'Ecosse
+	- ## Saša Spačal
+		- [Saša Spačal](https://www.agapea.si/en/about) artiste à l'intersection entre les systèmes vivants
+		- Saša Spačal: [*My connect*](https://www.agapea.si/en/projects/myconnect) 2013 ![Myconnect – Agapea Saša Spačal](https://www.agapea.si/wp-content/uploads/2015/05/S3D3092-WB2.jpg)
+			- Synchronise les rythmes cardiaque entre un champignon et un corp
+				- Symbiose par des liaisons rhizomatiques, vers une symbiose plus qu'humain..e
+				- Se base sur la pensée Rhizomique développé par [[Gilles Deleuze]] & Guattari
+		- Evoque une condition [[Post-Anthropocène]]

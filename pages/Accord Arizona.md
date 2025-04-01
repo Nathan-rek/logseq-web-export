@@ -1,0 +1,26 @@
+- Thibault Defeixe, conseiller dans un cabinet écologiste
+- Vote aux élections, un pourcentage de votes est attribué à chaque parti, ce pourcentage est transformé en nombre de sièges
+	- Le premier parti reçoit une prime, ce qui favorise la constitution d’une majorité
+- La majorité actuelle (2025) est à droite
+	- Le MR et la NVA se rallient
+		- Le MR profite d’un accord de majorité qui était plus ou moins flou, ce que la NVA réfute et cherche à redéfinir
+			- L’accord de majorité n’a qu’une valeur politique, il est souvent modifié et tronqué
+				- Ce sont des lignes de force qui tracent les axes de travail du gouvernement
+	- L’accord Arizona et Bart De Wever (indépendantiste flamand)
+		- C’est la dernière législature qui liste les accords ouverts à révision
+			- On décide avant les élections quels articles pourront être mis en débat
+		- Bart De Wever envisage, avec cette juridiction, une double réélection
+- L’Europe comme législateur suprême dans le Stratego des lois
+	- Les directives européennes sont les directives supérieures
+	- Lorsqu’un État membre ne fait pas évoluer sa législation pour correspondre aux attentes des directives européennes, il peut être sanctionné
+- La Flandre veut imposer un système de sanctions à la Wallonie
+	- Notamment sur l’austérité budgétaire
+		- L’Europe met en place une norme d’endettement
+- La grande mesure d’Arizona porte sur l’allocation chômage
+	- Au cours de 2 ans, on peut perdre ses allocations chômage, mais en réalité, c’est 1 an
+		- Il faut prester 312 jours de travail pour obtenir une année d’allocations chômage
+- Les sociologues du travail prévoient un fort afflux de pauvreté
+	- Lorsqu’un CPAS octroie un revenu d’intégration
+		- 70 % est payé par le fédéral et 30 % est payé par la commune
+			- Le paradoxe social des communes
+				- Anderlecht présente un fort taux de chômage

@@ -1,0 +1,13 @@
+- Envoyée au État-Unis par ses parents, elle participent à l’émergence du Body Art, se met en relation avec la terre de façon symbolique
+- Lors d’une exposition au Jeu de Paume: Covered in Time and History
+	- Ana Mendieta: [*Silueta Serie*](https://www.guggenheim.org/artwork/5221), 1973 – 1980
+	  id:: 65d3770b-3fc2-421c-924c-2827dbeada7c
+		- Utilisation de son corps nu pour créer des silhouettes féminines
+			- Dialogue entre son corps et le paysage autour de la présence et de l’absence
+		- Aspect de la Santeria Cubaine[^29]
+		- Ana Mendieta: [*Energy Charge*](http://www.carnetdart.com/ana-mendieta/ana-mendieta-energy-charge/) ![](http://www.carnetdart.com/wp-content/uploads/2018/09/ana-mendieta-energy-charge.jpg)
+			- A travers un détecteur thermique identifie sa silhouette et la chaleur de l’arbre
+		- Ana Mendieta: [*Creek*](https://www.artsy.net/artwork/ana-mendieta-creek), 1974 ![Ana Mendieta, ‘Creek’, 1974, Video/Film/Animation, Gropius Bau ](https://d7hftxdivxxvm.cloudfront.net/?height=606&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FclbD6HG5ajAwTn6-lUwjpw%2Fnormalized.jpg&width=800)
+			- Pas de structure narrative un flux continu et paisible
+- Ana Mendieta: [*Facial Hair Transplants*](https://www.artnet.fr/artistes/ana-mendieta/untitled-facial-hair-transplants-a-3_Evyd20bvPWSWRYGLKevQ2), 1972 ![Untitled Facial Hair Transplants by Ana Mendieta on artnet](https://www.artnet.com/WebServices/images/ll2072245llg4RfDrCWBHBAD/ana-mendieta-untitled-(facial-hair-transplants).jpg)
+	- Tentative d’hybrider son genre à travers la transplantation de poil

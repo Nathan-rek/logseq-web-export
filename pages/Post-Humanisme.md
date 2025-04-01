@@ -1,0 +1,23 @@
+- Le post-humanisme philosophique est une idée de la philosophie critique des années 70.
+	- Revendication des minorités qui remettent en question les régimes de représentation de la vie humaine et de la subjectivité
+- Cherche à briser les idées dualistes sur lesquelles l'humain est construis
+- Redéfinit les frontières entre la compréhension philosophique moderne du concept "humain"
+- Rejette les dualismes et anthropocentrique qui place l'expérience humaine universelle centré sur l'homme blanc occidental comme condition universelle.
+- ## Quelle est la subjectivité humaine ?
+	- Protagoras propose anthropos qui signifie humain mais n'inclut pas tout les humains
+		- Etre anthropos c'est ne peut pas être un être divin
+		- Un animal non humain n'est pas anthropos
+		- Ne pas être barbares
+	- L'Humanisme
+		- Ideal classique du modèle de l'humain qui suit la définition de Protagoras
+		- Fixe des normes pour les individus et leur cultures
+		- Le paradigme euro centrique implique la dialectique du soi et de l'autre et la logique binaire de l'identité et de l'altérite
+	- Selon le post-humanisme il faut abandonner la rhétorique universaliste de l'humanisme et de déconstruire le conte de la subjectivité humaine
+		- La différence n'est pas péjoratif
+- ## Technologies
+	- Réflexion critique sur la coévolution entre le technologie et l'humain
+		- Ne cherche pas à la supprimer ni en à en faire un espoir divin
+	- Le soucis est dans l'usage qu'on en fait
+		- Le post humanisme refuse les relations utilitaires que la technologies peut créer
+			- Le post-humanisme critique l'utilisation des technologies pour transformer les forces naturelles en énergie.
+-

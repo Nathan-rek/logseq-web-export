@@ -1,0 +1,53 @@
+# Down The Rabbit Hole,
+	- ## Notre défaite face aux Mythes, Raphaël Amiet
+		- La démocratisation d'internet a permis de développe des récits de [[Contre-culture]], remettant en question le discours dominant.
+		- Le 11 septembre (9/11) a secoué l'hégémonie occidentale et a marqué le début d'une nouvelle ère, une ère de méfiance générale envers les institutions, les médias et les politiques.
+		- Les récits alternatifs, ces nouvelles mythologies, prennent de plus en plus de place.
+		- Yves Citton, dans *Mythocratie*, parle des mythes comme des grands lieux politiques de la société. La mythocratie cristallise la circulation d'histoires et de mythes comme un lieu de pouvoir.
+			- Ce ne sont plus les citoyens qui décident, mais les narrations disponibles dans l'espace public.
+			- Pour Citton, la défaite historique de la gauche et des mouvements d'émancipation est d'avoir abandonné leurs grands récits pour un rationalisme froid, appauvri dans des postures morales et des discours excluants.
+			- Les mythes et les [[Utopie]] étaient le carburant du projet révolutionnaires.
+				- Cette disparition s'est faite au profit de récit néolibéraux réactionnaire, très visible dans l'espace public.
+		- Le rationalisme comme posture qui condamne les récits comme outils de manipulation et de contrôle.
+			- Mais on pourrait y voir un moyen d'échapper au statu quo
+		- Réinvestir les récits c'est reprendre possession de l'outil narratif comme moyen de mobilisation et de construction du futur.
+			- La puissant des récits est décupler dans une ère des affects, ((66eb32c7-4b18-4fb7-8772-f92afc3d14d9))
+		- La droites radicales quitte le fanatisme groupusculaire et investit le web
+			- Se qui désemparé la gauche qui se réduit a être pecus comme d'ennuyant défenseur..euses du statu quo.
+	- ## QAnon, l'ère de l'imagination
+		- QAnon est un mouvement horizontal et une expérience narrative à grande échelle d'extrême droite.
+		- QAnon est une méta-conspiration.
+		- Suite aux fuites de Wikileaks sur les Clinton en 2016, un utilisateur se présentant comme agent du FBI (FBIAnon) dit que les Clinton sont des satanistes pédophiles impliqués dans un vaste réseau d'enlèvements d'enfants aux USA.
+		- Les utilisateur·ices analysent les mails et en dégagent un lexique autour de noms de code comme *pizza*, *pasta*, *cheese*.
+			- Ils pensent que des enfants sont séquestré·es dans une pizzeria *Comet Ping Pong* à Washington.
+			- Un des membres du forum entre dans la pizzeria pour y mener son enquête, des coups de feu sont tirés. Il ne trouvera rien et sera condamné à 4 ans de prison.
+				- Les membres du forum pensent que c'est un acteur employé pour tourner à dérision le *Pizzagate*.
+		- Lorsqu'en 2017 un utilisateur nommé Q prédit l'interpellation imminente d'Hillary Clinton sur 4chan, le point de départ de QAnon prend forme.
+		- Q se dit être un proche de Trump et travaille au sein de l'État.
+			- Q fait des "drops" (des annonces à l'esthétique messianique et cryptée) où il annonce des événements. Il pousse à rejoindre un "combat".
+				- Sur 4chan apparaissent des Qtubers qui vont relayer et décrypter les messages de Q.
+			- Le dispositif de QAnon est horizontal car chacun·e peut contribuer et élaborer à la propagation des théories de Q. C'est un mouvement décentralisé.
+				- Recyclant les fantasmes pro-armes, les mythologies antisémites, le libertarianisme, le New Age, anti-5G, et le folklore ufologique.
+			- En 2017, Trump, lors d'un repas, dit : "C'est peut-être le calme avant la tempête." Ce message est interprété par la communauté QAnon comme un message qui leur est adressé.
+		- Cela prend place sur 4chan puis est repris par de nombreux youtubeur·euses ou sur Twitter.
+		- Cette lutte contre une élite supposée pédophile et sataniste prend forme et se stratifie d'énormément de théories du complot alternatives.
+			- Il y aurait sous nos pieds un *État profond* qui serait un vaste réseau soutenu par des élites afin de faciliter le trafic d'enfants.
+		- Cette théorie prenant sa source dans des groupes d'extrémistes blancs commence à attirer de plus en plus de personnes, notamment des femmes pourtant exclues à l'origine de ces mouvements extrémistes.
+			- Notamment avec le *Pastel QAnon* : un sous-mouvement où des influenceuses intègrent la rhétorique de QAnon dans du lifestyle.
+				- En cela, elles contribuent massivement au développement de la campagne *Save The Children*.
+		- En Europe QAnon a pris d'autres formes. Le covid-19 a été la porte d'entre pour la mythologie QAnon
+		- L'une des références de QAnon est un roman de l'extrêmes gauche italiennes L'Œil de Carafa,
+			- Un roman de 1999 publié par Luther Blisset un pseudo utilisé collectivement par plusieurs activiste dans le monde.
+				- Le personnage principale est Q, un espion infiltré dans le mouvement sociaux du XVIème siècle travaillant à faire triompher l'Eglise catholique contre la Reforme protestante
+				- L'un des créateurs du Q italien connu sous le nom de Wu-Ming 1, lance une enquête approfondie du QAnon.
+					- Dans son livre Q comme Qomplot Wu Ming 1 dresse un atlas de ces fantasme conspirationnistes qui ont exploiter les potentialités politique d'internet. de Umberte Eco, au Beattles en passant par le Luhter Blisset Project.
+			- Pour Wu-Ming 1 la phrase de [[Walter Benjamin]] *"chaque monté du fascisme témoigne d'une révolution ratée."*  est souvent mal-interprétés. Les accusateur..ices des ces révolution ratées vont ensuite lancer un mouvement contre-révolutionnaires et réactionnaires.
+				- Par exemple la défaite du mouvement hippie et le new-age au USA à imprimé une nouvelle culture néolibérales.
+	- # The Caretaker, La Mort de l'Auteur ?
+		- James Leyland Kirby, plus connu sous le nom The Caretaker est un artiste britannique basé à Berlin. Initialement compositeur de musique ambient, son oeuvre a aujourd’hui complètement dépassé le champ très fermé de la recherche sonore et des musiques expérimentales.
+		- Réutilisant de vieux vinyles de musique de bal des années 30, en retirant les voix, ralentissant le son et ajoutant des textures analogiques, The Caretaker déploie un tour de force fascinant, en représentant par le son des sentiments qui peuvent nous être très étrangers. Son album le plus connu, *Everywhere at The End Of Time*, aborde le sujet de la démence et de la détérioration de la mémoire.
+			- Le projet se déploie en six phases, commençant par des souvenirs lointains avant de se désintégrer dans le chaos puis le vide, représentant ainsi la détérioration cognitive et émotionnelle.
+		- L'artiste compris que son projet faisait beaucoup plus sens sur YouTube.
+			- James Leyland Kirby a pu profiter de la mécanique des algorithmes de la plateforme qui
+			  mettent en avant toutes les vidéos avec le meilleur taux de rétention et de temps d’écran.
+				- Il est facile d’imaginer pourquoi les algorithmes de YouTube ont poussé la vidéo, quand on sait qu’elle dure plus de 6 heures et que son écoute présente un caractère hautement addictif avec ses mélodies qui s’impriment rapidement et durablement

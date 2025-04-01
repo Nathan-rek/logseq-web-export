@@ -1,0 +1,40 @@
+- Dans la théorie des idées, c'est moment dans l’histoire des idées entre le siècle des lumières jusqu’en 1960, s’en suit la [[Post-Modernité]]
+- Perception d’ordre philosophique qui consiste à observer qu’à partir des siècles des lumières, les humain..es commencent à avoir une foi aveugle en la raison
+	- Concentration sur tout ce qui est observable et que notre raison peut comprendre
+		- Pensée initiée par Descartes la nature n’est plus divin mais est un ensemble de loi complexe que si l’on comprend nous donne pouvoir.
+			- Ce qui donne lieu au Positivisme, on ne pose plus les pourquoi on se demande les comment, on étudie les faits positifs, toutes puissance de la raison, foi aveugle en la raison, notion de progrès.
+			- Téléologie: perspective qui voit loin devant, une perspective lointaine vers laquelle on tend.
+- ## [[Modernisme]]  Global
+	- Le monde contemporain se base sur l'impérialisme colonial du 19ème siècle.
+	- Le [[Modernisme]] se base sur un enchevêtrement colonial
+	- L'occident est un Mythe ?
+		- [Unpacking Europe](https://aaa.org.hk/en/collections/search/library/unpacking-europe-towards-a-critical-reading)
+			- Critique l'idée que l'occident serait un bloque homogène crée par une idéologie chrétienne
+- ## Bruno Latour: Nous n’avons jamais été modernes
+- Critique: analyse interne de ce qui compose quelque chose
+- Critique en crise > nœud Gordien[^45]
+	- La modernité organise des séparations des régimes de savoir
+		- La réparation critique
+			- Politique
+			- Nature
+			- Discours
+	- La subjectivité moderne naît de la fraction entre le dualisme [[Nature - Culture]]
+		- L’homme quitte le milieux de la nature et rentre dans la culture
+			- Réseaux
+- La critique faiblit par la mise en réseaux
+- ## Tristan Garcia: La vie intense: L’intensité une obsession moderne
+	- Lecture de la modernité à travers le statut de la subjectivités
+	- Principe D’Amok[^46]:
+		- Recherche de situations d’intensités
+	- Une intensité qui est exaltée et affecte la subjectivité
+		- A travers les réseaux électrique, l’intensité de la machine devient analogue à l’intensité de l’homme
+		- L’intensité dépasse la norme car elle n’est pas mesurable.
+- ### L'hétérochronocité
+  id:: 66e7f1c5-bdbc-4c3a-9bf5-f81585ae508e
+	- Le fantasme de l'altérité se base sur un tropisme du temps
+		- L'occident voit l'altérité dans un autre temps comme un temps passé
+	- Contexte global par la conception de la conception de la contemporanéité en tant qu'unité disjonctive "des temps présents"
+		- Problème d'échelle et de niveau d'intensité avec lesquelles les objet circulent
+		- Enjeux de l'[[Art Global]]
+	-
+-

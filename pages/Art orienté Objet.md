@@ -1,0 +1,47 @@
+- Wilfried Laforge, formé à Paris 1
+	- La place de la philosophie dans l'enseignement artistique
+		- Quelle sont les usages de la philosophie dans la pratique artistique ?
+		- La place de l'artiste chercheuse
+			- Début de ces questionnement avec le [[Black Mountain College]] sur la place de l'enseignement théorique en art. ((661023c4-6e24-430b-ab9b-e13c6a2a9e06))
+	- Quelle étape entre Art et Theories
+- Le réalisme spéculatif est née a Goldsmith, dans une école d'art ce qui a fort marqué les artistes de l'époque
+- L'art Moderne emploi la philosophie pour catégoriser
+	- On utilise une philosophie de l'action, accompagner la philosophie vers un discours morale, philosophie pragmatique
+		- Kaprow cherche à traduire les concepts de Dewey
+		- Kaprow déplace du mobilier, en traduction d'un traité moderniste de Hans Hoffman
+			- Enseignent de *Push and Pull* de Hoffman en peinture, traité théorique de peinture
+			- Méthodologie de traduire un traité de peinture moderniste, ou l'enseignement de Dewey
+	- Quand [[Jackson Pollock]] tue la peinture au chevalet il inite l'action
+- Les Minimalistes lisaient de la [[Phénoménologie]] pour sortir de l'espace purement optique
+	- Cherche une objectité de l'œuvre d'art
+		- Lisent beaucoup Marleau Ponty
+		- [[Frank Stella]] à mis à mal la peinture il a peint la peinture elle même
+		- Programme philosophique qui resonne avec leur pratique
+	- Sortir de l'optique de l'œuvre d'art cherche la corporalité
+		- [[Joseph Beuys]] lisait le romantisme allemand pour activer l'œuvre total
+	- [[Marcel Duchamp]] et les [[Dada]] lisait du scepticisme
+- Emploi d'un concept dans le champ de la pratique (Utilisation du concept d'hyper-objet de Timothy Norton)
+- Timu Si Quin emploi de la philosophie vers un accompagnement de ces pratiques
+- Les [[Object Oriented Philosophy]] parle des objets entre eux, on parle d'une vie des objets
+	- Si-Quin réfute ces théories pour aller vers un continuum
+- ((661023c8-f159-4ed6-83e3-a4e548764fcb))
+	- Emploi le paysage numérique comme des sites de réflexion ontologique, la philosophie se manifeste après coup
+- Les artistes auraient eu un emploi de la philosophie pour légitimer des pratique novatrices
+- L'abandon du sujet dans les pratiques, la vision [[Post-Anthropocène]] viennent de philosophie qui ne sont pas phénoménologique
+	- Pur métaphysique spéculative [[Quentin Meillassoux]]
+		- Début de philosophie décorréler
+	- ((661023ca-f18a-4eb6-9701-c1046c49de1e))
+		- Création de fiction sans sujet pensant
+			- Absence stricte, décentrement d'une inaccessibilité
+		- Rapport démurgique du sujet
+		- Délimitation du cadre dans lequel se produit l'œuvre
+	- Ian Cheng *Bob's Umwelt*  en dehors de l'archipel [[Néo matérialisme]]
+		- Penser du sujet (phénoménologiquement), Word building, création de monde, en dehors d'une philosophie de l'objet
+			- Umwelt est un principe de perception animal
+		- Décider des fonctions par intentionnalité
+- Jon Rafman *Legendary Reality*, 2017
+	- Arpente le web, répond à la figure du flaneur de [[Walter Benjamin]]
+- Timur Si Qin
+	- Le monde comme continuum
+		- Pratique Zen d'hommage à la nature
+	- Intérêt pour l'ontologie plate

@@ -1,0 +1,24 @@
+- Vassily Kandisky: [*Composition VII,*](https://fr.wikipedia.org/wiki/Composition_VII) 1913 ![Composition VII — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vassily_Kandinsky%2C_1913_-_Composition_7.jpg/800px-Vassily_Kandinsky%2C_1913_-_Composition_7.jpg)
+  title:: Vassily Kandisky
+	- Début de sa relation avec Arnold Schonberg, met en lien la compostions musical et la peinture
+		- Schonberg va priver la musique de la tonalité comme Kandisky brise les formes. Il brise les références aux quelles l’on est sensé se rattacher.
+	- Vassily Kandisky: [*Sans titre (aquarelle)*](https://fr.wikipedia.org/wiki/Sans_titre_\(Kandinsky\)), 1910 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Untitled_%28First_Abstract_Watercolor%29_by_Wassily_Kandinsky.jpg/1024px-Untitled_%28First_Abstract_Watercolor%29_by_Wassily_Kandinsky.jpg)
+		- Passage à [[Abstraction]] brise les formes et la couleur
+			- Rompt avec l’art paléolithiques. Qui déjà à l’époque est formes et couleur. Il disloque les couleurs de la forme.
+- Il écrit et publie son livre [*Du spirituel dans l’art*](https://www.art-totale.com/du-spirituel-dans-lart-et-dans-la-peinture-en-particulier-par-kandinsky/)
+  id:: 661023ca-bc82-48d6-ad51-38f3a0465be7
+	- La peinture n’a pas besoin de se rattacher à la figuration, les formes et les couleurs sont assez puissant pour déclencher la nécessité intérieur.
+- Vassily Kandisky: [*Composition VIII*](https://www.guggenheim-bilbao.eus/fr/apprenez/univers-scolaire/guides-educateurs/composicion-8-2), 1923 ![composition-8](https://cms.guggenheim-bilbao.eus/uploads/2020/09/composition-8.jpg)
+	- Réalisée et fort marquée pendant son professorat au  [[Bauhaus]] Un enseignement marqué par l’apport du geste et des formes de Kandisky: Point – Ligne – Plan
+		- l' [[Abstraction]] n’est pas gratuites elle est l’envie de développer une figuration formelle.
+		- Développe une grammaire graphique qui permet de se rapprocher d’une spiritualité abstraites [*Du spirituel dans l’art et las la peinture en particulier*]
+	- La toile fait parti d’une série de 10 tableaux nommés compositions
+		- Un terme qu’il réserve à certaines de ces œuvres les plus élaborées et les plus longuement travaillées.
+- Vassily Kandisky: [*Chacun pour soi, 1934*](https://artsandculture.google.com/asset/etude-pour-chacun-pour-soi/nwERGGYxm0axIA?hl=fr) ![Etude pour Chacun pour soi - Centre Pompidou](https://www.centrepompidou.fr/media/picture/77/94/7794cf89aec5206b1badbefa1636aaa5/thumb_large.jpg)
+	- Début d’un style Biomorphique:
+		- Arrivé du vivant face au progrès scientifique notamment dans la visualisation du vivant
+- Vassily Kandisky: [*Trente*](https://www.wikiart.org/fr/vassily-kandinsky/trente-1937) ![Trente, 1937 - Vassily Kandinsky](https://uploads0.wikiart.org/images/wassily-kandinsky/thirty-1937.jpg!Large.jpg)
+	- Tableau compartimentés dans laquelle il inscrit des formes
+	- En opposition à [*Groupemement*](https://www.wikiart.org/en/wassily-kandinsky/grouping-1937), 1937 ![Grouping, 1937 - Wassily Kandinsky](https://uploads2.wikiart.org/images/wassily-kandinsky/grouping-1937.jpg!Large.jpg)
+		- Composition très fluide, formes molle et cursive
+-

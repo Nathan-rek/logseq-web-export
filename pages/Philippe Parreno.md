@@ -1,0 +1,2 @@
+- Philippe parreno: [*Echo2*](https://www.estherschipper.com/exhibitions/1055-echo2-a-carte-blanche-to-philippe-parreno-with-arca-nicolas-becker-and-tino-sehgal/), 2022 https://artlogic-res.cloudinary.com/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/52/526fdb355fc5405886609cfd8536ffd7/parreno_bourse_09new.jpg
+  id:: 66033de3-d11c-4a9a-9eee-b0604577f5f8

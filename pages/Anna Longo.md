@@ -1,0 +1,89 @@
+# Une esthétique spéculative est-elle possible ?
+	- Les philosophies développées par des philosophes comme [[Graham Harman]] , [[Quentin Meillassoux]], Ray Brassier ont eu une forte influence sur l'art contemporain
+	- La [[dOCUMENTA (13)]] est forte inspirée de la pensée de [[Graham Harman]] . ((661023ca-833b-48f9-9239-7bbe86cabb2e))
+		- Thématique qui se sont vu prolongée avec les colloques (*medium is a contingency*) / la serie *Speculative Tate*
+	- L'anti-corrélationnisme défendu par les différences tendances philosophiques contemporaines [[Quentin Meillassoux]] prétendent accéder à un réel en soi
+		- Ce qui en théorie exclut le *a priori* et donc la pertinences des aspects esthétiques de l'expérience
+		- En effet le l'anti-corrélationsime s'éloigne des conditions subjectives de l'appréciation du réel défendu par le [[Corrélationisme]]
+	- il s’agit de redéfinir l’anti-corrélationnisme comme une stratégie soutenant le pouvoir de la raison contre toute limitation établie *a priori* ;
+	  de l’autre
+	- Le [[Néo matérialisme]] et l' [[Object Oriented Philosophy]] sont des philosophies spéculatives qui supposent que la réalité phénoménale dépend, pour ce qui concerne sa détermination, d’une réalité métaphysique immanente en tant que raison ultime de l’apparaitre des formes sensibles particulières.
+		- Cette instance métaphysique, ou réalité ultime, n’est pas connaissable. On peut seulement la supposer, comme l’indique le caractère spéculatif de ces philosophies
+			- Ces deux approches ont été considérées comme des positions où la continuité entre l’humain et le non-humain, entre l’organique et l’inorganique, entre la nature et la pensée, est obtenue au prix d’une réduction de la pensée à une fonction partagée par tous les systèmes matériels ou par tous les objets, ce que rendrait de fait le réalisme impossible
+				- Effectivement, si tout pense, au moins à un degré minimal, il devient impossible de connaître l’autre que la pensée, c’est-à-dire le réel dans sa complète indépendance.
+				- Telles sont les critiques régulièrement adressées au [[Néo matérialisme]] et à la [[Object Oriented Philosophy]] par les représentants des approches rationalistes de la spéculation, tels que Meillassoux et Brassier.
+					- Ces derniers, en fait, refusent de projeter sur les objets et sur la nature toutes propriétés caractérisant le sujet, comme la capacité d’agir, de sentir, de vouloir, de créer, etc... et considèrent la réalité comme étant complètement indépendante de l’humain : la pensée est autonome par rapport à la nature, et la nature est autonome par rapport à la pensée.
+						- Suivant les approches rationalistes, il faut donc reconnaître une différence de nature entre matière et esprit
+	- La considération de l'expérience esthétique, dans le cas des philosophies explicite au dessus, se trouve peut propice au paradigme de l'art contemporain comme lieu de production dont les qualités subjectifs seuls viendrait en dialogue avec l'intellect.
+		- Les instruction pièces d'artistes comme Sol Lewitt ou Yoko Ono amorceraient la révolution nécessaire pour ces questions esthétiques.
+			- Sol LeWitt: [*Drawing Instructions*](https://whitney.org/education/families/kids-art-challenge/sol-lewitt), 1976 ![Drawing Instructions | Whitney Museum of American Art](https://whitneymedia.org/assets/image/822825/large_WMAA_PROGRAMMED_06_PS_SM.jpg)
+			- Yoko Ono: [*22 Instructions for Paintings*](https://www.moma.org/magazine/articles/61), 1962  ![Yoko Ono's 22 Instructions for Paintings | Magazine | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDQvMjUvN3ZxdTJhZzdmb18zMDAxMzU4ODRfdncxMjZfUklDUl9QcmVzc19Vc2UuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMTE4NHg4ODhcdTAwM2UiXV0/300135884_vw126_RICR-Press%20Use.jpg?sha=ea63d2bc0d10e020)
+			- Avec des pièces qui ne sont pas forcement réalisées et des œuvres qui ne sont pas évaluer par rapport à une expérience sensible ou physique mais dont la liste des condition d'existence réside dans l'intellect
+				- Mais cette art est indifférent du regard de l'autre et n'apporterait aucun jugement esthétique
+					- On serait non pas à la fin de l'art mais à la fin de l'esthétique, entendue comme l’ensemble des jugements rapportant
+					  la représentation au sentiment subjectif
+		- On pourrait en conclure que dans le cadre de la philosophie spéculative récente, l’esthétique se voit menacée de deux manières différentes : d’abord par la tendance à l’esthétisation de toute relation entre acteurs humains et non humains (Pic à plusieurs pratiques [[New-Media Art]]),  ensuite par la volonté d’éviter toute considération subjective de l’expérience
+	- ## Esthétique de Fichte
+		- L'attrait de l'art contemporain à la philosophie spéculative pourrait être justifié par un attrait implicite à l'esthétique.
+			- Toute initiative contemporaine dite "réaliste" consiste à justifier l’adéquation de la représentation au réel en montrant la nécessité de la structure *a priori* par la voie spéculative
+			- Pour cela il faut penser la structure conceptuelle pour être capable de la légitimer
+				- Ce qui pour Fichte est le *point de vue transcendantal* que Fichte appelle aussi *point de vue esthétique*
+			- Au lieu de cherché une forme d'art adapter au réalisme spéculatif
+		- L'esthétique pour Kant repose sur un jugement réfléchissant rapportant une certaine production de l’imagination au sentiment subjectif
+			- Mais cette image doit-elle nécessairement provenir d’une synthèse des donnés sensoriels ?
+			- Le jugement déterminant cherche les intuitions particulières auxquelles appliquer un universel donné (le concept)
+			- Tandis que par le jugement réfléchissant cherche l’universel non conceptuel adapté à une intuition particulière
+				- Pour Kant le jugement réfléchissant ( jugement sur le beau) ne produit aucune connaissance objective
+					- Pour Fichte c'est le jugement philosophique par excellence: *qui rend possible la philosophie comme science de toutes les sciences*
+			- L’artiste, tout comme le philosophe, ne doit pas se limiter à considérer la réalité telle qu’elle est représentée par l’activité de détermination
+			  scientifique, c’est-à-dire comme un ensemble d’objets réciproquement limités et limitant le sujet, mais comme un ensemble d’entités dont
+			  l’opposition est l’effet d’un effort interne, donc de l’expression d’une force, d’une activité.
+	- ## Esthétique de la spéculation
+		- Pour ce qui concerne le [[Néo matérialisme]] il semble évident que l’image d’une nature dont les formes sont animées par une force vivifiante, où les différents systèmes organiques et inorganiques s’efforcent de se conserver tout en se modifiant réciproquement dans un devenir libre, correspond au point de vue esthétique décrit par Fichte dans la *Doctrine de la science Nova methodo*.
+		  id:: 65f5e750-9447-4e9c-a083-1d6411d02b9c
+			- La nature apparait comme construite par une sorte de créativité essentielle, c’est-à-dire comme l’ensemble des productions d’une force (plus fondamentale que les forces actuellement reconnue par la physique) qu’il s’agit de supposer comme principe ultime, comme condition de l’expérience et de la connaissance scientifique
+				- Ici, le point de vue transcendantal correspond à l’intuition de la réalité dans sa totalité comme quelque chose de librement produit par une dynamique d’interaction (qui permet l’émergence des concepts grâce auxquels on construit la représentation scientifique du monde dont on cherche la condition ultime)
+				- L’œuvre d’art, nous permettant d’accéder directement (sans l’intermédiaire de l’effort théorique du philosophe) à ce point de vue non ordinaire sur le monde, exige une appréciation esthétique
+				- Cependant, il convient de souligner que, face à des œuvres mettant en réseau des éléments matériels hétérogènes (humains et non-humains, organiques et inorganiques), la véritable expérience esthétique ne se situe pas, comme on croit, au niveau des interactions sensibles particulières – ce qui obligerait à penser que tout existant puisse jouir d’un sentiment esthétique – mais au niveau de l’image générale de l’ensemble des relations
+	- La fascination du [[Monde de l'art]] pour ces approches philosophique puisse s'expliquer par une affinité concernant la construction particulière qu'est la réalité.
+	- ## La spéculation réaliste est-elle une forme d’idéalisme ?
+		- Les néo-matérialismes posent comme principe métaphysique rationnellement accessible la puissance auto-formatrice de la matière permettant aux systèmes singuliers d’évoluer, ou de co-évoluer, selon des règles capables d’engendrer de nouvelles règles : celles-ci sont les conditions rendant la connaissance possible.
+			- Par rapport à la [[Object Oriented Philosophy]] les modalités multiples de l’apparaître sensible dépendent du noyau retiré et inaccessible de tout objet particulier, c’est-à-dire d’un principe métaphysique rendant tout point de vue sur le monde possible.
+				- L’ [[Object Oriented Philosophy]] admet bien la validité d’une pluralité de représentation du monde, mais elle disqualifie le relativisme absolu en limitant, sur la base d’une métaphysique de l’inaccessibilité de l’objet réel, le possible de l’apparaître sensible : dans le cadre d’une relation entre objets on peut connaître a priori les qualités saisies à chaque fois
+		- Étant donné la parenté des projets spéculatifs postkantien et réaliste pour ce qui concerne la fondation métaphysique des conditions a priori de la connaissance, il nous semble légitime de faire du point de vue transcendantal, que Fichte définit comme « esthétique », la perspective qu’il faut nécessairement adopter pour s’opposer au scepticisme et fonder ainsi la structure conceptuelle
+			- Plutôt que de chercher une esthétique adaptée à la spéculation, il s’agirait donc de reconnaître la fonctionnalité de la composante esthétique de la spéculation et de reconsidérer la production artistique pour sa capacité à nous élever au point de vue transcendantal
+- # [[Bio-Art]] et [[Néo matérialisme]]
+  collapsed:: true
+	- Le [[Bio-Art]] , en tant qu’art rematérialisé, s’allie à une perspective que nous pouvons définir comme [[Néo matérialisme]] , affirmant la primauté des modèles empiriques concrets sur les formulations linguistiques des lois
+	- ## Dématérialisation
+		- Concept développé par Lucy Lippard en 1968 dans son article "the dematerialization of Art" qui parle du tournant conceptuelle de l'art
+		- [[Art Conceptuel]] a changer le traitement de l'œuvre. De cette manière, les qualités esthétiques et sensibles propres aux produits éventuels n’ont pas de valeur en soi, mais seulement en tant que données empiriques dont le sens devient clair une fois élucidée la règle qui préside à leur organisation
+		- Ce processus peu être comparer aux méthodes scientifiques
+			- Les propositions scientifiques, formulées mathématiquement, doivent d’abord être admissibles en termes logiques et, après, elles requièrent une vérification empirique
+			- De ce point de vue les expériences scientifiques ne servent qu’à confirmer la fonction mathématique
+		- L' [[Art Conceptuel]] tout comme la recherche scientifique fonctionne dans cette ordre aussi. Dans les deux cas, l’objet matériel, œuvre d’art ou expérience scientifique, n’est que la réalisation empirique d’une formulation dérivable d’une axiomatique spécifique, celle de la logique ou celle des idées sur l’art
+			- L’objet empirique produit, qu’il s’agisse de l’expérience ou de l’œuvre, n’est fonctionnel qu’à renvoyer à son a priori rationnel
+				- Le but consiste alors à produire des œuvres d’art démontrant la validité des idées sur l’art et à élaborer des expériences démontrant la validité de l’axiomatique rationnelle
+		- La difficulté des arts est dans sa difficulté a exprimer son idée/sa formule aux spectateur..ices.
+			- Dans les mathématiques ou dans les sciences, plus une explication ou une formule est simple, plus elle est satisfaisante
+		- Le cas de [[Joseph Kosuth]] est emblématique pour mettre en évidence le lien entre [[Art Conceptuel]] et [[Philosophie Analytique]] : dans les deux cas on retrouve la tendance à considérer les objets matériels, œuvres ou faits empiriques, comme rationnellement déterminables à l’avance
+			- Pour [[Joseph Kosuth]] les sciences et les arts auraient la fonction d’élargir la connaissance de leurs objets respectifs : les sciences naturelles doivent découvrir de nouvelles propositions vraies concernant la nature, tandis que l’art doit trouver de nouvelles définitions de l’art
+				- Il y a une différence paradigmatique qui est une différence proche de celle entre science et géométrie
+					- La **géométrie** (comme les mathématiques en général) fonctionne à partir de propositions **analytiques**. Une proposition analytique est vraie en elle-même, par la seule vertu de sa forme logique, et ne nécessite pas de vérification empirique. Par exemple, le théorème de Pythagore ("dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés") peut être accepté comme vrai uniquement par la logique, sans avoir besoin de faire des expériences pour le prouver à chaque fois. C’est une vérité évidente dans le cadre des axiomes géométriques.
+					- Les sciences naturelles produisent des connaissances qui doivent être testées dans le monde réel, tandis que l’art, comme la géométrie, repose sur des principes logiques et des définitions internes. Dans ce sens, les idées artistiques sont des **vérités internes à la définition de l’art**, tout comme les théorèmes géométriques sont des vérités internes aux axiomes géométriques.
+			- L' [[Art Conceptuel]] et la [[Philosophie Analytique]] partage une position antimatérialiste.
+		- Nous nous trouvons ainsi face à un dilemme
+			- Soit l’on accepte qu’il n’y ait qu’une nécessité logique et on considère les modèles expérimentaux comme autant d’approximations imparfaites des théories et, selon la même perspective théorique, on considère que les qualités matérielles et sensibles des œuvres d’art sont secondaires par rapport à l’idée
+			- Soit, on est obligé d’assumer une nécessité réelle qui semble toujours contredite par l’expérience empirique, étant que la même cause détermine souvent des effets différents et que la même organisation matérielle produit des effets esthétiques variables.
+		- Les œuvres de Eduardo Kac viennent rematérialiser l'art. En donnant bio technologiquement vie à des œuvres qui sont contingentes l'art n'est plus la matérialisation approximative d'une œuvre issu d'une idée ou d'une logique car la matérialiste de l'œuvre est le résultat empirique d'une logique non humaine qui ne serait pas celle du monde des idées.
+			- Eduardo Kac: *The Eighth Day* ![The Eighth Day](https://ekac.org/8thday-general-nopublic.jpg)
+			- L'aspect de mutation nous déplaces, elle pousse tellement fort les formes de logique que l'on connait qu'elle nous en sort
+				- Le robot que Kac a positionné dans son environnement transgénique est une exemplification parfaite du phénomène de « connaissance pré rationnelle »
+					- Les amibes le faisant bouger réagissent à des stimulations réciproques. De plus, elles sont perturbées par ses mouvements, provoqués par les amibes elles-mêmes, et par les interactions entre le robot et l’environnement.
+						- La manière dont le robot connaît ce qui l’entoure (ce qui correspond à la manière dont l’écosystème est exploré par le public sur internet) n’est pas une représentation théorique ou linguistique, mais un processus pendant lequel il n’y a que des actions répondant à d’autres actions et déterminant des modifications du système isolé par la coupole
+				- Cette connaissance, alors, suit une logique propre à l’auto-organisation de la matière organique vivante, une logique qui n’est pas une axiomatique linéaire, mais établie selon des règles permettant certains changements des règles mêmes
+					- Il ne s’agit pas d’une logique déductive car il y a là la possibilité de produire des émergences, c’est-à-dire des effets qui, d’une certaine manière, causent le changement de certaines règles : la logique est donc récursive
+				- Le titre de l’installation d’Eduardo Kac. *The Eighth Day* fait allusion au huitième jour de la création biblique, jour supplémentaire à l’opération divine, au cours duquel le créé se recrée d’une façon autonome en se connaissant et se connaît se recréant.
+			- Cet art rematérialisé nous offre une expérience esthétique qui n’est pas un sentiment du beau, mais une connaissance sensible, dans laquelle il n’y a que des stimulations et des réponses entre des êtres qui apprennent les comportements les plus appropriés pour établir une harmonie générale, un équilibre
+	- lalzhf be zffueuyze u
+	-

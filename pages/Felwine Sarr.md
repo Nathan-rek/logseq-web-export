@@ -1,0 +1,21 @@
+- Universitaire sénégalais qui jouais de la musique, a enseigné l'économie puis est parti au USA à Duke pour enseigner la littérature française.
+- A l'origine du [*Rapport Sarr-Savoy sur la restitution du patrimoine culturel africain*](https://fr.wikipedia.org/wiki/Rapport_Sarr-Savoy_sur_la_restitution_du_patrimoine_culturel_africain)
+- ## Afrotopia
+	- Critique de la pensée du développement
+	- Part des spécificités du continent africain pour penser d'autres modèles économiques
+	- Ecrit l'économie dans un style littéraire
+		- Redéfinir une esthétique de l'économie
+	- Les sciences et leur écritures évoluent vers une esthétique non littéraire axé sur le chiffre et les mots pour le chiffre.
+		- Sarr cherche une autre esthétique épistémologiques
+	- La pensée continentale porte sur une uniformité du savoir
+	- La vitalité des villes africaines sont des éléments a prendre en compte dans la construction d'un projet économique
+		- Ne pas penser l'économie que sur le chiffre mais sur base de l'expérience humaine
+		- L'économie et ses calcul du PIB proviennent d'un système européens et cette maniere de voir sur les pays non européens fait une forte dissonance.
+	- Les cultures ne se modifient pas en quelque années, donc comment penser ce mode de raisonnement dans un tissu sociale dont il n'est pas originaire
+	- Perpétuation du [[Colonialisme]] par ce calquage de modèle économique
+		- Pousse a une aliénation des régions ayant vécus des processus coloniaux
+	- La force culturelles des pays africains sont des particularité invisibilisé
+		- L'impossibilité de puiser dans les puissances culturelles et dans les forces socials d'un pays il en devient impossible de se développer
+		- Il ne se développe pas car il est envelopper dans une enveloppe dont il n'est pas originaire.
+	- Ubuntu: concept d'inter-dependance de tout les etres, je suis parce que nous sommes.
+		- Penser de la relation qui peut être utilisé pour conceptualiser l'économie

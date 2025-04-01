@@ -1,0 +1,35 @@
+- Personne proche de Baptiste Morizot
+- ((67ac5b00-2f65-4704-842c-b732f37b7738)) est un livre sortie il ya 10ans
+	- Chaque début de chapitre commence avec un bout de journal intime écrit en italique
+- Sa thèse est que nous ne voyons pas véritablement le vivant
+- # Apprendre à voir
+  id:: 67ac5b00-2f65-4704-842c-b732f37b7738
+	- La vue fonctionne par perception des objets;
+	- Voir est toujours un choix, il n'est pas possible de tout voir
+	- L'œil est un héritage génétique et culturelle
+		- Culturellement le vivant est un décor dans notre vue [[Nature - Culture]]
+	- Comment entrainer son œil à voir le regard n'est pas immuable
+		- Tout peut changer par la pratique quotidienne
+		- L'œil est relationnelle, c'est en entrant en contact avec de maniere régulière que notre œil se précise
+			- C'est le principe d'invite chez Gibson, la perception est dans l'action des gestes a venir, c'est invitation dépend du regardeur
+				- La poigné d'une porte est une invitation à agir.
+	- Notre perception rencontre une limite car nous sommes rendu incapable de relationner avec le vivant
+	- C'est par la pratique que viennent les idées
+		- Ce n'est pas qu'un héritage passif
+		- L'héritage culturelle est aussi muscle qui se travail
+	- Qu'elle est le role de la peinture de paysage dans ces invite au regard
+		- Notre rapport au vivant est aussi fort dicté par la peinture du paysage
+	- Ce qui va necesite l'enrcihessment de notre vision du viant c'ets le temps
+		- La peinture de paysage et l'histoire naturelle sont des domaines qui prennent du temps
+		- Ces pratiques appartiennent à l'art et aux Science, revoir la frontière entre ces deux domaines [[Art & Science]]
+			- En quoi l'art peut provoquer des connaissances et la science de l'émerveillement
+			- Remise en question du grand partage de l'enchantement
+				- C'est la séparation profonde entre ce qui est art et ce qui est science
+				- William Blake, [*Le portrait de Newton*](https://fr.wikipedia.org/wiki/Newton_%28Blake%29), 1795 ![Newton (Blake) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Newton-WilliamBlake.jpg/640px-Newton-WilliamBlake.jpg)
+					- Assis sur un rocher au fond de l'eau. Il tourne le dos a la vigarure du végétal, détourne les formes sensible absorber par les abstractions mathématique. Les formes géométriques sont bien plus parlantes.
+						- Connaitre le monde par la géométries, refus de connaissance du monde par la matière
+					- Tout ceci est inconnaissable mais peut être connus par la géométries
+	- Qui possède l'autorité pour dire la vérité du monde
+	- Le grand partage de l'enchantement implique une impossibilité des arts à produire du savoir
+		- Il enchante car il ne produit pas du vrai
+	-

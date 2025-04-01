@@ -1,0 +1,17 @@
+- Hal Foster, portrait de l'artiste en Ethnographe : revue de texte qui revoit la pratique artistique de faire avec ou non une forme d’altérité (culture / Sexe …) comment la pratique artistique peut intégrer cette altérité et quelle danger peut elle rencontrer
+	- L'artiste et l' [[Ethnographie]]
+	- Introduit le texte de [[Walter Benjamin]] pour trouver un référent historique qui pose une question
+		- Les avant-gardes pensent se situer à travers un langage radical qui résiste au relativisme
+			- A partir de l’analyse d’un système  et à partir de la théorie que l’on peut produire de la valeur. Résister face au relativisme.
+	- [[Walter Benjamin]] : Au contact des [[Avant-Gardes "Historique"]]
+		- Le [[Surréalisme]] est inviter à présenter une conférence sur cette question spécifique
+		- L’artiste en tant que producteur..ices: comment les formes d’avant-gardes positionnent une pratique à coté de la forme socio-économique qui est celle du prolétariat.
+		- Deux formes:
+			- Propagande Culturelle -> Proletkult: Construise un appareillage d’image qui permet d’offrir un système de représentation à cette altérité
+				- Forme de paternalisme idéologique
+					- Considère celle si comme inapte à crée son propre système d’image -> Idéologie socialiste
+			- Productivisme: Ne cherche pas à représenter le prolétariat
+				- Tente d’intégrer le matérialisme dialectique à l’intérieur des process de l’art lui même / L’artiste ne travaille plus dans un système de représentations
+					- Appliquer de façon littéral en fessant une dialectique des matériaux
+						- Intégré dans son vocabulaire pratique le process de la révolution prolétaire :
+				- Exemple du mouvement Act-Up et du travaille de Barbara KRUGER

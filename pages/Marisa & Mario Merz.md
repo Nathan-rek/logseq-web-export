@@ -1,0 +1,15 @@
+- Les deux artistes née à Turin, le père de Marisa travaille chez Fiat, le père de Mario est ingénieur, alors que Mario fait des études de médecine lors de la 2GM Mario s'engage dans un groupe anti-faciste, il est enferme et commence a dessiner. A la sortie de prison il rencontre Marisa et lors couple commence, un couple qui sera la base de beaucoup de leur travail artistique.
+- Ils ont un enfant Beatrice et Marisa s'en occupe, son travail artistique va aborder sur son travail domestique
+	- Marissa Merz, [*Le déconte*](https://artsupp.com/fr/artistes/marisa-merz/la-conta), 1967 ![Le décompte, work by, Marisa Merz | Artsupp](https://gallery.artsupp.com/partners_artworks_pictures/full/9011.jpg)
+		- Conte des petits poids dans un bol
+	- Marissa Merz, [*Living Sculpture*](https://www.tate.org.uk/art/artworks/merz-untitled-living-sculpture-t12950), 1966 ![Untitled (Living Sculpture)', Marisa Merz, 1966 | Tate](https://media.tate.org.uk/art/images/work/T/T12/T12950_10.jpg)
+		- Œuvre réalisé avec du papier cuisson qui sont installé dans sa cuisine
+- Mario Merz au même moment devient une figure de l' [[Arte Povera]], Marissa sera inclue dans le mouvement elle sera la seule femme du mouvement
+- Mario Merz commence à faire plusieurs igloos
+	- Mario Merz, *Igloos* ![](https://inferno-magazine.com/wp-content/uploads/2018/09/mario_merz_3.jpg?w=640&h=427)
+	- Motif très souvent renouvelé.
+	-
+- Marisa Merz s'associe avec son mari lors de la performance *Scarpette*.
+- Marisa Merz, "*Scarpette*", 1968  ![Visite confinée dans l'exposition "Entrare nell'opera" | MAMC, Musée d'art  moderne et contemporain, Saint-Étienne Métropole](https://mamc.saint-etienne.fr/sites/default/files/upload/medias/images/VISITE-CONFINEE-Entrare-06-marisamerz-scarpette-600_0.jpg)
+	- Performance où les artistes déposent des objets sur la plage
+-

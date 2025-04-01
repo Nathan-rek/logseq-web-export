@@ -1,0 +1,37 @@
+- Un espace autre littéralement - L'hétéropie existe c'est un espace physique
+- # [[Michel Foucault]]
+	- Dans les sociétés dites primitifs il y a des hétérotopies de crise ou de déviation
+		- État vécu ou les individus sont en état de crise biologique ( ex: crise d’adolescence / Vieillesse ). Déviance face à la norme de la société
+			- Hétérotopie de déviation (dominant dans les cultures occidentales). Individus dont le comportement est devient face au dispositif de normalisation. Espace construit (ex: Maison de Repos / Clinique Psychiatrique)
+		- Au cours de son historie les sociétés font exister les hétérotopies selon un fonctionnement précis, une même hétérotopie peut avoir un fonctionnement ou un autre dépendant de la société.
+			- Les cimetière sont des hétérotopies qui ont évoluer face à la monté en puissance de l'athéisme
+				- La perte de foi en la résurrection on se met a construire des petits hôtes
+					- Le cimetière est une hétérotopie qui persiste mais qui changer de sens en fonction des changement sociaux
+	- Le [[Jardin]] est la plus ancienne hétérotopie
+		- Le [[Jardin]] persan est un [[Espace Sacré]]
+			- La végétation se repartie dans l'espace d'hétérotopie
+				- Le tapis est un jardin mobile dans l'espace
+					- Le [[Jardin]] est une hétérotopie heureuse et universalisantes
+	- Au Théâtre on juxtapose tout les lieux
+	- Les hétérotopies fonctionne pas usage du temps
+		- Ce sont les hétérochronies
+			- Musée et bibliothèque sont des hétérotopies où le temps est fixe
+				- L'accumulation de tout les temps
+					- Le projet d'un lieu et un temps de tout les temps est un projet de la [[Modernité]]
+		- Le mode de la fête et les villages de vacances sont des hétérotopies chroniques
+			- Il y a une promesse d'éternité
+	- [[Michel Foucault]] va en Tunisie pour suivre son amant
+		- Il y découvrir le Club Med de Djerba ou les touriste vont dans un fantasme de [[Primitivisme]] passer du temps dans ces hétérotopies
+		- Un lieux qui promet une temporalité autres dans un lieux abstrait
+	- L'hétérotopie fonctionne sur ouverture et fermeture
+		- Il y a un rituel d'acces qui n'est pas evident
+			- Le sauna et le hammam sont des entrée vers des hétérotopies
+	- Au 19eme un colonie de Jésuite au Paragay était des colonies ou les jésuites crée une vie humaine absolument parfaite selon les fantasmes jésuite de l'époque
+		- Le village est construit selon un plan rigoureux
+			- La vie était normés sur le son des cloches
+				- L' [[Utopie]] jésuite était paradoxale car à 00h sonnait les cloches pour que les jésuites enfante au maximum
+	- Le bateau a incarner l'instrument de l'heterotopie
+		- Le bateau c'est l'instuemtn de l'economie, du [[Colonialisme]] et de l'imaginaire de l'hétérotopies
+	- L'hétérotopie permet à l'imaginaire de se déployer
+- Pour [[Jean Baudrillard]], le DisneyLand Floride est une hétérotopie réalisé
+- Tout comme l' [[Espace Sacré]] il est un espace autre

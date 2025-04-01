@@ -1,0 +1,25 @@
+- Le **Bwiti** est une pratique spirituelle et religieuse originaire d'Afrique centrale, principalement au **Gabon**, ainsi que dans certaines régions du Cameroun** et de la Guinée équatoriale.
+	- Elle est pratiquée par des groupes ethniques comme les Fang, Mitsogo, et d'autres communautés locales.
+- La société initiatique du Bwiti est la plus importante de toutes les formations religieuses du Gabon.
+- Le Bwiti est pratiqué par de nombreuses ethnies du Gabon et au-delà de sa frontière, et plus particulièrement chez les Mitsogho, les Fan et les Bapinzi.
+- L'initiation Bwiit est un rite qui melange musique totem poesie danse...
+- Elle est accompagner d'une prise d'iboga, une plante psychoactive permettant une interaction visuel avec l'au-delà,
+- Il s'est enrichi de pratiques catholiques au XXᵉ siècle.
+- ### Origines et évolution :
+	- Originaire des Pygmées du Gabon central, diffusé aux Bantous au XIXᵉ siècle.
+	- Il s'est enrichi de pratiques catholiques au XXᵉ siècle.
+	- Comprend deux branches principales :
+		- **Bwiti Dissumba** : Rite originel, masculin, basé sur le culte des ancêtres.
+		- **Bwiti Misoko** : Rite thérapeutique ouvert aux femmes, centré sur la guérison.
+- ### Rôle et philosophie :
+	- Le Bwiti initie ses membres à une connaissance globale du monde et de l'humanité.
+	- Il libère spirituellement, permettant à l'initié de devenir un "banzi" (éveillé).
+	- Il associe la spiritualité, la sociologie et l'esthétique en une expérience initiatique globale.
+- ### Rituel et symboles :
+	- **L’iboga** (plante sacrée) : Consommée lors de l’initiation pour induire des visions, abolir la notion de temps et permettre un voyage spirituel vers l'au-delà.
+	- **Instruments rituels** : L'arc musical (symbolisant le lien entre la vie et la mort) et la harpe Ngombi.
+	- **Initiation** : Comprend des bains rituels, des épreuves symbolisant la mort et la renaissance, et des visions en quatre stades, aboutissant à un dialogue avec les ancêtres dans le "village de la mort".
+- ### Impact socioculturel :
+	- Le Bwiti est un "art total", mêlant musique, danse, sculpture, poésie et architecture pour renforcer ses rituels.
+	- Il régule les aspects religieux, sociaux et philosophiques des communautés.
+		- En somme, le Bwiti transcende la simple religion pour devenir un mode de vie, une quête de libération spirituelle et une célébration esthétique de l'existence.

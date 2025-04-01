@@ -1,0 +1,34 @@
+- Jose Estéban Muñoz, professeur à l'université de NY, vivant et sortant beaucoup a New York.
+	- Vient d'une famille immigré cubaine populaire qui vit à Miami
+- Fait une thèse sur l'identification queer
+- Cruiser est un terme qui circule dans les communautés d'hommes gay, il signifie aller chercher des endroits où trouver de la rencontre
+- L'activisme cherche la perfection
+	- Or la politique démocratique n'est fait que de demi victoire
+	- La posture d'un accomplissement qui ne serait que complet ne peut pas marcher dans un régime démocratique
+- La culture occidental vit avec l'idée d'une Apocalypse
+	- Obsession fondé sur une mauvaise lecture biblique
+		- L'apocalypse c'est la fin mais aussi le début
+- # Cruiser l'utopie, José Esteban Muñoz
+- La Queerness est une idéalité
+	- Comme une forme d' [[Utopie]]
+- Le futur comme domaine de la queerness
+	- La queerness est un désir qui nous propulse agir dans le futur malgré les oppressions du présent
+- Se base sur la pensé de Bloch, une vision de l'utopique qui dépasse le fantasme.
+	- Dans *Le principe D'Esperance* Bloch revoit tout les types d' [[Utopie]]
+		- Il différencie les [[Utopie]] abstrait et concrètes.
+			- Les [[Utopie]] abstraites n'ont de valeur que lorsqu'elle présent une fonction critique qui peut nourrir une politique critique ou vectrices de changement.
+		- Les [[Utopie]] abstraites sont faillibles parce que détaché de toute conscience historique
+			- On associe l'[[Utopie]]abstrait à un optimisme banal.
+		- Les [[Utopie]] concrètes s'apparent aussi à des rêveries mais elles sont porteuses de l'espoir d'un groupe
+			- Bloch parle de l'espoir éduqué comme d'un espoir qui a un affect et un corrélat(crainte)
+				- L'espoir et la craintes sont des structures affectives que l'on peut qualifier d'anticipatrices
+- Cruiser l'utopie consiste en premier temps à décrire une modalité de l'utopisme queer
+- Pour Bloch l'émerveillement est un mode philosophique de contemplation important.
+	- Les "wow" ou "gee" de [[Andy Warhol]] souvent perçu comme faussement naïve peuvent être la manifestation du sentiment utopique indissociable de de sa production artistique.
+		- Manifeste de la *contemplation étonné* de Bloch
+			- L'amour des objets de ou la fascination pour la célébrité peut être un moment de répit face *l'obscurité de l'instant vécu*
+				- [[Andy Warhol]]: [*Liz [Early Colored Liz]*](https://lacmaonfire.blogspot.com/2020/02/broad-buys-warhol-liz-taylor-celebrates.html), 1963 ![Broad Buys a Warhol Liz Taylor; Announces Anniversary Shows](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUyXm1leX90ZLDOcaXQvqWn1uychd-lY-wdIRr3rk0AjVX8Z7Yn15Wq4qCehoslhTaQ_1uRsyuXss7LOLIFKXuzWv0DmXBunFeGgCSEIuGAuRfFE5TXPbI9zhcGbgu427m-OAkS9fOvxjk/s1600/Liz.jpg)
+			- L'étonnement nous permet de dépasser les limites d'un présent aliénant
+	- Le poème de O'Hara sur deux individus partageant un coca redéfinit la limites de l'art dans sa fonction utopique où va l'art après la beauté.
+- [[Andy Warhol]] ou O'Hara détecte quelque chose d'autre dans la bouteille de coca, se sujet du banal quotidien, de l'objet de consommation peut amener à une compréhension de l'utopie queer par l'émerveillement du présent nait l'espoir.
+- L'espoir est un engagement critique dans l'[[Utopie]]

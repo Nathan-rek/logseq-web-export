@@ -1,0 +1,7 @@
+- Invitation à la simplicité et au dépouillement dans le choix des matériaux et dans leur traitements
+	- Se développe au même moment que le [[Minimalisme]] et que le [[Pop-Art]]
+- Utilisation de matériaux brut
+- Se veut être une réponse au [[Post-modernisme]] américain, et le rapport que les artistes comme [[Robert Rauschenberg]] commence à avoir avec les matériaux de consommation.
+	- Une tangente que les artiste du [[Pop-Art]] prendront à bras le cœurs
+- Les artistes de l'Arte Povera sont plus proche des pensées néo-marxistes et de [[International situationnistes]] et évitent d'avoir un lien avec les mass media et leurs modes de production et leurs iconographie.
+- I..Elles cherchent leurs vocabulaire de forme dans les matériaux pauvres qui commence à prendre une place importante du au phénomène d'industrialisation de masses. Et cherche un vocabulaire de forme proche de l'environnement

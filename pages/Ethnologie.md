@@ -1,0 +1,21 @@
+- Dans un mouvement de décolonisation [[Post-Coloniale]] comment les avant-gardes apparaissent
+	- Essaie d’intérioriser cette face de décolonisation, cette pratique ne se situe pas à coté mais se définit
+	- La Manière de se situer à coté de cette altérité peut prendre deux formes:
+		- Identification: je ne suis pas mais je m’identifie à
+		- Identité: s’assimiler à une communauté car appartenant à une autre
+	- Les deux cas présente un risque de paternalisme idéologique.
+- Nécessité d’informer la distance
+	- En tant qu’artiste la position culturelle / Socio-économique doit informer l’autre de la distance entre l’artiste et l’altérité: **La distance n’est pas révolue par l’identification**
+- ### Deux cas de rencontres d’altérités
+	- #### [[Surréalisme]] :
+		- Carl Einstein: [*Negerplastik*](https://journals.openedition.org/critiquedart/2421) , 1998
+		  id:: 661023c5-bcae-4e75-a865-e6ff654d50a2
+			- Premier livre qui présente un intérêt au art Africains: Analyse à partir de son contexte d’émergence ( Associer Culte et Formes ) Éviter de poser une analyse construite sur un système occidentale de l’art :
+			- La statuaire non-occidentale: possède la puissance culturelle et est activée à travers le rituel
+		- Mission Dakar-Djibouti, 1931[^62]: Traverser l’Afrique (photographe / ethnographe / Cinéaste: Équipe multidisciplinaire) > [*L’Afrique fantôme: Michel *](https://www.babelio.com/livres/Leiris-LAfrique-fantome/25001)EIRIS carnet de note de se voyage: Relate
+			- La prise de Lariame: qui entraîne des troubles anxiolytiques[^63] > Rapport à la réalité distordu: campagne d’expérimentation pharmacologie
+			- Les grilles d’analyse sont produites à Paris et sont projetées en Afrique : Hiatus méthodologique: Problèmes d’analyse
+			- Déplacement motivé par une angoisse de l’homme blanc qui se met en face d’une altérité.e pour combler une angoisse culturelle et individuelle et narcissique : Envie de correction de soi
+- Négritudes: 1950-1960: produit par une culture africaine qui vient en contact d’une culture blanche: Revue [*Présence africaine*](https://www.cairn.info/vign_rev/PRESA/PRESA_202.jpg): Aller à l’encontre d’une certaine lecture stéréotypée / Idéologique
+- Narcissisme idéologique: l’altérité est tout le temps rabattu sous la formes d’un objet qu’on viendra à représenter: L’homme blanc se rapporte à l’altérité pour se corriger soi même.
+	- Théorie de la différence (Jacques DERRIDA: Grammatologie > interroger ce mouvement de soi vers l’altérité / Déconstruction pour évité une hiérarchisation entité objet): Éviter une théorie culturelle ou les identités relationnent de façon objective l’altérité n’est qu’un objet d’étude et n’est pas représentée comme identité

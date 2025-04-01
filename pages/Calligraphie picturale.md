@@ -1,0 +1,8 @@
+- Les critiques de la peinture modernes occidentales ont pu qualifié les peintures de [[Claude Monet]] ou d'autres de "nuagisme" comme une juxtaposition de plans colorées ou de touches saturés de couleur.
+- L'expression graphique des hiéroglyphes de Juan Miro ont influencé de nombreux..se artistes contemporain..es
+	- Hans Hartung: [*Pastel P*](https://www.amorosart.com/oeuvre-hartung-pastel_p1957-31-119073.html), 1957 ![Offset de Hans Hartung, Pastel P.1957-31 sur Amorosart](https://www.amorosart.com/image-oeuvre-pastel_p1957-31-1000-1000-119073.jpg)
+- Des artistes ont combiné l'influence calligraphique et l'expressionisme à travers des abstractions gestuelles fortes comme
+	- Georges Mathieu: [*Roseaux*](https://galeriefleury.com/artiste/georges-mathieu/), 1972 ![](https://galeriefleury.com/wp-content/uploads/2021/11/GeorgesMathieu_Roseau_GalerieFleury.jpg)
+- Cette intégration calligraphique dans la peinture contemporaines  est propre à la peinture moderne Occidentale. La peinture Orientales avait déjà intégré ses éléments dans leurs peintures
+	- Zao Wou-Ki en partant de la calligraphie pour aller vers une abstraction picturale plus complexe
+	- Nasser Assar: [*Sans titre*](https://www.nasserassar.com/), 1963 ![](https://www.nasserassar.com/wp-content/uploads/2019/09/1963HST004.jpg)

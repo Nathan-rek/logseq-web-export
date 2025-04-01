@@ -1,0 +1,87 @@
+# CCRU : [*Cybernetic Culture Research Unit*](http://www.ccru.net/index.htm) :
+	- Groupe de recherche interdisciplinaire expérimental à l’université de Warwick dans les années 1990
+	- Définit leurs centres d’intérêts :
+	  *«cinéma, complexité, monnaies , dance music, e cash, cryptage, [[Féminisme]] , fiction, images, vie inorganique , marchés , matrices, micro-biotique multimédia réseaux , chiffres, perception, reproduction, sexe , simulation, télécommunications , textes , commerce, vidéo virtualité »*
+	- ## History CCRU
+		- Le concept d'histoire du CCRU est antagoniste avec leur vision d'être, il favorise le glitch la coïncidence, l'imprévu
+		- La causalité du passé sur le futur, devient pour eux une rétro contamination le passé infecte le futur. Le CCRU peut avoir infecter Lovecraft dans ces écrits sur le paléo passé, et qu'elles entités futur possède le CCRU
+		- Dans la linéarité Chronos le CCRU à commencé en K0 + 95 (1995)
+			- **"Ccru does not, has not and will never exist."**
+	- ### I was a Ccru Meat Puppet
+		- Dans ce texte, Justine Morrison parle de sa visite de l'exposition **Syzgy**, organisée notamment par le CCRU. Elle y trouve un intérêt particulier, ressentant récemment quelque chose de familier avec l'iconographie que le CCRU développe. Elle raconte avoir le sentiment d'avoir déjà vu ces scènes dans un rêve, mais un rêve qui ne serait pas le sien.
+		- Dans son récit, elle décrit de nombreuses soirées après les événements officiels où des membres du CCRU lui expliquaient plusieurs principes inhérents à leur mode de pensée, comme le lemurian, la sorcellerie... Ce qui ne la rassure pas, renforçant plutôt son sentiment d'incompréhension et de peur face à leurs révélations.
+		- Le dernier soir de l'exposition, elle raconte avoir été kidnappée et emmenée dans un centre de déprogrammation de type **Monarch Program**.
+		- Le **Monarch Program** est un programme de choc qui consiste à montrer à des enfants des images horribles pour les mettre dans un état de traumatisme tel qu'ils en oublient leur personnalité.
+		- Dans ce centre, elle rencontre deux anciennes victimes des programmes **Monarch**, les frères Kowalsky, deux agents du **KGB** ayant subi un programme **Monarch**, qui ont créé un refuge pour déprogrammer les esclaves **Monarch**. On lui apprend qu'elle a été victime d'un **pandemonium programming**, une version du programme **Monarch** basée sur des combinaisons numériques.
+		- Suite à cette déprogrammation, les mois suivants furent difficiles, découvrant qu'elle avait été contrôlée par des démons et des ordres étranges depuis sa naissance. Que tous ses souvenirs étaient faux.
+		- Les frères Kowalsky lui révèlent que ceux derrière sa programmation sont le CCRU, en réalité le **Khru**, ce qui signifie "diable de l'apocalypse", lui faisant comprendre que le CCRU serait des adorateurs de Satan.
+		- Le programme de traumatisme serait étrangement lié à un jumelage, les traumatismes **Monarch** se faisant par paire, et elle comprend que ses visions de rêves d'un autre étaient en fait des communications télépathiques avec son **Monarch Twin**.
+		- Elle apprend que sa mission était de participer à un sacrifice. Elle comprend cela plus tard, ayant plusieurs visions d'elle-même dans des labyrinthes souterrains. Dans ces visions, elle se faisait violer par un étranger familier en position du papillon, ensuite elle était conduite dans des couloirs remplis de papillons en bocaux. Cependant, les papillons étaient vivants. Elle demanda pourquoi ils étaient vivants, et l'étranger lui répondit : « Ils ne peuvent pas mourir tant que la marionnette vit. »
+		- Elle se retrouve impliquée dans la mort de **Gates** ou d'une entité **Gates**.
+		- Le CCRU aurait un lien avec **Gates** et l'orchestration de l'assassinat de **Gates** par elle ferait partie du plan de contrôle du CCRU sur le plan [[Cybernétique]] .
+	- ## Y2k
+	  id:: 66d08144-bd41-47ac-9425-f9c6c3956cc8
+		- Le Y2K(bug) est vu comme un accident qui n'est pas simplement mechanique mais comme un événement illustrant tout un complexe de thèmes entremêlés, notamment : le crash de la science-fiction (et l'émergence du cyberpunk), la mort de la [[Post-Modernité]] et la reprise du conflit chrono-politique.
+			- La peur et la Hype du Y2K ne sont pas antérieur à l'évènement il sont l'évènement
+			- Le Mbug contamine tous, pas que les ordinateurs, toutes les puces en silicone, ce qui est mauvais signe car notre ère cherche à s'entrelacer avec les puces
+		- Le Y2k est un évènement sémiotique mais il n'appartient pas au régime des signes de la [[Post-Modernité]]
+	- ## SF & Cyberpunk
+		- La SF peut être définie comme la mise en œuvre du projet de technologie progressive - une vision d'une croissance technologique débridée s'étendant dans un avenir lointain qui a été planifiée de manière spéculative.
+			- Stanley Kurbick cut in 2001 Space Odyseey: ![I recently went to the Kubrick exhibition at the Design Museum, and noticed  they used the wrong frame for the 2001: A Space Odyssey match cut, and it's  wrong in The Stanley](https://i.redd.it/t784spz003f31.jpg)
+			- Mais le Cyber-punk se cache dans un avenir proche, se construisant à partir des conséquences imprévues du développement technique.
+		- Le long terme de la SF s'est soudainement effondré dans le futur proche du cyberpunk.
+	- ## Capitalisme réalisme
+		- Dans la réalité du monde capitaliste un monde de simulation et d'anticipation [[Cybernétique]] tout a fondu le matériel est devenu un virtuel abstrait
+			- Ce n'est pas un désenchantement de la [[Post-Modernité]] mais une manière de souligner la façon dont les agents virtuels tels que le potentiel ont l'effet le plus matériel imaginable.
+	- ## Hyperstition
+	  id:: 66d19522-078a-458e-8e0e-84bab95176e4
+		- Le principe d'hyperstition est central dans le CCRU, il s'y réfère par rapport au travaux du Cthulhu Club
+			- Un groupe de theoricien..nes non-standard étudiant des écrits. Particulièrement ceux de W.S Burrough, L'hyperstition qui peut être brièvement résumé comme *fictions that make themselves real* est une manière d'écrire qui n'est pas juste de l'ordre de la représentation mais donc de l'ordre de la transformation.
+		- Ce qui donne un fort pouvoir à l'écriture qui peut être une arme de reprogrammation du discours générale au contrôle
+			- *Every act of writing is a sorcerous operation, a partisan action in a war where multitudes of factual events are guided by the powers of illusion*
+			- Le réalisme devient aussi une arme, le réalisme représentatif sans le savoir participe à la guerre en collaborant avec le système de contrôle dominant en approuvant implicitement sa prétention d'être la seule réalité possible.
+	- ### The One God Universe
+		- Le programme dominant pour Burroughs est le One God Universe, Burroughs est en guerre contre la fiction de OGU
+			- La fiction OGU opère au plus haut degrés de réalité, en utilisant la biologie pour régler les problèmes de l'immortalités dans OGU les religions sont des armes
+				- Tous d'abord OGU renie l'existence d'une guerre magique, il n'y a qu'un réalité la sienne elle est l'unité primaire. L'OGU se déploie dans un cadre métaphysique qui rejette la fonction magique des mots et des signes considérés comme illusoire (et nie sa propre magie). Ce qui implique un contrôle du langage par L'OGU.
+				- Pour quitter l'OGU il faut une forme de relativisme sur ce que c'est de croire. Burroughs va plus vers un nothing is true que vers un nothing is real qui serait un relativisme post-moderne rien n’est vrai car il n’existe pas de version unique et autorisée de la réalité – il y a plutôt une surabondance, un excès de réalités. le plan de OGU est de faire croire qu'il n'y en a pas et qui n'y en a qu'un.
+		- Le Cut-Up et les autres techniques de Burroughs serait lié à une révélation que Burroughs aurait eu suite à une trance en consultant une édition de *The Ghost lemurs of Madagscar*. Avec ces techniques Burroughs pouvait mettre en place des time-war tactics envers le temps de OGU.
+	- ### MU
+		- L'OGU est apparu suis au renversement du Magical Universe. Le MU est peuplé de Dieux tous en désaccord constant, il n'y a pas de possibilité de vrai, est c'est quand le OGU commença à monter une guerre contre le Many que le OGU apparu
+			- *“Consider the One God Universe: OGU. The spirit recoils in horror from such a deadly impasse. He is all-powerful and all-knowing. Because He can do everything, He can do nothing, since the act of doing demands opposition. He knows everything, so there is nothing for him to learn. He can’t go anywhere, since He is already fucking everywhere, like cowshit in Calcutta. … The OGU is a prerecorded universe in which He is the recorder”*
+	- ## Miskatonic Virtual University
+		- La MVU est une école semi-fictive : elle existe autant qu'elle n'existe pas. N'ayant pas de campus, elle se manifeste à travers diverses autres institutions, souvent considérée comme l'ombre du MIT. Cette école s'intéresse particulièrement aux aspects hyperfictionnels de l'œuvre de H.P. Lovecraft. Son histoire est étroitement liée au travail d'Echidna Stillwell, une anthropologue dont les recherches ont été discréditées en raison de sa croyance en des pratiques folkloriques. Cependant, ces travaux ont été valorisés par le capitaine Peter Vysparov.
+	- ### The Cthulhu Club
+		- Vysparov dans une lettre à Stillwell avoue avoir utiliser les écrits de Stillwell à des fins mauvaises de manipulation de population. Il raconte comment ces pratiques ont évolué en une véritable guerre sorcière contre les forces japonaises.
+	- ## AOE
+		- AOE (l'Ordre Architectonique de l'Eschaton) revendique deux choses :
+		- **Précéder toute tradition actuelle de sagesse humaine** : L'AOE prétend exister depuis avant toutes les autres traditions de sagesse ou de connaissance humaine. Cela sous-entend qu'elle possède un savoir ancien, remontant à une époque antérieure à toutes les autres civilisations ou courants de pensée connus.
+			- *... toute société secrète a une société postérieure encore plus secrète... une société est secrète quand elle présente ce dédoublement, a cette section spéciale.*  [[Gilles Deleuze]] et Guattari, *Mille Plateaux* , pp. 287-8.
+		- Société magiques hermétique et secrète.
+			- Tous les faits rapportés concernant son histoire, son organisation, sa doctrine et ses pratiques doivent être traités avec un scepticisme extraordinaire.
+		- **Nourrir en son sein la graine de la Gnose terrestre ultime** : L'AOE affirme qu'elle détient ou cultive un savoir mystique ultime, souvent appelé "gnose", qui représente une compréhension profonde de l'univers et de la vérité. Ici, cette "gnose terrestre" est liée à la **Noosphère techno-chardinienne**.
+			- **Noosphère** : Concept développé par le philosophe Pierre Teilhard de Chardin, qui fait référence à une couche de pensée ou de conscience collective englobant la Terre. C'est une sorte d'intelligence planétaire ou d'évolution spirituelle mondiale.
+			- **Techno-chardinienne** : Ce terme semble faire référence à une interprétation technologique ou scientifique du concept de Teilhard de Chardin, suggérant que cette évolution spirituelle est liée à des avancées technologiques ou à une intégration entre la conscience humaine et la technologie.
+		- L'AOE se bat contre la polyculture lémurienne et toutes ses variantes de sorcellerie temporelle
+			- l'AOE met en avant le calendrier œcuménique comme signe de sa grande œuvre abolition des temps lémuriens
+			- L'AOE participerait à plusieurs événements contemporains comme
+				- Le **théconservatisme** comme une recrudescence des valeurs religieuses, afin d'augmenter la croyance du calendrier grégoriens face au Y2K
+					- Le chiffre romain pour 2000 est MM, acronyme d'une des premier cyber-attaque majeur la [*Moonlight Maze*](https://en.wikipedia.org/wiki/Moonlight_Maze)
+				- La consolidation de l'UE-métaterritoriale comme la consolidation d'un bloc uniforme plus simple a contrôle.
+					- Cette consolidation de l'UE-métaterritoriale s'est accompagné de plusieurs crises financières avant d'affaiblir et de renforcer certaines puissances
+	- ## Hummpa-Taddum
+		- Selon l'AOE les millénaires viennent par paire gouvernés par des divites dyadiques (qui fonctionne par deux), ce sont les Puissances en Place
+			- Elle s'accompagne d'un nouvelle éon
+				- Un éon est une divinité grecque associée au temps, au firmament et au zodiaque
+			- Chaques éons est, pour les mages de l'AOE un mariage astro-chthonien
+				- Chthonien relatif au divinités infernales ou tellurique, par opposition au ouranien ou éolien qui sont célestes
+					- Relatif au dieux souterrains
+		- L'an 2000 serait Hummpa, le Grand Ver Babylonien, accouplé avec le Logos Céleste Taddum
+		- Le mathématicien et occultiste Charles Lutwidge Dodgson - dont la relation précise avec l'AOE reste cryptique et ambivalente - a consacré sa vie à la compréhension de la phase finale de dégénérescence de l'époque de Hummpa-Taddum. Sous le pseudonyme de Lewis Carroll, il présente son héroïne Alice au despote fou et au technicien fuzz pomo, à peine déguisé sous le nom populaire de Humpty-Dumpty.
+			- Lewis Carrol, Humpty Dumpty, 1871 ![Humpty Dumpty's Philosophy of Language](https://www.thoughtco.com/thmb/F2HL3EXkF7lbc0ljgFaVohsMztQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Humpty-57c79dbf5f9b5829f4e68f6c.jpg)
+				- Perché de façon précaire sur le mur supposé impénétrable de la signification
+					- Quelque chose de bouleversant est sur le point d'éclore, et la fragilité éonique d'Hummpa-Taddum
+						- *Quand j’utilise un mot »*, dit Humpty Dumpty d’un ton plutôt méprisant, *« il signifie exactement ce que je veux qu’il signifie – ni plus ni moins. »*
+						  *« La question est »*, dit Alice, *« de savoir si l’on peut faire en sorte que les mots signifient des choses différentes. »*
+						  *« La question est »*, dit Humpty Dumpty, qui est d’être maître – c’est tout. » (p.185) ...
+					-

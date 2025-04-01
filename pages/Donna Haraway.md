@@ -1,0 +1,41 @@
+- Donna Haraway voulait examiner comment le néo-libéralisme grandissant des années 80 pouvait pénétrer notre chair
+	- Cette pénetration dans notre chair est possibel car le liberlaisme est un machien de guerre de technologique
+		- L'influence de la [[Cybernétique]] a donnée au état unis un fort impact sur le monde.
+			- Un état néo-libérale cyber militariser
+- Au sein de cette guerre technologique la place de la femmes est crucial, la sciences et la technologies peuvent appartenir aux femmes
+	- La réappropriation des sciences par le [[Féminisme]]
+- Pour Haraway la SF est une pensée, ce sont plus que des œuvres elle sont des œuvres de pensée direct qui ne nécessite aucune interprétations
+- # [*Cyborg Manifesto : Science, Tehcnology and Socialist-Feminist in the Late Twentieth Century*](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf), 1985
+  id:: 67a0cb47-1e45-414e-856d-551f8875d330
+	- L'informatique de la domination
+		- Les technologies se base sur un principe binaire
+			- Le sujet qui à le pouvoir et l'objet soumis à celui-ci
+		- Féministe qui dit qu'il faut sortir de l'essentialisme de responsabilité de reproduction
+	- Les cyborgs pour Haraway sont des individus androgènes qui dépasse la biologies, individu non sexuées et donc post-binaire
+		- Ne s'identifie pas à une origine il peut se lier à plusieurs choses
+	- Le [[Féminisme]] doit prend acquis du tournant technologique que les technologies [[Cybernétique]] sont en train de faire.
+	- La technologie perturbe les frontières, notamment le rapport de [[Nature - Culture]] et c'est quand ces frontières se trouble que les femmes doivent en profite
+		- Elles peuvent s'affranchir des assignations genré en abordant la figure du cyborg au delà du sexe du genre en fusion avec la technologie
+		  id:: 66fc4992-88fb-4575-b02f-95ef6c6854af
+	- Cyborg
+		- Figure central de la science-fiction qui décrit un être humain moitié organique moitié [[Cybernétique]] dont les fonction physiologiste sont améliorés par des modification biochimiques et électroniques (Neil Harbisson)
+		- Ne s'identifient pas à leur origine ni à la nature, afin de développer un sentiment de compréhension à travers les différences entre eux et les autres
+- # Savoir Situé, D.Haraway et Sarah Harding
+- Le [[Féminisme]] à refondé les sciences humaine notamment la Philosophie
+- Donna Haraway chercheuse en biologie soulève le problème de l'objectivité scientifique
+	- *L'objectivité parfaite n'existe pas toute production de savoir est le fait d'un sujet inscrit dans un monde social*
+	- Depasse l'idée d'un universelle Philosophique qui se baserait sur le mythe de l'objectivité
+		- Toutes sciences est une production humaine
+		- Le point de vue de Sirius n'existe pas, on peut reconnaitre être situé et donc être teinté d'une subjectivité
+			- Risque de se positionner socialement avant d'écrire
+	- Tout savoir s'écrit toujours de quelque part
+- Donna Haraway est de base philosophe des sciences(biologie) et remet en question le principe d'objectivité fort présent en science
+	- Il n'y a pas de discours sur l'objet l'objet est le discours en dehors de toute subjectivité
+	- En biologie l'objectivité est confondu avec une subjectivité dominantes, pense être objectif car son regard est partagé par la plupart
+		- La sante des femmes est néglige dans la biologie car elle l'étude des sciences est fait d'une subjectivité d'hommes prétendant a une objectivité
+	- En situant la pratique on va faire vivre d'autres subjectivités du monde.
+		- L'objectivité peut exister mais elle n'est jamais parfaites elle est toujours teint d'une subjectivité
+- Pour Donna Haraway faire de la philosophie c'est redécrire le monde
+	- C'est émettre un geste spéculatif, je décrit ce qui est et j'essaie de le faire parvenir
+- Cette théorie à influencé pleins d'autres domaines
+	- L'étude du cinéma avec le *Male Gaze*

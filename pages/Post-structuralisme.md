@@ -1,0 +1,11 @@
+- Courant de pensé a l'intérieur du structurisme
+- Les premiers structuralistes imposent la structure comme autorité
+- Avec Mai 1968 l'autorité du structuralisme est rompu
+	- Les strucutre d'autorite sont remis en question
+		- Possibilité de modifier la structure pour changer la realite social
+			- ((67b0e4be-8284-4c30-8e63-43ac9913bde8)) de [[Gilles Deleuze]] remise en question la structure de la psychanalyse et de la sexualité comme structure d'autorité social
+			- Autoriser les changement dans notre realite social
+- La réalité étant construite socialement c'est les qui produisent les structures qui y obéissent
+	- Si on modifie la façon de pensée des individus on modifie la structure social
+- Quand on est dans la déconstruction poststructuralisme on essaie de comprendre les rapports de pouvoir pour y modifier la structure
+-

@@ -1,0 +1,65 @@
+# Signer/Contresigner
+	- **Contexte et notes sur la copie chez Sherrie Levine, Richard Prince et [[Cindy Sherman]] **
+	- ## Olympia (Manet, [[Paul Cézanne]], Morris )
+		- En 1968 dans le numéro 5/6 de la Revue Aspen Robert Morris et Stan VanDerBeek insère une copie en film Super 8 de leur performance
+			- Robert Morris, *Site*, 1964 ![Robert Morris](https://www.artforum.com/wp-content/uploads/2009/11/picksimg_large-2.jpg?w=500)
+			- Dans cette performance Morris déplace un bloc blanc et se dévoile une femme nu avec un ruban noir autour du cou reprenant l'Olympia
+				- ((6564d3ba-c961-4551-86a5-7ddca48e4602))
+				- L'Olympia est moins qu'une copie ici elle est une référence intégré dans une performance
+				- En 1874 [[Paul Cézanne]] expose sa Moderne Olympia
+					- [[Paul Cézanne]] Moderne Olympia, 1874 ![Une moderne Olympia — Wikipédia](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GPIbgyblpA2pNzf4D-fyVBePhf6s5M_Ovg&s)
+						- Même s’il gardait du prototype la structure générique, il proposait là une citation aménagée et adaptée de l’œuvre
+							- Comme par excès de littéralité, il insérait le personnage absent du tableau de Manet, le visiteur de la prostituée prenant l’apparence du peintre lui-même.
+						- [[Paul Cézanne]] propose ici une clé de lecture de l'œuvre de Manet
+							- Une œuvre qui porte aussi sur l'inclusion du..la spectateur..ices
+								- Inclusion que propose le jeux de regards, celui frontal de l’Olympia, celui surpris et naturel du chat
+									- [[Paul Cézanne]] aplatit se regard en incluant le peintre
+						- L’intention avouée de [[Paul Cézanne]] était d’opérer une entreprise de modernisation de l’Olympia : en adaptant son code iconographique, par l’intégration de ce spectateur absent de l’œuvre de Manet
+							- Cette appropriation vise à ce que l’œuvre produite (Une Moderne) se substitue à l’original (Olympia), une opération invalidant du même coup la [[Modernité]] précédente du code de l’Olympia
+							- Schématiquement, l’opération de [[Paul Cézanne]] renverrait à celle de la [[Modernité]] , et par extension à celle du [[Modernisme]] , selon une conception restrictive et rapide de ce terme, où les œuvres se substituent et s’invalident les unes après les autres.
+				- La référence à Manet dans Site de Morris ne serait quant à elle pas réductible à cette opération d’une modernisation/substitution, Morris déplaçant ici le code de l’Olympia dans la sphère de sa performance, déplacement produisant une circulation et une reconfiguration du sens de l’œuvre, en ce lieu (Site)
+					- L’opération de Morris renverrait quant à elle, selon une conception tout aussi rapide et restrictive, à celle du postmodernisme [[Post-modernisme]] , où la [[Modernité]] des œuvres précédentes, « réduites » au statut d’image-document, se trouve potentiellement engagée dans un champ discursif ramifié qui ne cesse de s’actualiser
+						- L’œuvre trouvant dès lors sa singularité et sa pertinence (plus que son originalité) dans la manière dont elle aménage et produit ses relations entre ces copies, références, citations.
+	- ## Sherrie Levinne, histoire de l'art
+		- Sherrie Levine contresigne l'historie de l'art en 1981 elle réalise plusieurs série de photographies situé après
+			- Elle les nommes ((655a7e71-ca8c-49fb-b21c-de12ed36eaca))
+				- Celles-ci consistent en la reproduction à l’identique de photographies tirées initialement par le photographe américain dans le cadre de la Farm Security Association. Précision photographique, entre la copie et l’original, pas une infime différence
+					- Pour faire bref, Evans interroge la copie d’une réalité sociale et le regard que l’on y porte, Levine interroge la copie d’une réalité culturelle et le regard que l’on y porte
+			- Toute répétition est source de différence dirait Levine.
+				- Paraphrasant Barthes, elle indiquait également : *« La naissance du regardeur est au prix de la mort du peintre »*. C’est dans le retrait du peintre que naît le regardeur d’une œuvre, Levine soulignant par ce geste qu’au-delà de la signature inaugurale d’Evans et de sa contresignature est nécessairement impliquée notre contresignature par l’exercice d’une lecture réfléchissant (sur) ces copies du réel.
+	- ## Richard Prince, Culture
+		- Prend un poster de [[Jackson Pollock]] et l'afficher. c'est une action que tout nouvel artiste se devait de faire pour Prince
+		- [[Jackson Pollock]] figure clé de l'héroïsme du [[Modernisme]] il est ici réduit a un poster standardiser et diffuser a x exemplaire en rupture total avec le sentiment de singularité et d'originalité mis en avant par [[Jackson Pollock]]
+		- Richard Prince *Untitled (three women looking in the same direction)*, 1980 ![Richard Prince | UNTITLED (THREE WOMEN LOOKING IN THE SAME DIRECTION)  (1980) | MutualArt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qoE3ta3x4Os0OHRx_AANQBSnpfGgNLnuOw&s)
+			- Neutraliser les codes visibles de la culture qui produit ces images
+			- Richard Prince va redoubler la mise à distance de l’opération re photographique
+		- Pour [[Rosalind Krauss]] la logique autonomiste du [[Modernisme]] fait place dans une logique ou l'économie de la copie allait jouer un rôle déterminant
+			- L'espace de peinture est interrogé par une expansion de son champ à partir de l'opposition unicité/reproductibilité
+			- Un rapport à l'image plus qu'à la peinture est instaures dans les pratique des la seconde moitié des années 1960 aux années 1970.
+				- Ce qui vient mettre en tension la question de l' [[L'Originalité]] et de l'unicité telle que [[Clément Greenberg]] à pu l'exprimer dans un discours moderniste, et le discours de l'existentialiste d'Harold Rosenberg.
+				- Dans la logique de [[Clément Greenberg]] c'est la qualité de la conception qui équivalait à la signature.
+				- Chez Rosenberg c'est l'intensité de l'action inscrite sur la toile qui équivaut à la signature
+			- Prince sape ce principe au profit de la reproductibilité.
+			- Le [[Ready-made]] de [[Marcel Duchamp]] est copie de copie d'un original à jamais absent ou perdu
+				- Le [[Ready-made]] avait fait comme effet de suspendre temporairement tout privilège de la signature.
+				- On retrouve ces questionnements chez les [[Proto-Pop Néo Dada]] avec [[Robert Rauschenberg]] et ses ((653ee430-dcde-497f-afb2-485f42c0c3f4))
+					- Il problématise cette question de la signature.
+						- Cette double œuvre consiste en la reproduction quasi à l'identique
+						- Chacune étant tour à tour copie de l’une et de l’autre
+					- [[Robert Rauschenberg]] consomme le passage de la peinture vers l’image (et il n’est nullement ici question de déclin). Un passage qui trouvera à s’exprimer par la [[Picture Generation]]
+						- Pour [[Douglas Crimp]] les artistes présent ne rencontre en rien le modèle moderniste de [[Clément Greenberg]] ou [[Michael Fried]]
+						- Ces artistes travaillent une pratique de l'image où la question de la re-présentation s’avérait être centrale.
+							- C'est ces questionnements qui vont mener à l' [[L'appropriationnisme]]
+							- *« Leurs images sont dérobées, confisquées, appropriées, volées. Dans leur travail, l’original ne peut être situé, il est toujours différé ; même l’original se révèle être une copie »*
+	- ## [[Cindy Sherman]], Fiction
+		- [[Cindy Sherman]], *Untitled Film Still*, 1977 - 1980  ![Modern Classics: Cindy Sherman – Untitled Film Stills, 1977-1980 | art for  sale | artlead](https://artlead.net/wp-content/uploads/2021/11/Cindy_Sherman_Untitled_Film_Still_021_1978.jpg)
+		- Cette série de [[Cindy Sherman]] consiste en plusieurs dizaines de photographies de petites dimensions. Pour chacune, une femme, un contexte différent
+			- Aucune de ces photographies n’est la réplique d’une image extraite d’un film ou d’une publicité. Elles n’en sont que des reconstructions (c’est-à-dire plus ou moins que des copies, des simulacres) selon une opération faisant appel à notre mémoire des codes ici mis en fiction.
+		- Alors que chez Prince et Levine la présence de l’artiste était chaque fois mise à distance, différant de la sorte sa signature au privilège d’une contresignature, chez [[Cindy Sherman]] , sa présence se trouve littéralement investie dans l’image
+			- Pourtant, chaque image présente une autre image de l’artiste, cette présence prenant de la sorte la forme d’une somme irréductible d’identités différentes
+- # Joseph Beuys and [[Pierre Huyghe]]
+  collapsed:: true
+	- En 1984 [[Joseph Beuys]] dessine un schéma d'une installation réalisé quelque années auparavant lors de la Document de Kassel en 1974
+		- [[Joseph Beuys]]: Honigpumpe am Arbeitsplatz, 1974 ![Honigpumpe am Arbeitsplatz - Joseph Beuys | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/beuys-honigpumpe_am_arbeitsplatz_p34.jpg.webp?itok=IkllTuMR)
+			- https://www.artax.de/pictures/user_images/full/889_0028_Be_01.jpg
+- [[Pierre Huyghe]] pour son installation ((661023ca-f18a-4eb6-9701-c1046c49de1e)) lors de la [[dOCUMENTA (13)]] produit un schéma de cette installation

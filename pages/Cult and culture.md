@@ -1,0 +1,64 @@
+- Exposition qui à travers la collection de Kent et Vicki Logan retrace les relations entre [[Jeff Koons]]/ [[Andy Warhol]]/ [[Damien Hirst]]
+- [[Jeff Koons]] se figure dans l'image de l'artiste superstar que [[Andy Warhol]] a conçu et pensé lors de sa carrière
+- L'art de la [[Post-Modernité]] ne se range plus à travers des mouvements mais des artistes phares comme le sont ces trois artistes
+- L'esprit de la factory à fort influencé [[Jeff Koons]] célèbre pour ne pas toucher ses œuvres et travailler avec un grand nombres d'assistant..es
+- Les trois artistes qui emploient des formes issu de style d'avant gardes
+- ## Style hérité des Avant-gardes américaines
+	- ## [[Minimalisme]]
+		- [[Jeff Koons]] est à son début fort influencé par le [[Minimalisme]]
+		- [[Jeff Koons]]: [*Equilibrium*](https://www.guggenheim-bilbao.eus/fr/exposition/equilibrio), 1985  https://cms.guggenheim-bilbao.eus/uploads/2021/03/Jeff-Koons-1985-One-Ball-Total-Equilibrium-Tank-Spalding-DrJK-241-Series.jpg
+			- Renvoi au display cube de Larry Bell ((653ef669-a4fe-470d-b136-86dab4530f08))
+		- Se rapport au cube vitrine est aussi présent chez [[Damien Hirst]] avec ses animaux conservé
+			- ((67700f28-09b0-4b2b-a892-d2db865ba114))
+		- Chez [[Andy Warhol]] aussi le cube comme forme minimal est utilisé avec ses Box Brillo
+			- ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+		- Chez [[Damien Hirst]] il y a une peinture modulaire et minimal qui rappelle les exploration de couleur présent chez certain minimaliste monochromatique comme [[Blinky Palermo]]
+			- [[Damien Hirst]]: [*Dequalinium Chloride*](https://www.artsy.net/artwork/damien-hirst-dequalinium-chloride-19), 2016 https://cdn.sanity.io/images/dqllnil6/production/537b6eca8c43b46982da4c2af786fb1124592d0a-1200x995.jpg?w=1920&q=60&auto=format
+	- ## [[Expressionnisme Abstrait Américain]]
+	  collapsed:: true
+		- [[Andy Warhol]]: [*Shadow*](https://www.artbasel.com/catalog/artwork/23026/Andy-Warhol-Shadow?lang=fr), 1978 ![Andy Warhol | Shadow, 1978 | Art Basel](https://d2u3kfwd92fzu7.cloudfront.net/gallery/photo/1436260153334/WAR_268_12.jpeg)
+			- Réemploi l'esthétisme abstrait de [[Expressionnisme Abstrait Américain]] mais encore une fois avec un procédé qui lui n'est pas celui de la spontanéité qui est à la base de l'esthétique abstraite de ce mouvement. Ces réappropriations rentre en ligne de mire de ces producteurs d'images de masses capables de remployer des formes issu du champ de l'art
+		- Chez [[Jeff Koons]] on retrouve des gestualités picturale abstraites notamment dans ses séries de peintures Popeye et Hulk
+			- [[Jeff Koons]] [*Popeye Train (Birds)*](https://www.jeffkoons.com/artwork/popeye), 2009 ![PopeyeTrainBirds.jpg](https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/3377dbcd-8635-4dcb-a1a5-ede59bb9480e/PopeyeTrainBirds.jpg?format=750w)
+			-
+		- Les Circle Spin Painting de [[Damien Hirst]] sont aussi le résultat d'un procède mécanique mais qui renvoi à des explorations colorimétriques de [[Expressionnisme Abstrait Américain]]
+			- [[Damien Hirst]], [*Circle Spin Painting*](https://www.composition.gallery/FR/art/damien-hirst-circle-spin-painting/), 2009 ![Damien Hirst, Circle Spin Painting, acrylic on paper; vibrant green, yellow, and pink radial streaks on circular canvas.](https://media.composition.gallery/artworkpic/damien-hirst-circle-spin-painting-acrylic-on-paper-available-for-sale-on-composition-gallery1631290132-47915_500x500.jpeg)
+- ## Miroir d'une société
+  collapsed:: true
+	- Ils se présentent comme miroir de la société en renvoyant directement aux questions de consommation que ce soit à travers les objets de consommation
+	- ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+	- Les pubs
+		- [[Jeff Koons]]: [*Hennessy, The Civilized Way to Lay Down the Law*] ![Hennessy, the civilized way to lay down the law by Jeff Koons on artnet](https://www.artnet.com/WebServices/images/ll00518lld476FFgUNECfDrCWvaHBOcK9K/jeff-koons-hennessy,-the-civilized-way-to-lay-down-the-law.jpg)
+	- Ou alors la dérive pharmacologique de nos modes de consommation avec les cabinets de medicament de [[Damien Hirst]]
+	  id:: 663ca1cc-3aa6-4c6b-8706-aac4dae2d47e
+		- [[Damien Hirst]]: *The Days, the Hours, the Minutes, the Seconds*, 2008 ![Damien Hirst — Zoé Schreiber – Zigzags](https://images.squarespace-cdn.com/content/v1/580f2a72be6594a6e29cc729/1633357061551-RP5TO8JJXPLZO5YZEU23/Damian+Hirst%2C+The+Days%2C+the+hours%2C+the+minutes%2C+the+seconds%2C+2008+%28detail%29.jpg)
+	- Cette usage des signes culturelles qui fait des artistes des "*Manipulator of cultural Signs*" est fort présent avec la [[Post-Modernité]] ((663ca491-e79b-4e04-b9c5-efd65f616240))
+		- ]]
+		- Par la suite on parlera de [[Postproductio ((67af683a-f5cd-43f4-adfe-88a3b2c87eb0))
+- ## Life / Death
+  collapsed:: true
+	- Les trois artistes traversent aussi les questionnements premiers de la condition humaine en proposant des réflexions sur la mortalité et sur la puissance de vie.
+	- ((663cb156-322f-40d2-8048-1fd1c0ec40ba))
+	- Warhol et ses ((661023ca-f7eb-43c2-a9e1-99a89b6a5dc9))
+		- Chez [[Jeff Koons]] c'est une sorte de puissance de vie qui est mis à profit. Il s'oriente vers le ballon remplie de souffle
+			- ((661023c7-0346-433f-94d1-cfaefca79fe4))
+			- ou vers des matériaux vivant comme les fleurs
+			- ((663ca7a5-f2ca-4a56-acf6-850dbb4e31ab))
+		- Chez [[Andy Warhol]] la mort est aussi vu sous le spectre de la masse. Il reprend les annonces de journaux présentant des crashs
+			- ((661023c8-145d-4073-ae65-9dc60bdfe653))
+			-
+- ## Self-portrait
+	- Les trois artistes pensent aussi leur propre figure en tant qu'artiste/célébrité.
+		- Que ce soit les polaroids de [[Andy Warhol]] à l'artiste se prête à son propre jeux de portrait de célébrités.
+			- [[Andy Warhol]] : [*Self-Portrait*](https://www.studiointernational.com/index.php/andy-warhol-self-portraits), 1968 ![Andy Warhol Self-Portraits](https://www.studiointernational.com/images/articles/w/warhol_4_05/self_portrait_four_b.jpg)
+		- [[Jeff Koons]] dans sa série *Made In Heaven* il se met en scène sont mariage avec la Ciccolina conscient des leurs statuts de célébrités.
+			- [[Jeff Koons]], [*llona on Top*](https://www.jeffkoons.com/artwork/made-in-heaven) (Rosa Background), 1990 ![ Photo: Schaub/Hoeffner, Courtesy TASCHEN GmbH ](https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/8c6e73c5-0faa-4153-ae0f-aaabceb9515a/ilonaontop.jpg?format=1500w)
+		- Plus Jeune [[Damien Hirst]] s'est mis en scène jeune avec ce qui sera un des ses principals sujets, la mort
+			- ((663cb83c-9501-44e4-9ead-e6707f55f2af))
+	- Si ces artistes investissent leur propres célébrités ce n'est pas que pour leur rôles dans le [[Monde de l'art]] mais c'est aussi leur implications dans les médias pop.
+- ## Pop-culture
+	- [[Andy Warhol]] était une figure indéniablement proche de la culture pop. En plus d'être son sujet [[Andy Warhol]] s'intègre dans la culture pop avec des apparitions dans des séries télé. Il sera le portraitiste de toutes les stars de sa génération
+		- [[Andy Warhol]],  *Liz Taylor*, 1964 ![Liz Taylor by Andy Warhol Background & Meaning | MyArtBroker](https://cdn.sanity.io/images/dqllnil6/production/c72760a9ee76987e6672bd559e34793e78857071-508x510.jpg?w=1080&h=1080)
+	- [[Jeff Koons]] travail avec des Pop-stars comme Lady Gaga en réalisant la pochette de son album *Artpop*
+		- ![Jeff Koons réalise la pochette du nouvel album de Lady Gaga - Toutelaculture](https://toutelaculture.com/wp-content/uploads/2013/10/lady-gaga-artpop-600x600.jpg){:height 56, :width 450}
+	- [[Damien Hirst]] lui aussi a réalisé un clip pour le groupe Blur  *Country House*, 1995. Il aussi réalise le sol pour la cérémonie de fermeture des JO de Londres 2012.

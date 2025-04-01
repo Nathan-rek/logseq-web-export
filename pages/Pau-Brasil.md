@@ -1,0 +1,13 @@
+- En 1924 Oswald De Andrade écrit le premier [[Manifeste]] de l'[[Art Brésilien]]
+  id:: 67e123f3-c82c-4be8-a84a-a9c6e205d405
+	- Il présente les notions esthétique qui guide son travail et celui d'autres artistes brésilien..nes
+	- Oswald De Andrade, *Pau-Brasil*  ![Pau Brasil](https://pictures.abebooks.com/inventory/17922131123.jpg)
+		- Livre illustré par sa femme [[Tarsila Do Amaral]]
+			- ((67e1263d-a179-4c68-8456-789ced217c80))
+				- Caractère nativiste et folklorique de l'imaginaire brésiliens pour l'inscrire dans la [[Modernité]]
+	- Le Pau Brasil se veut nativiste et [[Primitivisme]]
+		- Tout comme le bois du Brésil à été le premier produit exporté Oswald voulait que la poésie soir un produit culturel qui  s'exporte au delà du Brésil tout en restant un produit du brésil
+	- Cela va mener au [[Mouvement Anthropophage]]
+		- Représente un pan de l'art brésilien
+		- Repose sur des principes Dadaïste transfigurés et une pratique constructiviste
+			- Se distingue des autres mouvement du contexte du [[Modernisme]] internationale

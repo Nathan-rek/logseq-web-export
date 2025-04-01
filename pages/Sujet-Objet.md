@@ -1,0 +1,4 @@
+- La [[Phénoménologie]] de ((67e6dff1-1f82-46bf-a568-239ad5dd6db0))  est centrée sur l’intentionnalité, c'est-à-dire le fait que la conscience est toujours conscience de quelque chose.
+	- [[Gilles Deleuze]] critique cette idée, car pour lui, la pensée ne se réduit pas à une relation sujet-objet :
+		- Il s’intéresse plutôt à des flux impersonnels, des devenirs, des multiplicités qui ne sont pas toujours "visés" par un sujet conscient.
+			- Ex : Dans *Différence et répétition*, il critique l’idée d’un ego transcendantal qui structure le monde à travers la conscience.

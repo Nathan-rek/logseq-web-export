@@ -1,0 +1,22 @@
+- Courant de pensée et de recherche nait à Palo Alto en Californie a partir des années 1950.
+	- Courant de pensée fortement influencé par  la [[Cybernétique]] et à l'origine de concepts psychologiques et de méthode de thérapie
+- L'École de Palo Alto a participe à la forte remise en question des fondements de la psychiatrie
+- Dans le cadre de l'école de Palo Alto, Paul Watzlawickapporte sa contribution au [[Constructivisme]] dans son ouvrage *How Real is Real* (éd. Random House, New York, 1976) traduit en français sous le titre *La Réalité de la réalité* (Le Seuil, Paris, 1978).
+	- Il y distingue notamment une réalité de premier ordre, « expérimentable, répétable et vérifiable » d'une réalité de second ordre, conventionnelle.
+		- Ainsi les propriétés physiques de l'or, métal inoxydable, sont distinctes de la valeur marchande qui lui est attribuée, deux fois par jour, dans un bureau de la City à Londres ; ou encore un petit enfant pourra percevoir un feu rouge tout aussi nettement qu'un adulte, sans pour autant savoir qu'il veut dire « Ne traversez pas ». La réalité de premier ordre « ne dit rien de la signification ni de la valeur de son contenu ».
+- Le  [[Constructivisme]]  devient progressivement un des fondements de l'approche de Palo Alto
+	- Pour Watzlawick, *« la psychothérapie constructiviste n'a pas l'illusion de croire qu'elle va faire voir au client le monde tel qu'il est réellement. Au contraire, le [[Constructivisme]] est pleinement conscient de ce que la nouvelle vision du monde est, et ne peut être que, une autre construction, une autre fiction, mais une vision utile, moins douloureuse »*
+- # Le Centre de thérapie brève
+	- Richard Fisch crée la thérapie brève au sein du MRI à Palo Alto
+		- C'est la qu'il construisent la notion de tentative solution, qui sont les solutions mis en place par le patient pour régler un problème, des tentative qui généralement perpétue ou aggrave le problème
+	- C'est au contact de la [[Cybernétique]] et des conférences Mary que la notion premier cybernétique va influencer Palo Alto notamment dans l'approche du sujet et de son lien avec l'environnement et du sujet comme système en interaction et non un cas isolés sur lequel on devrait poser un diagnostic psychiatrique.
+		- Il s'intéresse au interaction du patient avec son environnement qui maintient son problème
+			- Comment le système maintient l'homéostasie
+	- Au contact de la seconde [[Cybernétique]] il pense au évolution du système
+		- les thérapeutes se sont intéressés aux possibilités de changement que recèle la situation de crise
+			- Cette vision a amené les thérapeutes à penser la situation de crise comme un moment privilégié de l’intervention contrairement à l’idée généralement admise selon laquelle on ne travaille pas avec les gens dans l’urgence et dans la crise (il faut d’abord apaiser la souffrance). Ainsi, le « client » de l'intervention thérapeutique est une personne en souffrance, c'est-à-dire loin de son point d'équilibre, et prête à faire quelque chose pour atteindre un nouvel équilibre
+	- Il sont aussi inspirer par la cybernétique du deuxième ordre et de penser comment l'observateur s'inclut dans le système observé
+		- les thérapeutes ont pris davantage en compte l’existence de l’observateur dans l’observation. Selon cette perspective, on soulignera, par exemple, que si le patient « résiste », c'est que le thérapeute est en train d'exercer une pression sur lui.
+	- La psychiatrie relèverai de *l'étude des comportement interpersonnelle*
+		- Pour eux, une « personnalité » ne peut être définie en faisant abstraction du réseau complexe de relations interpersonnelles qu'entretient la personne dans son quotidien.
+			- Ce sont conséquemment pour eux, les interactions qui deviennent l'unité à observer pour analyser une problématique humaine.

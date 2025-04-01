@@ -1,0 +1,119 @@
+# Edmund Husserl
+id:: 67e6dff1-1f82-46bf-a568-239ad5dd6db0
+	- Husserl crée la phénoménologie en voulant résoudre le problèmes de la connaissance
+		- Le problème de la Connaissance perdure en philosophie.
+			- [[Platon]] avec l' ((66f3bf78-2e80-4509-88cf-d182bac25b9f)) connaitre c'est aller au delà des apparences sensibles, accéder aux idée qui se tienne en amont des chose
+				- Il y a la connaissance et l'opinion, l'opinion c'est l'ignorance qui se prend pour de la connaissance
+			- Chez Descartes la connaissance sensoriel n'est pas une  vrai connaissance car le sensoriel est douteux.
+				- Il faut donc remettre en doute tout ce qui provient de nos sens et mettre la connaissance sur des bases rationnelles
+			- Pour Kant la raison est limité donc avant de connaitre il faut faire la critique de la raison (critique de la raison pur)
+		- Pour Husserl il faut plus que de se méfier des apparences
+			- Les autres philosophes ont émis un doute sur la validité mais il n'ont pas identifier ce qui permet d'affirmer que ce que je cherche à connaitre existe en dehors de mon esprit
+	- L'idée que les choses existent en dehors de notre conscience n'est pas une évidence
+		- La corrélation que l'on établie entre un contenu de conscience (images, idée... ) et une réalité objective extérieur à cette conscience est a remetre en question
+			- On ne doute pas de l'objectivité de objets à l'extérieur de nous, on ne doute pas de l'autonomie de leur autonomie car on fait ce corrélat
+				- Il y un objet et notre conscience se pose dessue mais on se dit que sans notre conscience de l'objet serait toujours la
+					- Dire qu'il y a quelque chose indépendamment de notre conscience c'est dire quelque chose que nous ne pouvons pas verifier car tout passe par notre conscience
+			- La perception est interne à notre conscience et elle est la seul réalité
+				- Lors du rêve ont perçoit aussi des objets
+					- Il n'y a aucune différence entre ces deux réalités
+	- L'attitude naturel est de présupposer l'existence objectif de l'objet
+		- Cette existence objectif de l'objet c'est un parti pris, c'est une croyance ériger en fait objectif
+			- C'est une attitude, rapport particulier aux choses
+				- C'est une attitude problématique pour Husserl
+		- L'objectivité pour Husserl c'est le fait d'exister comme objet autonome séparé de la conscience
+			- La transcendance de l'objet, ce qui vient du dessus , du dessus de notre conscience (séparation de l'objet avec notre conscience)
+				- L'objet entre en nous
+					- Le monde est là et notre conscience se pose sur notre monde
+						- La connaissance c'est l'intériorisation des choses autour de nous
+	- Le vécu chez Husserl c'est tout ce que notre conscience vit
+		- C'est tout ce qui se passe dans notre conscience (émotions, idées, sensations)
+	- Qu'est ce qu'il se passe quand on perçoit un objets
+		- On le voit sensoriellement et on associe a cette vision tout un tas d'idée, d'images de sentiment...
+			- Notre vécu de conscience est plus qu'une simple perception sensorielle
+		- Entre la perception visuel et toute l'assimilation qui va avec fait parti du vécu et du contenu de conscience. La perception et les assimilation se fondent en un contenu de conscience
+			- La vie n'est que du contenu de conscience
+		- Si il n'y a que du vécu de conscience on ne peut séparer l'imaginaire du vécu et le vécu sensorielle de la porte
+			- C'est deux vécu sont interne à notre conscience
+		- C'est le solipsisme
+			- L'idée que nous somme seule dans notre conscience
+				- Que la seule réalité c'est ce qu'il y a dans notre conscience
+					- C'est la thèse de Matrix
+			- Le monde n'existe pas ce n'est qu'une image dans ma conscience
+				- C'est l'idéalisme empiriste
+					- Idéalisme car tout est idée tout est contenu de conscience empirique car prend la forme de perception sensible
+	- La phénoménologie d'Husserl ce n'est pas un solipsisme ou un idsoliéalisme empiriste car dire que le monde n'existe pas c'est déjà un parti pris ontologique sur le non-être des choses
+		- Husserl rejette l’accusation de solipsisme en affirmant que la conscience contient l’expérience de l’autre.
+			- L’intersubjectivité est essentielle à la constitution du monde : nous reconnaissons l’existence d’autres consciences qui co-perçoivent le monde.
+				- Cette reconnaissance ne se fait pas par inférence mais par une appréhension immédiate du corps de l’autre comme porteur d’intentionnalité
+		- Or on ne peut rien dire sur l'ontologie du monde qu'il existe ou qu'il existe pas
+			- Car pour pouvoir en dire quelque chose il faudrait sortir de notre conscience
+				- Ce qui est impossible car on ne connait que ce que notre conscience nous dit
+		- Husserl s'oppose à l'empirisme, qui réduit la connaissance à une accumulation de sensations passives, et au rationalisme, qui fonde tout savoir sur des principes a priori sans tenir compte du vécu.
+	- La connaissance est enfermée dans cette boucle phénoménologique
+		- Il n'est plus question de la validité de la connaissance mais de sa nature ontologique
+	- Le phénomène c'est ce qui apparait à notre conscience et rien au delà
+	- Depuis Galilée le monde est une réalité objective analysable mathématisable
+		- Tellement que le monde est devenu une abstraction
+	- A chaque fois qu'on parle de notre monde on parle de notre vécu du monde
+		- Le retour au chose même c'est le retour au vécu, le retour aux phénomènes
+	- La méthode phénoménologique c'est écarter tout ce qui ne relève pas du phénomène
+		- Ce qui ne relève pas du phénomènes c'est le monde conçu comme objectivité
+			- Kant parle de la réalité phénoménale en opposition à la réalité nouménale ( la chose en soi ) qui nous est inconnaissable
+				- L'erreur de Kant est de présupposer le nouménale en amont du phénomène
+					- Il maintient l'existence du nouménale (bien qu'inconnaisable)
+		- Pour Husserl il n'y a que le phénomène on ne peut rien dire du nouménale
+			- Dire que c'est inconnaissable c'est dire que ca existe
+		- La présupposition objectif il faut la mettre en suspens, il faut mettre hors circuit tout les objectivités
+			- Faire une épochè, une suspension
+				- On n'en dira rien car on sait rien
+					- L'épochè est une mise entre parenthèses de tout jugement sur l'existence du monde extérieur.
+						- Elle permet d’accéder à la conscience pure et à ses structures essentielles, indépendamment des présupposés métaphysiques
+							- Ce n'est pas un doute sceptique (comme chez Descartes), car Husserl ne remet pas en cause l’expérience en tant que telle, mais seulement l’interprétation spontanée que nous en avons.
+		- Il y a ensuite la réduction
+			- Le prolongement de la suspension
+			- Qu'est ce qu'il reste, il reste une pure vue, une donnés absolue qui n'importe rien d'autre que ce qui se présente à la conscience
+				- La vue n'est pas que sensoriel
+					- C'est ce que vit la conscience
+			- Si on expurge le vécu de tout ce qui n'est pas le vécu
+				- La présupposition de l'objectivité auxquelles se rapporte le vécue
+					- Il reste le phénomène pure, la chose elle même
+						- Revenir aux choses même c'est à dire aux phénomènes
+	- Pour Descartes il faut douter même de l'existence du monde
+		- Une mise en doute radical dont Descartes finit par dire qu'on ne peut pas douter d'une chose
+			- C'est qu'il pense *cogito ergo sum*
+				- Pour Husserl, dire je pense c'est accroche une entité objectif au phénomène de la pensée
+					- Il n'aurait pas du dire je pense mais pensée
+						- L'existence d'un sujet pensant c'est une présupposition du sujet pensant
+							- C'est la corrélation entre le phénomènes et un sujet du phénomène, la corrélation entre l'acte de conscience et l'existence d'une conscience individuel objective
+								- Une corrélation qui relever de la présupposition
+									- Il faut donc l'écarter
+							- C'est déjà prendre des liberté sur le phénomène
+							- Il ne va assez pas loin dans la suspension de toute objectivité car il a intégré le sujet pensant dans l'objectivité
+								- Or la seule chose qui est objectif c'est le phénomène qui est perçue par la chose qui perçoit
+	- Dans *l'étranger* de Camus quand le personnage repense à son appartement dans la prison il est comme absorbé dans sa représentation, il se confond avec la perception des lieux
+		- Le lieux se confond avec lui il devient les lieux
+			- Lorsque je perçoit quelque ce n'est pus je qui perçoit je devient ce que je perçoit
+				- Il n'y plus de *je* il y a ce qui apparait
+	- Le phénomène n'est plus que la perception sensoriel c'est tout ce qui occupe la conscience.
+		- La conscience n'est pas juste un réceptacle la conscience travail
+			- Elle est intentionnalité
+				- Elle n'as pas de volonté mais elle est toujours tourné vers quelque chose
+					- L'intentionnalité de la conscience c'est le fait que la conscience vise des objets
+						- Quand elle vise un objet elle vise aussi notre rapport entre l'objet et notre perception de celui-ci
+							- L'existence indépendante de notre perception doit être mis en suspens mais n'empêche que cette présupposition fait parti du phénomène car fait parti de nôtre vécu de conscience
+								- Ce rapporter à cette présupposition fait parti du phénomène
+									- L'établissement d'un rapport entre l'objets et le phénomènes est une composante du phénomène car elle occupe maep conscience et tout ce qui fait partie de ma conscience fait parti du phénomène même si il n'est pas correct ou rigoureux
+										- La généralisation du phénomène fait parti du phénomène
+											- Les généralités les rapports les liaisons apparaissent aussi à la conscience comme des pures vues
+												- Le monde c'est ce que je vie et ce que je vie ce sont tout mes actes de conscience
+				- L'intentionnalité signifie que la conscience est toujours une conscience de quelque chose : elle ne peut pas être une entité isolée tournée vers elle-même
+	- Le phénomène ce n'est pas que notre perception c'est tout ce qui se présente à notre conscience quand on perçoit
+		- L'objet du vécu n’est pas simplement un donné brut mais un construit dynamique de la conscience.
+		- Tout vécu quand il s'accomplie devient objet d'une vue et saisi pure, il est une donnés absolue donné comme un être dont il ne faut pas mettre en doute l'existence
+			- On peut questionner son rapport avec les autres êtres et questionner cette vue comment il se constitue
+				- Mais je me meut sur un terrain absolue
+	- Derrière la complexité de Husserl il y a un soucis concret
+		- La science avec son abstraction nous a déconnecté du monde
+			- Qu'elle est ce monde que l'on ne reconnait pas
+				- Un monde désincarné qui nous échappe plus on le contrôle

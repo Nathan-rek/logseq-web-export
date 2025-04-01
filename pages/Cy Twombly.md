@@ -1,0 +1,70 @@
+## L’usage de la mythologie
+	- ### Mythes grec
+	  id:: 661023c4-e444-4c55-b5f6-96d670fd9bdf
+		- Le caractère nominatif de ces œuvres et l’utilisation des figures héroïques chez Twombly réponde à l’aspect linguistique et culturel qui s’ajoute à l’aspect picturale mais sur le plan sémantique et formel s’inscrit dans un système analogue troublé par la précarité du geste de l’artiste et l’obscurité des références à des intertextes désormais lointains.
+		- La référence à l’antiquité peut être épique et déployer dans un espace pictural large.
+			- Cy Twombly: [*Ilium (One Morning Ten Years Later) \[Part I\]*](https://www.thebroad.org/art/cy-twombly/ilium-one-morning-ten-years-later-part-i), 1964 ![Image Currently Unavailable](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/twombly_ilium.jpg.webp?itok=oDo0BkQm)
+				- L’allusion graphique au champ de bataille de la guerre entre Grec et Troyens.
+				- Pour Richard Leeman *«l’évocation ne se joue pas dans l’adéquation entre le tableau et le paysage mais entre l’image acoustique du mot»*
+		- Cy Twombly: [*Dionysus*](https://namingthegods.com/artwork/4595224.html), 1975 ![](https://img-cache.oppcdn.com/fixed/66129/assets/PsTdCqGVN1ktX8pY.jpg)
+			- Certain..es voit dans le travail de Twombly de la figuration qui associe sexualité et guerre.
+				- Le phallus de profil répétés dans ces œuvres représentais aussi bien à des chars [ créant un pictogramme de guerre ] mais aussi un dionysiaque en voie d’extase
+		- Cy Twombly: [*Venus*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/cy-twombly-venus-1975-web/), 1975 ![Cy Twombly. 'Venus' 1975](https://artblart.files.wordpress.com/2016/12/cy-twombly-venus-1975-web.jpg?w=650)
+			- Cy Twombly: [*Apollo*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/twombly-apollo-web/), 1975 ![Cy Twombly. 'Apollo' 1975](https://artblart.files.wordpress.com/2016/12/twombly-apollo-web.jpg?w=650)
+			- Autour des noms surlignés on déchiffre des épiclèses[^90]et une liste d’attribut.
+				- Dans le cas de Venus la tache rouge entre fleur et marque sanglante renvoi au mythe de Hyacinthe qui présente une métamorphose florale coloré issue d’une mort violente
+			- Le lecteur..ices, spectateur..ices devien..nent épigraphiste[^91]suivant l’artiste dans sa double fascination pour les écritures archaïques, secrètes, énigmatique et les jeux d’allusion anagrammatiques plus conceptuels
+			- Pour Roland Barthes cette méthode nominative est la gloire nominative de Twombly
+			- Cette tension entre fétichisme – ritualité  et sublimité – théorie est aussi présent dans des œuvres comme
+				- Cy Twombly: [*Victory*](https://www.wikiart.org/en/cy-twombly/victory), 1984 ![Victory, 1984 - Cy Twombly - WikiArt.org](https://uploads7.wikiart.org/images/cy-twombly/victory.jpg!Large.jpg)
+					- L’envol de la victoire est figuré comme les voiles triangulaire et tachés d’un navire
+					- A l’inverse l’œuvre
+						- Cy Twombly: [*Nike*](https://parisplus.artbasel.com/catalog/artwork/58792/Cy-Twombly-Untitled-Nike), 1980 ![Untitled (Nike)](https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/fetch/w_auto,c_fill,q_auto,dpr_1.0,f_auto,h_662/https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/gallery/1149/CT_P_29.002.L-2.jpg)
+							- présente une forme triangulaire mais sans envole
+				- Dans les deux cas la référence conjointe, à la plastique grecque ancienne, aux science de la mesure, et à l’extase idéelle fait de la contemplation du tableau un événement fondamental, un acte d’interprétation qui répond à l’acte de création d’autant plus poétique qu’il est aussi moral
+		- Il semble que la majorité de ce point de ses œuvres ne sont pas narratives mais descriptives
+		- Cy Twombly peut être vue comme rhéteur et sophiste.
+			- Il s’intéresse au rapport des formes, aussi picturale et graphique, avec la parole et à l’efficacité pragmatique de son geste sur l’espace du tableau sur le regard du spectateur..ices et ses affectes et idées.
+				- Mythographie au lieu de idées.
+					- Mythographie pour les linguistes Ducrot-Todorov une activité psychique consciente, intentionnelle et d’un mode d’expression plus irrationnel, inconscient qui la soumet. Une mythographie dans le sens étymologique de muthos: l’inscription de parole qui ont un sens
+			- La logique sémantique à travers les formes structure un tableau ou un dessin de Twombly.
+				- Son dessin est un discours visuel ce qui fait une parole proprement artistique, toujours allusive complexe et simple à la fois à interpréter et ressentir en même temps
+		- Twombly ne veut exprimer aucune nostalgie du passé ce qui en ferait un néo-classique au sens conservateur.
+			- Il veut vivifier l’origine de la peinture ce qui pourrait en faire simplement un classique.
+			- Les titres de Twombly ne constitue pas toute la vérité du tableau.
+		- Cy Twombly: [*Achilles Mourning the Deathof Patroclus*](https://www.centrepompidou.fr/fr/ressources/oeuvre/Vm6rPRY), 1962
+		- Cy Twombly: [*Cinquante jours à Iliam. Bouclier d Achille*](https://fr.wahooart.com/@@/8XXSFQ-Cy-Twombly-Cinquante-jours-à-Iliam.-Bouclier-d-Achille), 1978
+	- ### Mythes Romain
+		- Cy TWOMBLY: [*Nine Discourses on Commodus*](https://www.guggenheim-bilbao.eus/en/the-collection/works/nine-discourses-on-commodus), 1963. ![Nine Discourses on Commodus, Part II | Cy Twombly | Guggenheim Bilbao Museoa](https://cms.guggenheim-bilbao.eus/uploads/2019/01/cy-twombly-nine-discourses-on-commodus-2.jpg)
+			- Suite à l’assassinat de Kenndy en 1963, l’artiste craignant la violence qui s’installait au USA l’artiste à peint [*Nine Discourses on Commodus*](https://www.guggenheim-bilbao.eus/en/the-collection/works/nine-discourses-on-commodus), 1963
+				- Inspiré par la vie de l’empereur romain Commodus, il se compose de neuf grandes toiles sur fond gris, qui sont comme des explosions de sang et de chair (celles du cerveau de Kennedy qui macula le tailleur clair que portait Jackie, son épouse, assise à ses côtés au moment de l’assassinat)
+					- Le cycle est basé sur la cruauté, la folie et le meurtre éventuel de l'empereur romain Aurèle Commode.
+- ## L’univers esthétique des photographies de Cy Twombly
+	- L’œuvre photographique de Cy Twombly inclut un vaste nombre de Polaroïds, imprimés avec la technique du dry-print [^92]et du tirage Fresson.
+	- Suite à l’été passer au [[Black Mountain College]] avec [[Robert Rauschenberg]] ou les deux effectuent peinture photographie assemblages sculptés à la palette restreintes.
+		- A l’époque du séjour Twombly une réflexion critique et artistique autour de l’usage et de la valeur du noir et blanc.
+			- Réflexion soutenu par des enseignant..es comme [[Clément Greenberg]]
+			- C’est dans ce cadre la que née un des premiers clichés significatif de la [[Photographie]] de Twombly
+				- Cy Twombly : [*Still Life*](https://artblart.com/2017/04/11/exhibition-cy-twombly-at-the-centre-pompidou-paris/still-life-black-mountain-1-web/), 1951 ![Cy Twombly. 'Still Life, Black Mountain College I' 1951](https://artblart.files.wordpress.com/2016/12/still-life-black-mountain-1-web.jpg?w=650)
+					- Un nature morte au sens classique qui présente un caractère simple par sa composition
+					- La photo est animé par la réflexion de la lumière sur le verre et semble taché par de la gouache.
+		- Le vrai voyage qui développa la photographie chez Twonbly est son voyage en Europe avec [[Robert Rauschenberg]]
+			- Les deux documentaient leur voyage de photos
+				- [[Robert Rauschenberg]]: [*Cy and Roman Steps*](https://www.sfmoma.org/artwork/98.297.A-E/), 1952 ![Robert Rauschenberg, Cy + Roman Steps (I–V), 1952, printed ca. 1997 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2018/05/18114625/CY_98.297.A-E.jpg){:height 110, :width 450}
+				  id:: 661023c4-fc5f-4888-b5d3-e4045e211c0e
+					- Une série de clichés qui montrent Twombly en train de descendre les escaliers en face d’une église romaine
+				- L’attrait photographique dépasse la photographie de documentation et les artistes intègrent une recherche d’expérimentation de l’outil photographiques
+					- [[Robert Rauschenberg]]: [*Bob + Cy, Venice*](https://www.artsy.net/artwork/robert-rauschenberg-bob-plus-cy-venice), 1952 ![Robert Rauschenberg | Bob + Cy, Venice (1952) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=788&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FEodeI0e-tFQu-Xmi7KgVcg%2Fnormalized.jpg&width=799)
+			- Il est vraisemblable que le fait d’avoir entrepris avec [[Robert Rauschenberg]] un long voyage en Europe ait pu avoir des conséquences sur le rapport de Twombly à la photographie.
+	- ### Le fragment dans l’œuvre de Twombly
+		- Les raisons pour lesquelles Twombly adopte le fragment comme dispositif de vision sont diverses ; héritage de la culture visuelle de notre époque, la vision fragmentaire découle aussi d’une recherche spécifique de Twombly sur l’objet
+			- Cy Twombly : [*Lemons*](https://www.frieze.com/article/cy-twombly), 2005 ![](https://static.frieze.com/files/inline-images/editorial-articles-22-twombly-lemons-gaeta-2005-copy-2-0.png)
+				- Les citrons sont à peine reconnaissables à cause du flou et le cadre très rapproché ne nous donne qu’une vision fragmentaire des objets de la composition
+				- Le caractère incomplet de la composition nous plonge dans le temps immanent à ces clichés qui sont la représentation d’un instant, d’un fragment de temps.
+					- Quoique le genre de la nature morte nous suggère traditionnellement un calme éternel qui sous-entend un temps statique et immuable, la fragmentation de l’image de la part de Twombly comporte une réévaluation de la temporalité de l’œuvre : la fragmentation affecte et transforme la perception du temps.
+				- Surimpressions, anamorphoses et décadrage font partie de son vocabulaire expressif.
+- ## Peinture- [[Photographie]]
+	- Le plafond peint par l’artiste dans la salle des antiquités grecques et romaines du musée du Louvre
+		- Cy Twombly: [*The Ceiling*](https://presse.louvre.fr/accord-entre-la-fondation-cy-twombly-et-letablissement-public-du-musee-du-louvre-concernant-loeuvre-monumentale-ithe-ceiling-i/), 2010 ![The Louvre and Cy Twombly: The Ceiling of... | Gazette Drouot](https://medias.gazette-drouot.com/prod/medias/mediatheque/71375.jpg)
+		- témoigne de son intérêt pour le dialogue entre [[Photographie]] , peinture et culture ancienne, et entre en cohérence avec ses recherches esthétiques, notamment en ce qui concerne sa fascination pour la culture méditerranéenne.
+			- Loin d’être une simple décoration, le plafond du Louvre pourrait être interprété comme une grande photographie, un morceau fugitif de réalité capturé et circonscrit dans l’espace d’un cadre limité.

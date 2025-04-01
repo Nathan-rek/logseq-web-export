@@ -1,0 +1,22 @@
+- Art utilisant le vivant comme matière à but scientifique ou artistique
+- Focus sur le corps humain comment l’augmenter, le surpasser; mais aussi souvent le bio-art s’éloigne de l’anthropocentrisme, se rapproche à d’autre espèces d’animaux non-humains
+- Jalila Essaïdi: [*Bulletprof Skin\2.6g 329 m/s*](https://jalilaessaidi.com/2-6g-329ms/), 2011 ![Arte Útil / 2.6g 329m/s](https://www.arte-util.org/cms/wp-content/uploads/2013/12/b1.png)
+	- En collaboration avec l’institut de recherche de l’Utah, l’artiste en modifiant le gêne d’une chèvre avec celui d’une araignée a été capable de produit ungae sorte de peau mélangeant le lait de la chèvre. Le lait contenait les capacités de la résistance de la toile d’araignée Elle explore le domaine du tissu engineering[^30] à l’aide des technologies CRISPR-CAS9[^31]
+		- Elle devait l’être assez pour résister à un tir par balle.
+	- Dans un monde ou la modification génétique prend place et ou la crainte des utilisations que pourrait en faire des forces armés. La question de la modification du gêne humain à des fin de transformation physique est central
+- Marion Laval-Jeantet & Benoît Mangin: [*May the horse live in me*](https://melbourne.sciencegallery.com/blood-exhibits/may-the-horse-live-in-me), 2011 ![Que le cheval vive en moi (May the horse live in me) – We Make Money Not Art](https://www.we-make-money-not-art.com/wow/0aachevallage0e.jpg)
+	- [*May the horse live in me*](https://melbourne.sciencegallery.com/blood-exhibits/may-the-horse-live-in-me), 2011 est un performance dans laquelle un corps animal, en l'occurrence un cheval, est hybridé avec le corps humain grâce à une injection de sang de cheval. L'artiste Marion Laval-Jeantet a expérimentée différentes immunoglobulines tissulaires du cheval, qui reconnaissent les tissus ciblés et induisent une régulation fonctionnelle de ces tissus qui leur est spécifique.
+- Ionat Zurr & Oron Cats aussi travail avec le tissu engineering
+- Marta de Menezes[^32]: [*Nature*](https://martademenezes.com/art/nature/nature/), 1999 ![Nature? – Marta de Menezes](https://martademenezes.com/wp-content/uploads/2021/08/BYCOMET1-copy.jpg)
+  id:: 65480be2-61ae-478a-a933-8878be470ebf
+	- A jouer à travers les créations de couleur des patterns d’ailes de papillons pour créer son propre pigment capable de colorer les ailes de papillon en utilisant notamment la posterization
+		- A travailler sur les papillons à l’état embryonnaire.
+- Heather Barnett: [*The Physarum Experimences*](https://heatherbarnett.co.uk/work/the-physarum-experiments/), 2008 https://heatherbarnett.co.uk/wp-content/uploads/2015/07/Slime-mould-navigating-a-maze-1030x386.jpg
+	- Travaillant avec un Blop[^33]
+		- Le blop présente un battement permanent qui lui permet de comprendre son environnement
+- Eduardo Kac: [*GFP Bunny*](https://www.ekac.org/gfpbunny.html), 2000 ![GFP Bunny](https://www.ekac.org/albagreen-cutout.png)
+	- Développe des pratiques qui nécessitent un usage des méthodes scientifiques comme les modifications génétiques
+- *[^30]: L'ensemble des techniques faisant appel aux principes et aux méthodes de l'ingénierie, de la culture cellulaire, des sciences de la vie, des sciences des matériaux pour comprendre les relations entre les structures et les fonctions des tissus normaux et pathologiques des mammifères, afin de développer des substituts biologiques pouvant restaurer, maintenir ou améliorer les fonctions des tissus*
+- *[^31]: Mise au point en 2012 par deux chercheuses les CRISPR-CAS9 sont une technique biotechnologique de modification génétique qui permet de copier de l’information génétique dans L’ADN. Il sont des ciseaux moléculaires permettant de manipuler les branches d'ADN.*
+- *[^32]: Artiste portugaise considérée comma la première femme bio-artiste, Elle a travaillé sur les rapports entre art et biologie sous diverses formes, bio-tech mais également par le biais de supports traditionnels, dessins et peintures.*
+- *[^33]: Physarum polycephalum ou Blob est un organisme uni-cellulaire, bien que n'ayant pas de cerveau ni système nerveux central, est doté de certaines capacités d'apprentissage. Le Blop démontre d’un intelligence primitive.*

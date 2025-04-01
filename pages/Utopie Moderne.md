@@ -1,0 +1,15 @@
+- Le 19ème siècle est un grand siècle d’ [[Utopie]] sociale moderne : entre tradition et [[Modernité]].
+- Industrialisation : modèle utopique
+	- La [[Modernité]] marque une série d’[[Utopie]] .
+- Apparition d’une nouvelle science la sociologie, visant à formaliser la société sous une forme d’État.
+- Compte Henri de Rouvroy : foi en l’industrie.
+	- Les hommes et les femmes sont investi..es dans une société de génie (artistes et savant..es), où les artistes sont en avant-garde de la société.
+		- Modèle technocratique : société où le pouvoir est détenu par ceux et celles qui maîtrisent la technique.
+- Charles Fourier : propose une vision où le monde est régi par le matériel, développant des formes d’habitats sous l’angle de l’harmonie universelle.
+	- Création du phalanstère : œuvrer dans un projet commun.
+- Étienne Cabet : Icarie, lieu imaginaire
+	- Terre promise où Icare a vécu ; il imagine et propose un modèle de structure sociale qui remet en question le principe de propriété, mettant en avant la communauté à travers la fiction.
+- La fin du 19ème siècle marque un certain malaise de fin de siècle
+	- Art décadent.
+		- Le positivisme entraîne une décadence qui cherche à échapper au scientisme et au rationalisme.
+			- Toucher à un univers symbolique avec le [[Symbolisme]].

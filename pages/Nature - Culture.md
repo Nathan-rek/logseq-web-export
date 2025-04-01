@@ -1,0 +1,78 @@
+- Philippe Descola: [*Les lances du crépuscule*](https://www.babelio.com/livres/Descola-Les-Lances-du-crepuscule/1418267) récit ethnographique:
+- Pensée occidentales: Dialectique de la séparation entre Nature et Culture
+	- L’instauration en tant que l’humain..e comme sujet actif et la nature comme objet passifs
+	- Système marquant du progrès technologique au fondement du rationalisme occidentale
+	- Objectivisation de la nature comme ressources
+- L’entité culturelle humaine qui ne se soustrait pas d’une instance naturel. Pensée de l'écosystème
+- Contre cette polarité:
+	- Bruno latour/ [[Isabelle Stengers]]: pensée de type: [[Post-Humanisme]] / Écosystémique ( où l’humanité n’as pas de prépondérance )
+- ## [[Ana Mendieta]]
+	- Artiste d’origine cubaine qui entreprend une trajectoire acculturation. Tend un environnement culture de base (cubaine) vers un autre environnement (New York)
+	- Vers une inflexion du Land Art avec intrusion dans l’espace naturel à des fins artistiques ((65d3770b-3fc2-421c-924c-2827dbeada7c)) > Charrie un système de domination de l’humain..e sur la Nature
+	- A l’inverse de ces modalités d’actions elle tente de mettre en place une conception matricielle: Laisse la marque de son corps à travers des moyens naturelles
+		- Métamorphose entre le geste culturelle humain..es et le geste naturelle
+	- Système symbolique de représentation de l’humain
+- ## [[Aby Warbug]] : [*Le rituel du serpent*](https://journals.openedition.org/critiquedart/1844)
+	- Texte de conférence donnée suite à un séjour à l’hôpital psychiatrique
+	- On attend que Aby témoignage de la maîtrise de ses capacités intellectuelles:
+	- Interroge précisément cette dialectique nature culture: La schizophrénie viendrait de cette dialectique créant des traumas psychiques de nature variable
+	- En ce remémorant un voyage avec une culture ( ) ou tout une série de rituel opèrent des rencontres entre des motifs culturelles et naturels
+	- Le rituel du serpent:
+		- Séquence qui s’accompagne par le prélèvement d’un animal (serpent) vis à vis du quelle des actions de soins vont être opérées
+			- Lavement / prière… L’évènement au centre du rituel est une danse en ronde ou les hommes de la communauté sont vêtus d’éléments sonores et picturales. Lors des rondes ils vont venir à ingérer le serpent dans leurs gorges pour ensuite le ressortir
+			- Le rituel prend pas lors de sécheresse, invocation des pluies
+				- Le serpent animal dispose d’une puissance de médiation entre le monde aérien et sous terrain
+	- Déceler des rituels où s’opère non pas une opposition mais une relation entre nature/culture
+	- Le Denkraum: espace de pensée propre au sociétés primitives: qui situe et met en relation des instances agissantes dans des écosystèmes 
+	  id:: 65403432-19d7-4e92-958b-af7bddb98bc2
+		- Crée un espace de pensée ou les éléments sont liés tout en gardant leur distance et dispose de leurs propre intégrité mais constitue un système constellaire un espace de pensé > un Denkraum
+		- La [[Modernité]] supprime ce Denkraum: Le telegram et le téléphone supprime cette distance et les relations
+- ## [[Paul Cézanne]]
+	- Artiste post-impressionniste il renonce à la scène artistique parisienne et se déplace en province
+	- Système des sensations organisées, renonce à un dispositif artistique habituelle, apparence chromatique définit par un appareillage technique construit
+		- Met en place sont propre appareillage formel basée sur un rapport de double écoute, rendre l’ [[Impressionisme]]  durable
+			- écoute de soi
+			- écoute d’un environnement personnelle
+		- Durabilité en opposition à la [[Modernité]]
+			- Position de retrait (Aix-en-Provence) qui permet de se situer face à un environnent
+				- Il ne renonce pas la technologie de la [[Modernité]] mais se repositionne
+		- La modulation chromatique permet de moduler la sensation de l’artiste en son environnement
+			- En modulant les tons et les valeurs de couleur il opère une modulation chromatique pour restituer la sensation éprouvé face au motif naturelle
+		- Retranscrire le parcours de [[Paul Cézanne]] dans Aix > inscrire un pratique dans environnement concret
+- Paul Gauguin: fuit la conception de la [[Modernité]] et approche d’autre environnement culturelle:
+	- Déplacement en Polynésie française:
+		- Exotisme: Fantasme qu’en ce mettant en contacte avec d’autres cultures on fuit la [[Modernité]], qui serait une société de cultures et non une société de Nature comme serait la Polynésie française pour Gaugin
+- ## Anarchisme
+	- ### Élisée RECLUS: [*Pourquoi sommes-nous anarchiste ?*](https://fr.wikisource.org/wiki/Pourquoi_sommes-nous_anarchistes_%3F) La géographie sociale
+		- Analyse les interactions nature culture:
+			- La nature humaine est une être qui se définit dans sa manière de se relationner avec son environnent
+				- Analyse du corps social dans un environnement naturel complexe
+		- Mise à mal des formes d’autorités / d’assujettissement qui empêche l’émancipation des individus
+		- Toutes révolution social est le fruit de long effort
+			- La violence vient accéléré une transformations sociale
+				- Lutte qui agit en pratique
+					- Système de responsabilité horizontal
+		- Le motif de la nature:
+			- Apporte une attention à soi:
+				- être responsable et donner à un être un développement naturel qui serait régit par des régimes artificielles construit
+				- éviter toutes lois extérieures et donner importance aux lois intérieures naturelles
+			- «L’étude la nature est notre seul religion»: La nature non pas qu’humaine mais comme environnement
+				- Perspective idéologique de nature écologique
+					- Système sociétale qui porte attention aux individus et à l’environnement
+	- Robert Smithson: [*Spiral Jetty*](https://blog.artsper.com/fr/la-minute-arty/chef-doeuvre-art-contemporain-spiral-jetty-smithson/) ![Chef d'œuvre du Land Art : Spiral Jetty, Smithson](https://blog.artsper.com/wp-content/uploads/2014/04/New-Featured-Image-1200-x-675-2-min_11zon.jpg)
+	  id:: 65480be3-75c7-477e-84b4-da63a78f3465
+		- immense spirale qui se jette dans l’eau du lac salées > Creuser dans la colline pour constituer une grotte et y projeter un film (Réaliser avec sa compagne Nancy Halt
+		- Site / Non Site: dialectique: reconstruire la dialectique Nature/Culture
+		- Conversion du dispositif naturel: Non Site
+		- échapper au dispositif culturelle pour se rallier à un dispositif naturel
+		- le cristal comme de-fraction de la perspective
+	- Land-Art: ré-articulation de l’œuvre dans le cadre naturel mais se fait au prix du re-façonnage de la nature
+	- Élise DUCLAUX:  Cherche une cohabitation entre Nature / Culture: Intervenir sur la tombe d’un artiste: version-microscopique d’un jardin macroscopique
+		- Dispositif: Zone de fauchage tardives:  Délimiter certaines zones > L’institution artistique achète une collection de semence
+- ## Isabelle Stengers
+	- Critique le rôle et l'autorité de la science moderne dans la société contemporaine, elle remet en question ses prétentions à l'objectivité, à la rationalité et à la vérité, problème d'un [[Savoir Situé, D.Haraway et Sarah Harding]]
+	- Distinction entre
+		- Les sciences en tant qu'entreprise créative une pratique d'invention et de découverte
+		- La prétention moderniste de la science d'invalider tous les autres discours
+	- Ne s'oppose pas la recherche génétique mais à l'idée que seul le génome définirait l'humain..e
+	- Cosmo-politique

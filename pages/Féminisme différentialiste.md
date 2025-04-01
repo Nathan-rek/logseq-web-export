@@ -1,0 +1,5 @@
+- Mouvement philosophique et activiste, les autrices proposent une vison de la différence sexuel. Le patriarcat sert les intérêts des hommes, les femmes sont définit par rapport aux hommes, on ne connait donc pas les femmes, on ne connait que les différence avec les hommes
+	- Faire une mathématique qui ne serait pas base sur le phallus du monde
+	- Prend comme modèle un corps féminin
+- Une pense de la rencontre entre l'H et les Femmes
+	- Comment faire un couple hétérosexuel

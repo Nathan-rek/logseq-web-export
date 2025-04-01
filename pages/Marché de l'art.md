@@ -1,0 +1,35 @@
+- En 2010 le marché de l'art devient refuge après la crise de 2008
+	- Cette surcroissance du marché à fait du marché de l'art un spectacle d'un système devenu fou
+- Au point d'occulter d'autre modification profonde
+- Maurizzio Cattelan, [*Comedian*](https://fr.wikipedia.org/wiki/Comedian_%28Maurizio_Cattelan%29), 2019 ![La banane de l'artiste Maurizio Cattelan, vendue 120 000 dollars, aussitôt  mangée par un autre artiste](https://www.francetvinfo.fr/pictures/O2SYLLOAzRonaB9hzTRBbCWRz1g/1200x1200/2019/12/08/phpJIsneo.jpg)
+	- Banane stocker au Art Basel Miami au stand perrotin vendu 120 000
+- Le marché de l'art obscurcit les jugements sur l'art contemporain
+- Pour Roxana Azimi l'affaire Cattelan est significatives
+	- Cattelan est un caricaturiste qui produit des gag visuel qui en dissent long sur l'état du monde et de l'art contemporain
+	- Tend un miroir au excès du marché de l'art présenter à 120 000
+	- l'artiste devient comédien il n'est pas un moraliste mais effectue une [[Critique institutionnelle]] avec humour
+- Cattelan scotchais aussi son galeriste
+	- Maurizio Cattelan, *A perfect Day*, 1999 ![Pourquoi cette banane vaut bien 120.000$ ? — Artwork in promess](https://images.squarespace-cdn.com/content/v1/56d1f4bf62cd9444cfc8fa43/1579179610355-BLG5WVWLBFKU32MGBL2U/photo8.jpg)
+- Prise de pouvoir de l'artiste sur le galeriste
+	- Pour Damien hirst aussi il y a volonté de montre sue c'est l'artiste qui mène la dance face au collectionneur et au marchand
+	- Ces artistes synonymes de marché son ceux qui aiment jouer avec ceux qui les font vivre
+- Cattelan lorsqu'il reçoit son poste de prof de sculpture duit que la fonction de l'artiste et de découvrir des symboles
+	- Engager une bataille contre l'histoire et un combat avec nos pense le plus obscur
+		- Affirme une nécessite de rationalité et de discipline
+	- Il connait le pouvoir des images et des réseaux sociaux et appuie sur les ressort médiatique et économique qui font partie aujourd'hui du monde de l'art
+- Il tire des manettes sans apporter de réponse
+	- Il y a un manque de distance de la part des médias qui fonce la ou il veut qu'on fonce
+- Les médias ont focalise leur regards sur le marche de l'art et regarde a travers la lorgnette du marché
+	- Le marche à toujours fait partie de l'art et de l'histoire
+		- Cette analyse du marché
+		- Les pages médiatiques dédiés aux arts contemporain ne sont consacrés que sur les même artistes en boucle
+- Azimi relève une baisse de 30% de la ventes d'art modernes en parallèle à l'actualité politique
+	- Pour Azimi le marché de l'art fait aussi l'épreuve du réel
+- Les ventes aux enchères représente le haut de l'iceberg du marché de l'art
+- L'art contemporain est devenu familier par la floraison des lieu d'art a pousser le regard sur les arts
+- Les fondations (Pinault) et (LVMH) marque une récupération de l'art par le luxe
+	- Dans le cas de Pinault c'est une entreprise commercial qui ne sont pas lie aux activités de Kering
+		- Pour LVMH c'est un blason de plus, le luxe a besoin d'aura pour vivre, l'art leur apporte ce qui leur fait défaut
+			- L'art est anoblissant et à un rôle capital dans le luxe
+	- Beaucoup de fondations sont lier au monde du luxe
+- Il y a un fort opportunisme dans le marché de l'art

@@ -1,0 +1,12 @@
+- Le courant artistique de l'appropriationnisme naît dans les années 80, partant de réflexions, déterminé par le contexte actuel. Les artistes détruisent la notion d'œuvre d’art. Ce mouvement suit le courant de pensée des années 70 ; la mort de l’auteur, de l’artiste.
+	- Les œuvres mettent souvent à mal les principes manifeste de la [[Modernité]] comme ceux de [[L'Originalité]] de l'avant-gardes
+		- L'autorité est détourné
+			- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
+		- La propriété
+			- Bien que [[Elaine Sturtevant]] ne se revendiquais pas de se courant elle la fort inspiré
+			- ((67787429-61fe-4567-a2bc-a4b095ab041f))
+				- Regardant attentivement les artistes du [[Pop-Art]] elle demandera a [[Andy Warhol]] lui même ses trames de sérigraphies pour pousser l'appropriation de la technique picturale
+			- ((655a7e71-ca8c-49fb-b21c-de12ed36eaca))
+- Se courant prend une forme de concrétisation avec l'exposition de 1977 au MET de la [[Picture Generation]]
+-
+-

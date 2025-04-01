@@ -1,0 +1,163 @@
+- Théorie formulée en 1998 par le théoricien [[Nicolas Bourriaud]] dans l’ouvrage [*Esthétique relationnelle*](https://www.lespressesdureel.com/ouvrage.php?id=44). L’auteur formule ces pratiques comme:
+  *«Des pratiques qui prennent pour point de départ ,théorique et ou pratique, la sphère des rapport humains […] et  les interactions humaines dans leur contexte social plutôt qu’un espace symbolique autonome et privé»*
+- En considérant les relations interhumaines les artistes créent et organisent leurs émergences. Mettant en place des situations « moment de convivialité construit » qui permettent la création de ces manières d’être au monde. Dans un optique de modélisation de relations sociales
+- Rirkrit Tiravanija: [*Rehearsal Studio*](https://web.mit.edu/allanmc/www/rirkritmca.pdf), 1996 ![Rirkrit Tiravanija - Faites de la musique! - Centre Pompidou](https://www.centrepompidou.fr/media/picture/9e/af/9eaf7c149b75988fe199682007dcaa06/thumb_large.jpg)
+	- Des dispositifs qui mettent en relation des spectateur..ices entre eux..lles, propose des halles
+- Maurizio Cattelan: *Stadium*, 1991 ![Stadium | Maurizio CATTELAN (1991) | PERROTIN](https://s3.perrotin.com/d:800xauto/details/photo/maurizio_cattelan-1442_114587@2x.jpg)
+	- Baby-foot qui permettent de faire rencontrer deux vrais équipes de joueur..euses de foot,
+		- En détournant les codes il..elles proposes des espaces relationnelles
+- Gabriel Orozco: [*Ping Pong Table*](https://www.mariangoodman.com/artists/56-gabriel-orozco/works/39508/), 1998 ![Gabriel Orozco, Ping Pond Table, 1998 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/446ef5a61f5a1e59bb04328189b98a8bj.jpg){:height 294, :width 450}
+  id:: 65671aae-e15a-4486-b07c-c7a39ff4922c
+	- Table de ping pong dont on peut jouer à 4 dessus
+	  id:: 65671ad9-e4e3-4bd3-86ba-7989f7a45008
+- [[Philippe Parreno]] : *Snow Dancing*, 1995 ![Philippe Parreno | Snow Dancing (1995) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fv1HzRO13ZxYSthiT9pEIVA%2Fmain.jpg&width=800){:height 288, :width 223}
+  id:: 65671acb-50e5-42ca-b4e2-c52fec4cc100
+	- Texte dans le quelle il traite de la fête dans le contexte de [[Post-Modernité]]. Des individus qui seul constitue une masse lors d'un temps
+	- Il met en scène son texte en organisant une vrai fête, lors de l' [[Exposition]] on pouvaient voir les traces de la scène où la fête a eu lieu
+- [[Felix Gonzalez-Torres]] : [*Untitled ( Portrait of Ross in L.A)*](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a), 1991 ![Untitled” (Portrait of Ross in L.A.), 1991 - Felix Gonzalez-Torres -  WikiArt.org](https://uploads2.wikiart.org/images/felix-gonzalez-torres/untitled-portrait-of-ross-in-l-a-1991.jpg){:height 363, :width 450}
+  id:: 65671f12-cfe5-466c-a0ba-d7a337dd083d
+	- Disposition de bonbon, travail qui se concentre sur l'exitance humaine et leurs relation
+- Christine Hill: [*Volksboutique*](https://we-make-money-not-art.com/interview_with_20/), 1996 ![Christine Hill - Ronald Feldman Gallery](https://feldmangallery.com/assets/exhibition_images/_1200x630_crop_center-center_82_none/44067/Hill-Small-Business-Model-2012-with-people-2_1.jpg?mtime=1691602083)
+	- Reconstitue dans l'espace de l'art des lieux ordinaires , comme une pharmacie, une agence de voyage
+	- Echelle 1x1: un..e artiste copie le réelle en gardant son échelle, il n'y a plus de différence entre une forme inhérente à la vie et une reconstituions dépeinte dans le [[Monde de l'art]]
+- Cyprien Gaillaird: [*Recovery of discovery*](https://publicdelivery.org/cyprien-gaillard-recovery-of-discovery-kw-institute-for-contemporary-art-berlin/), 2011 ![Cyprien Gaillard – Recovery of discovery, 2011, KW Institute for Contemporary Art, Berlin](https://publicdelivery.org/wp-content/uploads/2011/12/Cyprien-Gaillard-%E2%80%93-Recovery-of-discovery-2011-KW-Institute-for-Contemporary-Art-Berlin-800x533.jpg)
+	- Constitue une pyramide de pack de bière qui le soir du vernissage est pris d'assaut par le public et laisse derrière un champ de ruines
+	- Questionne l'expropriation des produits culturelles de culture occidentale
+- ## Reproche
+  collapsed:: true
+	- Vision angélique des pratiques
+		- Le public du [[Monde de l'art]] n'est pas le vrai marqueur de lien social. C'est un public bienveillant qui n'est pas représentatif de la création de possible lien social
+	- Thomas Hirschhorn: [*Musée précaire*](https://mouseionsite.wordpress.com/2017/05/22/musee-precaire-albinet-thomas-hirschhorn/), 2004 ![](https://mouseionsite.files.wordpress.com/2017/05/musc3a9e-prc3a9caire-albinet-thomas-hirschhorn-2004-_vue_2_0.jpg?w=1280)
+		- Travaille avec des publics qui ne sont pas ceux du [[Monde de l'art]] . Tentative de démocratisation de la culture
+- ## Analyse du texte - Esthétique relationnelle
+  collapsed:: true
+	- [[Nicolas Bourriaud]] déplore un manque d’analyse des pratiques contemporaines de son époque (Années 1990). Il prend comme point de départ des pratiques qui tournent autour des notions d’interactivité de convivialité et de relation.
+	- Face au grand voie de la communication comment récréer du contact autrement que par ses voies.
+		- Les relations rentreraient dans le système de consommation mis en place par le capitalisme. Cette affection du monde relationnelle est pour Debord le dernier Stade de mutation vers la société de spectacle. [[International situationnistes]]
+	- [[Nicolas Bourriaud]] approche les pratiques contemporaines comme une autre manière d’être au monde réel. Sans être dans l’ [[Utopie Moderne]] de crée avec des œuvres une autre réalité imaginaire mais de constituer des modes d’existence ou des modèles d’action au sein du réel existant.
+		- L’art comme générateur d’interstices sociales. Prenant en compte le rôle de l’urbanisation dans nos rapport au autres. Les artistes contemporain..es face à cela créent et repensent le rapport monde à travers notre rapport à la ville ou aux autre.
+			- Gabriel Orozco: [*Crazy Tourist*](https://www.mariangoodman.com/artists/56-gabriel-orozco/works/39141/), 1991 ![Gabriel Orozco, Crazy Tourist (Turista maluco), 1991 | Marian Goodman](https://artlogic-res.cloudinary.com/w_1680,h_1680,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/mariangoodman/images/view/48e05fa17f7c0a07bebcf778f94cdcf4j.jpg)
+				- Dépose une orange sur les étals d’un marche brésilien désert.
+			- Gabriel Orozco: [*Hamoc en el MoMa*](https://www.moma.org/calendar/exhibitions/403), 1993 ![Hamaca en el MoMa (1993) Gabriel Orozco — Are.na](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDIyNTgwMi9vcmlnaW5hbF85ZGU2ODZjMjUwMmNjZDA0M2MwNjA4MDY1NzU5ODAwNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0)
+				- Installe un hamac dans la pelouse du MoMa à New York
+					- Orozco opère au sein de l’infra-mince social. De mini révolutions dans l’ordinaire urbain. Elle témoigne du paysage silencieux que forment nos relations aujourd’hui.
+	- ### Matérialisme Aléatoire
+	  collapsed:: true
+		- L'esthétique relationnelle serait issu d'un matérialisme
+			- Matérialisme au sens matérialisme de la rencontre
+			- Dans un esprit de trans-individualité où chacun..es seraient des êtres constituées d'un ensemble de sous des formes sociales ([[Karl Marx]]: l'essence humaines est l'ensemble des rapport sociaux)
+			- Pour Bourriaud l'art se réactualise en permanence par les changements sociaux.
+				- Ce qui reste c'est le jeu ( le jeu de l'art ) c'est ce jeu inter-humain sur lequel il se concentre.
+		- Il préconise l'esthétique relationnelle non pas comme une théorie de l'art mais une théorie de la forme.
+			- Forme: unité cohérente, une structure qui présente les caractéristiques d'un monde
+				- De cette forme nait la cohésion durable nécessaire  / La forme comme une rencontre durable
+			- Cette cohésion durable est une condition primordiale qui crée des possibilités de vie nouvelle
+				- Pour [[Gilles Deleuze]] et Guattari c'est l'art comme un bloc d'affects et de préceptes
+					- L'art fait tenir un moment de subjectivité liées à des expériences singulières
+			- La forme de l'œuvre contemporaine est au delà de sa forme matérielle elle est l'élément reliant
+		- La forme peut devenir créatrice de dialogue (une forme relationnelle ?)
+			- La forme comme propriété relationnelle.
+				- L'individu quand il croit se regarder objectivement ne contemple en fin de compte rien d'autre que le résultat de perpétuelle transactions avec la subjectivité des autres.
+				- Pour certain..e la forme artistique échapperait à cette fatalité car elle est médiatisé par une œuvre.
+			- Opposé à la définition de Thierry de Duve pour qui l'art est la somme de jugement ( esthétique historique ) énoncée par l'artiste lors de sa réalisation
+			- Or pour [[Nicolas Bourriaud]] c'est l'invention de relations de l'œuvre avec les sujets qui donne forme
+				- Il prend comme exemple la pensée d'Emanuelle Lévinas pour qui le visage c'est "ce qui m'ordonne de servir autrui" "ce qui nous interdit de tuer".
+					- Toute relations intersubjective passe par la forme du visage qui symbolise la responsabilité qui nous incombe par rapport à autrui
+			- Produire une forme c'est inventer des rencontres possibles, recevoir une forme c'est créer les conditions d'un échange
+		- L'interactivité de plus en forte apparait aussi dans les arts avec des œuvres qui s'adonnent de plus en plus à des possibilités d'interactions
+			- Question le [[Monde de l'art]] comme un milieu relationnelle suralimenté de d'interconnexion. De ce réseaux dense certain..e voit une autonomie ou "c'est l'art qui fait l'art, pas les artistes"
+				- [[Nicolas Bourriaud]] s'oppose à ce cyber-déterminisme car pour lui le [[Monde de l'art]] est alimentés par des pratiques extérieurs, il qualifie donc le réseau de l'art comme poreux et il détermine l'évolution du [[Monde de l'art]] par le rapport de ce réseaux à avec l'ensemble des champs de productions.
+				- Il y ajoute une historicité de [[Art Relationnel]] .
+					- Dans un premier temps l'art est une interface qui nous met en relation avec le divin ( Humanité - Divin)
+					- Puis l'art est une relation au monde physique ( Humanité et objets )
+					- Puis relation interhumaines ( humain..e à humain..e)
+						- De ce nouveau paradigme de nouvelle forme découle : le metting le rendez vous, le rassemblement , la manifestations ... sont de nouveaux objets esthétiques
+							- ((65480be3-ca15-49ba-9fc7-5ec1b02915b2))
+						- La temporalité évènementielle de la performance par exemple est une rendez vous qui suscite des rencontres plus spécifique a la rencontre avec un objet symbolique (sculpture ou tableau)
+						- La fonction de rendez vous devient central
+	- ### Rendez vous
+	  collapsed:: true
+		- En donnant rendez vous on détermine un instant et un rapport avec quelque chose.
+			- [[Marcel Duchamp]] avait inventer les rendez vous d'art.
+				- Détermine arbitrairement qu'à une certaine heure de la journée, le premier objet se trouvant à sa porté serait transforme en [[Ready-made]]
+		- Cette importance du rendez vous comme nouvelle objet esthétique à pousser certain..es artiste à travaillé..e la forme de la carte de visite où l'importance de l'annonce du vernissage ( carton d'invitation )
+		- Une œuvre comme dispositif relationnel comporte un certain degré d'aléatoire
+			- Braco Dimitrijevic: *The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai rencontré par hasard à 11h09 à Paris)* , 1971 ![The Casual Passerby I Met at 11.09 A.M. Paris (Le passant que j'ai  rencontré par hasard à 11h09 à Paris) - Centre Pompidou](https://www.centrepompidou.fr/media/picture/bd/d7/bdd7e0075fe6ff567701079ee62ec335/thumb_large.jpg)
+				- Célèbre démesurément le visage d'un inconnu
+			- On Kawara: [*I met*](https://www.guggenheim.org/audio/track/on-kawara-i-met-1968-79), 1968-79 ![On Kawara: I Met, 1968–79 | The Guggenheim Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2015/02/art-on-kawara-notes-for-i-met.jpg)
+				- Lorsqu'il rencontrait de nouvelles personnes, il leur demandait soit d'écrire leur nom, soit de lui donner une carte de visite afin qu'il puisse lire le nom pour s'en souvenir. Finalement, il a commencé à enregistrer ces noms dans des listes et des agendas qu'il emportait avec lui lorsqu'il voyageait.
+				  id:: 656fa6a2-78a9-4ee5-a943-4fd582ff6d6d
+		- Pour [[Nicolas Bourriaud]] les pratiques des années 1990 reprennent cette problématique mais n'ont pas question de la définition de l'art
+			- Le but est plus d'éprouver les capacités de résistance de l'art à l'intérieur du champ social global
+		- La fin des [[Utopie Moderne]] à créé des micro-utopies quotidiennes. Dans une société où la marginalisation est une forme impossible voir régressive.
+			- *" Autant je pense qu'il est illusoire de miser sur une transformations de proche en proche de la société, autant je crois que les tentatives microscopiques, type de communauté, comites de quartier ..... jouent un rôle absolument fondamental" Félix Guattari*
+			- L'art aujourd'hui peut être une ligne de fuite individuelle et collectives
+		- Les artistes s'emparent donc des lieux et des gens pour établir des systèmes de relation dénués de toutes formes autres que la relation elle mêmes. ((65671acb-50e5-42ca-b4e2-c52fec4cc100))
+			- Cette aménagement du tissu social est aménager de différentes manières. La plupart des artistes l'aménagent de maniere amicale conviviale.
+				- D'autre vont agir de façon plus parasitaires. Douglas Gordon explore la dimension sauvage de cette interactivité
+					- Angus Fairhurst par exemple hack les ondes téléphoniques et met en relation deux galeries d'art au téléphone sans qu'aucune d'elle n'est appeler l'autre et créer un quiproquo invraisemblable
+		- On a faire à des œuvres comme:
+			- Des moments de socialité
+				- Des objets producteurs de socialité ((65671aae-e15a-4486-b07c-c7a39ff4922c))
+			- Des relations précises sont aussi traités
+				- L'artiste et le galeriste est une relation que les artistes investissent dans leurs pratiques
+					- Maurizio Cattelan: [*Errotin, le vrai lapin*](https://www.perrotin.com/fr/artists/Maurizio_Cattelan/2/errotin-le-vrai-lapin-a-b-c/18757)
+						- ![Errotin, le vrai lapin (a, b, c) | Maurizio CATTELAN (1995) | PERROTIN](https://s3.perrotin.com/d:800xauto/details/photo/maurizio-cattelan-18757_14683@2x.jpg)
+						  id:: 661023c5-8cda-4ac6-a6a4-933e616b6e6b
+					- Maurizio Cattelan déguise Emmanuel Perrotin
+					- [[Dominique Gonzalez-Foerster]]  fait la biographie de Ester Schnipper
+			- Le contrat devient sujet de pratique relationnelle. Indiquant de maniere formelle et législative les possibilités de relation
+				- Alix Lambert: [*Wedding Piece*](https://tiffobenii.wordpress.com/performing-gender/alix-lambert/), 1992 ![BOMB Magazine | D.I.V.O.R.C.E.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeGIb3FRvMUYH3V6SzLGAQw31UfsRXJFBd2lq0REtDGG4p1IZYyw7rRgwl0Nl7HdJqUY&usqp=CAU)
+					- Performance où elle se marie et divorce 4 fois de suite dans un temps records de six mois. Questionne l'institution matrimoniale comme usine de réification des relations
+			- L'artiste dans ces cas explore des liens sociaux concernant des relations préexistantes dans laquelle il en extrait des formes.
+	- ### Les espaces-temps de l'échange
+	  collapsed:: true
+		- L'œuvre présente une forme transparence social dans le sens ou elle est fait pour exister dans la discussion elle dépasse sa simple présence dans l'espace. Ce que [[Marcel Duchamp]] appelle le '*coefficient d'art*'
+			- Une négation qui se fait caractériser en temps que production humaine.
+				- L'œuvre d'art suggère à la fois le processus de fabrication et sa place dans les jeu des échanges
+				- La Transparence d'une œuvre nait du fait que les gestes qui la forment et l'informe font parti du sujets
+					- Par exemple la ((65699b1e-dc24-414f-ad45-3550a93f0d6c)) au-delà  de l'icône pop l'image proviens d'un processus industriel de production adopté par l'artiste qui présente une indifférence envers le sujet
+					- Cette transparence s'oppose au sacré
+				- Quand une forme artistique prend place dans le circuit d'échanges il prend une forme social qui n'as rien à voir avec son utilité originelle. Elle acquiert une valeur d'échange
+				- L'œuvre se voue d'embler à cette espace de l'échange
+		- L'esthétique relationnelle n'a pas de style autre que de partager un horizon pratique et théorique celui de la sphère des rapport interhumains.
+			- Les œuvres mettent en jeu les modes d'échange sociaux, l'interactivité avec le..a regardeur..euse à l'intérieur de l'expérience esthétique qu'il..elle se voit proposer.
+			- Si les prédécesseur..euse de l'art ([[Jeff Koons]], Richard Prince...) mettaient en avant l'aspect visuel des médias leurs successeur..euse privilégient le contact et la tactilité.
+				- Privilégie l'immédiateté dans leur écriture plastique.
+			- L'esthétique relationnelle ne s'inscrit dans aucun autre mouvement passé. Il n'est pas le revival de quelque chose.
+				- La nouveauté n'est pas dans l'approche de notion comme le lien sociale mais prend pour point de départ l'intersubjectivité et l'interaction
+				- Les œuvres produisent des espace-temps relationnelles, des expériences inter-humaines qui s'éloignent des contraintes de l'idéologie de la communication de masse
+		- Les artistes approchent l'œuvre dans un triple point de vue
+			- Esthétique (quelle traduction matérielle)
+			- Historique (quelle jeu de référence artistiques): Les pratique relationnelles dépassent les objets sur lesquelles elles s'appuient  ( méthodes conceptuelle, [[Fluxus]] , Dan Graham...) la question est plus sur les modes d' [[Exposition]] juste par rapport au contexte culturel et par rapport à l'actualisation contemporaine de l'historie de l'art
+				- [[Nicolas Bourriaud]] sépare ces pratiques de l' [[Art Conceptuel]] car ne célèbrent aucune immatérialité: les artistes ne privilégient pas le concept. Il ne fétichise pas le processus mentale au détriment de l'objet. Le langage par exemple n'est pas quelque chose à dépasser [[Art & Language]] mais est considéré comme vecteur de relations à l'autres.
+			- Sociale (trouver une positon cohérent par rapport à l'état de la production et des relations sociales)
+	- ### L'héritage de [[Felix Gonzalez-Torres]]
+	  collapsed:: true
+		- [[Felix Gonzalez-Torres]]: [*Untitled (Blue Mirror)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-blue-mirror), 1990 ![Untitled" (Blue Mirror), 1990 - Felix Gonzalez-Torres - WikiArt.org](https://uploads4.wikiart.org/00387/images/felix-gonzalez-torres/eac57186b4e03a6f9764150da9514e14.jpeg!Large.jpeg)
+			- Un tas d'affiche bleu ciel encadrée d'un lisserai blanc, des affiches accessibles proposées au public.
+				- Une œuvre qui n'expose pas son processus de construction, mais la forme de sa présence parmi un public
+			- Cette problématique de la disponibilité de l'œuvre est pour [[Nicolas Bourriaud]] fondatrice de sens au cœur de l'esthétique contemporaine.
+		- Sur cette héritage de l'intersubjectivité et la place dominante de l'intérêt à la relation à l'autre il place des artistes comme [[Dominique Gonzalez-Foerster]] et Jorge Pardo notamment dans leur utilisation de la couleur comme socle commun d'intersubjectivité comme le ferait [[Felix Gonzalez-Torres]] avec le rouge dans ((65776d08-5d4b-4d7b-aa1f-f2752977014c))
+		- Les œuvres ont pour point commun
+			- *"leur faculté a produire le sens de l'existence humaine ( indiquer des trajectoires possibles) au sein de ce chaos qu'est la réalité"*
+				- Le concept de sens est critiqué car le sens est notion qui se préétablie et une affiche de papier dans un cas prend sens que quand il a échange entre humain..es
+				- Cette incertitude va pour [[Nicolas Bourriaud]] à l'encontre du [[Marché de l'art]] car dominé par un système capitaliste où le dollar prévôt ( in god we trust) l'incertitude dans le sens ne peut exister de façon viable dans un marché comme celui de l'art.
+					- L'irrationalité de l'économie capitaliste éprouve le besoin structurel de s'ancrer dans les certitudes
+		- L'immatérialité des ses œuvres des années 1990 est le signe de la propriété que ses artistes accordent au temps plutôt qu'a l'espace.
+			- Il expose et explorent le processus qui conduit aux objets au sens.
+			- L'objet n'est pas qu'une happy end du processus d' [[Exposition]]
+				- Ce jeu de temporalité accentue l'éternité contrairement aux monuments car touche au ponctuelle et au temporaire
+			- La durée d'une information et la capacité d'une œuvre d'art à affronter le temps sont liée à la solidité des matériaux choisis
+				- [[Felix Gonzalez-Torres]]: [*Untitled ( 21 days of bloodwork - steady decline )*](https://www.felixgonzalez-torresfoundation.org/works/untitled-21-days-of-bloodwork-steady-decline), 1994 ![](https://img.artlogic.net/w_1800,h_1800,c_limit/exhibit-e/5b844b306aa72cea5f8b4567/c47a079521da92c147099c27d3d1306f.jpeg)
+					- Un contraste entre les formes employées et leur gravitées
+						- Le caractère minimale de ces lignes obliques cache de façon minimal le sens lourd de la baisse en globules blanc d'une personne malade du sida. L'œuvre prend une ampleur qui nous renvoie à notre volonté constante de ne pas voir ça.
+						- C'est notre regard qui est aussi questionné dans les œuvres de [[Felix Gonzalez-Torres]]. Il ne délivre pas des messages il inscrit les faits dans les formes
+			- Le statut du..la regardeur..euses est redéfini dans les œuvres, Les œuvres entretiennent un rapport ouvert, non résolus d'avance
+				- Qui sommes nous face à ces œuvres? Client..es, invité..e, co-producteur..ices, protagoniste ?
+					- Le lieux distingue et influe notre rapport à notre sociabilisation face à l'œuvre
+					- Contrairement à la critique de [[Michael Fried]] dans ((677a7e43-4364-49c5-a073-4cc76f184cea)) la participation oculaire du..la regardeur..euses dans l'espace n'est pas qu'un présence arbitraire physique mais ses sa complète présence et participation qui est mis en jeux
+						- [[Felix Gonzalez-Torres]] [*"Untitled" (Arena)*](https://www.felixgonzalez-torresfoundation.org/works/untitled-arena), 1993 ![Felix Gonzalez-Torres | | Flash Art](https://flash---art.com/wp-content/uploads/2016/12/Felix-Gonzales-Torres3_FlashArt-720x725.jpg)
+						- Ce n'est pas que compléter l'œuvre par le regard c'est y entreprendre un rapport d'intersubjectivité entre les formes mises à disposition et la réponse émotionnelle sociale et comportementale
+			- Là où la [[Modernité]] à mis à mal le groupe sous le prétexte de l'aliénation collective il faut en ces temps contemporains faire une synthèse des modes d'être ensemble.
+			- L'art contemporain déplace l'aura de l'œuvre elle n'est plus dans son origine mais dans son effet.

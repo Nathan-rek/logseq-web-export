@@ -1,0 +1,12 @@
+- Originaire d'un collectif [[Transfeminisme]] le xéno- [[Féminisme]] est une inclusion des mouvement [[Transfeminisme]] [[Cyber-Féminisme]] [[Techno-féminisme]]
+- Cherche à accélérer les processus [[Accélérationisme]] en restant dans la matrice mais en devenant les architectes de cette matrice.
+	- Faire partie de la technocratie dans une perspective post humaine où la technologies permet de se xénomorpher
+		- La création de xéno-entités: Xenofeminism, a politics for Alientation
+		- Techno-matérialisme
+			- Réimplanter les potentiels émancipateurs féministes et sociales dans les technologies
+		- Antinaturalisme
+			- Refuse l'utilisation de la "nature" pour justifier des considérations "sociale" (prédisposition des femmes à la maternité)
+			- Penche vers le bio hacking et désacralise le corps naturel
+		- Abolitionnisme du genre
+- Dans un monde qui rentre dans un accélérateur technologiques géant transformé par l'automatisation, la mondialisation et la révolution numérique
+- S'émanciper par l'aliénation

@@ -1,0 +1,30 @@
+- L’art qui à été créé à l’aide d’un système autonome. Dans ce contexte, un système autonome est généralement un système non-humain..e qui peut déterminer de manière indépendante les caractéristiques d’une œuvre d’art qui autrement exigerait des décisions prises directement par l’artiste
+- László MOHOLY-NAGY: [*EM 2*](https://www.repro-tableaux.com/a/laszlo-moholy-nagy/telephonbildem2.html), 1923 ![Telephonbild Em 2 à László Moholy-Nagy](https://www.repro-tableaux.com/kunst/laszlo_moholy_nagy/Telephonbild-Em-2.jpg)
+  id:: 661023c4-7b1c-41d6-bc94-fba51cd71d4c
+	- œuvres que l’artiste crée en appelant au téléphone un artisan au [[Bauhaus]]  *«Être un utilisateur de machines, c’est être de l’esprit de ce siècle»*
+- André MASSON : [*Dessins Automatiques*](https://www.centrepompidou.fr/fr/ressources/oeuvre/czAzGRr), 1924-1925 ![Dessin automatique - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4d/a2/4da2ec0c5771f6bcaef9e7d43376f3a0/thumb_large.jpg)
+- Musique générative: Brian ENO: La musique générative est imprévisible, elle n’est pas reproductible, elle est inachevée, c’est-à-dire que lorsque vous utilisez la musique générative, vous ne savez pas implicitement quelle en sera la fin
+- ### Mathématisation de l’art et de la beauté:
+	- Utilisation du nombre d’or: croissance en synchronisation avec l’univers; capturer quelque chose de la beauté naturelle; la notion de perfection
+	- ##### <a name="__refheading___toc7475_3212330306"></a>Théories de la beauté :
+		- PYTHAGORE: certaines proportions arithmétiques dans les instruments de musique, comme la longueur des cordes produisent une harmonie de tonalité. A partir de ces harmonies musicales, il explique la beauté des proportions du corps humains, de l’architecture et d’autre objets
+		- [[Aristote]] : Ordre, répétition de la mesure (symétrie) et exactitude
+		- Thomas D’AQUIN: La beauté = intégralité ou perfection, harmonie (proportion) et clarté ou luminosité
+	- Ratios – Proportions: Villard de HONNECOURT
+	- Léon Battista ALBERTI (1404 – 1472): *De Pictura* : inspiré par l’ordre et la beauté inhérente à la nature, il énonce les principes de la distance, de la dimension et de la proportion; explique au peintre comment utiliser les règles de la composition, de la représentation, de la lumière et de la couleur pour créer des œuvres élégantes et esthétiques; et stipule les prérequis moraux et artistique du peintre accompli
+	- Le CORBUSIER: [*Le Modulor*](http://fondationlecorbusier.fr/corbuweb/morpheus.aspx?sysId=13&IrisObjectId=7837&sysLanguage=fr-fr&itemPos=83&itemCount=216&sysParentName=&sysParentId=65), 1945 ![Le Modulor | Passerelles](https://cdn.essentiels.bnf.fr/media/images/cache/crop/rc/vWMTx3Bm/uploads/media/image/20201206215027000000_pas_2977.jpg)échelle anthropométrique de proportions pour l’architecture
+	- George BIRKHOFF: [*Aesthetic Measure*](https://www.amazon.in/Aesthetic-Measure-George-D-Birkhoff/dp/0766130940), 1933: LEIBNIZ décrit le plaisir de l’art comme le calcul inconsciente de proportions numériques entre les intervalles de temps dans le cas de la musique – ou entre les distance spatiales, dans le cas de l’art visuel et de l’architecture. BRIKHOFF tente de formaliser cette idée
+	- ##### <a name="__refheading___toc7477_3212330306"></a>Algorithme[^20] dans l’art:
+		- Iannis XENAKIS:
+			- Musique par calcul des probabilités, « la musique stochastique ». L’œuvre s’appuie sur la statistique de Maxwelle-Boltzmann[^21], la loi du Gauss[^22] et sur le mouvement brownien. La partition s’accompagne d’une partition graphique
+			- En 1979 il conçoit un système informatique appelé [*UPIC*](https://www.centre-iannis-xenakis.org/cix_upic_presentation), 1977 ![upic1](https://www.centre-iannis-xenakis.org/files/original/2278414e477f0cc0cb6454136c4302c1.jpg) capable de traduire des images graphiques en résultat musicaux
+		- Jonas LUND: [*FOMO*](https://jonaslund.com/works/the-fear-of-missing-out/) ![Jonas Lund The Fear Of Missing Out](https://cdn.jonaslund.com/wp-content/uploads/2013/10/29084829/11-400x266.jpg)
+			- Algorithme conçu par LUND > Il génère des idées d’œuvres. Basée sur une base de donnés d’œuvres il suffit à l’artiste de rentrer son âge son intention de prix et l’algorithme génère une suite d’instructions pour réaliser l’œuvre
+		- DRIESSENS & VERSTAPPEN: [*Breed,*](https://notnot.home.xs4all.nl/breed/Breed.html)1995 -2007 ![](https://notnot.home.xs4all.nl/breed/pics/plywood-267.jpg)
+			- Breed est un programme informatique qui utilise l’évolution artificielle pour faire pousser des sculptures très détaillées. Le but de chaque croissance est de générer par division cellulaire, à partir d’une seule cellule, une forme détaillé qui puisse être matérialisé. Sur la base de la sélection et de la mutation, un code est progressivement développé pour résoudre au mieux à ce critère et produire ainsi une forme exploitable
+			- [*Tuboid*](https://notnot.home.xs4all.nl/tuboid/tuboid.html),2000 ![](https://notnot.home.xs4all.nl/tuboid/pics/Tuboid-detail.jpg)
+			- Un programme informatique qui génère des formes tubulaires en reliant des segments dont la forme diffère légèrement à chaque tour. La membrane tubulaire ainsi générée peut être observée de deux manière, comme espace et sculpture
+		- [[Cory Arcangel]] : [*Hello World*](https://coryarcangel.com/things-i-made/2009-033-hello-world) ![](https://coryarcangel.com/assets/imgs/hello-world-2009-033-digital-database-ih.jpg)
+			- Un protocole d’œuvre qui est à la fois 2D et 3D: Un stylo vient à dessiner en traçant la jonction entre 1-100 points aléatoirement disposés dans un plan 2D – Plus tard le protocole devient 3D et se rajoute une dimension élévatrice à l’algorithme qui génères des points de coordonnées qui tendent la sculpture à la verticale
+				- [[Cory Arcangel]]: [*Hello World Wire Form (# 2)*](https://coryarcangel.com/things-i-made/2011-099-hello-world) https://artsation.com/images/CoryArcangelHelloWor.jpg
+			- ((65481396-13d4-4b4c-8e24-55246d04fa97))

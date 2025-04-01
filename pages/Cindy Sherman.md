@@ -1,0 +1,4 @@
+- Souligne l'identité hétérogène de l'être de la [[Post-Modernité]]
+	- Individu qui n'est pas fixe, contrairement à ce qui est véhiculé par les médias
+	- Cindy Sherman: [*Untitled Marilyn*](https://www.artsy.net/artwork/cindy-sherman-untitled-marilyn-1982), 1982 ![Cindy Sherman | Untitled - Marilyn (1981/1989) | Available for Sale | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FHEB-7mfBBLP6qOZLKcFjBg%2Fmain.jpg&width=535)
+	- Process de déconstruction qui suit la déconstruction du [[Structuralisme]]

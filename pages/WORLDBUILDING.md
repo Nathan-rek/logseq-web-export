@@ -1,0 +1,15 @@
+- WORLDBUILDING, Jeux vidéos et art à l’ère digitale est une exposition sous le commissariat de Hans Ulrich Obrist [*WORLDBUILDING*](https://www.centrepompidou-metz.fr/fr/programmation/exposition/worldbuilding) est une exposition trans-générationnelle sur qui met en lumière la manière dont les artistes s’approprient et utilisent l’esthétique et la technologie des jeux vidéos comme une forme d’expression. Ces dernier..es poussent le médium au-delà du jeu et y intègrent des enjeux sociaux politiques, esthétique ou poétique
+  title:: WORLDBUILDING
+- Exemple de Mod
+	- JODI: [*Untilted Games (CTRL-SPACE) Modification of video Games (Quake 1)*](https://digitalartarchive.at/database/general/work/untitled-game-modifications-of-video-game-quake-1.html)*, 1996* https://digitalartarchive.at/fileadmin/_processed_/csm_60_Untitle_Game_1_bda15cc96b.webp
+		- Le collectif JODI (Joan HEEMSERK et Dirk PAESMANS) ont été les premier..es à détourner des logiciels et des jeux vidéos
+			- Cette œuvre est un bon exemple de mod. I..elles ont dénaturé..es le logiciel et le graphisme du jeu [*Quake 1*](https://fr.wikipedia.org/wiki/Quake) (un FPS) par leurs intervention. Les visuels sont réduit à des rayures noires et blanches abstraites contrastant avec l’ambiance sonore du jeu, qui elle reste en action.
+	- [[Cory Arcangel]] : [*Totally Fucked*](https://coryarcangel.com/things-i-made/2003-001-totally-fucked), 2003 https://coryarcangel.com/assets/imgs/fucked-2003-001-cartridge-database-ih.jpg
+		- L’un des premier hackers à être entrés dans le monde l’art. L’artiste a modifié une cartouche de [*Super Mario Bros*](https://fr.wikipedia.org/wiki/Super_Mario_Bros.) afin de générer une boucle infinie dans laquelle Mario est éternellement coincé sur un cube. Les personnages de [[Cory Arcangel]] sont condamnés et ils expriment notre frustration face à l’incapacité de la technologie à répondre à nos attentes
+- Une seconde vie
+	- Cao Fei : [*I.mirror by China TRACY (AKA: Cao Fei)*](http://www.caofei.com/works.aspx?year=2007&wtid=3), 2007
+		- Une série de vidéos créée par l’artiste dans l’univers [*Second Life*](https://fr.wikipedia.org/wiki/Second_Life). Elle le voit comme un documentaire virtuel. Retrace les aventures de China TRACY, l’avatar de l’artiste qui incarne la jeune génération en Chine. Elle rencontre un avatar et développe une relation romantique cette avatar qui est en vérité celui d’un Américain de 65ans.
+	- Ben Vickers: [*World Study #4*](https://www.youtube.com/watch?v=p-eAKEWb8cw)
+		- Dans un des premiers exemples de moteur de jeu ouvert[^81]cette œuvre est la quatrième d’une série de 13 études . Il s’agit d’une simulation numérique évoquant le tableau [*La Mer de Glace*](https://fr.wikipedia.org/wiki/La_Mer_de_glace) de Caspar David FRIEDRICH
+	- Jonathan HOROWITZ: [*Free tech Store*](../Jonathan%20HOROWITZ :%20Free%20tech%20Store,%202023), 2023
+		- Spécialement crée pour l’émission. Dans cette œuvre les visiteur..ices peuvent apporter le matérielle informatique dont il..elles ne veulent plus et l’échanger contre ce qu’il..elles désirent. A l’instar des modes de partages alternatifs en ligne

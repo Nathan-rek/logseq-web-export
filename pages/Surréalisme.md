@@ -1,0 +1,15 @@
+- En référence à Apollinaire c’est Phillipe Soupault et André Breton qui utilise et créait le terme de surréaliste pour qualifier leur recueil en prose *Les Champs Magnétiques* en 1919 rédiger en présence de leur inconscients
+	- Avec le manifeste surréaliste Breton en 1924, marque la rupture avec le [[Dada]] et place l’écriture automatique comme seul principe créateur
+	- Libérer la pensé de tout contrôle de la raison de tout censure et de s’affranchir des préoccupations esthétiques ou morales
+	- Réintroduise le hasard, l’alogique [[Dada]] dans le processus créatif, Cadavre Exquis
+- ## L’inconscient
+	- Au courant des théories de [[Freud]] , Breton cherche à réintroduire l’inconscient à travers l’art dans la réalité dans une surréalité,
+		- L’art à un impact sur la réalité. Il se rattache notamment au parti communiste
+			- Breton une fois exclue reconsidère l’activité social et l’endoctrinement politique
+	- Rechercher sur l’inconscient
+		- Écriture / dessin automatiques
+			- André Masson: *Dessins Automatiques*, 1925-1926 ![Dessin automatique - Centre Pompidou](https://www.centrepompidou.fr/media/picture/4d/a2/4da2ec0c5771f6bcaef9e7d43376f3a0/thumb_large.jpg)
+			  id:: 653fa024-7e99-4ff5-9b88-6f1be3b791ad
+		- Cadavre exquis
+			- Symbolique du rêve
+		- Se fédère à des expositions surréalistes

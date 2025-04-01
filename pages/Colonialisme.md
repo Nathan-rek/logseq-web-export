@@ -1,0 +1,73 @@
+- Le colonialisme utilise une logique de marchandisation pour que les peuples travaillent pour eux
+  id:: 65d3486b-8501-4989-a7ac-afec32742383
+	- Le colonialisme de peuplement utilise une logique d'évacuation pour déplacer le autochtones dans des réserves et des champs
+	- Le libéralisme économique
+		- une économie de marché basée sur la propriété privée et de libre marché (néo-libéralisme)
+- La cartographie comme outil de rationalisation d'un territoire
+	- Les frontières sont des construction de l'Europe
+- *Devoir de mémoire*, 2021
+	- Présente une série d'histoire sur la santé et le bien-être qu'ont vécues des personnes issue des communautés inuites, métisse et des premières Nations
+		- Lève le voile sur des cas de racisme systémique sur les conséquences du colonialisme
+			- Stérilisation forcés des femmes autochtones
+				- En 1866 les américain..es veulent mettre fin à l'existence des peuples autochtones et les politiques mettent en avant des projet eugénique de stérilisation des femmes autochtones
+					- Des cas de stérilisation forcées était encore présent au Canada en 2018
+			- Déportation des peuples inuites qui mis dans un été de pauvreté un grand nombres de famille inuites, entrainant une forte augmentation du taux de suicide chez les peuples inuites
+- ## Début du colonialisme par les quêtes:
+	- A la fin du Moyen âge ce déroule les grandes découvertes du au progrès de la navigation. L’Europe s’ouvre vraiment au
+	  monde et engage une longue séries d'expédition
+		- Les Portugais descendent le long de la côte africaine, progressent par expéditions successives.
+	- Au milieu du XVe siècle est mise au point la caravelle, navire de petit tonage pourvu de voiles triangulaires qui permet de voguer au plus près du vent
+	- Les progrès de la cartographie maritime et des instruments de navigation (compas etastrolabe sont couramment utilisés dès 1450) contribuent à rendre possible les grandes expéditions
+	- Toutes sortes de légendes courent sur l’Afrique:
+		- Les côtes africaines seraient aimantées ( les clous des bateaux sont expulsés de la coque)
+		- Région peuplées par des hommes noirs monstrueux, cyclopéens et anthropophages
+		- Au cap Bojador l’eau se met à bouillir à cet endroit, et les bateaux s’y consument
+	- En 1479, le Portugal signe avec l’Espagne , le traité d’Alcaçovas, par lequel les deux puissances voisines, toutes deux pourvues de grandes ambitions maritimes, délimitent leurs sphères d’influence respectives.
+		- Le roi du Portugal Jean II n’est pas intéressé par la colonisation mais l’établissement d’une chaine de comptoir commerciaux permettant de relier son pays à l’Inde tout en contournant le monde musulman
+			- Pour s’approvisionner plus facilement en esclaves , ils parviennent à convaincre le roi du Kongo de se convertir au catholicisme, et de nouer une alliance avec le Portugal
+				- La conversion au christianisme (1491) du Roi du Kongo Nzinga a Nkuwu – baptisé sous le nom de Joao Ier. Par conséquence il y a un établissement durable de l'Eglise et du Portugal dans les territoires sous l'autorité ou l'influence de ce souverain congolais.
+					- Des les premiers contact avec les portugais il y a un mouvement d'occidentalisation au Kongo, une forte évangélisation de la région, une adoption d'un ordre de chevalerie et de bien d'autre éléments culturel européens. De plus le royaume du Kongo participe à la traite négrière.
+					- Dès 1597, le royaume du Kongo possède son propre siège épiscopal, Sao Salvador, et exige même que des kongolais soient nommés prêtres
+						- Ce qui est en jeu c'est le contrôle de l'Eglise kongolaise ; un pouvoir "spirituel" que le Portugal et le Kongo se disputent.
+							- Un compromis sera finalement trouvé au Vatican, les prêtres nommés ne seront ni des portugais ni des kongolais, mais des missionnaires italiens de l'ordre des Capucins.
+				- Les Portugais sont rejoints rapidement par les Espagnols dans le trafic des esclaves. Anglais et Hollandais (2e 1/2 du XVIe siècle), suivis de peu par les Français (au fil du XVIIe siècle) ne tardent pas à les suivre.
+	- Xv siècle les navigateurs et commerçants commencent à importer des objets artistiques des régions du monde inconnues jusqu’alors en Europe
+		- Ces objets sont classés et conservés dans les cabinets des merveilles ou Wunderkammern
+		  id:: 6783baee-aec5-480d-8460-963f014b4136
+			- Les objets exotiques non occidentaux abondent. Collections des souverains européens, rois de France,
+			  Médicis à Florence, des Habsbourg
+				- Wunderkammer imperaum du Dr Helmuth Oehler ![Dr. Helmuth Oehler – Kunst- und Wunderkammer](https://helmuth-oehler.at/userfiles/images/RitrattoMuseoFerranteImperato.jpg)
+		- Les premiers objets d’Afrique noire attestés sur le sol d’Europe => collection du Duc de Bourgogne.
+		- Toutes ces collections vont mener [[Cabinet de curiosité]]
+	- Les comparaisons euro centriques ont classé les peuples africains selon plusieurs dimensions
+		- #### Capacité à centralisé le pouvoir
+			- Les sociétés centralisées dotées d'institutions autoritaires fortes étaient supposées être supérieures aux
+			  sociétés non centralisées
+			- Elles étaient également plus compréhensibles et plus facilement incorporées dans les systèmes coloniaux
+			- Les Azandes et les Mangbetus ont été jugés supérieurs à leurs voisins parce qu'ils avaient développé une plus grande centralisation politique et des capacités militaires plus fortes.
+		- #### La dimension artistique de sociétés
+			- Les Mangbetu ont également gagné le respect des Européens pour leur art, Leur architecture, leurs poteries et leurs sculptures étaient admirées pour leur conception complexe et leur utilisation de la symétrie, supposée symptomatique d’une intelligence plus ordonnée
+			- Dans les premières années du colonialisme, les arts visuels de Mangbetu étaient loués pour leurs représentations naturalistes de la forme humaine.
+		- #### La morale des sociétés
+			- Les Européens ont classé la monogamie, le monothéisme et le patriarcat plus haut que la polygamie, l'animisme ou le matriarcat.
+- ## Esclavagisme
+	- Extraits du *Code Noir* (1685): Ce recueil de lois a été édicté par Louis XIV pour réglementer l’esclavage. L'expression Code noir désigne des recueils de textes juridiques applicables aux colonies françaises.
+		- Art. 28: Déclarons les esclaves ne pouvoir rien avoir qui ne soit à leur maître.
+		- Art. 38: L’esclave qui aura été en fuite pendant un mois aura les oreilles coupées.
+		- Art. 44: Déclarons les esclaves être des meubles.
+	- Ces recueils regroupent, autour de l'ordonnance ou édit de mars 1685, les lois, les décisions royales, les textes juridiques élaborées par le pouvoir royal pour les colonies, et relatives au gouvernement, à l'administration et à la condition des esclaves des pays du domaine colonial de la France entre 1685 et la fin de l'Ancien Régime (=> fin du XVIe siècle à la fin du XVIIIe siècle). Ces textes précisent le statut civil et pénal des esclaves, ainsi que les relations entre les esclaves et leurs maîtres, et fixent le statut patrimonial des esclaves définis comme biens meubles à l'article 44.
+	- Montesquieu: *"L’esclavage, proprement dit, est l’établissement d’un droit qui rend un homme tellement propre à un autre homme qu’il est le maître absolu de sa vie et de ses biens ». Il n’est pas bon par sa nature il n’est utile ni au maître ni à l’esclave : à celui-ci, parce qu’il ne peut rien faire par vertu ; à celui-là, parce qu’il contracte avec ses esclaves toutes sortes de mauvaises habitudes, qu’il s’accoutume insensiblement à manquer à toutes les vertus morales, qu’il devient fier, prompt, dur, colère, voluptueux, cruel."*
+		- Montesquieu pointe à la fois la brutalité des Européens avec les Indiens *« Les peuples d'Europe ayant exterminé ceux de l'Amérique »*, les stupidités racistes qui font justifier la traite des Noirs par les esclavagistes de l'époque.
+		- Voltaire rejoint Montesquieu dans sa critique de l'esclavage
+	- ### Comment devient on esclave ?
+		- Les modalités d’asservissement étaient partout les mêmes:
+			- Capture à la guerre, kidnapping, règlements de tributs et d’impôts, dettes, punitions pour crimes, abandon et vente d’enfants (…).
+		- La pauvreté, la famine pouvaient contraindre certains individus à se vendre ou à vendre une partie de leur
+		  entourage. Certaines fautes pouvaient également être sanctionnées par la servitude et la déportation.
+	- Circuit du commerce triangulaire
+- ## Darwinisme Social
+  id:: 6783c643-65ed-452d-a82c-36848efb68cc
+	- Evolution du penchant de l'idéologie raciste, assimilation du Darwinisme dans un cadre social
+		- Le darwinisme social affirme que la compétition, la lutte pour la vie affecte à l'intérieur de l'espèces humaine, les différents groupes sociaux qui la composent
+			- Les hiérarchies social se base sur cette conception sociale qui permet aux meilleurs de l'emporter..
+		- On essaie de penser une idéologie de race

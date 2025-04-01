@@ -1,0 +1,7 @@
+- Un terme en discussion entre les penseur de la tradition néo-marxiste et [[Eco-Féminisme]] / pour reconsidérer le terme [[Anthropocène]]
+	- le capitalocène propose de situer la catastrophe climatique dans la relation historique du capitalisme et du [[Colonialisme]]
+		- Propose un cadre idéologique pour les éco-inégalités social raciale et de genre
+		- Prend en compte les divisions socio-économique tout au long de l'histoire de l'humanité qui ont fait
+- ## Inclusions - Esthétique du Capitalocène
+-
+-

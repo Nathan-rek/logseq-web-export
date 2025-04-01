@@ -1,0 +1,545 @@
+- Philosophe née en 1925 mort en 1995, qui a explorer de multiples forme de la pensée
+	- Figure éminente de la pensée de mai68
+- Pensée de l'anti-dualisme
+	- Pensée l'entre là de toutes les choses
+- Commence par écrire des livres sur l'histoire de la Philosophie
+	- Il étudie [[Nietzsche]], Spinoza, [[Henri Bergson]], [[Michel Foucault]]
+- Après avoir beaucoup lu les philosophes il devient créateur de pensée par la suite, de façon frénétique
+- Il étudie ensuite l'art le cinéma
+	- Il ne cherche pas une manière de juger les œuvres d'art mais voir comment la pensée se déploie dans une œuvre
+	- Pour Deleuze l'art permet de penser par l'affectif que l'intellectuel
+- Dans les années 1980 lorsqu'il écrit sur le cinéma la théorie du cinéma est très influencé par Lacan
+	- Voit l'inconscient comme un langage
+	- L'influence de la psychanalyse sur le cinéma pousse à considérer le film comme un langage
+		- Fort lien en la linguistique et le cinéma
+			- Deleuze aborde le champ du cinéma sans le langage de la psychanalyse, mais avec ce qui fait le cinéma, le montage, les acteur..ices, la camera
+- Le philosophe produit de la toile plutôt que du file linaire et narratif
+	- Quelle matrice sort de la toile, car il y a du commun dans cette toile
+- # Deleuze sur la peinture
+  collapsed:: true
+	- ## Cours 1981-03-31
+		- Qu'est ce que la peinture à en lien avec la notion de catastrophe ?
+			- Pour Claudel la composition en peinture est un ensemble, mais qui est en train de se déséquilibrer
+			- Deleuze garde ce point de chute
+				- Les pots de [[Paul Cézanne]] sont sujets à ce déséquilibre
+					- ((65e0bbb8-57c5-4940-be73-71cb9a3d5b12))
+			- La catastrophe non pas que dans le tableau mais dans l'acte de peindre
+		- La catastrophe serait dans l'acte de peindre
+			- L'exemple premier et fondamentale c'est dans la première période de William Turner qui dans une première période peins la catastrophe
+				- Puis la catastrophe est dans l'acte de peindre
+					- Ce qui est peint c'est l'acte de peindre, il s'identifient sous forme de jet de vapeur, boule de feu ou plus rien ne garde son intégrité
+						- William Turner: [*Lumière et Couleur*](https://fr.wikipedia.org/wiki/Lumi%C3%A8re_et_Couleur), 1843 https://upload.wikimedia.org/wikipedia/commons/d/d8/William_Turner%2C_Light_and_Colour_%28Goethe%27s_Theory%29.JPG
+						- Turner dans son avant-gardisme n'as pas toujours été montrée, ces toiles de fin était gardées dans des caisses et d'autres ont été brulées par Ruskin qui les jugeait de pornographiques
+							- Acte dont Ruskin est fier dans une forme de sublimation du sentiment catastrophique de Turner
+					- Turner sert d'un cas où on passe d’une peinture qui représente des catastrophes, à une catastrophe infiniment plus profonde, catastrophe qui concerne l’acte de peindre
+				- Naissance de la couleur
+					- Est ce que la couleur nait de la catastrophe de l'acte de peindre
+						- La couleur comme création picturale
+		- La catastrophe fait sortir quelque chose
+			- Pour [[Paul Cézanne]] la couleur monte
+			- Pour Paul Klee la nécessité de chaos pour qu'en sorte l'œuf, la cosmogénèse
+		- **Si la catastrophe est trop grandes et que rien ne sort ?**
+		- Analyse des rapports de Gasquet sur les parole de [[Paul Cézanne]], doute sur la parole post-kantienne de [[Paul Cézanne]]qui aurait dit *" je voudrais peindre l’espace et le temps pour qu’il deviennent les formes de la sensibilité des couleurs, parce que j’imagine parfois les couleurs comme de grandes entités nouménales, des idées vivantes, des êtres de raison pure "*
+			- Ce qui importe c'est que [[Paul Cézanne]] présente deux moments dans l'acte de peindre
+				- Il nomme le premier **chaos ou abime** et l'autre **catastrophe**
+					- Ce qui sort du chaos puis de la catastrophe c'est la couleur
+			- Le texte de [[Paul Cézanne]] évoque une histoire du monde
+				- La catastrophe est déjà la avant même de peindre
+					- La catastrophe est pré-pictural : il image par exemple les squelettes pierreux avant de peindre, "les pierres rouges elles sortent de l'abime" l'abime c'est le chaos
+						- Avant le tableau l'œil n'est pas il est chaos, il ne voit rient
+						- Ensuite quelque chose sort du chaos: l'armature, la géologie
+						- Deuxième temps: la catastrophe emporte les assises et les plans on repart à zéro
+							- Peur que la catastrophe remporte tout une seconde fois et que jamais la couleur ne monte
+			- Et si le chaos ne prend pas et qu'il n'y a juste du chaos
+				- Si les couleurs ne montent pas il y a marécage, il y a gris, grisaille, gâchis
+					- Delacroix *"Le gris c'est l'ennemi de la couleur"*
+						- Il y a deux gris:
+							- Le gris du noir et du blanc
+							- Le gris du mélange de deux couleurs complémentaires: c'est ce gris qui apparait comme la grisailles.
+								- Un gris que [[Vassily Kandisky]] appelle de gris "dynamique" ou de gris véritable
+		- Ces considérations tente vers une considération du tableau non pas avec l'espace mais avec le temps
+			- *" Si le tableau opérait déjà une synthèse du temps"*
+		- L'acte de peindre doit rencontrer sa condition pré-picturale pour que quelque chose en sorte
+			- C'est un cas de synthèse du temps qui devient pictural sur le tableaux
+		- Paul Klee et le point gris
+			- *" Le chaos comme antithèse de l’ordre n’est pas proprement le chaos, ce n’est pas le chaos véritable. C’est une notion localisée, relative à la notion d’ordre cosmique. Le chaos véritable ne saurait se mettre sur le plateau d’une balance, mais demeure à jamais impondérable et incommensurable. Il correspondrait plutôt au centre de la balance "*  Paul Klee
+				- Mais le chaos ne se donne pas il est relatif à rien et prend tout
+					- Le chaos est être néant ou ce non-être est le concept non conceptuel de la non-contradiction
+					- Le chaos se symbolise en un point
+						- Point mathématiques sans taille
+							- Le point gris est ce chaos véritable qui n'est ni vivant ni mort autant blanc que noir
+					- Si le point gris se font c'est la que le chaos emporte tout
+		- Le point gris est chaos, il est absolu, il est le "pré picturale"
+		- L'acte de peindre c'est fixer ce point gris chaos
+			- Ce qui engendre l'ordre, la dimension, l'œuf
+		- Francis Bacon
+			- Bacon dit *Avant de peindre des choses se sont passé*
+				- C'est pour cela qu'il y a catastrophe, catastrophe sur la toile pour se défaire de tout ce qui précède, de tout ce qui pèse
+					- Le peintre doit se débarrasser de ces 'fantômes'
+					- Une toile n'est jamais vierge
+			- Ce qui les précèdes c'est les clichés
+				- Le cliché comme des bêtes qui se précipitent avant que tu peignes
+				- Il faut alors tuer et empêcher tout ça il faut noyer tout ces clichés avant même de peindre
+					- *"il faut que le peintre se jette dans cette espèce de tempête, qui va quoi ? Qui va précisément annuler, faire fuir les clichés. La lutte contre le cliché."* Deleuze
+		- Le diagramme devient une zone d'effacement de ces clichées préalables pour ouvrir de nouvelles possibilités
+			- Le diagramme est ce qui permet aux peintres de crée des formes, il s'apparente au style et est propre à chacun..e.
+			- *Un diagramme c’est une possibilité de fait*
+				- C’est pas du tout une idée générale le diagramme. C’est quelque chose d’opératoire dans chaque tableau. C’est une instance opératrice
+	- ## Cours 1981-04-07
+	  collapsed:: true
+		- Encré une chronologie de la peinture avec le pré picturale [texte de [[Paul Cézanne]] ] le chaos germe, diagramme et ce qui sort du diagramme
+			- La lutte contre le fantôme ou contre les donnés, l’instauration du diagramme ou du chaos catastrophe et, ce qui en sort, à savoir : le fait pictural.
+		- Parallèle entre le *datum *et le *factum* de Kant le *donnés* et le *fait*
+			- Le donné serait le temps pré-pictural: se pose la  question: **Qu’est-ce qui est donné sur la toile avant que la peinture ne commence ?**
+		- Retour sur la page blanche qui n'est jamais vide car déjà pleine, pleine de clichés
+			- Dans un monde de simulacre le cliché est grandissant et rapide
+				- Oscar Wilde *« c’est la nature qui se met à ressembler à tel peintre »*.
+					- Met en avant la vitesse avec laquelle un acte de peinture devient un cliché
+				- Il y a aussi les clichés internes, sur les qualités de l'idée en quoi sont elles des idées personnelles ou unique la notion d'idée comme remède aux clichées est en fait un remède très biaisé
+		- ## La donnés le cliché
+			- Fromanger: [*Le boulevard des italiens*](https://www.artnet.fr/artistes/g%C3%A9rard-fromanger/boulevard-des-italiens-hCsTHKYBdPii6ij6tnNvTA2) https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/samuellepaireclients/images/view/406bfc42a440f8b1df10325ee2732bfbj/samuellepairefineart-g-rard-fromanger-paramount-cin-ma-s-rie-boulevard-des-italiens-1971.jpg
+			- Accompagné d'un photographe de presse il se balade dans la rue et demande au photographe de scène de rue en noir et blanc. Dans une scène il demandais une douzaine de photo puis ensuite Fromanger en choisit une parmi les douze.
+				- Commence déjà l'acte de peindre: Car son choix se base sur une idée qu'il a en tête. Les scènes évoquent en lui une couleur et donc dans le choix de la photo il y a déjà acte de peindre
+					- La projection rend la toile déjà rempli d'une vérité
+					- Fromanger fait surgir les clichés pour les mettre sur sa toile afin de les détruire et d’en faire sortir un fait pictural, c’est une manière déjà de les conjurer
+			- On retrouve les trois temps : le moment pré pictural, cliché, rien que des clichés. La nécessité d’un diagramme qui va brouiller, qui va nettoyer le cliché, pour qu’en sorte quelque chose
+				- Le diagramme n’étant qu’une possibilité de fait, le cliché, c’est le donné, c’est ce qui donné, donné dans la tête, donné dans la rue, donné dans la perception, donné partout.
+					- Le diagramme intervient comme ce qui va brouiller le cliché pour que la peinture en sorte.
+		- Cette *lutte contre le cliché* est assez importante chez [[Paul Cézanne]]
+			- Le texte de Lawrence évoque aussi la capacité de l'artiste à crée ses propres clichés
+			- Cette lutte du clichés de [[Paul Cézanne]] l'a amené à comprendre le fait.
+				- ((661023c8-0569-49e4-8b7e-be36b75d18ea))
+				  id:: 65f819b1-0463-45b1-a3b9-d4eb35a16034
+				- Il a compris le *« fait de la pomme »* ce que Lawrence appelle *« le caractère pommesque de la pomme. »*
+					- Cette compréhension du fait n'est pas universelle elle est assez intrinsèque à la formes Lawrence dit que [[Paul Cézanne]] peint des femmes avec un caractères pommesque
+						- ((661023c8-0b83-4ff5-bcad-daf32efa8251))
+				- [[Paul Cézanne]] malgré cette lutte crée lui aussi un discipline chez ses disciples, un cliché qui frôle avec cette fragilité du diagramme a raté ((65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a))
+					- Dépasse le cliché fait par le maitre n'est pas une mince affaire
+						- [[Robert Rauschenberg]] qui efface un dessin de [[Willem DeKooning]]
+						-
+							- Il y a une volonté de passer par le diagramme
+				- Michel-Ange lui a: compris les larges dos d'hommes
+					- Michel-Ange: [*Le jugement dernier*](https://fr.wikipedia.org/wiki/Le_Jugement_dernier_%28Michel-Ange%29) ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Last_Judgement_by_Michelangelo.jpg/800px-Last_Judgement_by_Michelangelo.jpg)
+			- La tâche du peintre, de tout temps, ça a été faire naître le fait pictural, ça a été lutter contre les données
+		- Illustrations et narrations
+			- Deux grands dangers que Baudelaire définit et que Bacon craint aussi. La figuration est le concept qui regroupe ces deux concepts
+		- Les tableaux n'ont rien à figurer il ne sont pas narratifs, d'autres domaines le font très bien. Mais la narration et l'illustration font partis de ces donnés présentes avant de peindre
+			- Cette tendance narrative est parfois trop dominante et presque impossible à dépasser
+				- Jean-Baptiste Greuze: [*Le Fils puni*](https://fr.wikipedia.org/wiki/Jean-Baptiste_Greuze#/media/Fichier:Greuze.jpg), 1778 https://upload.wikimedia.org/wikipedia/commons/6/66/Greuze.jpg
+				- Un tableau inséparable de sa narration
+					- Ce lien est pour Deleuze plus délicat chez nos contemporain..es
+					  id:: 65f830aa-4d1b-41bf-bec5-fbb34988ac2e
+						- Balthus: [*Le peintre et son modèle*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cazjBkd), 1980 ![Le peintre et son modèle - Centre Pompidou](https://www.centrepompidou.fr/media/picture/33/60/3360c7935566a20787b0f421d1ad9c45/thumb_large.jpg)
+							- l’image est prise, prélevée sur quelque chose qui se passe, il y a que de l'histoire
+		- Supprimer la narration et l'illustration c'est le rôle du diagramme et du chaos catastrophe, on surprime des données figuratives car les figurations et les narrations, elles sont données
+			- il faut donc, faire passer les données figuratives et narratives par le chaos catastrophe, par la catastrophe germe, pour qu’en sorte quelque chose de tout à fait autre, à savoir le fait.
+		- ### Le fait pictural
+			- Qu’est-ce que c’est qu’on pourrait appeler le fait pictural par opposition aux données pré picturales
+				- ### Le cas de Michel-Ange
+				- Dans le cas de Michel-Ange qui se caractérise comme celui qui à montré au grand jour le fait picturale par son indifférence face au sujet
+					- Il est un peintre qui par la négociation avec Jules II et le pape obtient un commande carte blanche.
+					- Michel Ange: [*La Sainte Famille*](https://fr.wikipedia.org/wiki/Tondo_Doni), 1506 ![La Sainte Famille avec saint Jean-Baptiste enfant par - œuvre d'art  analysée en images | Panorama de l'art](https://panoramadelart.com/sites/default/files/filesPanorama/FA201-a-tondo-doni_0.jpg)
+						- Les hommes du fond sont la pour être la et les corps du devant se fondent sans raconter d'histoire
+							- La position des corps joue exactement le rôle du diagramme. Qui brise avec les données figuratives et narratives pour faire surgir le « fait pictural ». Le « fait pictural », c’est trois corps en une figure.
+					- Michel-Ange: [*Batailles de Cascina*](https://www.italian-renaissance-art.com/Battle-of-Cascina.html) : ![The Battle of Cascina Michelangelo's unfinished masterpiece.](https://www.italian-renaissance-art.com/images/Battle-of-Cascina.jpg)
+					  id:: 65f81de5-a79e-4480-83a1-c28c0b768572
+						- Le tableau est une commande pour célébrer une bataille mais la place des soldat est minime Michel Ange s'empare de la commande pour représenter des corps qui sortent de l'eau.
+						- Michel-Ange révèle la capacité des peintres athé..es à arracher des faits pictural au christianisme
+							- Ils arrachent le christianisme à toute figuration et narration pour en tirer un « fait pictural ».
+					- Michel-Ange est rallié à l'école des Maniéristes, un mouvement où les corps sont assez artificielles
+						- Deleuze définit comme: le rapport du corps visible avec la force invisible
+							- *Si bien que je crois que le maniérisme est en fait une dimension fondamentale, une dimension consubstantielle de la peinture.*
+				- Le fait pour Bacon par exemple c'est quand il y a une ou plusieurs niveaux de Figures
+					- Il l'illustra en prenant le tableau de [[Paul Cézanne]]
+						- ((65fdfcd6-20c3-4d82-b094-8313edd0f20c))
+						  id:: 65f835c1-b5ba-48aa-a36a-015d598c14c7
+						- Cree une nécessité de coexistence entre les personnage a travers le fait pictural
+							- Ainsi, le "fait pictural" réside dans cette capacité à créer une composition où plusieurs figures coexistent sur la toile de manière harmonieuse et significative, même en l'absence d'une histoire narrative explicite
+						- Cette coexistence est crucial par exemple dans le cas du ((65d3770e-5e8a-462d-8e8e-d94c1f7c56c3))
+						- Vous l’appréhendez picturalement lorsque vous supprimez toute histoire. Cette histoire ne pourrait être que dégoûtante si il y avait une histoire
+					- Il faut une nécessité pictural: une nécessité qui ne peux venir que de la lumière et de la couleur
+			- Pour Bacon aussi il y a une forme de maniérisme hérité de Michel-Ange
+				- Francis Bacon: [*Three Studies of a Male Back (tryptique)*](https://www.galerie-lelong.com/fr/estampe/920/three-studies-of-the-male-back-triptych/), 1987  https://www.galerie-lelong.com/files/estampes/EST73731244939549AIDR/BACON.studyofthemalebackREUNIS.jpg
+					- Deleuze y voit l'héritage du dos de Michel-Ange chez Bacon
+				- Pour peindre un dos et le rendre visible il faut peindre les forces invisible qui crée le dos, il ne faut pas peindre des formes mais des forces
+					- *L’acte de la peinture, le « fait pictural », c’est lorsque la forme est mise en rapport avec une force*
+						- Qui répond à la phrase de Paul Klee: *Il ne s’agit pas de rendre le visible, il s’agit de rendre visible *, sous-entendu, rendre visible l’invisible.
+							- Rendre visible c'est de la figuration c'est le donné pictural c'est ce qui doit être détruit par la catastrophe ce lieu des forces
+			- Le fait pictural c'est la forme déformes par la force
+				- La déformation est un concept de [[Paul Cézanne]]
+					- La déformation comme concept pictural c’est que la déformation de la forme, c’est la forme en tant que s’exerce sur elle une force
+						- Cette déformation est un processus qui fait parfois l'objet d'effet de décomposition recomposition de la couleur, du mouvement, de la profondeur
+				- Le rôle du diagramme, ça va être d’établir un lieu des forces telle que la forme en sortira comme « fait pictural »
+					- C’est dès lors la déformation de la forme picturale qui fait voir la force non-visible.
+			- Bacon peindrait non pas un homme qui dort mais la force d'aplatissement dans le sommeil
+				- Francis Bacon: [*Sleeping figure*](https://www.francis-bacon.com/artworks/paintings/sleeping-figure-0), 1974 ![FRANCIS BACON Sleeping Figure, 1974 Medium Oil on canvas Dimensions 78 x 58  inches jpg (800×1060) | Francis bacon, Bacon art, Painting](https://i.pinimg.com/736x/a9/ea/b8/a9eab82166f82fd05cac8f882652623d.jpg){:height 604, :width 450}
+					- La forme en rapport avec une force de déformation à savoir la force qui l’aplatit
+						- Cette force dépasse la figuration du sommeil et de la force du sommeil
+			- Le quartier de viande par exemple est un sujet traité figurativement de différentes manières par différents peintres
+				- Rembrandt: [*Le Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_%28Rembrandt%29), 1655 ![Le Bœuf écorché (Rembrandt) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG)
+			- Chaim Soutine: [*Bœuf écorché*](https://fr.wikipedia.org/wiki/Le_B%C5%93uf_%C3%A9corch%C3%A9_(Soutine)#:~:text=Le%20B%C5%93uf%20%C3%A9corch%C3%A9%20est%20une,dont%20elle%20reprend%20le%20nom.), 1925 https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg/800px-Cha%C3%AFm_Soutine_-_Le_B%C5%93uf_%C3%A9corch%C3%A9.jpg
+			  id:: 65f9d2d4-cdf9-4da0-ac9f-dcbef08b60b7
+			- Francis Bacon: [*Fragment of a Crucifixion*](https://www.researchgate.net/figure/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum_fig4_324256746), 1950 https://www.researchgate.net/profile/Bronwyn-Law-Viljoen/publication/324256746/figure/fig4/AS:662401137524737@1534940146492/Francis-Bacon-Fragment-of-a-Crucifixion-1950-oil-on-canvas-Van-Abbe-Museum.png
+			  id:: 65f9d32c-bb4a-4c3d-8651-274b9212f565
+				- Dans le cas de Bacon la chair du quartier par le mouvement quitte l'os, c’est une chair qui descend des os
+					- Il y a une force de pesanteur propre à la viande - c’est ça qui intéresse Bacon dans la viande - force par laquelle la chair descend des os
+						- L’opération par laquelle la chair descend des os, c’est ça la crucifixion ou la manière dont Bacon vit la crucifixion.
+						- Tout comme pour le dormeur c'est la chair qui descend des os
+							- La forme est la rencontre de ces deux forces celle de l'aplatissement et celle de la chair qui descend des os
+								- Il a rendu visible dans ce tableau deux forces invisibles
+			- Les données figuratives et narratives sont toujours la elle sont pré picturale elle sont déjà-la
+			  collapsed:: true
+				- Que ce soit un carré de [[Piet Mondrian]] ((653ec305-ecb3-4d52-93a9-29b5625299ae)) ou une ligne chez [[Jackson Pollock]] ((653ee430-1eca-4a79-9a49-45525fd705c0)) les idées, les clichés sont toujours la même chez les plus abstrait
+				- Ce qui rend le cliché inévitable c’est que le cliché, il est fondamentalement intentionnel. Toute intention est intention de cliché. Toute intention vise un cliché. Or il n’y a pas de peinture sans intention
+		- ### L'intention
+			- Pour Deleuze l'intention c’est la différence entre une pomme et une femme ((65f835c1-b5ba-48aa-a36a-015d598c14c7)) / ((65f819b1-0463-45b1-a3b9-d4eb35a16034))
+				- [[Paul Cézanne]] n’a pas la même intention suivant qu’il se propose de peindre une pomme et de peindre une femme
+				- C’est l’intention qui promeut déjà le cliché. Dès lors c’est forcé que le cliché soit sur la toile, avant que le peintre ait commencé. Je dirais : la forme intentionnelle est toujours en peinture figurative et narrative.
+					- Si bien que la tâche du peintre et l’acte de peindre, ça commence avec la lutte contre la forme intentionnelle
+						- Je ne peux réaliser la forme intentionnelle - s’il y avait une dialectique dans la peinture, ça me semblerait celle-ci - je ne peux réaliser la forme intentionnelle, c’est-à-dire la forme que j’ai l’intention de produire, je ne peux la réaliser que précisément en luttant contre le cliché qui l’accompagne nécessairement, c’est-à-dire en la brouillant, en la faisant passer par une catastrophe.
+				- Dans ((65f9d32c-bb4a-4c3d-8651-274b9212f565)) par exemple les os sur lesquelles tiennent les bras se sont vu transformer
+					- Il était de base os d'un oiseau un rapport entre un cliché et une forme et c’est le rapport même qui s’est transformé en un tout autre rapport
+						- Rapport os/viande, la viande descend des os, il y a des petits bras de la viande qui sont comme des os d’où la viande tombe, descend
+						- Il est complètement dispersé au point qu’il n’existe plus du tout figurativement
+			- Le diagramme n'est pas un code
+				- Le diagramme est toujours proche de raté, un tableau est d'autant plus admirable quand il frôle le gaspillage
+				  id:: 65f9deff-aa7d-4ad3-bc3e-a73c5cb8820a
+				- **En quoi, en quoi le diagramme est tout à fait autre chose qu’un code de la peinture** ?
+	- ## Cours 1981-04-28
+	  collapsed:: true
+		- Le diagramme serait la relation entre le chaos et le germe
+			- Un chaos dont quelque chose doit sortir
+		- Le diagramme est une affaire manuel, c’est l’expression d’une main libérée de toute soumission à l’œil, la main ne se guidait plus sur les données visuelles
+			- La main va faire violence à l'œil Goeringer
+				- Similarité avec la ligne gothique de Goeringer
+				  id:: 6605364e-465b-46ad-b8c6-608cc0f56e11
+					- Une ligne manuelle qui s’impose à la vue comme si la main qui la trace, était animée par une volonté étrangère à la vue elle même.
+		- Quel rapport entre l'œil et la main dans la peinture ?
+			- La peinture peut être un rapport Couleur/Ligne: rapport visuel ou un rapport Trait/tache rapport Manuel
+				- Le chevalet en peinture agit comme une fenêtre qui fait apparaitre une réalité visuel et appartient au couple des arts -visuel.
+					- Bien que certaine peintures utilisent le chevalet sans en faire une fenêtre [[Piet Mondrian]].
+				- Les peintures hors chevalet ou à tendance murale ([[Piet Mondrian]]) sont plus dans un rapport manuel. Comme avec les seringues de [[Jackson Pollock]] et ses toiles non tendues
+				- L'étymologie du mot peinture en français tend vers un rapport visuel alors que le mot allemand est plus sur la tâche
+		- Le diagramme est ce chaos de trait qui ne constitue pas de forme visuelle
+		- **Si le diagramme c’est le trait/tache, d’origine manuelle qui surgit sur la toile et qui récuse les cordonnées optiques, les coordonnées visuelles, qui les entraîne dans une espèce d’effondrement, comment le définir ?**
+			- Se serait le gris, cette possibilité blanc noir ou vert rouge.
+				- Ce qui va sortir du diagramme c’est la double gamme picturale : Lumière - Couleur.
+			- Même chose pour le trait : le trait n’est pas la ligne picturale mais la ligne picturale en sortira
+				- Le trait, c’est l’élément de composition manuel de la ligne visuelle
+			- La représentation c’est l’avant, l’avant peindre. La présence c’est ce qui sort du diagramme
+			- Les chrétiens dans leurs manières de définir l'homme *« Dieu a créé l’homme à son image et ressemblance, et par le péché, l’homme à gardé l’image, mais il a perdu la ressemblance »*
+				- Le péché est l’acte par lequel l’homme se constitue comme image sans ressemblance
+					- Une image sans ressemblance pourrait être l'icone
+			- Le diagramme c’est l’instance par lequel je défais la ressemblance pour produire l’image présence
+				- Effondrement de la ressemblance et production de l’image. C’est l’aspect avant et l’aspect après, entre les deux le diagramme
+		- **ll a fallu passer par une catastrophe manuelle du diagramme, pour produire le fait pictural, c’est à dire pour produire le troisième œil.**
+		- L' [[Expressionnisme Abstrait Américain]] est un style où les peintures tendent avec le chaos où le diagramme frôle le chaos
+			- Le diagramme quand t'il s'élève à son maximum tend vers le chaos (abstrait) mais lorsqu'on le réduit ont tend vers l'ordre picturale le figuralisme
+				- L' [[Abstraction]] géométrique cherche t-elle à remplacer le diagramme par un code.
+					- La peinture n'appliquerait qu'un code extérieur, qu'est ce qui distingue un triangle de [[Vassily Kandisky]] que celui d'un géomètre
+						- Auguste Herbin est pour Deleuze un peintre abstrait qui manie le code de l'abstrait et en fait un code pictural et non un code extérieur appliqué a la peinture
+						- Auguste Herbin: [*Alphabet Coloré III*](http://emblemes.blog.free.fr/index.php?post/2018/01/20/Alphabet-color%C3%A9-%282%29%3A-Alphabet-plastique-d-Auguste-Herbin.), 1950 : ![Alphabet coloré (3): Alphabet plastique d'Auguste Herbin. - Emblèmes, le  blog](https://lh6.googleusercontent.com/proxy/lw8EnLeO3G5RccGRSqvlQYuMD0yzcnEp2GwKLUVf-Ss51ybwb9K4GGrmhBG2rWmqe01Q9IbT3RDH1D9sQW3gKK1hLUAkJKP7Tnv0H1ZjPA)
+		- Si la peinture moderne plait c'est pour cette capacité à faire ressortir du chaos omniprésent (pollution, bombe atomique...) un ordre moderne en sort
+			- Pour Kandinsky l'homme moderne doit retrouver de la spiritualité et la peinture est l'agent de cette vie spirituel ((661023ca-bc82-48d6-ad51-38f3a0465be7))
+				- Il faut construire un troisième œil un œil interne à l'homme moderne
+			- Pour les [[Expressionnisme Abstrait Américain]] il ne faut pas éviter le tumulte du chaos en le diminuant mais il faut l'affronter en l'étendant comme un [[Jackson Pollock]]. ((66fab3f7-427b-4c5b-9cea-34c29fdb6951))
+			- La formule de l’expressionnisme ([[Jackson Pollock]]) ce serait : « *rajoutons toujours au chaos, rajoutons au chaos, juste ce petit grain d’excès par rapport à lui même tel qu’en sorte quelque chose.* »
+				- Le trait de [[Jackson Pollock]] n'as ni début ni fin. Il rend le cadre équiprobable, en cela il le dépasse
+					- La ligne de [[Jackson Pollock]] tend a être surface par son traitement en All-over
+						- Les peintres de l'[[Expressionnisme Abstrait Américain]] sont vraiment abstrait car il ne figurer rien car il n'utilise pas de contours. la ligne de Pollock ou la couleur de Louis Morris tout d'eux ne figure car il n'utilise pas de ligne ou de contour pas il font surface.
+		- Le peintres abstrait [[Abstraction]] ([[Vassily Kandisky]], [[Piet Mondrian]]... ) dirait " *limitant au maximum le chaos pour faire surgir un ordre moderne qui serait un code de la vie* "((679771df-ea3d-43b5-aad5-d1507190d0e5))
+		- La troisième position serait une positon ni dans le trop ni dans le peu mais dans une modération entre le diagramme et le fait picturale. Il sont pas des peintres figuratifs mais des peintres figuraux. ((67977262-baf4-4352-bc42-db988cd293d5))
+		  collapsed:: true
+			- Ca serait Gaugin ou Van Gogh, tout pour le diagramme
+		- L'opposition Figuration et [[Abstraction]] ne fait plus sens car les peintres abstraits figurent de forme en utilisant des lignes et des contours.
+			- Pour Worringer il y aurait plutôt une différence entre organique et inorganique.
+				- La ligne organique c'est ce qui fait écho au sujet, elle rappelle l'harmonie qui le compose: symétrie, régularité, clôture, la ligne organique c'est celle qui fait contour.
+				- La ligne gothique elle n'est pas qu'abstraite mais elle est inorganique.
+					- Elle dépasse la ligne symétrie, via la répétitions, elle déchainent la symétrie. Toutes les figures sont possibles.
+						- Ou bien elle se perd à l’infini dans une convulsion désordonnée, dit Worringer,
+						- Ou bien elle revient sur soi et elle expire
+						- Ou bien elle ne cesse pas de s’opposer à elle même à un obstacle et reçoit force et libération de cet obstacle, c’est-à-dire elle s’oppose à un obstacle qu’elle ne franchit qu’en changeant de direction et elle change constamment de direction
+				- Le coté inorganique de la ligne  gothique est une abstraction vitale qui par son inoganicité écrase la géométrie
+					- C’est une abstraction très particulière
+						- c’est la vie qui s’abstrait des organismes et non pas l’essence qui s’abstrait des apparences, comme dans la géométrie
+						- En cela est-elle Expressioniste ?
+							- La ligne sans contour est fondamentalement expressive puisqu’elle est le vecteur d’une vie non organique.
+								- L'expressivité d'un tableau de [[Jackson Pollock]] a un lien fort avec la ligne gothique
+									- [[Jackson Pollock]]: Gothic, 1944 https://www.moma.org/media/W1siZiIsIjIwNDMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9cc9b3c498e21125
+						- [[Jackson Pollock]] anime des débats sur l'idée d'un art informel, en effet c'est un art sans forme, car la ligne n'est et n'as pas de contour
+							- Mais informel ce n'est pas une donné c'est une conséquence
+							- Le peintre n'as pas à informer il invente la matière moléculaire
+			- Elie Faure sur Vélasquez dit qu'il ne peint plus les choses il peint les contours
+				- peignait ce qui se passait « entre » les choses, c’est-à-dire le mouvement de l’air, tout ce qui est sans contour, la lumière entre une chose et une autre, tout ça, tout ce qui se passe entre les choses, c’est pour beaucoup de peintres, l’essentiel.
+	- ## Cours 1981-05-05
+	  collapsed:: true
+		- ## Trois positions diagrammatiques
+			- ### Tendance expressionniste
+			  id:: 66fab3f7-427b-4c5b-9cea-34c29fdb6951
+				- **le diagramme qui s’étend jusqu’à être un véritable brouillage.**
+				- Le diagramme prend tout le tableau
+				- Dans cette expressionniste on met la ligne sans contour, C’est la ligne sans contour ou la tache sans contour [[Action Painting]] ou [[Color-Field Painting]]
+					- Pour un expressionniste les peintures qui se dites abstraites comme [[Vassily Kandisky]] pêne a l'être pleinement. Le plus abstrait des [[Vassily Kandisky]] figure des triangles ou des rectangles, il trace encore des contours, de même chez [[Piet Mondrian]]
+				- Dans l' [[Expressionnisme Abstrait Américain]] la ligne à une certaine dimension qui est prédominant le traitement en ((661023c5-ef4d-415f-8f6d-c2ed1f703576)) est symptomatique de cette vision de la toile qui rompt avec la vison classique il n'y a aucune conception privilégiées tout endroit du tableau à une probabilité égale.
+				- La tendance expressionniste est un tendance où la main se rebelle face à l'œil, c'est un abandon du chevalet.
+					- On rompt avec l'horizon optique (œil) pour un sol profondément tactile (Pollock peint au sol)
+						- Or [[Michael Fried]] et [[Clément Greenberg]] dans leur analyse de [[Expressionnisme Abstrait Américain]] disent que c'est moderne car c'est la formation d'un espace optique pur
+							- Ce serait un espace optique qui rompt avec l'espace tactile classique qui est un espace qui met en avant la superposition des couches par les processus de contour
+					- [[Action Painting]] c'est une action qui domine
+					- Le diagramme se développe comme un immense brouillage
+			- ### Le Diagramme Abstractionniste : La Soumission au Code
+			  id:: 679771df-ea3d-43b5-aad5-d1507190d0e5
+				- **Le diagramme qui se fait surplomber ou déterminer par un code.**
+				- Le diagramme réduit au minium
+					- Le risque de la réduction diagrammatique c'est la création d'un *code* ce que Deleuze peut appeler l' [[Abstraction]] (qui peut être géométrique ou autre)
+						- Le diagramme, est bien là, mais il est réduit au minimum, et il tend à être remplacé ou « surplombé », à passer sur la domination d’un véritable « code ».
+						- L’ [[Abstraction]] tend vers l’invention d’un code pictural, et chaque peintres abstraits peut être considéré comme l'inventeur..eurse d'un code.
+					- Le..a peintre, d’une certaine manière voulait conjurer alors, tout ce qu’il y a d’obscur dans le diagramme. Tout ce qu’il y a, mettons, d’inconscient, d’involontaire...
+			- ### Le Diagramme Figural : La Voix Tempérée
+			  id:: 67977262-baf4-4352-bc42-db988cd293d5
+				- **Le diagramme qui agit en tant que diagramme.**
+				- Le diagramme n'occupe pas tout le tableau, mais il agit pour faire surgir une "figure" non figurative.
+					- Une figure sort du diagramme
+				- Cette figure est créée par le diagramme et n'est pas liée à la ressemblance ou à la représentation.
+				- Le diagramme ne se dissout pas dans le tableau et il n'est pas soumis à un code.
+				- Cette position implique une tension main/œil renouvelée et la main fait surgir pour l'œil une nouvelle fonction, un troisième œil.
+				- "*C’est à dire je me sers du diagramme pour produire le pur « figural » ou la figure.*"
+		- ## Rapports Œil/Main
+			- Le diagramme est manuel et la peinture est la résolution de la tension entre l'œil et la main.
+			- la ((66fab3f7-427b-4c5b-9cea-34c29fdb6951)) est un tendance manuel, une ligne que l'œil peine à suivre. Cela passe par l'abandon du chevalet
+			- **Le Tactile:** La main est subordonnée à l'œil.
+			- **Le Manuel:** La main se rebelle contre l'œil et s'impose à lui.
+			- **Le Digital :** La main est réduite à un doigt, subordonnée à l’œil pour une opération de choix binaire. C'est un idéal pour l'abstraction, un espace optique pur où la main semble disparaitre.
+		- ## Code vs Diagramme : Digital vs Analogique
+- # L'interprétation des énoncés
+  collapsed:: true
+	- Dans se texte Deleuze, Guattari et Claire Parnet essaie de mettre en avant l'interprétation de [[Freud]] dans sa psychanalyse chez l'enfant.
+	- Il commence avec Hans, 5ans
+		- Dans cette entretien Hans met en avant l'envie de rencontré Mariedl sa voisine de palier, qui se conclue par un échec et s'ne suit d'une deuxième tentative de rencontre avec une voisine de rue
+			- Pour DGP c'est un double souhait de [[Déterritorialisation]] , qui se conclut par une [[Déterritorialisation]] artificielles celle de venir dans le lit des parents, On lui inocule le virus Œdipe.
+			- Pour [[Freud]] Hans n'aime pas Mariedl. se désir cache un autre désir celui pour sa mère. [[Freud]] pour DGP ne connait que le territoire famille, le souhait de se nouvel agencement relationnelle avec Mariedl pour Hans est enfaite un souhait inconscient de faire famille
+	- Hans n'as pas peur de la castration, il ne s'intéresse pas au sexe il s'intéresse au fonctionnement machinique de l'organe au "fait-pipi". Pour Hans il n'y a pas de 2 sexes il y a *n* sexes car le sexe et l'agencement plus ou moins diffèrent de connexion organique
+		- C'est dans la réalisation de cette binarité que l'enfant entre en dépression car il a une fonction.
+		- [[Freud]] interprète cette indifférence sexuel de l'enfant comme une peur de castration
+	- Hans échoue dans la tentative d'agencement machinique par [[Déterritorialisation]] car reterritorialiser par la famille, même si lui est prêt à prend la famille comme agencement fonctionnement machinique
+- # L'Anti-Œdipe
+  id:: 67b0e4be-8284-4c30-8e63-43ac9913bde8
+	- Premier opus de *Capitalisme et Schizophrénie* issue de la collaboration entre le psychanalyse Felix Guattari et Gilles Deleuze
+	- L'Anti-Œdipe est une critique [[Post-structuralisme]] de la psychanalyse Freudienne notamment la place des grilles de lecture de la familles.
+		- Le travail de la psychologie va consister à explorer l'inconscient pour voir comment il se construit
+		- La psychanalyse a évolué selon la ((07ef3bb4-85c3-47a0-bec1-5cf0df8ced8f))
+			- Ce schéma reste présent et ce n'est pas ce schéma que D&G reproche à [[Freud]] mais c'est la neutralisation psychanalytique de l'inconscient que [[Freud]] a fait en le découvrant et en collant sur lui une lecture familiariste et structuraliste.
+			- Didier Eribon dit de ce livre que c'est "*une critique de la normativité psychanalytique*"
+			- Pour D&G c'est un problème car nos désirs sont ce qui nous pousse à agir dans la société.
+			- En collant sur l'inconscient une lecture familiariste on empêche la puissance révolutionnaire de l'inconscient car on le structuralise et donc on ne peut le modifier, tout comme la société se présente comme un ensemble structurelle
+		- Pour D&G l'inconscient est bien plus baroque et c'est pour cela qu'il crée la schizo-analyse
+			- La schizo-analyse présente un inconscient qui est structuré comme le délire du schizophrène, le psychisme serait une usine à crée du désire ( qui ne serait pas qu'œdipien ).
+				- Schizo car non unifié ( contrairement à l'Œdipe familiale )
+				- La **schizophrénie** est une métaphore et un modèle positif dans sa capacité à **déterritorialiser** les structures fixes. La schizo-analyse valorise cette capacité à briser les cadres imposés
+		- Une conception Schizo-analytique réouvre le champ d'interprétation de l'inconscient
+			- Nos désirs ne serait donc pas que structuré par le manque
+				- Ce manque est pour [[Freud]] le manque de la relation Œdipienne originelle
+			- Pour D&G le désir comme production, le désir n'est plus une malédiction originelle
+				- C'est une production joyeuse et révolutionnaire
+				- Il parle de désir productif le désir n'est pas refoulé car l'individu est une machine désirante ouverte à des flux et des forces qui s'inscrivent dans un large réseaux sociaux
+		- Le désir n'est pas un désir d'objet mais un désir complexe
+			- Un désir complexe est un désir d'agencement: On en veut pas l'objet cigarette mais on souhaite un agencement complexe dont la cigarette fait partie
+				- Ce que les publicitaires ont bien compris, ils vendent un agencement de désir
+	- La critique de D&G reproche à [[Freud]] de s'arrêter au *refoulés* et de ne pas mettre en perspectives les enjeux de société avec les désir refoulés.
+		- Aller à la source même du ça et de sa production
+	- La schizo-analyse est aussi une critique du **capitalisme**, qu’ils perçoivent comme un système qui exploite les forces désirantes et les reterritorialise dans un cadre de production et de consommation. Le capitalisme, tout comme la psychanalyse, capture et canalise les désirs pour les intégrer dans ses circuits économiques et sociaux.
+	- **Désir et capitalisme** : Le capitalisme, pour Deleuze et Guattari, libère certains flux de désir (comme dans la consommation ou l'innovation) tout en les contrôlant et en les exploitant à son avantage. Le capitalisme opère ainsi une sorte de schizophrénie contrôlée, où il encourage l'individualisme et l'innovation tout en maintenant des formes de domination.
+	- ## Eros et civilisation, Herbert Marcuse
+		- Dans "Eros et civilisation"*, Marcuse s'appuie sur les concepts de [[Freud]] pour expliquer que la civilisation impose une répression du désir (ou "Éros") pour maintenir l'ordre social et productif.
+			- Marcuse croit que dans une société industrielle avancée, le désir individuel est contrôlé pour servir le capitalisme, et la libération du désir pourrait conduire à une société non répressive.
+				- Il imagine une société où l'énergie libidinale n'est plus refoulée pour servir la production et le travail, mais est libre d'être investie dans la créativité, la jouissance et des formes de vie non productives.
+					- Cela mènerait à une forme de **"réconciliation"** entre le principe de plaisir et le principe de réalité, où les besoins humains seraient comblés sans cette répression aliénante.
+		- ### Différence principale : nature du désir
+			- Là où Marcuse conçoit le désir comme étant réprimé par la société capitaliste et croit en une possible **libération du désir** dans un avenir post-répressif, Deleuze et Guattari estiment que le désir est déjà **connecté** à la production sociale, même sous le capitalisme.
+				- Selon eux, il n'y a pas une simple opposition entre désir et répression. Le désir est aussi un moteur de la production capitaliste, ce qu'ils appellent la **production désirante**.
+			- Ils suggère que le désir n'est pas quelque chose qui serait refoulé par la société pour être libéré plus tard.
+				- Il est plutôt modelé et canalisé dans certaines directions par les structures sociales, économiques et politiques (y compris le capitalisme).
+		- ### La critique du freudo-marxiste
+			- Deleuze et Guattari voient chez Marcuse une vision trop linéaire de la libération du désir. Pour eux, la libération du désir ne consiste pas seulement à **retirer les contraintes** extérieures, mais à comprendre comment le désir est déjà pris dans des systèmes complexes de pouvoir et de production.
+				- D&G cherchent à montrer que le désir fonctionne toujours en relation avec des agencements sociaux et économiques, et que **le désir lui-même** est investi dans la perpétuation des systèmes de pouvoir, y compris le capitalisme.
+					- De plus, ils rejettent l'idée que le **complexe d'Œdipe** soit universel. Ils y voient plutôt un outil idéologique utilisé pour contrôler et normaliser les individus, en particulier dans la cellule familiale bourgeoise.
+- # Sociétés de contrôle
+  collapsed:: true
+	- La communication c'est la transmission d'une information
+		- Une information c'est un ensemble de mot d'ordre
+			- Informer c'est faire circuler un mots d'ordre.
+				- Le déclaration de police sont des communiqués
+				- On nous dit ce que nous somme tenu de croire ou de faire comme si on croyait.
+	- L'information c'est le système du contrôle, ce qui crée une société de contrôle
+		- Pour [[Michel Foucault]] il y avait les société de souveraineté et les sociétés disciplinaires
+			- Les sociétés disciplinaires se définissent par la constitution de milieux d'enfermement
+				- Ces sociétés ne sont pas éternel même si il y aura des restes
+	- Deleuze prend le terme développé par Burroughs le contrôle
+		- On n'as plus besoin de milieux d'enfermement, le travail se mut en travail domicile, éducation va se muter en école et profession
+	- Un contrôle n'est pas une discipline
+		- Une autoroute n'enferme pas mais multiplie les moyens de contrôles
+	- L'information c'est le système contrôle des mots d'ordres
+		- La contre-information comme dans des pays de dictature, mais la contre-information n'as jamais réussi a quoi que ce soit sauf dans quand la contre-information devient un acte de résistance.
+			- La résistance n'est ni information ni contre informations
+	- L'œuvre d'art n'est pas un instrument de communication, elle ne contiens aucune information
+		- Il y a pourtant une affinité fondamental entre l'œuvre d'art et l'acte de résistance
+			- Malraux dit que l'art est la seul chose qui résiste à la mort
+				- Tout acte de résistance n'est pas une œuvre d'art et inversement
+		- L'acte de résistance dans la musique est un cri face à la dialectique du profane et du sacré
+			- [[Emma Fitzgibbon]], ((67af7037-fd74-49a9-be0d-113996fa4a00))
+		- L'acte de résistance est humain et c'est aussi l'acte de l'art, il est le seul a résister à la mort
+	- Il y a une critique implicite de la [[Cybernétique]]
+		- Les reformes supposé nécessaire ( reformer l'école reformer l'industrie, la prison l'arme ) il s'agit enfaite de régler leur agonie afin de mieux d'établir les nouvelles forces des société de contrôle
+			- La fin des sociétés disciplinaires de [[Michel Foucault]]
+				- Le langage numérique des sociétés de contrôle est fait de chiffre qui marque l'accès a l'information ou le rejet
+					- Il n'y a plus masse/individus
+		- Les machines expriment les formes social
+			- Les sociétés de contrôle opère avec des machines dont le danger passif est le brouillage et le danger actif le piratage alors que les sociétés disciplinaire fonctionnait par machines d'énergies dont le risque passif était l'entropie et le risque actif était le sabotage.
+				- C'est une mutation du capitalisme
+					- Le marketing est maintenant l'instrument du contrôle social
+- # Image-Temps
+	- Images mouvements est un livre qui parle du cinéma mainstream et du cinéma d'avant-gardes
+		- Il va s'intéresser aux grands cinéastes d'avant-gardes
+	- Dans le cinéma mainsteam le montage est logique et régit par l'action et la causalité
+		- Tout est subordonnée à l'action
+	- Le cinéma atteint à l'auto-mouvement
+		- Le mouvement est la donné immédiate de l'image
+			- Le mouvement ne dépend plus ni d'un esprit qui le reconstituerait, c'est l'image qui se meut elle même.
+				- Elle est ni ni figurative ni abstraite
+					- Il en était déjà ainsi avec les images artistes
+						- Eisenstein voit *La Cène (gréco)* comme une image cinématographique
+							- Leonard DeVinci, [*La Cène (greco)*](https://fr.wikipedia.org/wiki/La_C%C3%A8ne_%28Le_Greco%29), 1568 ![La Cène (Le Greco) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/El_Greco_020.jpg/640px-El_Greco_020.jpg)
+					- L'image cinématographique fait elle même le mouvement
+						- Ce n'est pas une images pictural immobiles où l'esprit doit faire le mouvement
+					- L'images cinématographique fait ce que les autres images se contente d'exiger
+						- Elle recueil l'essentiel des autres arts, elle en hérite
+							- Elle convertit en puissance ce qui n'était que possibilité
+			- Le mouvement automatique fait lever en nous un automate spirituel
+				- L'automate spirituel non plus comme la possibilité logique ou abstraite de déduire formellement les pensée les unes des autres, mais le circuit dans lequel elles entrent avec l'image mouvement, la puissance commune de ce qui force à penser de ce qui pense sous le choc
+			- Heidegger: *L''Homme sait penser en tant qu'il en a la possibilité mais ce possible ne garantit pas encore que nous soyons capables*
+				- C'est cette capacité, cette puissance et non cette simple possibilité logique, que le cinéma prétend nous donner en communiquant le choc
+	- Tout ce passe comme si le cinéma nous disait: avec moi l'image-mouvement vous ne pouvez échapper au choc qui éveille le penseur en vous
+		- Un automate subjectif et collectif pour un mouvement automatique l'art des "masses"
+	- Si un art imposait nécessairement le choc le monde aurait changé et les H penserait depuis longtemps.
+		- Le cinéma peut rencontrer les ambiguïtés des autres arts, les [[Abstraction]] expérimentales, les pitreries formalistes, et le risque de figurations commerciales
+		- Le choc va se confondre dans le mauvais cinéma avec la violence figurative du représenté
+		- L'automate spirituel risque de devenir le mannequin de toutes propagandes
+		- L'imagination subit un choc qui la pousse à sa limite
+			- C'est l'effet du Sublime dans le cinéma
+	- Sergei Eisenstein, [*Le Cuirassé de Potemkine*](https://fr.wikipedia.org/wiki/Le_Cuirass%C3%A9_Potemkine)
+		- Premier artiste à théoriser sa pratique
+			- Cette agencement de plan a pour but que les spectateur..ices soit tellement choqué par le conflit des plans qu'en sortant du cinéma il fasse la révolution
+				- Faire un cinéma révolutionnaires, en générant une énergie révolutionnaire, et en créant de la pensée par la prise de conscience politique et social des scènes
+		- Dans le [[Modernisme]] l'œuvre se veut de produire une unité
+			- Le but est d'inviter à la révolution
+			- Apres la 2GM on interroge la fragmentation sans qu'elle soit assimiler à une unité
+	- Pour Eisenstein le premier mouvement va de l'image à la pensée du percept au concept
+		- Il y a choc des images entre elles suivant ses composantes.
+	- C'est le montage qui fait naitre la pensée chez Eisenstein c'est le montage pensée
+	- Artaud constate l'impuissance de la pensée face au cinéma. Le cinéma met en avant cette impuissance, cette difficulté à être au cœur de la pensée. Artaud cesse de croire au cinéma comme force pour faire penser le tout.
+	- Schefer affirme que l'image cinématographique, dans son aberration de mouvement, opère une suspension du monde, affectant le visible d'un trouble. La pensée est mise en face de sa propre impossibilité
+		- **Le faux-raccord :** Devient la loi du cinéma moderne, marquant l'interstice entre les images et la discontinuité.
+	- Influencer par [[Henri Bergson]] la relation avec la durée est fondamentale pour comprend l'image temps
+	- On retrouve des situations sonores et optique pur dans les films de la [[Nouvelle Vague]]
+	- On n'est pas dans l'action mais dans la situation comme moment d'optique pur
+		- Dans ((67bded66-4ca1-4a93-a082-85bd9327aa1a)) il fait vivre et exister après Hiroshima comme situation par des moyens esthétiques
+	- Le cinéma d'auteur nous montre les choses pour elle mêmes non pas par ce qu'elle est utile
+	- Beaucoup de mouvement aberrant (regard caméra)
+		- Mouvement que l'on ne peut pas expliquer par un récit
+	- Formes dérangeantes, la [[Nouvelle Vague]] nous montre des images et des sons dissonants
+		- Des successions d'images non linéaires
+		- Les Jump-cut de Godard est un élément qui va participer à la [[Nouvelle Vague]]
+			- Contre-pied totale avec le cinéma Hollywoodien qui cherche à rompre avec le montage et crée une expérience totale immersive
+	- ## Le cinéma de l'image-temps
+		- L'image temps nous rappelle qu'on est face à un film
+		- Dans le cinéma Hollywoodien ou d'Eisenstein on nous projette dans l'identification des personnage des films
+		- Dans le cinéma de l'image temps on va voir les images pour elles, dans un processus pas d'identification mais ce qu'[[Henri Bergson]] appeler l'attention attentive
+			- Pour [[Henri Bergson]] le temps est un cône, le point du bas est le présent ce qui vient s'actualiser
+				- Le cône est le passé, le tout du temps
+					- Le présent emprunte au passé pour s'actualiser
+					- Le présent est constamment nourri par le passé qui lui est une virtualité
+					- Dans la pensée de [[Henri Bergson]] on ne peut pas faire le futur
+			- Pour Deleuze ce qui se passe dans l'image temps c'est qu'on se retrouve à visiter les virtualités qui s'actualise dans le présent mystérieux qui se propose à nous
+				- Dans l'immédiateté pour [[Anna Kornbluh]] il n'y a que le présent tout plats sans jamais révéler les puissance de la virtualité du passé
+			- Les personnages dans les films de l'image-temps airent ou se promène (métaphoriquement et à la camera )
+				- La logique cartésienne de l'action n'est plus active, c'est la passivité qui prône en premier temps
+		- Pour Deleuze dans la vie moderne les gens ne croient plus en ce monde
+			- On en croit plus aux évènements qui nous arrives
+			- On ne fait pas du cinéma le cinéma nous apparait
+				- C'est la crise profonde de l'époque
+		- Ce lien au monde devient objets de croyances
+			- Le cinéma filme notre croyance au monde, c'est le couloir du cinéma moderne quand il cesse d'être mauvais
+		- Croire n'est plus croire en un autre monde mais croire au corps
+			- Il faut atteindre le corps avant le discours
+				- Le corps comme germe de la vie
+		- Ce qui se joue c'est l'espace entre les plans, c'est dans l'interstice que l'énergie se déploie, énergie qui n'est pas présente dans les films mainstream.
+		- Le cinéma de l'image temps ne nous fait pas penser à un autre monde
+			- Il fait processus de foi, une foi au monde, au temps, au travers de la sensation du corps
+				- Le corps qui ne sert pas l'action mais le corps dans sa propre dimension
+					- Le corps se suffit à lui même démontre avec des temps long pour déployer les virtualités
+					- Chez Merleau-Ponty, le corps est un point d’ancrage du vécu ; chez Deleuze, le corps est traversé par des forces impersonnelles, il est un champ d’intensités.
+		- *Post-continuité*, Steven Shaviro
+			- Méthode de montage très présent dans les années 2000 et dans les films d'action. Le but de faire de plans extrêmement courts qui s'enchainent
+				- Se base sur un enchainement causale des faits
+		- Dans le cinéma de l'image temps se qui va entre les plans c'est un intervalle de différence
+			- Il y n'as pas de rupture causal mais un principe de différence
+		- Le cinéma répond avec ces propres moyens à des questions philosophiques
+	- Pour Deleuze quand on se pense et qu'on se représente on fait comme si le temps s'arrêtais
+		- Comme si je suis un homme je suis une femme veut dire quelque chose de vrai et d'inaltérable
+			- En réalité on trahit une réalité du monde qui n'est pas statique mais qui est dans le devenir
+				- C'est un flux
+		- L'identité est une trahison de la réalité qui est un processus temporelle
+		- On voit l'identité comme quelque chose de spatiale
+			- On catégorise et spatialise ses identités dans une grille hiérarchique
+				- Problème de conception spatiaux car elles sont en réalité temporelle
+	- L'essentialisme occidental plonge de l'H dans une conception identitaire constante
+	- Deleuze fait une critique de l'identité dans le système philosophique
+		- Comme pour [[Judith Butler]] et l'arbitraire des catégories de genre
+	- L'identité statique est en réalité dans un champ de différenciation avec d'autres termes qui eux aussi sont mobiles
+		- On abandonne le caractère processuelle de la vie
+			- [[Henri Bergson]] fait ce même constat de perte du processuelle
+	- La différence comme le temps entre deux choses qui leurs permettent de s'incarner en tant que sujet
+		- La différence temporelle permet aux êtres de ce constituer dans leur devenir, dans leur processualité
+	- Deleuze reprend des thèmes de la [[Phénoménologie]] sur la perception du temps, mais en les dépassant vers une pensée plus fluide et multiple.
+- # Abécédaire
+  collapsed:: true
+	- Interview de Clair Parnet à diffuser après sa mort
+		- Gilles Deleuze se sent à l'état de pur archive
+	- ## A comme Animal
+		- Un homme qui n'aime ni les enfants et les animaux ne peuvent être mauvais
+		- Deleuze utilise le devenir animal dans l'anti-oedipe
+		- Deleuze n'aime pas les animaux familier
+			- Le chat est un frotteur
+			- Le chien aboie, ce qui lui parait d'être le cri le plus stupide
+				- Il supporte le hurlement à la lune que l'aboiement
+			- Il ne supporte pas les rapport humains avec les animaux
+			- Tout animal a un monde, il a son Umwelt
+				- Un monde c'est ce qu'on peut percevoir
+				- Le monde animal extraordinairement restreint
+					- Le caractère réduit de ces mondes impressionne Deleuze
+						- La tique répond à 3 excitant dans une nature immense
+							- Attirer par la Lumière elle tend vers la branche elle attend le ruminent passe sous sa branche qu'un excitant olfactive passe se laisse tomber sur la bête et vas chercher la zone la moins poilu
+								- Dans une nature fourmillant elle sélectionne 3 choses
+				- Le territoire chez l'animal
+					- Les animaux à territoires constituer un territoire c'est la naissance de l'art
+					- Marquer un territoire c'est une série de posture, de couleur, de champs
+						- C'est l'art à l'état pur
+				- Le territoire c'est les propriétés de l'animal
+					- Sortie du territoire c'est s'aventurer
+				- On reproche au philosophe de crée des mots barbares
+					- Avec Felix Guattari  il crée la [[Déterritorialisation]]
+						- Pour la philosophe il faut crée un mots barbares pour rendre compte d'une notion nouvel
+							- Il a besoin de se déterritorialiser  pour ensuite crée un territoire nouveau
+				- Les animaux produisent des signes et réagit à des signes
+					- Le chasseur a un rapport animal il communique et réception les signes de l'animal
+				- L'animal c'est l'être au aguet
+					- Tout comme l'écrivain et le philosophe, il écrive pour, à l'intention de lecteur
+						- l'écrivain il écrit aussi a la place de
+							- *J'écrit pour les idiots* j'écris à la place des idiots écrire c'est un lancé universelle
+							- Ecrire c'est pousser le langage jusqu'à une certaine limite qui sépare les choses entre elles
+								- Quand on meurt on meurt comme des bêtes
+									- Une bête cherche un coin pour mourir
+					- L'écrivain pousse la limite qui sépare le langue du cri du chant
+		- Les gens qui ont rapport avec les animaux n'est pas un rapport humain c'est un rapport animal
+			- Le rapport animal
+		- Deleuze aime les petites bêtes les insectes

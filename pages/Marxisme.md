@@ -1,0 +1,6 @@
+- Courant de pensée qui repose sur les idées de [[Karl Marx]]
+- Politiquement, le marxisme repose sur la participation au mouvement réel de la lutte des classes
+	- Afin de parvenir a une societe sans classe dans patriarcart
+	- Mettant fin à l'État et basée sur la propriété collective et démocratique des moyens de production en tant qu'étape succédant au capitalisme: le communisme
+- Pour [[Karl Marx]] *l'émancipation des travailleurs doit être l'œuvre des travailleur eux-mêmes*
+	- que c'est par l'action collective que l'organisation économique et sociale peut et doit être changée.

@@ -1,0 +1,7 @@
+- Héritier de la culture rock et punk il développe une pratique de détournement de vinyles
+	- Le vinyles come matériaux physique et sonore
+		- Christian Marclay: [*Footstep*](https://paragone.hypotheses.org/5696/marclay-footsteps-1989), 1989 ![Christian Marclay Footsteps | PARAGONE](https://paragone.hypotheses.org/files/2020/08/Marclay-Footsteps-1989.jpg)
+	- Il utilise le disque qui est un matériaux qui a une symbolique dans le monde des [[Industries Culturelles]]
+	- Proche des pratiques [[Fluxus]] lié à la musique
+		- Milan Knizak [*Broken Music*](https://roskofrenija.blogspot.com/2013/07/milan-knizak-broken-music-1979-1989.html) ![Broken Music by Milan Knížák (Album, Turntable Music): Reviews, Ratings,  Credits, Song list - Rate Your Music](https://e.snmc.io/i/1200/s/b07b164ab96b79ad2195ef3112ac9c44/7752960)
+- Il recompose aussi avec des images préexistantes dans le monde du cinéma

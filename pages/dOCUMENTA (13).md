@@ -1,0 +1,27 @@
+- Carolyne Christov-Bakargiev, commissaire de la dOCUMENTA 13, s’est inspirée des idées de [[Graham Harman]] [[Object Oriented Philosophy]]. L’exposition fut pensée comme un ensemble d’objets hétérogènes dans une perspective « holiste et anti-logocentrique".
+  id:: 661023ca-833b-48f9-9239-7bbe86cabb2e
+	- Holisme dans l'importance de comprendre les systèmes dans leur totalité plutôt que simplement en examinant leurs parties individuellement
+	- Le logocentrisme est une notion critique souvent associée à la philosophie de Jacques Derrida, qui critique la tendance occidentale à privilégier la parole (logos) ou le texte écrit comme source principale de connaissance et de signification, au détriment d'autres formes d'expression et de compréhension. Une approche anti-logocentrique, donc, cherche à décentrer cette prédominance du langage verbal et écrit dans la production et l'interprétation des savoirs
+	- Refusant donc tout *a priori* concernant la vérité de l'art pour laisser les objets se manifester par leurs propres activités sensibles
+- L'exposition se déroulait à Kassel au Fridericalium et aussi à Kaboul, ou des artistes travaillaient autour de la thématique "afghanes"
+	- L'un des élément de liaisons entre était le travail de Alighiero Boetti ayant longtemps vécu en afghanistan
+		- Alighiero Boetti: [*Senza Titolo (Tra l'incudine e il martello)*](https://www.galleriesnow.net/artwork/senza-titolo-tra-lincudine-e-il-martello) ![Senza titolo (Tra l'incudine e il martello…..) – Artwork | GalleriesNow](https://www.galleriesnow.net/wp-content/uploads/2021/10/Alighiero-Boetti-Senza-titolo-Tra-lincudine-e-il-martello.....-1989-broderie-sur-tissu-111-x-99-cm-800x889.jpg)
+- Cette édition se caractérisait aussi par un retour aux sources avec un dialogue assez fort avec l'historie de l'art, en donnant à voir des œuvres oubliés ou passées.
+	- [[Joseph Beuys]] et ses [[Joseph Beuys]] : 7000 chênes, 1982 - 1986 ![image.png](../assets/image_1698509441517_0.png) se sont vu réactiver par [[Pierre Huyghe]] dans  ((661023ca-f18a-4eb6-9701-c1046c49de1e))
+	- Le documenta Halle fessait l'objet d'un présentation du travail des années 1950 de [[Gustav Metzger]]
+- L'une des pièces central de cette édition était *The brain* https://www.artforum.com/wp-content/uploads/2012/09/article_large-9.jpg
+	- Rassemblant au centre du Fridericianum un ensemble d’éléments sans lien apparent entre eux, si ce n’est l’idée qu’ils renverraient tous aux choix curatoriaux. Il y avait là une cinquantaine d’objets : des photographies de Lee Miller se baignant dans la salle de bains d’Hitler, des bouteilles utilisées comme modèles par Giorgio Morandi, la maquette d’un des premiers ordinateurs, des poteries paraguayennes, des sculptures fondues lors d’un bombardement à Beyrouth, différentes versions de l’*Objet à détruire* de Man Ray https://www.centrepompidou.fr/media/picture/14/11/14119eeda35fda4c1adbd7d3883882b4/thumb_large.jpg une peinture de [[Gustav Metzger]]  accidentellement détruite… et des «  princesses bactriennes  », sculptures de 4 000 ans en provenance d’Afghanistan
+- ## Critique de Paul Ardenne: *[dOCUMENTA (13): Générosité ambiguë et pulvérisation de la culture](https://paulardenne.files.wordpress.com/2012/08/documenta-13-texte-paul-ardenne.pdf)*
+	- Paul Ardenne commence par questionner le complexe de la Documenta qui selon lui devient un DisneyLand: *pour grandes personnes sérieuses, cultivées et qui ne cessent de voir du paysage*.
+		- La figure de l'occidental au contact de l'altérité est remis en jeu dans cette exposition.
+		- Cette contemplation de soi-même se traduit comme le besoin *de lui faire ressentir la densité de sa vie à lui, vie d’excellence et de raffinement, rien d’autre*
+		- Des instalations comme celle où Enrique Vila-Matas, Aaron Peck ou encore Adania Shibli occupées à écrire se voit pour Paul Ardenne être observés par les visiteur..ices comme des singes en zoo.
+		- Le cours d'Anton Zeilinger sur la physique quantique qui nous donne à voir une science complexe ce qui joue aussi à donner l'impression de ce raffinement et de cette excellence.
+	- L'auteur critique une sélection œcuménique marqueté ou il ne faut pas omettre d'inviter des acteur..ices non occidentale ou de ne pas prendre le risque d’être taxée de [[Féminisme]] ou de machisme en invitant plus de femmes que d’hommes ou plus d’hommes que de femmes.
+		- Un [[Multiculturalisme]] forcée
+	- Pour Paul Ardenne la curation se fait sous obligation : *d'avaliser les options dominantes de l’establishment artistique, ménager la chèvre et le chou, ne jamais se montrer propagandiste de manière unilatérale*
+		- En rendant hommage aux artistes qui souffrent de la dictature
+			- Ai Weiwei assigné à résidence dans son pays ou les Pussy Riots emprisonnée en Russie
+	- Pour Paul Ardenne la sélection à comme résultat de rendre compte de la force de l'art
+		- Un art qui parle de tout et représente tout
+	- Mais cette engagement est dissout et restituer dans les œuvres elle même, l'auteur y voit un non-engagement curatoriale où la responsabilité politique est pris par l'artiste.

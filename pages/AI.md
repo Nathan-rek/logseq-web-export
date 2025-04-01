@@ -1,0 +1,38 @@
+- L'intelligence artificielle désigne un champ de recherche qui intègre plusieurs discipline mathématique statique technologiques
+	- L'apprentissage machine: imite les réseaux neuronale en donnant énormément de données apprendre et se conçoive eux même
+		- Les informations sont probablement trop variées à la base
+	- Les techniques symboliques
+- ## Politiques
+	- [*AlgorithmWatch*](https://algorithmwatch.org/en/) ONG qui- traite la question des algorithmes et des AI dans la justice et la democracie
+	- Modération des technologies biaisée
+		- Par exemple ChatGPT à un modèle qui est renforcés par des modérations
+			- OpenAI étant une entreprise privée prend un risque juridique à laisser le model dire des choses non acceptable (Racisme-sexisme...)
+		- La construction libertaire qui anime le web fait revenir le débat de la modération et de la liberté d'expression
+	- Les problématiques de modération sont aussi présentes sur les technologies de générations d'images
+		- Sur-sexualisation des représentations féminines
+	- La réduction à des représentions humaines à des statiques pose toujours problème
+	- Les machines les plus efficaces sont celle qui sont utilisé pour les utilisations les plus précises
+	- Balance entre sécurité et liberté
+	- Certaines politique prennent comme socle de préparer des outils pour protéger des potentiels humaine lointaine face à un potentiel IA consciente et donc préparer des technologies pour le futur sans prendre en compte les cas de défaillance présentes
+	- Il y a t'il un fantasme progressistes masculin face aux dites IA
+	- La dépendance technologique de services politique comme la NASA face au servies privées d'entreprise prives gére par des dirigiant
+		- Elon Musk propose un servies d'accès à internet dans les zones de conflit (Ukraine) et en profite pour faire un chantage politique au gouvernement
+	- Les couts environnementales des utilisations technologiques est difficilement estimable
+	- Certains usages sont devenu interdit
+		- Statistique des émotions
+- ## Social
+	- L'accueil des refugié..es est une zone social qui n'est pas sécurisé face à l'emploi de technologies.
+		- L'utilisation de détecteur de mensonge dans des programmes comme IBorder
+			- Utilisation de détecteur de mensonges est complètement remise en question par les scientifiques qui les conçoivent
+	- En 2013 le gouvernement hollandais a mis en place dans les services sociale a intégré un logiciel pour vérifier les fraudes. Les résultats on montrer que la machine était biaiser sut les catégories qu'elle traçais. La machine exposais un facteur de fraude.
+		- Encore aujourd'hui le gouvernement éponge les erreurs de cette utilisation
+		- La lutte contre ce systèmes
+			- Les décisions était prédictives dans le sens ou l'on a retirer les aides sociale car elle possédais des facteur de risque de fraude potentiel. En croisant les données d'aide sociale et de localisation
+				- Les femmes seules combinaient un assemblage de facteurs de risque prédictif
+			- Les acteur..ices même du service social ont participé..es à la lutte car ne pouvaient plus travailler normalement
+	- Contrôler les assisté..es: De + en + de contrôle sur les personnes qui demandes des aides sociales face à une programmation et une automatisation plus grandes de ces services
+	- Le modèles de reconnaissance facial le plus utilise remet au numérique les inégalités social raciale et sexiste.
+		- Ces technologies étant utilisé par les forces de police et ont déjà illustrée des cas de reconnaissances erronées et des mises en garde à vue erronées
+	- La mutation du travail reste une question surexploité ?
+		- Il y a t'il suffisamment de nouveaux métiers ?
+		- L'étiquetage de l'informations reste une tache sous-traitées dans des pays où la main d'œuvre est moins cher.

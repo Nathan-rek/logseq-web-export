@@ -1,0 +1,18 @@
+- En 1969, un réseau d'activistes anti-guerre à travers les États-Unis a planifié le Moratoire national sur le Vietnam, une protestation coordonnée à l'échelle nationale contre la guerre au Vietnam.
+- La [Galerie Leo Castalli](https://www.castelligallery.com/) crée des expositions à propos de ce moratoire national.
+	- Il commande à [[Jasper Johns]] un poster pour cette exposition.
+		- [[Jasper Johns]] : [*Moratorium*](https://whitney.org/collection/works/63180), 1969 ![Jasper Johns | Moratorium | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/63180/2020_98_cropped.jpeg)
+		  id:: 653fc197-dba8-4f8c-8f4f-193b63e052ed
+			- [[Jasper Johns]] a peint un drapeau toxique, symbole national empoisonné par la guerre. Les rayures de son drapeau étaient noires et vertes, le vert maladif ressemblant vaguement à un camouflage de la jungle. Le champ orange nauséabond était rempli d’étoiles noircies. Au centre du drapeau peint se trouvait un seul point blanc, représentant un impact de balle Il reprendra l’icône du drapeau américain qu’il a déjà utiliser dans des œuvres comme ((653ece31-c93e-42a6-bea8-02fe7b6725c8))
+			- De plus [[Jasper Johns]] est habitué à travailler le drapeau américain
+- Les gravures sur bois d'Antonio FRASCONI sont l'exemple parfait de la manière dont l'art peut aborder les problèmes sociaux.
+	- Son imprimé [*Vietnam*](https://art-for-a-change.com/vietnam/vietnam.htm), 1967 ![1967 Antonio Frasconi Woodcut 1919-2013 the Involvement - Etsy Hong Kong](https://i.etsystatic.com/13196112/r/il/5e79ec/3603607150/il_570xN.3603607150_1fov.jpg)
+	- représente un bombardier américain B-52 engagé dans ce qu'on appelle un « bombardement en tapis », le bombardement méthodique de vastes zones avec des bombes gravitationnelles non guidées
+- Duane Hanson: [*Scène vietnamienne*](https://hist4166archiveproject.wordpress.com/archive-post-11/), 1969 ![Archive Post #11 – “Vietnam Scene” – Duane Hanson – Pop Culture & the  Vietnam War](https://hist4166archiveproject.files.wordpress.com/2017/03/vietnan-scene.jpg?w=640)
+	- Sa scène vietnamienne était un tableau de soldats américains morts et mourants positionnés sur le sol d'une galerie comme si une grenade avait explosé au milieu d'eux
+- Léon Golub[*Napalm 1,*](https://hist4166archiveproject.wordpress.com/archive-post-6/) 1969 ![Archive Post #6 – “Napalm 1” – Leon Golub – Pop Culture & the Vietnam War](https://hist4166archiveproject.files.wordpress.com/2017/03/napalm.jpg)
+	- Ses œuvres souvent politiques ont traités souvent de la guerre du Vietnam. Notamment particulièrement de l’usage du Napalm contre la population civil vietnamienne.
+		- Une œuvre d’art  violente pour l’époque, car de nombreux artistes décidèrent de cacher leur représentation de la guerre par le symbolisme ou le style.
+- L’artiste James Rosenquist créé [*F-111*](https://www.moma.org/collection/works/79805) en 1964. ![James Rosenquist. F-111. 1964-65 | MoMA](https://www.moma.org/media/W1siZiIsIjIzNzgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f5057848043f35f2)
+	- Un chasseur-bombardier *F-111* s'étend sur toute la longueur du tableau, enveloppé et dépassé par des images surdimensionnées tirées principalement de photographies et de publicités imprimées, notamment un motif floral semblable à un papier peint, un gâteau des anges, un pneu Firestone, des ampoules, une fourchette. coincé dans des spaghettis et un parasol superposé à une explosion atomique.
+-

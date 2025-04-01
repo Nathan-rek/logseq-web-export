@@ -1,0 +1,14 @@
+- La condition post-media est une considération qui dépasse les mediums habituelles classique.
+- L’usage des technologies comme medium privilégié à cette condition post media
+	- Random International: [*Rain Room*](https://www.moma.org/calendar/exhibitions/1352), 2013 ![Rain Room | MoMA](https://www.moma.org/d/assets/W1siZiIsIjIwMTYvMDUvMTYvM2RsOWlyZDlwdV9yYWluX3Jvb20zLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDEyMDB4NjAwXHUwMDNlIl1d/rain_room3.jpg?sha=134c593796f5982a)
+		- Cette œuvre permet aux utilisateur..ices de marcher sans se mouiller dans un couloir de pluie passant d’une expérience passive à participative.
+	- [[Olafur Eliasson]] : [*Your view matter*](https://www.yourviewmatter.art/), 2022 ![Your view matter • Artwork • Studio Olafur Eliasson](https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/sphere-your-view-matter-detail_26746.jpg)
+		- En fonction du déplacement des utilisateur..ices le paysage change et invite au déplacement. L’œuvre existe dans l’interaction des visiteur..ices.
+	- Casy REAS: [*A Mathematical theory of cummunication*](https://landmarks.utexas.edu/artwork/mathematical-theory-communication#:~:text=A%20Mathematical%20Theory%20of%20Communication%20blends%20conceptual%20art%20and%20information,), 2014 ![An office with a large wall mural](https://landmarks.utexas.edu/sites/default/files/styles/artwork_gallery/public/artwork-gallery-images/04_casey-reas_a-mathematical-theory-of-communication_photo-by-paul-bardagjy_optimized.jpg?itok=_Kr4xHCF)
+	- Rafael LOZANO-HEMMER: [*Pulse Topology*](https://www.lozano-hemmer.com/pulse_topology.php), 2021 ![pulse_topology_durham_2023_rlh_010](https://www.lozano-hemmer.com/image_sets/pulse_topology/durham_2023/pulse_topology_durham_2023_rlh_010.jpg)
+		- Des ampoules suspendus qui crée des valleys à travers des capteurs de pulsation cardiaque et les enregistrements de pulsation interfère sur la position des ampoules
+	- Matthew BARNEY: [*Cremaster*](https://fr.wikipedia.org/wiki/Cremaster_\(série_de_films\)), 1994-2003 ![The Cremaster Cycle by Matthew Barney :: Behance](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a52c1f686129.572a00ccadc95.png)
+		- Série d’œuvres qui intègrent une variété de mediums qui reflète la conditions post-media qui s’estompe dans les pratiques contemporaines.
+			- Le terme crémaster est une référence anatomique qui fait référencer au muscle qui se situe dans le scrotum et qui gère la monté et la descente des testicules.
+- Cette condition post-media et le fruit de l'apparition des pratiques contemporaines usant de technologies
+	-

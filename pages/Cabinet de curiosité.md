@@ -1,0 +1,18 @@
+- Dans les cabinets de curiosités, les collections peuvent s'organiser en quatre catégories (nommées en latin) :
+	- Les *artificialia* ou *mirabilia*:
+		- "Choses étonnantes, admirables" regroupent les objets créés ou modifiés par l'Homme (antiquités, oeuvres d'art, armes, monnaies, instruments de musique etc.),
+	- Les *naturalia*:
+		- Rassemblent les animaux naturalisés, les insectes séchés, les squelettes, les carapaces, les coquillages, les herbiers, les fossiles, les minéraux et les "monstres", des foetus difformes, des dépouilles nd’animaux.
+	- Les *exotica*:
+		- Regroupent les plantes et animauxexotiques, objets de provenance lointaine
+	- Les *scientifica*:
+		- Regroupent les instruments scientifiques.
+- On y retrouve deux types d'objet
+	- Tous les artefacts provenant des contrées lointaines et les objets rappelant le passé héroïque de la race humaine: les antiquités, les médailles, les pierres gravées, les objets ethnographiques tels que le canoë, les armes (poignards de Turquie, arcs et flèches des Indiens, tomahawk) raquettes pour la neige, tapis chinois, manteau brésilien de plumes, pipe, ustensiles, etc.
+	- les armes (section importante des cabinets des princes et grands seigneurs), les instruments de musique, d’optique (télescope, microscope, longuesvues, astrolabe), mécaniques et scientifiques (horloges, montres, pendules, cadenas à lettres, thermomètres, baromètres, automates divers), tous les objets miniatures (modèles réduits) et, finalement, les œuvres d’art.
+- Cabinet de curiosité: conséquence du musées, dispositif d’ [[Exposition]] nouveaux. [[Nature - Culture]] se mêle ensemble, jeux d’association qui laisse place à la sensibilité de l’image
+- ## Cabinet de curiosité et [[Colonialisme]]
+	- Après la découverte de l’art des Indes, l’art africain devient très prisé au XVI siècle.
+		- Développement d’un marché d’objets en Ivoire qui prend acte dans Golfe du Bénin
+	- Musée opère des spoliations d’œuvres d’autre pays, autorisation de représenter la culture de l’humanité.
+		- Le muséum français regorge d’œuvres pillée dans des églises des gîtes d’autres pays. Ces techniques de spoliations vont s’encrer dans la culture et vont augmenter pendant la colonisations.

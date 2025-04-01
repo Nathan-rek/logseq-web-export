@@ -1,0 +1,55 @@
+- Peintre qui caractéristique de l'évolution de l' [[Art Brésilien]] et de l'évolution du [[Modernisme]] au Brésil
+- Issue d'un milieu bourgeois (famille de riche planteur) elle collectionne des artistes modernes
+- Fréquentes l'académie de Paris (suit des cours d'artistes [[Post-Cubisme]]), elle participe à la ((67ceb248-ae50-4e1e-a379-d0a50acd1a01))
+	- Elle fréquente Blaise Cendras qui va préfacer son exposition
+		- Fait une assimilation du [[Modernisme]] et va lui donner un aspect nativiste propre au Brésil
+		- Tarsila Do Amaral, [*Chapeau Bleu*](https://www.wikiart.org/en/tarsila-do-amaral/blue-hat-1922), 1922 ![Blue Hat, 1922 - Tarsila do Amaral - WikiArt.org](https://uploads2.wikiart.org/images/tarsila-do-amaral/blue-hat-1922.jpg!Large.jpg)
+			- Assimilation des principes du [[Modernisme]]
+- ## Période [[Pau-Brasil]]
+	- Tarsila Do Amaral, [*A Cuca*](https://www.wikiart.org/en/tarsila-do-amaral/a-cuca-1924), 1923 ![A Cuca, 1924 - Tarsila do Amaral - WikiArt.org](https://uploads8.wikiart.org/images/tarsila-do-amaral/a-cuca-1924.jpg)
+		- Retour à la brasilianité et une représentation des thèmes et des couleurs nationales
+			- Cuca le croquemitaine fait référence à un mythe brésiliens
+			- Utilisation de la couleur proche des fauvistes et des expressionnistes
+				- Volonté d'attendre l'essence première de la terre brésilienne
+		- Paysage natif et figuration lyrique, et une lumière diurne issu du [[Purisme]]
+	- Tasilia Do Amaral, [*La femme noire*](https://www.grandpalais.fr/fr/article/decryptage-de-loeuvre-negra-de-tarsila-do-amaral-exposee-au-musee-du-luxembourg), 1923 ![Décryptage de l'oeuvre "A Negra" de Tarsila do Amaral exposée au Musée du  Luxembourg | RMN - Grand Palais](https://www.grandpalais.fr/sites/default/files/2024-11/ML-Tarsila-A-Negra.jpg)
+		- Encrage dans la culture brésilliens qui quitte la [[Modernité]] de paris pour encrer son art dans une identité brésilienne
+	- Tarsilai Do Amaral, [*Shanutytown*](https://www.jigidi.com/jigsaw-puzzle/blgx5aum/tarsila-do-amaral-shantytown-hill-1924/), 1924 ![Solve Tarsila do Amaral, Shantytown Hill, 1924 jigsaw puzzle online with 35  pieces](https://cdn1.jigidi.com/thumbs/BLGX5AUM/l)
+		- imagerie folklorique revendiqué
+	- Tarsila Do Amaral, [*Sao Paulo*](https://picturingtheamericas.org/painting/sao-paulo/?lang=pt-pt), 1924 ![São Paulo – Picturing the Americas](https://picturingtheamericas.org/wp-content/uploads/2015/06/Amaral-S%C3%A3o-Paulo-1024x768.jpg)
+		- Marque du [[Purisme]] dans l'envie de présenter la mobilité rural et le caractère mécanique de la [[Modernité]]
+	- Tarslilia Do Amaral, [*O Pescador*](http://www.arte.seed.pr.gov.br/modules/galeria/detalhe.php?foto=339), 1925 ![Tarsila do Amaral<br/>O Pescador, 1925 - Disciplina - Arte](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3R3oJiY3U-CMi9Z9Bbyb-yRM_S0wYWZwqA&s)
+		- Mettre en avant les personnes oublié..es de l'histoire de l'art
+			- Les sujet modestes constitue des sujets en soit dans le [[Modernisme]] brésiliens
+	- Tarsilia Do Amaral, [*Religiao Brasileira*](https://enciclopedia.itaucultural.org.br/obras/82331-religiao-brasileira), 1927 ![Religião Brasileira | Enciclopédia Itaú Cultural](https://editor-enciclopedia-public-prd.s3.sa-east-1.amazonaws.com/qlxs58vzvpli4wvk5rmqrtjof3zr)
+		- les religions africaines sont importantes au Brésil
+			- La sainte vierge au brésil va s'incarner comme déesse de la mer
+				- Epouse les traditions africaines
+- ## Période Anthropophagie
+	- Elle va se rapprocher du [[Mouvement Anthropophage]]
+		- Phase ou elle travail en colaboration avec Oswal De Adrade
+		- Tarsilia Do Amaral, [*Le Lac*](https://www.wikiart.org/en/tarsila-do-amaral/the-lake-1928), 1928 ![The Lake, 1928 - Tarsila do Amaral - WikiArt.org](https://uploads1.wikiart.org/images/tarsila-do-amaral/the-lake-1928.jpg)
+			- Atmosphere surréaliste, réduction couleur des images
+		- Tarsilia Do amaral, [*Abaporu*](https://smarthistory.org/tarsila-abaporu/), 1928 ![Tarsila do Amaral — Archives of Women Artists, Research and Exhibitions](https://awarewomenartists.com/wp-content/uploads/2018/11/amaral-do-tarsila_abaporu_1928_aware_women-artists_artistes-femmes-1290x1500.jpg)
+		  id:: 67e1263d-a179-4c68-8456-789ced217c80
+			- Œuvre a partir de laquelle Oswald va s'inspire pour sa révolution artistique du [[Mouvement Anthropophage]]
+				- Abaporu veut dire anthropophage, Tarsilia va lui offrit pour son anniversaire
+		- Tarsilia Do Amaral, [*Carte postales*](https://picturingtheamericas.org/painting/postcard-cart-a-o-postal/?lang=fr), 1929 ![Cartão postal (carte postale) – Picturing the Americas](https://picturingtheamericas.org/wp-content/uploads/2015/06/Amaral-Postcard-cart-%C3%A3-o-postal-1024x916.jpg)
+			- Brasilianité du [[Surréalisme]]
+- ## Période Social
+  id:: 67e1269c-2415-4b1e-be48-31f0917f9a5d
+	- Apres avoir visité l'URSS plongé dans une grande pauvreté elle souhaite s'impliquer socialement. Ses nombreux aller-retour en URSS lui couteront 1mois d'emprisonnement pour sympathie avec le communisme
+		- Elle peint *Travailleurs*
+			- Tarsilai Do Amaral, [*Travailleurs*](https://fr.wikipedia.org/wiki/Oper%C3%A1rios), 1933 https://upload.wikimedia.org/wikipedia/commons/3/38/%22Ouvriers%22_de_Tarsila_do_Amaral_%28Mus%C3%A9e_du_Luxembourg%2C_Paris%29_-_Flickr_-_dalbera.jpg
+				- Introduit la question social dans la peinture au Brésil, question de luttes des class encré dans la réalité Brésiliennes
+					- Quitte le surrealisme pur plsu de symbolisme
+		- Tarsillia Do Amara, [*Seconde Classe*](https://www.artchive.com/artwork/second-class-tarsila-do-amaral/) ![Second Class by Tarsila do Amaral – Artchive](https://www.artchive.com/wp-content/uploads/2024/08/second-class-tarsila-do-amaral.jpg)
+		- Elle rejoint la révolte constitutionaliste de Sao Paulo contre la dictature de Getulio Vargas
+		- Les expressionnistes allemands aussi intègre les questions de classes dans la peinture
+			- Les années 1930 sont marqué par cette phase social
+			  id:: 67e12726-e8f5-45a3-9699-30c10818b435
+				- Hans Baluschek *Municipal Employment Office for Employees*, 1931 ![Municipal Employment Office for Employees by Hans Baluschek](https://www.meisterdrucke.us/kunstwerke/1000px/Hans%20Baluschek%20-%20%20Stadtischer%20Arbeitsnachweis%20fur%20Angestellten%20-%20(MeisterDrucke-350477).jpg)
+- ## Période Neo [[Pau-Brasil]]
+	- Elle se retourne vers sa période ((67e123f3-c82c-4be8-a84a-a9c6e205d405)) de début de carrière
+	- Tarsilia Do Amaral, Village avec pont er papaye
+		- Caractère plus mécanique du Pau Brasil

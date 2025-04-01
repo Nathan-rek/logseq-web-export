@@ -1,0 +1,4 @@
+- Une exposition internationale explorant les relations entre technologies  et créativité. L'objectif est de présenter un domaine d'activité qui manifeste l'implication des artistes dans la science et l'implication des scientifiques dans les arts [[Art & Science]] . Aussi, montrer les liens entre les systèmes aléatoires employés par les artistes, compositeurs et poètes, et cell..eux impliqués dans la fabrication et l'utilisation d'appareils [[Cybernétique]] .
+- ### [[Computer Graphic Art]]
+- ((67af839e-05e9-4380-a4df-57ab44a3b612))
+- ((661023c4-ade1-48e2-b5ae-b882102ef1fa))

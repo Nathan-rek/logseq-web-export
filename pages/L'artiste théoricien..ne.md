@@ -1,0 +1,24 @@
+- La production de l'art rencontre la théorie
+	- Les pratiques artistiques sont amené à produire des réflexions sur la théorie de l'art
+	- La notion de l'artiste chercher..euses apparait
+		- Il utilise des méthodes disciplinaires à des champs autre que celui de l'art
+		- [[Joseph Kosuth]] ayant étudier l'anthropologie et la philosophie intègre ces disciplines dans sa pratique artistique.
+			- Il prône l'utilisation de méthodes qui excède le champ de l'art
+			- S'outiller dans d'autre champ disciplinaires
+			- Figure de l'artistes anthropologue en ethnographes, d'autre figure apparaissent artiste-historien..ne artiste-carthographe...
+- L'artiste Chercheur..euses
+	- [[Hal Foster]] *Portrait de l'artiste en ethnographe*
+		- Paradigme de gauche de l'artiste à s'intéresser à l'autres questionne la validité de cette entreprise
+			- L'artiste peut-il..les vraiment parler de l'autres ?
+	- Carol Talon-Hugon *L'artiste en habits de chercheur*
+		- Depuis peu ont peut faire un doctorat en École d'art
+			- Ces artistes effectuent des recherches mais laisse le champ ouvert et évite le parti pris trop situé [[Savoir Situé, D.Haraway et Sarah Harding]]
+				- Donnent à voir des recherches mais qui n'aboutissent à rien d'autres que de montrer la recherche
+	- Raphaelle de Groot
+		- Artiste canadienne qui se spécialise dans les pratiques relationnelles (dispositif qui crée de la relation avec d'autres personnes)
+			- Travail en tant qu' [[Ethnographie]] en anthropologie et rend clair la limite de ça recherche
+				- Collecte des objets et en fait des objets autres
+					- La collecte est une méthode anthropologique, s'intéresse à l'usage des objets de communautés
+			- Travail sur un territoire géographique et explique comment un..e artiste vient à l'autre en prenant précautions de cette rencontre
+-
+-

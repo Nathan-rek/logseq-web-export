@@ -1,0 +1,22 @@
+- Fusionne les idées du [[Cyber-Féminisme]] avec une analyse matérialiste de la politique sexuelle de la technologie
+- Explore la maniere dont les objets sont sexo-spécifique tant dans leur conception que dans leur utilisation
+	- La biométrie chez Antye Guenther ou les appareils médical de Paula Pin et de Mary Magic
+- # Antye Guenther
+	- Questionne la biométrie notamment à travers l'utilisation de logiciel de biométrie biaisés par le fait que le modèles unique est celui de l'homme blanc
+		- conception sexo-spécifique
+- # Paula Pin
+	- Activiste et artiste Techno-féminisme
+	- Occupe des espace du laboratoire et pirate la performativité de la science pour en faire des sculptures interactives immersible
+	- Jelly Pin Bio-trans lab
+		- Création de boite contenant un mini-laboratoire mobile et ouvert pour les pratique gynécologiques autonome
+- # Mary Magic
+	- [Open Source Estrogen](https://maggic.ooo/OSE)
+		- Propose une accessibilité au traitement hormonales
+		- Une forme de désobéissance civile biotechnique
+		- Cherche à développer un système de protocole DIY pour l'émancipation de la biomolécule (hormone) ostéogène
+- # *Technofeminism*, Judy Waljcamn
+	- Lecture féministe de la relation femme machine, la relation entre les normes historique et sociétale et la conception de la mise en œuvre de la technologie
+- # Caroline Sinders
+	- Examine les intersections de l'impact de la technologies via la conception d'interface et le machine learning [[AI]]
+	- [*Feminist Data Set*](https://carolinesinders.com/feminist-data-set/), 2017
+		- Ensemble de données féministes

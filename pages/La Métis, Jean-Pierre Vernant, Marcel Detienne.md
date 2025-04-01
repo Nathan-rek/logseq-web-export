@@ -1,0 +1,40 @@
+- Logos: rigidité conceptuelle qui vient avec la philosophie grec et la rationalité
+- La métis est l'inverse du logos, c'est visqueux et fluide, c'est une notion pré conceptuelle et anti conceptuelle. Considère comme une forme d'intelligence qui échappe à la rationalité.
+	- Une notion qui passe par la russe, par le mensonge, par la débrouillardise
+	- Notion fondamentale dans la Grèce archaïque
+- Jean Pierre Vernant est un helléniste qui va s'interroger sur cette notion sur laquelle personne ne s'attarde
+	- La pensé grec est vu comme une pensée de l'immuable de l'identité, on va chercher l'essence des choses.
+	- La métis de part son mouvement constant va à l'encontre de la pensé grec
+- Métis est la première épouse de Zeus
+	- Déesse des océans, elle est enceinte d'Athéna quand Zeus reçoit la prédiction qu'un fils de métis va le supplanter
+		- Par la russe il va propose à Métis de montrer ses pleins pouvoir. Métis à toutes les formes, elle n'as pas d'identité immuable.
+			- Elle lui demande de prendre forme d'un goutte d'eau et l'avale
+		- Athéna va réussir par sortir par le crâne de Zeus mais Métis restera dans Zeus et sera l'entité qui permettra à Zeus de s'orienter dans un monde changeant
+	- L'intelligence est une souplesse une adaptation permanent
+- Cette intelligence vient d'abord de la chasse et de la pêche.
+	- Il y a un fort rapport à l'adversité
+- Ulysse est celui qui incarne la Métis, il est décrit comme poly-métis
+- ## Chapitre: *Le renard et le poulpe*
+	- C'est d'abord l'intelligence du faible et c'est une intelligence collectif
+	- Le monde aquatique st un monde de métis, le poulpe est un exemple du poly-métisme présent dans le monde marin.
+	- Le vocabulaire de la chasse et de la pêche va se retrouver dans la politique et la rhétorique grecque
+		- Pour les sophiste il va faire preuve d'astuce pour plaire et que l'audimat nous entendent.
+	- Le renard et le poulpe incarne la métis et par conséquent
+		- Pour le grecs le renard échappe au prédateur en tournant si vite qu'on ne sait ou est la queue et ou est la tête. C'est la technique du retournement
+			- Le renard se fait cercle et devient in attrapable
+			- La technique du retournement est une tactique rhétorique sophiste
+	- Le poulpe est le seul animal qui crée du brouillard pour échapper et attaquer, il est capable de crée la nuit
+	- Opération intellectuelle qui ne suppose pas un sujet humain face a un objet non humains, mais partage quelque chose avec l'adversaire pour le battre
+		- Chaque opposition est aussi un rapport de complicité
+		- Seul le semblable peut agir sur le semblable
+	- Il y a diffèrent modèle de métisse, le retournement du renard et la polymorphie du poulpe
+		- Il partage quelque chose c'est le lien
+		- Le piège sont des tentative de ressembler a la proie
+		- Le lien comme valeur de la métis, a été rejeté par la philosophie
+	- ((66f3bf78-2e80-4509-88cf-d182bac25b9f)) de [[Platon]] dit qu'il faut sortir de l'illusion pour atteindre l'idée
+	- La métis c'est la valorisation de la multiplicité de l'équivoque alors qu'il cherche quelque chose d'immuable
+	- Le sophiste c'est celui qui accepta la cause du plus offrant pour défendre cette cause de toutes les manières.
+	- Socrates n'est pas un sophiste mais il partage des manières avec les sophistes notamment la création d'images pour étayer leurs propos
+	- Le cercle est la figure parfaite
+		- [[Platon]] utilise le cercle comme l'idée même de l'essence
+		- Le cercle dans la métis est quelque chose d'in-attrapable de mouvant

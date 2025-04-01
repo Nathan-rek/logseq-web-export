@@ -1,0 +1,6 @@
+- Manifeste Après le [[Cubisme]] de Charles Édouard Janneret [Le CORBUSIER] et Amédée Ozenfan conçoit le purisme et fait référence au cubiste.
+	- On considère [[Post-Cubisme]] car le programme a été fait connaître à travers le court essai *"Après le [[Cubisme]] "*,
+	- Envie de mettre de l’ordre dans l’ensemble des [[Avant-Gardes "Historique"]] (comme le [[Cubisme]] ) Les [[Avant-Gardes "Historique"]] serait allez trop loin.
+		- Le Corbusier: Nature morte, 1922 ![Nature morte - Centre Pompidou](https://www.centrepompidou.fr/media/picture/0a/63/0a6315a7b966f361f6f798fe1e47b45c/thumb_large.jpg)
+		- Amédée Ozenfan: [*Composition Puriste*](https://www.artnet.com/artists/am%C3%A9d%C3%A9e-ozenfant/grande-composition-puriste-a-dduojn_xUpWXmM4Hlg6gtA2), 1926 ![Grande Composition puriste by Amédée Ozenfant on artnet](https://www.artnet.com/WebServices/images/ll497735llgEqTCfDrCWBHBAD/am%C3%A9d%C3%A9e-ozenfant-grande-composition-puriste.jpg)
+	- Utilisation d’un nombre d’or pour penser la création comme l’envie de purifier le [[Cubisme]]

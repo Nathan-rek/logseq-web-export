@@ -1,0 +1,37 @@
+- Bret Easton Elis, *American Psycho* : Basé sur un contexte entrepreneurial d’une entreprise qui gère des fonds pour faire fructifier de l’argent début de rapport à la virtualité.
+	- Psychose qui née entre les contraintes pulsionnelles et sociétales qui se caractérise dans le comportement du personnage Patrick Bateman
+		- Bateman incarne l'autotélisme et l''hyper-individualité.
+			- Il participe à sa propre construction narrative en dehors de tout réelle considération à l'autre à en voir les conversations lunaires avec les autres entrepreneurs.
+			- Dans cette exercice de construction il est en total écoute de ses pulsions, le poussant à l'immoral.
+- ## “Surface, surface, surface was all that anyone found meaning in”: American Psycho and the Pictures Generation, Todd Giles
+	- L'hystérie post-moderne du genre masculin que propose le personnage de P.Bateman est accompagné d'œuvre de la [[Picture Generation]].
+		- La consommation comme lien à sa société, il est un serial consumer de bien et de personnes
+		- L'étude du genre sous le spectre cinématographique a permis d'élaboré une thèse qui suggère dans les films des années 2000
+			- *representations of a certain kind of ‘masculinity lost’ in this cinema collided with the fallout of a contemporary elegiac gender politic that suggested that insome way life for the modern male was (almost) irreparably damaged by accelerated forces of consumer culture and image- and commodity-fetishism*
+	- L'un des points de la [[Picture Generation]] est le *serial art* la production en série dont font preuves les artistes est un lien qu'i..elles entretiennent avec la critique de la manipulation de l'image produite par les mass-média.
+		- Influencé par le [[Pop-Art]] la production en série à cette période est un geste théorique qui accompagne une envie de fondre l'image.
+		- L'un des point commun entre la [[Picture Generation]] et Bateman c'est la perte d'identité.
+			- La crise identitaire post-moderne est un sujet que les articles de la [[Picture Generation]] embrasse. Le cas de [[Cindy Sherman]] est parlant elle explore les pluri-identités que le cinéma propose à travers des séries de photos *Untitled Film Stills*
+			- [[Cindy Sherman]] [*Untitled Film Still #56*](https://www.artic.edu/artworks/72442/untitled-film-still-56), 1980 ![Untitled Film Still #56 | The Art Institute of Chicago](https://www.artic.edu/iiif/2/7a4b9f82-ff54-4cac-e1e6-36aa87c636b3/full/843,/0/default.jpg)
+			  id:: 66bf15ea-5e37-49c4-9f44-64d3dba32704
+			- Photo présent de chez Bateman. ![American Psycho' Designer Gideon Ponte on Patrick Bateman's Killer Apartment](https://s.yimg.com/ny/api/res/1.2/0gZlgS3SIQYOWC2iX0dsOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQxMg--/https://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/cc7713130928e52baa98da943b8a4637)
+			- Dans le travail de [[Cindy Sherman]] il a une envie de se retrouver dans les représentation crée par le film comme Bateman a une envie de de retrouver dans les formats que la société crée. Il le dit dans le taxi au téléphone avec sa femme *I just want to fit in*.
+			- Dans cette œuvre précise de Sherman, le miroir, un élément très présent chez Bateman, est également mis en avant. Le film comporte plusieurs scènes intenses de regards dans le miroir.
+	- Dans l'appartement de Bateman on retrouve des exemplaire du travail en série de ((661023c7-1c8e-433a-9a6f-9e76d85c7a99)) ![L'appartement minimaliste de Patrick Bateman dans « American Psycho »  réalisé par Mary Harron (2000).](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAyxgSjFkeD4sCVKpPw8zDeQilMwR45O5MWSoFPzGkPVf23F5kHW4JugC8ArT_spXaDp8&usqp=CAU)
+	- La possession de ces œuvres fait de Bateman un collectionneur assidu et riche d'art contemporain.
+		- Les monochromes sont une marque forte d'acquisition pour les amateurs d'art contemporain, en plein acte moderne.
+			- Cela constitue un acte souvent controversé en raison des prix exorbitants des œuvres et des critiques esthétiques générales défavorables. (Piece de théâtre "[*ART*]({{video https://www.youtube.com/watch?v=-5NQD6_Y2aM}})" de Yasmine Reza)
+		- Son intérêt pour l'art contemporain est celui du [[Marché de l'art]] pas des œuvres en soi, il ment sur le prix des œuvres qu'il achète
+		- La manque de contenu figuratif est parlant de Bateman il cherche à se fondre à ressembler au cadre d'à coté et ainsi de suite.
+			- *There is an idea of Patrick Bateman, some kind of abstraction. But there is no real me, only an entity, something illusory .... I simply am not there*
+	- Robert Longo, *Jules*, 2002 ![](https://news.artnet.com/app/news-upload/2019/02/robert-longo_jules-659x1024.jpg)
+		- ![As Seen on 'American Psycho': Robert Longo's Contorted Forms](https://news.artnet.com/app/news-upload/2024/02/aso-american-psycho1-1024x573.jpg)
+	- Ses toiles de Robert Longo présent dans l'appartement de Bateman sont une forme de memento mori discret. Avec se modèles en costume qui se contorsionne comme lors d'une chute avant la mort.
+		- Les modèles n'ont aucun rattachement dans l'espace il tombe dans le vide pur
+	- Pour les yuppies d'American Psycho, l'art n'est qu'un enjeu de classe ; ils n'apprécient pas vraiment les œuvres qu'ils convoitent. Bateman préfère porter son intérêt sur la musique pop de son époque, comme Whitney Houston.
+		- La seul toile qu'il apprécie est *Sunrise with Broken Plates* de David Onica
+		  id:: 66bf19bd-8cb3-47e4-bf61-475d6ac83315
+			- David Onica, *Sunrise with Broken Plates*
+			- ![SUNRISE WITH BROKEN PLATES (2004 version) Art Print](https://ctl.s6img.com/society6/img/TUfdUMWarhG-_ba0hKam8tRHrjs/w_700/prints/~artwork/s6-0003/asset_13/334504_mdT2XOFE9O/~~/david-onicas-sunrise-with-broken-plates-2004-version-prints.jpg)
+			- Elle est pourtant très différente de ce que Bateman collectionne. Elle est figurative et n'est pas un concept d'appropriation d'image, c'est une peinture, tout ce qu'il y a de plus classique. Ce n'est pas une photo d'une scène de film, une [[Abstraction]] monochromatique, ni un dessin issu d'une photo, c'est une peinture.
+	- *Ellis’s novel, like the artwork of the Pictures Generation, highlights the fact that there tends to be nothing behind the slick surface to identify with; rather, we are all constructed through mass media-driven stereotypes of popular imagery—any semblance of authenticity is merely a fleeting memory of what never was to begin with. To quote Bateman one last time: “Surface, surface, surface was all that anyone found meaning in”.*

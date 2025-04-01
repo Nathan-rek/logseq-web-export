@@ -1,0 +1,50 @@
+- Notion Créée à la fin du 19ème siècle, elle s'applique aux artistes de la première renaissance italienne
+- Puis s'élargit aux premiers contacts des différentes civilisation du monde avec l'Europe occidentale ( Periode du [[Colonialisme]] )
+- Lors de l'entre deux guerres ont utilise le termes pour l'apport des arts des peuples dit primitif à l'art moderne
+	- Apport Divers et ambigu
+		- Le japonisme à influencé l' [[Impressionisme]]
+- Le primitivisme est une sorte d'antidote à la [[Modernité]]
+	- L'évolution de la science et des industries fait disparaitre les anciens modèles culturels
+		- Les attitudes primitivismes ont été favorisées par les angoisses causés par les changements sociaux
+- Les artistes ont essayé..es de trouver des méthodes qui s'éloignent de l' [[Académie - Beaux-Arts]] et du Naturalisme
+	- La représentation du réelle n'as jamais intéresser les artistes, les représentation spirituelles sont souvent des inversions des perspectives Académiques
+		- Approche conceptuelle de la perception
+	- On cherche des tropismes qui nourrissent la singularité de l'artiste
+		- Les artistes modernes vont puiser dans des représentations issue de culture "primitif"
+	- Keith Harring et Grace Jones: *Untitled*, 1984 (body painting) ![Untitled (body painting) | Keith Haring](https://www.haring.com/!/wp-content/uploads/2012/12/bodypainting_maple04.jpg)
+		- Hybridation d'éléments issu des civilisation non occidentale
+	- La primitivité c'est puisé dans le temps mais aussi dans l'espace d'autres civilisations
+- Le primitivisme se cache dans beaucoup de pratique comme une notion nostalgique
+- Les avantages militaires et technologique occidentales ont conduit à de nouvelles relations sociales et économiques et à des régimes d'exploitation y compris le vol de matières premières
+- Traiter les autres cultures de "primitives" à permit de justifier les pratiques d'exploitation coloniales occidentales
+- Avatar: réactive les concepts de primitivisme du bon sauvage et ne reflète aucune vérité documentaire
+- ## *Primitivisme in modern Art*, 1938
+  id:: 670391ae-908f-4a79-8c0a-c3b62572d89d
+	- Livre pionnier du primitivisme de Robert Goldwater *Primitivisme in modern Art*, 1938
+	- Le livre influence l'exposition ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace))
+	- Robert Goldwater: *"Un moyen de simplifier les aspects purement optique de l'œuvre d'art pour donner libre cours, par une image absolue, libre de toute référence au réel, à l'intensité de l'affect"*
+		- Pour les artistes primitivistes il y a deux moyens de suscité cette émotions
+			- Il faut inventer une certaine manière de simplifier l'image, le réduire à l'essentiel
+				- ### Un seul action, un seul personnage, le regard court à l'essentiel
+				- ### Réduit la distance psychique qui sépare l'observateur..ices de l'œuvre
+					- Henri matisse: *Nu Bleu*, 1907 ![Nu Bleu Souvenir de Biskra 1907 - Achats des peinture à lhuile contemporain  de Henri Matisse](https://www.l-art-contemporain.org/pic/living-artists/Henri-Matisse/oil/Blue-Nude-Souvenir-de-Biskra-1907_m.jpg)
+					  id:: 670392ca-f61f-43e6-8cbd-abb115fd4b6a
+						- Matisse à tendance à dépasser le cadres que l'on ne retrouve jamais chez Picasso. Il dilate le sol le mur histoire de faire un fond unis qui favorise l'élément présent
+				- ### Bannir toute narration pour visualiser l'image symbolique
+					- l'artiste doit généraliser à la fois l'espace et les figures de façon à leur ôter tout aspect circonstanciel.
+					- ((670392ca-f61f-43e6-8cbd-abb115fd4b6a)) ce n'est pas une personne avec une historie c'est un nu, pas de caracterisation psychologique
+					- Emil Nolde: *Danseuse*, 1913 ![MoMA | The Collection | Emil Nolde. Dancer. 1913](https://www.moma.org/s/ge/collection_images/enlarge/94/92794.jpg)
+						- Il faut que l'image soit relativement impersonnelle, presque anonyme
+					- Maria Lassnig: *Autoportait avec singe*, 2001 ![Selbstporträt mit Affen (Geliebte Vorväter) - Digital Collection](https://sammlung.staedelmuseum.de/images/4146/maria-lassnig-selbstportraet-mit-affen-geliebte-vorvaeter-sg1286--thumb-xl.jpg)
+						- Principe de représentation issu des traditions des artistes primitifs
+					- Ernst Kircher: *Femmes qui danse*, 1911 ![Femme dansant by Ernst Ludwig Kirchner via DailyArt mobile app](https://img.getdailyart.com/86856/conversions/img-201808155b748eabebf88-iPhone.jpg)
+						- Au contact des musées ethnographiques
+				- C'est par cette voie qu'elle peut devenir généralisable à la manière d'un symbole :
+	- Le bureau d'André Breton marque la relation au primitivisme dans le [[Surréalisme]]
+		- "*On nomme primitif un être gouverné par des affects beaucoup plus élémentaires que les nôtres*", André breton
+		- Les surréalistes exposent leurs œuvres et leurs collections en même temps, il ne différence même plus leurs créations et leurs trouvailles
+		- La vision du [[Surréalisme]] peut être qualifié de primitiviste
+			- L'extériorisation et l'exploration de l'inconscient
+				- Retrouver la force des ses instincts primitifs
+			- Emploi d'objets ou de matériaux non artistique
+		- L'appropriation des arts non européens par le [[Surréalisme]] se fait par symbolique formelle

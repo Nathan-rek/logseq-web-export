@@ -1,0 +1,96 @@
+- En se basant sur la thèse de Sébastien Biset *"Le paradigme relationnel, Aspects fondamentaux des arts relationnels (1952-2012)"*, l’art relationnelle fait son émergence dans un contexte artistique particulier.
+- L’œuvre d’art et redéfinit par plusieurs événements
+- La révolution esthétique de [[John Cage]] notamment au [[Black Mountain College]], une révolution qui s’inscrit dans les considérations philosophique et pédagogique du philosophe John Dewey.
+	- Une influence qui c’est exprimée et catalysée avec la ((655b5ec9-73b2-4fb7-bb87-9ba83e560892)) ((655b5ec9-589c-44e1-9115-b112be147357))
+- Le déploiement des stratégies [[Fluxus]] qui ont permis une nouvelle considération du..la spectateur..ice et de l’artiste. ((65439bf5-bc3b-4313-83cb-e4ac83a0d654))
+- ##  L’œuvre, L’acteur..ice et Le..a spectateur..ice
+	- Rappelons que devant une œuvre d’art, quelle qu’elle soit, chaque consommateur..ice, en réagissant à une « constellation de stimuli », exerce sa sensibilité personnelle (une culture, des goûts, des tendances) qui oriente fondamentalement sa lecture et sa jouissance. Puisque « ce sont les regardeur..euses qui font le tableau », l’œuvre ne peut être dissociée tant de l’état d’esprit avec lequel on l’appréhende que de son contexte de présentation.
+	- [[Aristote]]
+		- Constate que les gens réagissent différemment dans la vie et face à une œuvre d’art. La représentation (*mimésis*), comme un jeu, jouit d’un pouvoir spécifique qui permet d’appréhender avec plaisir ce qui dans la réalité pose problème
+			- Si la nécessité pour l’homme de « mettre en scène » le monde peut s’expliquer par ce pouvoir de la mimésis, on trouve aussi une autre nécessité comblée dans le théâtre dont l’effet cathartique touche et excite nos passions qui, non autorisées par la société, trouvent en elle un exutoire.
+		- Cette catharsis avait inspiré à Artaud un théâtre nouveau
+			- La réévaluation de la figure l’acteur..ice comme du spectateur..ice, dans ses transgressions et sa volonté d’émancipation de l’espace fermé de la représentation, il anticipait les expériences auxquelles conduira progressivement l’émergence d’un théâtre environnemental, libre, ouvert ou participatif
+		- Nombreux..se ont été les expérimentateur..ices d’un théâtre ouvert et total, contribuant à développer un art multimédia allant jusqu’à intégrer des disciplines extra artistiques
+			- ((655b5ec9-589c-44e1-9115-b112be147357))
+			- Par sa nature performative, le théâtre justifierait une étude spécifique du rapport qu’il entretient avec le monde réel, *in vivo*, et le rapport du..la spectateur..ices avec l’action, comme des différents niveaux de sollicitation qui leurs sont proposés
+	- Richard SCHECHNER illustre cet intérêt pour l’environnement. Celui qui se révèle être l’un des fondateurs des Performances Studies emploie le terme « environnemental theater » pour designer un théâtre dont le principe de base est de créer et d’user d’espaces entiers – des sphères d’espace et des espaces à l’intérieur d’autres espaces – qui contiennent ou permettent une sorte de relation avec tous les lieux (areas) où le public se trouve et où les acteur..ices jouent.
+		- Richard SCHECHNER: [*Dionysus in 69*](https://en.wikipedia.org/wiki/Dionysus_in_%2769), 1970
+			- Le film est une captation d'une représentation des [*Bacchantes*](https://fr.wikipedia.org/wiki/Les_Bacchantes) d'EURIPIDE par la troupe théâtrale Performance Group[^12], mise en scène par Richard SCHECHNER. L'écran est divisé en deux par le système de l'écran divisé, montrant d'un côté la scène, de l'autre le public qui assiste à la représentation.
+			- La scène du rituel mortuaire de Dionysus in 69 où, aux corps nus des acteur..ices étendus sur le sol, se joignent volontairement des spectateur..ices. Dans la scène finale de la Commune, spectateur..ices et acteur..ices se trouvent également ensemble sur le plateau pour commenter la pièce et discuter des problèmes qu’elle soulève. SCHECHNER estime que
+			  *« une pièce de théâtre comprend au moins deux éléments : le corps de l’auteur et la narration. La représentation stimule le public à réagir avec leur corps envers ce qui arrive à l’auteur »*
+	- Aujourd’hui encore, les rapports entre l’œuvre, l’acteur..ice et le..a spectateur..ice restent au centre des préoccupations de la plupart des praticien..nes et des théoricien..nes des arts du spectacle
+	- POPPER constate qu’une telle évolution est particulièrement sensible dans un art comme le théâtre qui par sa relative non-technicité est à la portée de tous, il montre qu’elle l’est également dans la danse où la présence corporelle domine la technique, la perception et l’expression, mais aussi dans la poésie, la musique et les environnements pluri-artistiques
+	- L’artiste assume de nouvelles fonctions, plus proches du..la médiateur..ice que du..la créateur..ice, et élabore des propositions d’environnement non conclusives, ouvertes. La création artistique cesse alors de se limiter à une stricte création personnelle, l’artiste agissant..e dorénavant comme intermédiaire
+	  
+	  *« Le rôle de l’artiste, écrit-il, consiste plutôt à coordonner sinon à catalyser la ‘‘situation’’ et l’activité créatrice, s’ébauchant autour d’une proposition artistique. L’artiste peut parfois agir également comme un ‘‘provocateur’’ ou ‘‘agitateur’’ utilisant des ‘‘prétextes’’ ou des ‘‘stimulateurs’’ afin de déclencher la participation et le dialogue »*
+	  
+	  *Popper*
+- ## Art Social
+	- Si la participation du..la spectateur..ices peut donner lieu à des types très variés d’environnements, dans certains cas, ceux-ci peuvent prétendre à un idéal de synthèse entre propositions plastiques et existentielles en vue d’une formulation esthétique utopique et globale
+	- Stano Filko dès les années 1960 développe un amalgame original de stratégies [[Fluxus]] , d’adaptation pop et de critique du fonctionnalisme, s’inspire de l’architecture moderniste, de la perspective situationniste et d’une philosophie « existentielle » que les intellectuel..les slovaques inventèrent comme antidote au matérialisme du léninisme.
+		- Stano Filko : [*Environnements universels*](https://old.sng.sk/sk/eshop/411-stano-filko-universal-environment)
+			- Symbolisent la nécessité d’une continuité entre une vision créatrice et les besoins fondamentaux de la vie quotidienne. En réponse à une interrogation de Fred Forest, Filko définira plus tard le but de l’ « art sociologique » – tendance générique à laquelle il reconnaît a posteriori appartenir – comme consistant à nous ramener à une réalité psycho-sensorielle falsifiée par les mass media pour nous faire vivre pleinement tel ou tel moment de la communication entre les personnes.
+			- Cet art inviterait à la perception et à l’expérience complexe de la réalité sortie du courant de son existence banale
+	- Cette dimension utopique s’attachant à révolutionner le réel à l’échelle globale est une constante dans les projets d’artistes de cette époque
+		- L’un de ces projets les plus ambitieux et certainement l’un des plus célèbres fut celui mis en œuvre par [[Joseph Beuys]] dont le travail est un questionnement permanent sur les thèmes de l’humanisme, de l’écologie, de la sociologie, et de l’anthroposophie.
+			- Son cheminement le conduit à définir le concept de ((661023c7-8f10-4946-bec7-15a2831ef6c3)) en tant qu’œuvre d’art totale, énoncée dans les années 1970 avec « Chaque personne un artiste », dont le projet consiste en une concertation créative et continue entre la société et le politique.
+- ## L’art expérience
+	- Le mode participatif invente des situations de jeu et déplace le..a spectateur..ices traditionnel dans la sphère de l’action communicationnelle.
+		- Larry MILLER: Flux Labyrinthe, 1976
+			- Construit en collaboration avec plusieurs artistes un labyrinthe dans le Stedelijk Museum.
+				- Le but étant de sorti du labyrinthe cela demande une réflexion et de la créativité du public face a la situation
+		- On retrouve aussi des comportements automne chez les spectateur..ices dans les activités de la GRAV
+			- Le principe fondamental auquel adhéraient ses différents membres, était la dévalorisation de « l’artiste » et du « chef-d’œuvre », au profit de la sollicitation du spectateur..ices.
+		- Des artistes comme Alexis YANEZ ont participé à développer les arts de la situation en initiant des situations au sein desquelles le..a participant..e développeraient une impulsion créatrice
+	- Le Jeu est un élément central au sein des esthétique participatives et donne à l’activité artistique un aspect élémentaire de que le jeu est constituer.
+		- Chez Hans-Georg GADAMER, le jeu est à la fois à la genèse de l’œuvre (la plus traditionnelle) et au principe de sa lecture. Selon le philosophe, une œuvre peut s’envisager comme un « moment de jeu ». Le jeu se suffit à lui-même, « ne remplit son but que lorsque le joueur s’oublie dans le jeu », comporte un sérieux qui lui est propre, et un espace particulier.
+			- *« la perception (…) d’une œuvre d’art exige un comportement particulier – artistique – qui possède une série de traits communs avec le comportement ludique »* Youri Lotman
+	- L’expérience peut se situer entre l’individu et son environnement c’est dans cette espace potentiel que l’expérience se situe.
+	- L’art, et le jeu peuvent être aussi vu comme un lieu ou la tension de la réalité est neutre. Dans une tension à accepter la réalité du dedans et du dehors, les arts peuvent être comme d’autre chose une aire intermédiaire ou l’expérience n’est plus la même.
+		- Dans nos relation aux objets comme objets qui peuvent être le lieu de subjectivité et de création d’espace transitionnelle, l’adulte peut être ce qui envisage la fin de la subjectivité et donne pouvoir au rapport objectif au monde qui tende cette acceptation de la réalité.
+			- La création d’espace intermédiaire peut être ce moment où l’acceptation de la réalité est mise en crise
+				- La créativité peut être vu comme un outil qui permet une autre approche de la réalité extérieur.
+	- En situant l’expérience culturelle dans cette espace intermédiaire, un espace entre l’individu et son environnement. C’est dans cette jonction que l’art et ça nature participative est envisagé
+		- Le but de l’artiste, devenu médiateur..ice, catalyseur, est de générer des situations (ouvertes, libres, spatio-temporellement circonscrites et profondément symboliques) au sein desquelles le..a participant..e peut développer ou laisser cours à l’impulsion créatrice qu’il..elle porte en lui..elle.
+			- L' ((661023c5-2bb6-45e9-b211-85f79023c4d0)) , et par extension l’art, se comprend donc dans sa relation dynamique avec l’environnement, mais aussi un échange relationnel fondamental au sein de cette aire intermédiaire d’expérience
+		- Or cette potentialité de communion à travers le jeu est possible si il y a consensus commun or cet espace potentiel est largement variable, d’un individu à l’autre, alors que les deux autres localisations (la réalité personnelle ou psychique et le monde existant) sont relativement constantes
+	- ### Fred Forest
+		- Fred Forest: [*Madame Soleil au Musée Gailiera*]({{video https://vimeo.com/858231047}}), 1975 ![](https://www.fredforest.org/book/images/actions/16_mme_soleil_1.jpg)
+			- Se considère comme le premier a utiliser les œuvres télématiques
+			- Propose un art sociologique
+				- Le collectif se ballade dans la ville et interroge les personnes dans la ville
+					- Fred Forest: [*promenade sociologique*](https://www.fredforest.org/book/html/fr/actions/09_fr.htm#text), 1973 Sao Paulo ![](https://www.fredforest.org/book/images/actions/09promenade_socio_a_brok.jpg)
+					- Propose des enquêtes sociologiques, l'art comme outil social  qui propose un tissu relationnelle
+					- Publie dans le journal un carré blanc
+						- Offre aux lecteur..ices un espace vierge ou chacun..e peut utiliser et remplir l'espace, il..elles peut ensuite renvoyer le journaux
+							- Un feedback et une rétroaction dans le lien social
+- ## Relation et relativité
+	- Jacques Lennep pose la question de *"L’art ne fait-il que compliquer la perception de la réalité ?"*.
+		- Dans une période de bouleversement épistémologique dans les sciences (théorie de la relativité, physique quantique...). Il adopte une méfiance similaire dans les arts face au notions de déterminisme d'universalisme et de vérité. Conception très propre à la [[Post-Modernité]]
+			- La [[Post-Modernité]] critique la façon dont le images structurent les perceptions des individus dans la société.
+			- Ne pouvant plus prétendre à la représentation de la réalité objective, l’œuvre s’en remet au relativisme, encourageant une manière de concevoir les choses dans leurs relations et dans leurs rapports nécessaires.
+	- André Breton voulait provoquer une désintégration mentale par le [[Surréalisme]], il évoque l'analogon
+		- Le philosophe Constantin Brunner distingue trois genres de connaissance : l’entendement pratique, le penser spirituel ou penser de l’Esprit, le penser superstitieux ou penser de l’Analogon de l’Esprit
+			- Auxquelles correspondent trois « réalités », pensées spécifiquement par chacune d’elles : la réalité ou vérité « relative » de l’entendement pratique, la réalité ou Vérité « absolue » du penser spirituel, la réalité ou vérité « superstitieuse » de l’Analogon de l’Esprit, ou vérité relative « absolutisée ».
+		- **La relativité en absolu ou absolu fictif**
+	- ### Vernon Blake (1875-1930) *Relation in Art : Being a suggested scheme of art criticism (with which is incorporated a sketch of a hypothetic philosophy of relation)*
+		- L’auteur explique que la relation doit se concevoir en termes de rapport et être considéré comme le résultat de la coordination de deux éléments ou plus.
+			- En effet, pour obtenir une relation effective, nous devons faire plus que juxtaposer des éléments : nous devons
+			  les coordonner.
+				- Une simple relation n’est jamais seulement une paire, remarque-t-il, c’est l’établissement d’une chose nouvelle (la relation exprimée mathématiquement par 3 :4 est la même que celle exprimée par 6 :8, bien que personne ne prétendra que la pair 3 et 4 est la mêmeque la pair 6 et 8)82.
+				- Aussi, une ligne dans un dessin, un verset, une phrase musicale, que sont-ils essentiellement ? Ils relèvent d’une « série de relations ». Relations de position dans le cas de la ligne ; de sons et d’idées contenues par les mots formant le verset ; tandis que la phrase musicale n’est rien d’autre qu’un arrangement relatif de ses notes, considéré dans le temps.
+		- La nature de l’ensemble de ces relations constitue l’individualité de l’oeuvre d’art.
+		- Dans cette optique, Blake conçoit l’univers et l’oeuvre d’art comme une série ou un ensemble de relations. Ce sont ces analogies universelles qui fondent sa théorie à l’origine de laquelle on trouve cette intuition : « Un artiste est un être capable, en premier lieu, de
+		  percevoir avec plus ou moins de précision la nature des interrelations de l’univers ; et, d’autre part, de construire avec les matériaux de son art une série de relations d’une qualité analogue
+		- **Il est un exemple d’application (d’abord involontaire) à l’art du principe de la relativité**
+	- Lennep s'interesse à l'alchimie
+		- Les ouvrage d'alchimie seriat des poesie analogue de la relation des alchimiste à la matiere
+			- Le grand œuvre (transformer le plomb en or) est avant tout un exercice de l'imagination.
+- ## ((661023c4-336d-4403-a129-f29593587135))
+	- L’homme, insiste Lennep, ne peut être un objet d’art. Au contraire, il est le principe même du système relationnel. C’est en lui que peuvent se fondre les facteurs du trinôme émetteur-message-récepteur. L’homme devient son propre message, etc. L’exposer permet de confronter nature et culture, simulacre et réel. Le travail de l’artiste consiste à situer un individu au centre de son histoire, faire se rencontrer un instant pris sur le vif et la représentation d’une destinée, selon une méthode qui a choisi l’art comme étant un référent suffisamment indéfini
+	- [[Marcel Duchamp]] a retourné son urinoir, l’a signé et l’a titré, dans une exposition, ((661023c8-6e3c-40c5-84bb-9bb92b5ceb59))?
+		- En 1975, Lennep retourne à nouveau ce même objet et lui rend, lors d’une kermesse flamande, sa fonction originelle. Le système de référence de l’art semble désorienté, il semble ne plus avoir pour but l’œuvre d’art accomplie, il lui manque la plausibilité et l’utilité sociale
+- ## Footnotes
+	- [^14]:Revendiquant une approche expérimentale du théâtre, Richard Schechner questionne l’art théâtral et de performance. Ses
+	  méthodes analytiques, en puisant dans les sciences humaines (anthropologie, sociologie, philosophie), contribuent à l’essor des performance studies, discipline transdisciplinaire née dans les années 1970 consacrée à l’étude des expressions performatives.
+-

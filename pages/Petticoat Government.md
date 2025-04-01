@@ -1,0 +1,10 @@
+- [*Petit Coat Governement*](https://petticoatgovernment.party/fr?articles=5): Projet autour des géants du folklore européens
+	- Un itinéraire parmi les communautés qui possèdent des géants
+		- La géante Dame Nuje Patat traversant les alpes: ![Pg Dessin Dame Nuje Patat Traversant Les Alpes Mid](https://petticoatgovernment.party/img/3ed7a490-554a-4f77-a015-39fffc2ff64c/pg-dessin-dame-nuje-patat-traversant-les-alpes-mid.jpg?fm=jpg&q=80&fit=max&crop=1452%2C1080%2C0%2C0&w=400)
+	- Projet participatif avec les communautés
+- La restitution à Venise est une étapes
+	- C'est une étape et non une [[Exposition]] qui met fin au projet.
+		- Transformation du réelle par le biais de la fiction
+- Propose un processus relationnelle (Pic-Nic sur un lac gelé)
+	- ![2021 Mount11 Mid](https://petticoatgovernment.party/img/1ce17f1b-f5b7-4606-a487-4724e035179b/2021-mount11-mid.jpg?fm=jpg&q=80&fit=max&crop=1446%2C1080%2C0%2C0&w=400)
+- Projet qui prend une forme excède de l'art

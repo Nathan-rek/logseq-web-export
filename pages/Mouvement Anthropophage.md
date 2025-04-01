@@ -1,0 +1,49 @@
+- Pratique influencée par le mouvement [[Dada]] mais qui s'éloigne des mouvements d'[[Avant-Gardes "Historiques"]] en puissant dans les mythes historique du Brésil
+	- Style litteriare proche du [[Surréalisme]]
+- Il écrit un [[Manifeste]], le *Manifesto Anthropofago*
+	- ![Oswald de Andrade's "Cannibalist Manifesto"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5GNxjeKqL0YiJ9x64Bn5QoaLqGvmSW1ZBg&s)
+- La découverte du Brésil va s'accompagner de nombreux récits qui vont donner une image de l'Amérique latine comme une terre de barbarie qui s'adonnerait au cannibalisme. L'idée d'anthropophagie est une récupération des ses mythes
+	- Hans Staden écrit un récit où il fait part de ce cannibalisme
+		- Il raconte échapper au festin cannibale
+			- Il vont dévorer ceux qui ont le plus de courage pour prendre leurs énergies vitales qu'ils veulent s'approprier
+			- Lors de cette cérémonie cannibale tous sauf le tueur doivent manger leurs ennemis
+				- Vu que Hans Staden temoigner de prur il ne voulait pas s'emparer de sa force
+					- Il dévore celle..ux qui une vitalité et du courage
+				- Theodore de Bry va illustrer se récit
+					- Theodore de Bry, [*Americae Tertia Pars*](https://www.meisterdrucke.lu/fine-art-prints/Theodore-de-Bry/90268/Sc%C3%A8ne-de-cannibalisme,-de-%27Americae-Tertia-Pars...%27,-1592.html), 1592 ![Scène de cannibalisme, de 'Americae Tertia Pars...', 1592](https://www.meisterdrucke.lu/kunstwerke/1000px/Theodore%20de%20Bry%20-%20Scene%20of%20cannibalism%20from%20Americae%20Tertia%20Pars%201592%20(colour%20engraving)%20-%20(MeisterDrucke-90268).jpg)
+						- Le répertoire formelle étant peu développer les personne natives ressemblent peu au brésilien..nes dont il est question
+- Oswald va s'inspirer de ces mythes et dire que la culture brésilienne c'est nourrit par ingurgitation de force extérieur
+	- Le cannibalisme comme mode de pensé et d'ingurgitation de l'ailleurs
+- Anthropophagie comme processus du brésil d'ingurgitation d'autres cultures afin de constituer la sienne
+	- Une anthropophagie comme mode de pense et de situer dans le monde
+	- Non pas comme prédatation mais par esprit de rébellion anticolonialiste
+		- Une notion pro-actif dans le processus d'hybridation culture qui est un processus qui fait partie intégrante de l'histoire du pays
+	- Réagit à la confrontation avec les cultures colonisatrices et de gère le processus d'hybridation culturel processus faisant intégralement partie de l'histoire du pays et des peuples tout au long de son histoire par vagues successives de colonisations.
+- Chaque terre non habité par les indigènes est emparerez pas les européens car il n'y avait pas le sens de la propriété
+	- La propriété était la marque de civilisation ils ont donc confisqué ces terres et imposé un modèle culturelle different
+		- Imposer une morale étranger stéréotyper
+- Oswald denonce l'immobilisme intelectuel des injusctices qu'negendren un systeme social qui oublie 'lidincidu
+	- Denonce un eleitisme qui decroche le pouvoir des realites
+- Dénonce l'esprit missionnaire du [[Colonialisme]], l'évangélisation la christianisation
+	- Et tout les importateur de conscience en boite
+- formule ethique du rapport a l'autre a sa culutre
+	- l'autre doit etre devore ou libere
+	- On ne dévore pas n'importe qui
+	- Il faut évaluer la manière dont l'autre affecte
+- Le [[Primitivisme]] devient une arme critique sélective à l'image du sauvage qui dévore et assimile seulement ceux qu'il l'intéresse
+- l'anthropographie culture et un moyen de s'approcher de l'autre qui a des caractères qu'on désire
+	- Le mélange doit procurer quelque chose de joyeux et dynamique
+- La violence colonial l'esclavage et le cannibalisme aboutit a un être qui nait de la violence
+	- Oswald de Andrade va s'emparer de cette violence
+- On retrouve l'idée de cannibalisme chez Marrineti, Picabia qui édite sa revue Cannibale
+	- Il y a chez les [[Surréalisme]] une non-compréhension des civilisations noires
+		- Très fortes essentialisation des cultures au profit de leur révolution bourgeoise
+			- Vont puiser dans ces civilisations pour inscrire de nouveau motifs
+- Oswald transforme le cannibalisme en image original en métaphore de la pratique artistique brésiliennes
+	- Offre des alternatives culturelle face au progrès, au positivisme de la civilisation occidentale
+- La vernacularité du Brésil va changer la vision de la [[Modernité]]
+- Pedro Figari, Bailongo, 1920
+	- Peinture qu'on va qualifier de folklorique qui va représenter la vie des esclaves
+		- Envie de valoriser la culture locale et de lui donner place dans l'historie de l'art
+- Aspire à une résurrection du primitivisme libère des tabous occidentaux
+- La ((6745e9c6-db9f-490a-840b-7bf2b0ab9720)) de [[Edouard Glissant]] met en avant un assimilation similaire qui met en avant la mixité et le métissage

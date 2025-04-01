@@ -1,0 +1,63 @@
+- Le monde de l'art est un terme issu de la philosophie de l'art et en sociologie de l'art
+- Espace analogue
+- Ryohei Kan: [*Endless White Cube*](https://ryoheikan.com/works/endless-white-cube-2016-2017/), 2016 https://ryoheikan.com/wp-content/uploads/2017/10/endless-white-cube.jpg
+	- Espace hermétique coupé du monde
+- # Arthur Danto: *La transfiguration du banale*, 1989
+  id:: 65d3770f-5748-408e-8fa4-ae4087cae3ad
+	- Le  monde de l'art est un espace autre qui peut transfigurer le banale en une autre chose, il est transvaluer, il perd sa fonction initiale
+	- C'est la nature de l'objet qui est transformée
+	- Comme la transvaluation du pain et du vin dans l' [[Espace Sacré]] ont s'accorde a évaluer un protocole conceptuelle
+	- Il est le témoin d'un changement de l'histoire de l'art - au tournant de l'art moderne et de l'art contemporain
+	- Se base sur une œuvre de [[Roy Lichtenstein]] et se demande comment sur une revue comme Artforum il peut être confronté à une image issu de la culture populaire. Artforum légitimise cette image et ce répertoire de formes.
+	- Il nomme les indiscernables, impossible de discerner celle de [[Andy Warhol]] et celle de la marque Brillo
+		- Par exemple les ((65480be3-7ec8-4db9-9289-62be8b4f1216))
+		- On ne peut pas savoir si c'est une œuvre ou une vrai boite
+		- ou ((65480be2-746a-4677-ab0b-a80ec601a276))
+		- *"Voir quelque chose comme de l'art requiert quelque chose que l'œil ne peut apercevoir - une atmosphère de théorie artistique, une connaissance de l'histoire de l'art: un monde de l'art" - Danto*
+		- La valeur n'est pas dans l'œuvre même dans la démarche et dans le discours de l'artiste
+		- Principe à la base du [[Ready-made]]
+		- Transformation ontologique de l'objets, l'étant de la chose est modifié
+- Mais pourquoi un monde
+	- Un mundos / cosmos: un univers organisé
+		- Des règles, un fonctionnement partagées
+	- Ce monde à permis la transfiguration du banale.
+- *Quand les Attitudes deviennent formes*, 1969 au Kunsthalle Bern : exposition manifeste de cette transfiguration du banales et marquant quand au développement des pratique conceptuelles
+	- Ce n'est plus la formes qui compte mais c'est plutôt la démarche qui compte
+		- Sol Lewitt: [*Serial Project*](https://www.moma.org/collection/works/81533), 1966 ![Sol LeWitt. Serial Project, I (ABCD). 1966 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMTU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=4723d87ff6c4ec7b)
+	- Une des premières expositions qui donne à voir des artistes conceptuelles [[Art Conceptuel]] et des pratiques d'art contemporain
+- # Howard Becker: *Les mondes de l'art*
+  collapsed:: true
+	- Le monde de l'art - Phénomène Sociologique
+	  id:: 65d3770f-5fc6-43ff-89ba-8915f6763dd5
+		- S'intéresse aux mondes de l'art comme monde socio-professionnelle
+		- *Le monde de l'art comme un réseaux de coopération au sein duquel les mêmes personne coopèrent de manière régulière er qui relie donc les participants selon un ordre établi. Un monde de l'art est fait de l'activité même de toutes ces personnes qui coopèrent*
+		- Le monde de l'art partage des présupposés commun: des conventions
+- # Nelson Goodman: *Manières de faires des mondes*
+  collapsed:: true
+	- Philosophie issue de la [[Philosophie Analytique]]
+	- Ce demande comment quand l'objet est un symbole
+	- L'art consiste à faire parler un objet, un objet renvoi à un signifiant il propose un symbole
+	- La question n'est plus qu'est ce que l'art mais quand il y a t'il art: sous quelle facteur quelle mécanisme
+		- Dimension Symbolique et signifiante de l'œuvre
+			- [[Joseph Beuys]] : 7000 chênes, 1982 - 1986 ![image.png](../assets/image_1698509441517_0.png)
+			- Le geste bien qu'il soit banale est symbolique car il est inscrit dans le monde de l'art
+			- ((65480be3-75c7-477e-84b4-da63a78f3465))
+- Toutes ces tendances appartiennent aux pratiques d'art contemporain Nathalie Nathalie Heinich: [*Le paradigme de l'art contemporain*](https://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Le-paradigme-de-l-art-contemporain)
+	- La transition entre moderne et contemporain problématise l'art ce qui rend l'art dure à accéder
+	- Un paradigme est une réponse que l'on se fait propre à un milieux
+		- Le discours est le commentaire deviennent important dans l'art contemporains. Les démarches sont appréhendables d'un point de vue intellectuel est nécessite donc une médiation
+- Richard Venlet: [*Cit.Cit.2 Platforme & Treasury*](https://www.etablissementdenface.com/in-the-past/richard-venlet-cit-cit-2-platform-treasury), 2005 ![RICHARD VENLET CIT.CIT. 2 PLATFORM & TREASURY ETABLISSEMENT D'EN FACE](https://www.etablissementdenface.com/wp-content/uploads/2005/09/CIT2d-810x1080.jpg)
+	- Questionne la mise en espace du lieux d' [[Exposition]] et propose plus des œuvres comme display et investi les pratiques curatorials
+	- Richard Venlet: [*Museum for a small city*](https://smak.be/en/exhibitions/museum-for-a-small-city-the-s-m-a-k-collection-presented-re-viewed-and-re-visited-richard-venlet), 2014 https://www.pikasus.com/wp-content/uploads/2014/01/a47bdb2ae5a99dc68185bc94a1d4224c.jpg
+- L'art devient une chose mental, [[Art Conceptuel]]
+- # Lee Lozano
+  collapsed:: true
+	- Artiste américaine qui a un moment acquiert une certaine reconnaissance dans le [[Monde de l'art]]
+	- Elle va intentionnellement mettre fin à sa carrière artistique
+		- Elle développe des pièces conceptuels langagières qui sont pour elle un support pour dire adieu aux règles de sa vie en tant qu'artiste
+		- L'intention est de sortir du [[Monde de l'art]] pour engager une révolution personnelle.
+			- Dans un premier temps elle refuse de parler aux femmes
+				- Et petit à petit quitte l'entièreté de la société
+	- Lee Lozano: [*Untitled (Tool)*](https://www.moma.org/collection/works/96565), 1963 ![Lee Lozano. Untitled (Tool). c. 1963 | MoMA](https://www.moma.org/media/W1siZiIsIjExNzk5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6f9540a8f5660bd2)
+		- Peint avec rage en réaction à la production picturale phallique qui domine la peinture des années 1960
+	-

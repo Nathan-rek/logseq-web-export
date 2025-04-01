@@ -1,0 +1,14 @@
+- Artiste américain qui a étudie le saxophone et le piano avant de se lancer dans la peinture
+- Souvent qualifié d'art [[Minimalisme]] mais il préfère prendre le contre-pied et se dit être un réaliste.
+	- Il refuse l'[[Abstraction]] car il ne pas peint l'abstrait il peint l'acte de peindre. Il ne veut pas crée des illusions mais présenter les matériaux qu'il utilise.
+		- Son geste est assez hérité de l'[[Expressionnisme Abstrait Américain]], mais l'intérêt pour Ryman est dans le support il travaille avec une grande multitude de matériaux
+	- Robert Ryman: [*Orange Painting*](https://www.moma.org/collection/works/79939), 1955 ![Untitled (Orange Painting), 1955 - Robert Ryman - WikiArt.org](https://uploads3.wikiart.org/images/robert-ryman/untitled-orange-painting-1955.jpg)
+		- Dans ses premières peintures le monochrome est déjà présent
+			- Robert Ryman: [*Classico*](https://www.guggenheim.org/artwork/3745), 1968 ![Robert Ryman | Classico IV | The Guggenheim Museums and Foundation](https://www.guggenheim.org/wp-content/uploads/2022/04/05/91.3845_ph_web.jpg)
+			- Classico est une série de peintre dont le titre fait référence au type de papier utiliser pour l'œuvre ce qu'il montre l'importance du matériaux chez Ryman
+			- Tout comme les œuvres *Classico* portaient le titre du type de papier utilisé comme support, les œuvres
+			- Robert Ryman: [*Surface Veil*](https://www.sfmoma.org/artwork/2000.112/), 1970 ![Robert Ryman, Surface Veil, 1970-1971 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2022/05/02110334/2000.112_01_H02-Large-TIFF_4000-pixels-long.jpg)
+			- portaient le nom de la marque de fibre de verre sur laquelle les plus petites pièces de ce groupe étaient peintes
+- A partir des années 1975 il accroche ses peintures avec des accroches en métal qu'il design spécialement pour chaque pièces
+	- Robert Ryman: [*Ledger*](https://www.tate.org.uk/art/artworks/ryman-ledger-t03550), 1982 ![Ledger', Robert Ryman, 1982 | Tate](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_zxuuf0d.jpg)
+-

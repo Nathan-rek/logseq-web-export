@@ -1,0 +1,41 @@
+- Artiste luxembourgeois née en 1967 et mort prématurément en 2002 dans un incident d'hélicoptère. L’artiste développe une approche picturale diverse :
+	- L’artiste intègre dans ses expositions de nombreuses citation
+- Dans , le critique français [[Nicolas Bourriaud]] constate que « les notions d'originalité (être à l’origine...), et même de création (faire à partir de rien) s'estompent ainsi lentement dans ce nouveau paysage culturel marqué par les figures jumelles du DJ et du programmateur, qui ont tous deux pour tâche de sélectionner des objets culturels et de les insérer dans des contextes définis »
+- Intègre des citations visuelles de la culture de masse, du jeu et du cyberespace dans une imagerie agressive.
+	- Très tôt il utilise des outils d’imagerie numérique, tels que des programmes vectoriels et des logiciels de traitement d’images.
+- Développe des stratégies pour traiter des images existantes
+- [[Michel Majerus]] : [*Controlling the moonlight maze*](https://commons.wikimedia.org/wiki/File:Installation_view_controlling_the_moonlight_maze,_neugerriemschneider,_Berlin_2002.jpg) ![Wenn Spielkultur auf Kunst trifft. - Erbse](https://pseudoerbse.de/wp-content/uploads/2016/04/videospiele-kunst-kultur-gaming-fridericianum-kassel-images-flashback-michel-majerus-controlling-the-moonlight-maze.jpg)
+	- Le FBI donne le nom de code «Moonlight Maze» abrégé «MM» à l’attaque de hacker la plus agressive et persistantes contre le gouvernement américain jusqu’en 1998.
+- A travers une sérié d’œuvre en 60cm x 60cm Majerus commente les conditions d’exposition dans la formation sans cesse renouvelés.
+	- Les styles de peintures et les motifs inspirés de , [[Frank Stella]] , [[Gerhard Richter]], [[Jean-Michel Basquiat]] , [[Andy Warhol]] , apparaissent comme des effets techniques.
+		- La citation comme méthode lui permet d’intégrer presque tout dans son travail
+- Serie de *MoM Blocks*.
+	- La série de carrés se présente comme cahier d’esquisse où l’artiste s’expérimente et teste les possibilités de rencontre entre image textes, technique, formes, couleur.
+	- On peut y voir des échantillons de son univers visuel.
+- [[Abstraction]] :
+	- Michel Majerus: [*MOM BLOCK N.85*](http://www.artnet.fr/artistes/michel-majerus/mom-block-n-85-iHopyW0fbat0q6JYkH17OQ2), 1999 ![Michel Majerus | MOM BLOCK N. 85 (1999) | MutualArt](https://media.mutualart.com/Images/2016_04/20/20/205757084/f12c74f6-8d66-4762-bb3f-682a9d0d3d2c_570.Jpeg)
+- Figurative
+	- Michel Majerus [*Geschenk mit praktischem Nutzen*](http://www.artnet.fr/artistes/michel-majerus/geschenk-mit-praktischem-nutzen-lGgPb-Krmk5y2FOSVOogeg2) https://www.millon.com/sites/millon/files/auction-items/6032c73ae94da.jpg.webp
+- Jeu dimensionnelle
+	- [*Your Bad Taste*](https://www.petzel.com/exhibitions/michel-majerus/selected-works?view=slider#4),2002 https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/63692af4d0d707561d062132/2f7145e4397ca47fa68cf9ae0e7ab6cb.jpg
+		- Avec des éléments sculpturales qui compose l’œuvre
+- Print
+- Intégration d’élément de la pop culture
+	- Film
+		- Toy Story
+			- Michel Majerus [*Untitled, 1996*](http://www.artnet.fr/artistes/michel-majerus/untitled-CH1xXR8PoDw1WtMasTNo5A2) ![Untitled, MICHEL MAJERUS | Matthew Marks Gallery](https://mmg.nyc3.cdn.digitaloceanspaces.com/online/untitled-1996-37310/_1600xAUTO_crop_center-center_none/Majerus_Untitled_1996_37310_02.jpg)
+	- Musique
+		- Kraftwerk
+	- Marque
+		- Nike
+	- Jeux Vidéos :
+		- Saga Mario
+			- Inscrit Le personnage éponyme dans sa série de tableau en aluminium
+				- [*Untitled 1996*](https://matthewmarks.com/exhibitions/michel-majerus-aluminum-paintings-02-2017/lightbox/featured/0) https://mmg.nyc3.cdn.digitaloceanspaces.com/online/michel-majerus-aluminum-paintings-02-2017/_800xAUTO_crop_center-center_none/Majerus_Untitled_1996_42669_02.jpg
+			- Majerus pousse la référence à des personnages secondaires, avec notamment une peinture d’un Lakitus
+		- Space Invader
+			- [*Space Invaders 2*](https://www.petzel.com/exhibitions/michel-majerus/selected-works?view=slider#2) ,2002 ![Space Invaders 2](https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/63692af4d0d707561d062132/753b01ada2ba5863f97cd4a4c4da4e8b.jpg)
+				- Emprunte le style de [[Andy Warhol]] et peint des sujets qui sont anachronique à [[Andy Warhol]]
+		- Pokemon
+			- <a name="ctl00_maincontentplaceholder_ucartworkarea_repartworkdetails_ctl00_ucbasicdetailscontrol_artworktitle"></a>[*o.T." (619)*](http://www.artnet.fr/artistes/michel-majerus/ot-619-mnnLSGqtYbOawM_8l0Nhig2)<a name="ctl00_maincontentplaceholder_ucartworkarea_repartworkdetails_ctl00_ucbasicdetailscontrol_artworkyear copie 1"></a>, 2000 https://media.mutualart.com/Images/2015_09/10/21/214456156/6adf2780-f345-400d-adf9-7da194693635_570.Jpeg
+	- Célébrités

@@ -1,0 +1,18 @@
+- ![It's literally impossible to unsee it : r/antimeme](https://i.redd.it/de6ma7dy3vla1.jpg)
+- Le lapin de [[Wittgenstein]] ![La perception de l'aspect - philosophia](https://lh3.googleusercontent.com/proxy/kpv44XaNpio1BPPkkoUvK-HpDJ21vNAk5aJlYwc3T-qlrfRLcUEi_ootWgTqoYODEzPYTl6fKSQQ9R2EV2deT8DyXBP3_RxKo3SSBVB1sQn9yd4Bz8ou8w)
+	- Image qui est à la fois un canard et une lapin
+- Tête réversible de Arcimboldo
+	- Arcimblodo: [*Vertume*](https://fr.wikipedia.org/wiki/Vertumne_%28Arcimboldo%29), 1590 ![Vertumne (Arcimboldo) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portr%C3%A4tt%2C_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif/lossy-page1-1200px-Portr%C3%A4tt%2C_Rudolf_II_som_Vertumnus._Guiseppe_Arcimboldo_-_Skoklosters_slott_-_87582.tif.jpg)
+- Les scientifiques s'intéresses au rôle des illusions d'optiques
+	- Test de Rorscharch ((653fcc09-e8bc-4c3b-b1fd-e71fea161705))
+- *Cannot be unseen*
+	- Image décontextualiser, l'hashtag cannot be unseen
+	- Buzz Feed utilise aussi cette méthode de formulation pour jouer avec notre curiosité
+		- Méthode ClickBait
+- Les memes reprennent ce principe
+	- L'aura de l'œuvre de [[Walter Benjamin]] devient obsolètes avec la diffusion des memes
+- L'antimeme
+	- Ressemble à un meme
+	- Contient une anti-blague
+	- A un rôle humoristique
+		- Se rapproche d'un art autotélique [[Art Conceptuel]] qui joue de ces propres codes et se redéfinit de ces codes

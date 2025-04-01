@@ -1,0 +1,9 @@
+- Un idee qui est soit [[Post-Humanisme]] car propose une autre construiction de la subjectivité
+	- Rompt avec la subjectivité qui se base sur les conditions d'accès dans la sphère de la société et à la vie politique en relation avec la capacité reproductive de la vie et le déterminisme du genre
+		- Le cyborgfeminsime de Haraway cherchait des identités désobéissantes qui ne sont pas catégorisable
+- [[Judith Butler]] propose que le genre est performative, c'est la répétition des normes sociales.
+	- Approche le genre comme une construction sociale
+- # Emy Koyama
+- Rédige un manifeste transfeminisme: *The transfeminism manifesto*
+	- Essaie de definir le transfeminisme comme
+		- *" un mouvement fait par et pour des femmes trans qui voit leur libération comme devant être lié a la libération de toute les femmes et au-delà "*

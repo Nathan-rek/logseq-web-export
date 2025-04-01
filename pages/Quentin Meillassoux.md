@@ -1,0 +1,52 @@
+- La positon de Meillassoux est c'est d'un Réalisme Spéculatif qui serait à l'encontre du [[Corrélationisme]]
+	- Pour Meillsassoux pour que la chose existe en soi elle ne nécessite pas la corrélation avec la pensé
+- # Après la Finitude
+  id:: 6783eb82-50ac-4686-8823-703521b4be12
+	- ## L'ancestralité
+		- ### [[Corrélationisme]]
+			- Lien constant entres les réalités et leur sensations
+			  id:: 661023c4-90aa-47b2-abc6-54fcb8fbceec
+			- Le sensible existe comme un rapport
+				- Le sensible n'est pas en moi ni dans la chose en soi ( valeur intrinsèque ) il est la relation entre la chose et moi
+					- Ce que les classiques nomme les **qualités secondes** Lock ou Descartes
+						- Les qualités premières seraient des qualités inséparables de l'objet des propriétés de l'en soi
+							- Pour Descartes se sont les propriétés de l'entendue qui peuvent donc faire l'objet de démonstration géométriques : longueur, larguer , profondeur, mouvement , figure, gradeur
+								- Donc les propriétés mathématisables d'un objet s'exemptent de ce rapport de qualités secondes
+								- Aucune des deux ne peut être considérée comme absolue dans un cadre corrélationniste.
+							- Cette thèse se fait invalider par le problème même qu'en la pensant on pense un monde en soi et qu'il n'y a donc pas de qualité première
+								- Auto contradictoire car en la pensant on l'invalide
+									- La pensée ne serait distinguer le monde *en soi* et le monde *pour nous* problème de [[Phénoménologie]]
+									- Hegel le rappelle nous ne pouvons rien connaitre qui soit au delà de nos relations au monde
+										- Disqualification du réalisme naïf des métaphysiques dogmatiques
+											- **Réalisme naïf** : C'est la croyance selon laquelle le monde extérieur existe de manière indépendante de notre perception et que nous pouvons le connaître directement tel qu'il est. En d'autres termes, cette perspective suppose que les objets existent exactement comme nous les percevons, et que cette perception nous donne un accès direct à la réalité.
+											  id:: 66d445f4-3d51-442e-b14f-b2cb04d18ec0
+											- **Métaphysiques dogmatiques** : Ce sont les systèmes philosophiques qui prétendent détenir une connaissance certaine et absolue de la réalité. Ces métaphysiques reposent souvent sur des principes immuables ou des nécessités rationnelles qui prétendent expliquer l'essence du monde de manière définitive.
+			- Corrélation : idée qu'on a accès que à la corrélation entre être et pensée et jamais à un de ces termes de façon isolé
+				- [[Corrélationisme]]: Tous courant de pensé qui soutient le caractère corrélative de ces rapports.
+					- Consiste à disqualifier toutes prétentions à considérer les sphères de la subjectivité et de l'objectivité indépendamment l'une de l'autres
+						- Cercle corrélation comme cette phénomène d'autocontradiction que lorsque qu'on pense un objet en soi on le pense déjà plus en soi
+							- Si on pense l'être en soi, alors il est déjà pour nous, donc ce n'est plus en soi.
+							- Ensuite il était question de ce demander quelle mode de corrélation est originaire: [[Sujet-Objet]] / Langage -référence
+								- **Objet-monde**: La conscience et le langage sont des objet unique car il font monde
+									- Francis Woff " *Tout est dedans parce que, pour pouvoir penser quoi que ce soit il faut en pouvoir en  avoir conscience* "
+										- Nous sommes enfermés dans une conscience sans pouvoir en sortir: le langage par exemple
+											- Des cages transparentes en communication avec l'extérieur mais d'où on ne peut en sortir
+		- Comment penser le monde avant l'H ? Comment penser le monde avant la conscience
+			- **Ancestral**: Toute réalité antérieur à l'H
+			- **Archi-fossile**: matériaux indiquant l'existence d'une réalité ancestrales
+				- Matériel à l'origine des expérimentations donnant lieux à l'estimation de phénomènes ancestrales
+					- L’archi-fossile est plus qu’une simple donnée du passé : c’est une preuve matérielle qu’il y a eu de l’être sans pensée.
+					  id:: 67e7c783-bac4-4f4f-943c-597d7fcdec76
+			- Quelle interprétation le [[Corrélationisme]] donnerait face aux énoncés ancestraux ?
+				- Le [[Corrélationisme]] ne peut entrevoir les matières Archi fossile car elle ne réponde pas au corrélat créationniste.
+					- On décrit des événements qui ne nous étaient pas sensible.
+						- Cette absence de témoin pose aussi soucis au lointain sachant que la lumière qui nous parviens est issu de temps antérieur
+			- L’ancestralité prouve que des réalités existaient avant toute pensée humaine, donc on ne peut pas réduire tout être à un être-pour-nous.
+			- On se voit jamais un cube en entier
+				- Il y a toujours un non saisie dans la perception
+					- Un donné peut donc être lacunaire, on perçoit les vagues juste en les entendants au loin
+						- Un évènement qui se passe sans témoin mais qui se donne à un être lors de la présence possible de témoin devient donc une donné lacunaire mais envisageable or l'ancestral a un problème car la donation même de l'événement ne peut être perçues
+			- La science elle conçoit ces espaces temps antérieur à la conscience et la donation elle même.
+	- *« La contingence […] est quelque chose qui finit par se produire—quelque chose d'autre, quelque chose qui, dans son irréductibilité à toutes les possibilités pré-enregistrées, met un terme à la vanité d'un jeu où tout, même l'improbable, est prévisible. »*
+	  id:: 66d34cae-f1f1-4b84-b296-3804e410b377
+	-

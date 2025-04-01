@@ -1,0 +1,106 @@
+- L'art moderniste se développe dans l'état fédéral du Brésil, plus grand pays d'Amérique du sud
+	- Fortes puissance économique, 2ème puissance agro-alimentaire du monde après les Etats-Unis
+		- La forêt amazonienne offre une richesse écologique de première importance
+			- Espace en guerre entre écologiste et industrie pharmaceutique
+	- Grandes puissance commercial grâce au relations de Mercosur
+	- Malgré cela une grand inégalités persiste au Brésil, un écart salariale colossale
+		- Se fait ressentir géographiquement entre villes à gratte-ciel et favelas
+- Objet de nombreux brassage et violence coloniales
+	- Les portugais arrivent au Brésil avec un héritage métissé
+- Au cours du 20ème et 21ème siècle il y a une forte vague d'immigration des travailleur fuyant la misère de leur pays
+- Il y a en réalité une énorme asymétrie social
+	- Un fort racisme systémique envers les communautés natives et les noirs brésiliens
+- Une identité nait de la violence coloniale de l'esclavagismes et du racisme
+	- ((6744346b-caf5-4f20-978d-bcd8a34ebf83))
+		- Œuvre céramique qui est un format importe par les portugais, qui eux même l'ont récupéré aux peuple arabes
+			- La fissure au cœurs de l'assiette serait le brésilien au centre du viole des personnes noires et des amérindiens
+				- Du au droit de cuissage des blancs sur les esclaves
+					- Une mixite nait de cette violence
+					- Ce qui donne le titre de fils bâtard
+- A la fin du 19ème siècle il y a beaucoup de transformations importantes dans les arts visuels
+	- Le [[Modernisme]] s'installe au Brésil, arrivée de nouvelles tendances artistique européennes au Brésil, les [[Avant-Gardes "Historique"]]
+- ## Phase héroïque de 1922 -> 1930 ( arrivé du [[Modernisme]] )
+	- ###  Semana de Arte moderna
+	  id:: 67ceb248-ae50-4e1e-a379-d0a50acd1a01
+		- L'évènement qui va révolutionner l'art au Brésil c'est le *Semana de Arte moderna* en 1922 à Sao Paulo au Teatro Municipal
+			- Théâtre d'architecture européenne
+			- Festival de 4 jours où le public verra de nouvelles approches à l'art visuel
+				- Beaucoup de visiteur..ices sont choqué..es par les nouvelle proposition, publi tres conservateur
+			- On retrouve dans le hall des expositions d'artistes, des présentations, des concerts de
+		- Années du centenaire de l'indépendance du Brésil
+			- Volonté d'actualiser le milieu artistique brésilien par la prise de contact avec les divers langages des précurseurs européens
+				- Premier élan d'actualisation vient de la peintre avec Di Cavalcanti qui réalisera le carton d'invitation de l'exposition
+		- ### Anita Malfatti
+			- Artiste formé en Allemagne influencée par l' [[Impressionisme]] et l'Expressionisme
+				- Œuvre qui tranche avec le classisme présent dans la peinture brésilienne
+					- Anita Malfatti, *L'homme Jaune*, 1915 ![Malfatti, Anita (1889-1964) - 1915 Yellow Man (Institute f… | Flickr](https://live.staticflickr.com/8091/8537649252_0f98da021f_z.jpg)
+						- Titre qui faire référence aux titres d'artistes fauvistes et expressionnistes comme Matisse
+			- Anita Malfatti, *Tropical*, 1917 ![Tropical - SKETCHLINE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgvN3Ap1JYPZeKSzbGY6XVBXF48_ohzcnwGw&s)
+				- Encré dans une identité local propre au Brésil, ajout d'élément folklorique et natif du peuple brésiliens
+			- En 1917 lors d'une exposition personnelle elle crée un tel choc que certains acheteurs restitue les œuvres de Malfatti
+				- On parle d'un art dantesque et caricatural
+					- Monteiro Lobato compare le travail des artistes du Groupe des Cinqs *aux dessins des aliénés interné dans les asiles*
+						- Ce qui peut rappeler le propos de l'exposition des dégénèrés du régime nazi
+			- On la retrouve aussi le Groupe des Cinq où elle exposera à la Semana de Arte moderna
+				- Benjamin Peret proche des [[Surréalisme]]
+			- Les idées novatrices introduites par cette semaine vont prendre une réelle importance au fil du temps
+				- Apparition de revues tel que *Klaxon*, *Televista Antroprofagia*
+		- Sao Paulo se voit industrialisé et connait une forte vague d'immigration d'européens
+			- Sao Paulo devient une capital d'Europe
+- # [[Pau-Brasil]]
+- # [[Mouvement Anthropophage]]
+- # Art Social au Brésil
+	- ## Candido Portinari
+		- Expression typique du [[Modernisme]] des années 1930
+			- Thèmes nationaux et fort accent social et politique
+				- associer au [[Cubisme]] de Picasso et au muralisme mexicain
+		- Candido Portinarie, [*Coffe*](https://artsandculture.google.com/asset/coffee/DQEhZ_o8j-q7eQ?hl=en), 1935 ![Coffee - Candido Portinari — Google Arts & Culture](https://lh3.googleusercontent.com/ci/AL18g_TzChAp2WZy1Cs--YS0t0aRLq0gMXcKciamWMqiDYODjnba0kVtRZIaZC-HP51BlKot6G-VDOc=s1200)
+			- Hommage et valorise au culture du café comme thème social essentiel du brésil
+				- Population modeste issue de l'esclavage
+		- Candido Portinari, *Mestizo*, 1934 ![Mestizo Man : Candido Portinari : 1934: Archival Quality Art Print | eBay](https://i.ebayimg.com/images/g/DB8AAOSwgpJfNMXw/s-l1200.jpg)
+			- Valorisation du metissage
+				- Paysage forestier détruit par les politiques extractiviste et économistes du Brésil moderne
+				- Localisme et envie de faire de la peinture un outil social
+	- ## ((67e1269c-2415-4b1e-be48-31f0917f9a5d))
+- # Concrétisme et Néo Concrétisme
+	- A la fin de la guerre les pays d'Amérique latine vont recevoir une grande quantité de refugié..es européen..ess qui vont peupler les terres sud-américaines
+	- Le brésil atteint une apogée de modernisation dans les années 1950 - 1960
+		- Etablissement de nation état industriel modernes technocratique à l'image de l'Europe
+	- Apparition de Brasilia
+		- La création ex-nihilo de Brasilia est fausse on a mis fin à un biotope pour faire naitre une ville
+		- Oscar Niemeyer élève du Corbusier va participer à la construction de Brasilia
+			- ((661023c8-78f3-4167-97c9-7db144c57363))
+	- En 1950 Max Bill (artiste suisse) va exposer au musée d'art de Sao Paulo
+		- Max Bill descend du [[Bauhaus]] et du [[Modernisme]] abstrait
+		- Il va avoir une forte influence sur la scène artistique de 1950
+	- Première biennale de Sao Paulo en 1950
+		- Deuxième plus vielle biennale d'art
+		- L'envie d'ouvrir la scène artistique au public internationale
+			- Durant l'ouverture de la biennale il y a des capoeristes qui s'exercent
+		- On y expose des œuvres de Picasso Giacometti
+			- Le Brésil Ne pas être la banlieue du monde et veulent inscrire le brésil dans la [[Modernité]]
+		- A la suite de cette biennal il y a un début d' [[Art Concret]] et de Concrétisme
+			- Style dominant dans les années 1950
+	- ## L'[[Art Concret]] au Brésil
+		- Le concrétisme va apparaitre au Brésil notamment à São Paulo
+			- ### Grupo Ruptura
+				- Le groupe Ruptura serait la manifestation de l' [[Art Concret]] au Brésil
+					- L'exposition Ruptura au Musée d'art modernes de São Paulo va présenter des artistes résidant à São Paulo
+				- Waldemar Corderio, [*Movimento*](https://dasartes.com.br/colunas/alto-falante/arte-abstrata-ideologia-e-estetica/attachment/waldemar-cordeiro-movimento-1951/), 1951 ![Research / Pesquisa](https://gallery.bananabanana.me/research/media/Cordeiro_Movimento_Museu-de-Arte-Contempor%C3%A2nea-da-Universidade-de-S%C3%A3o-Paulo_1500.jpg)
+					- Logique orthogoale, et planeite revendiqué
+			- Waldemar Cordeiro, [*Visible Idea*](https://emuseum.mfah.org/objects/60082/ideia-visivel), 1956 ![Idéia visível | All Works | The MFAH Collections](https://emuseum.mfah.org/internal/media/dispatcher/299684/full)
+				- On peut lire le tableau
+			- Luis Sacilotto, [*Conretion 6045*](https://artsandculture.google.com/asset/concre%C3%A7%C3%A3o-6045/BwHas6I4OfnxlA?hl=en),  1955 ![Concreção 6045 - Luís Sacilotto — Google Arts & Culture](https://lh3.googleusercontent.com/ci/AL18g_QZHv1abSBG_JE768il0FsDlJu12Q51bk3RHI2XkRw7_K0WU7aR9Q-yUqysoAn2JxelduZFu8A)
+				- Développement géométrique de l'espace
+			- Geraldo de Barros, [*Diagonal Function*](https://www.moma.org/collection/works/205932?artist_id=28410&page=1&sov_referrer=artist), 1952 ![Geraldo de Barros | MoMA]({:height 80, :width 468})
+			- Il y a un paradigme géométrique à la base du concrétisme
+			- Mary Vieira, [*Polyvolume*](https://www.flickr.com/photos/bancocentralbr/19558293556), 1967 ![Mary Vieira | Polivolume: evento elipsoidal | Polyvolume: el… | Flickr](https://live.staticflickr.com/404/19558293556_ec775f513c_b.jpg){:height 56, :width 468}
+		- Face au caractère rigide et froid du concrétisme va apparaitre le néo concrétisme
+	- A Rio De Janeiro il y a une autre expression de l' [[Art Concret]]
+		- ### Grupo Frente
+			- Le groupe front (traduit) est un groupe d'adhèrent à l' [[Art Concret]]
+				- Première exposition du Grupo Frente à Rio
+					- Introduit par le critique Ferrera Gular sous la direction de Ivan Ferreira Serpa prof du musée d'art moderne de Rio qui va avoir un grande influence sur Hélio Oiticica.
+						- Ivan Sepra, [*Faixas Ritmadas*](https://www.wikiart.org/en/ivan-serpa/faixas-ritmadas-1958), 1958 ![Faixas Ritmadas, 1958 - Ivan Serpa - WikiArt.org](https://uploads2.wikiart.org/images/ivan-serpa/faixas-ritmadas-1958.jpg!Large.jpg)
+							- Précurseur de l' [[Abstraction]] géométrique au brésil
+						-

@@ -1,0 +1,29 @@
+# When We were Trolls
+	- [When We Were Trolls](https://vimeo.com/365940777) est une exposition de Caroline Delieutraz à la galerie 22,48 m² dans laquelle elle s’intéresse à la part sombre d’internet par le biais de la figure du « troll». Une démarche que l'on peut qualifier de [[Post-Internet]] car la culture web se voit traiter dans une domaine artistique
+	- Créant un personnage nommé [Aurélien](http://delieutraz.net/aurelien-fr/) et navigant dans son disque dur
+		- Caroline Delieutraz : [*Aurélien \[ détail \]*](https://www.2248m2.com/carolinedelieutraz?lightbox=dataItem-k10wj3g3), 2019
+		- Pour Philippe BETTINELLI (commissaire d’exposition et critique) Aurélien est un personnage se désignant lui-même comme sociopathe, à partir d’éléments dont le statut oscille, par l’activité même du troll et l’anonymat qu’elle présuppose, entre la pièce à conviction et le trophée
+			- Caroline Delieutraz : [*Monologue \[ Aurélien \]*](http://delieutraz.net/aurelien-fr/2021-aurelien-fr.pdf), 2019 ![](https://static.wixstatic.com/media/d26af2_40855c008dc94dc8a5a812efc4c2d24d~mv2.jpg/v1/fill/w_405,h_720,al_c,q_80,usm_0.33_1.00_0.00,enc_auto/d26af2_40855c008dc94dc8a5a812efc4c2d24d~mv2.jpg)
+				- Dans ce monologue le personnage se désigne comme sociopathe
+					- Il y décrit tout les traits de sa personnalité qui fait de lui un sociopathe
+				- La vidéos utilise les codes du net
+					- La vidéos est titré et utilise un design typographique, par la police et les contours, un style de même internet
+					- Elle est en format vertical
+					- Présente de nombreux gifs
+				- Il présente sa vision du web et du Web 1.0. Il présente ses bienfaits du web comme le téléchargement illégal. Il explore et décrit son rapport à l’activité de trolling.
+					- Ses cibles et ses manières d’agir en tant que trolle « Du moment que tu existe sur internet tu es trollable. Sur internet tout est trollable »
+					- Il présente comment il agit sur internet: « Diverses stratégies permettent de ne pas se faire repérer de suite comme imiter le discours type dominant et l’exagérer avec des conclusion outrancières »
+	- La figure d’Aurélien en tant que troll est géré à travers l’usage du masque symbolisant l’anonymat comme valeur essentiel aux trolleur..eus.
+		- Caroline Delieutraz en collaboration avec Vincent KIMYON: [*Trolls Just Want To Have Fun*](https://twitter.com/2248m2/status/1191248904689504257), 2019
+		  id:: 65ddfc5b-57b2-4728-9267-afd78c1be1aa
+		- L’artiste présente de nombreux masques horrifiques car le symbole du l’anonymat, du privée et du public sont des bases qui constituent le..a trolleur..eurs. Usant de son anonymat pour utiliser a l’inverse le manque de confidentialité des autres utilisateur..ices.
+			- Il dépit une manière d’être sur internet très précises dans la différence principale ce fait sur notre manière de nous montrer sur internet
+				- Caroline Delieutraz : [*Troll #1*](https://www.liberation.fr/arts/2019/10/14/caroline-delieutraz-autopsie-d-un-troll_1757534/), 2019 ![«Troll #1», 2019, de Caroline Delieutraz. ](https://www.liberation.fr/resizer/d0IVpO_DJMkMlTmAKzQzTlCzBhw=/1600x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/CG3P73SVFDBXTJHHZ55S3NAIVQ.jpg)
+					- Le masque horrifique du troll lui sert d’anonymat mais aussi avec une paire de chaussure qui rappelle la présence d’un..e humain..e derrière le masque
+	- Plongé dans le disque dur d’Aurélien l’artiste présente des documents propres à Aurélien
+		- Caroline Delieutraz : [*Odyssée*](http://delieutraz.net/aurelien-fr/), 2019 ![](https://www.artpress.com/wp-content/uploads/2019/09/montage_3_videos.jpg)
+			- La vidéo est une adaptation d’une nouvelle de science-fiction écrite par Aurélien, trouvée dans un fichier texte de son disque dur
+	- Dans l’exploration de son disque dur on y retrouve les traces de son activité sur internet
+		- Le polyptyque [*Swipe Dream*](https://www.artpress.com/2019/09/25/caroline-delieutraz-when-we-were-trolls-wwwt/),2019 ![](https://www.artpress.com/wp-content/uploads/2019/09/Swipe_Dream.jpeg)
+			- présente 5 images. Chacun sont composé de deux images. La compostions présente une forme de mouvement horizontale comme l’activité d’un swipe de fichier sur ordinateur.
+			- On retrouve ses images pornographiques téléchargées, dont il parle dans le monologue. La série d’image présente de seulement et des intérêts qui caractérise les intérêts d’Aurélien figure de troll

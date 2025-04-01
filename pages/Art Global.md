@@ -1,0 +1,252 @@
+- Contourner l'hypothèse de simultanéité spatio-temporelle et les dangers de concevoir "l'art global" comme un phénomène universel et anhistorique où les inégalités coloniales et les hiérarchies de pouvoir ont été résolues.
+- La visibilité n'est pas démocratisée car il y a un phénomène de monoculture et d'hégémonie culturelle.
+- Penser plutôt une co-présence et l'interrelation dans un même espace géopolitique.
+- Enjeux de repossession des œuvres d'art africaines.
+	- Nouvelle éthique et nouveau respect entre les musées et les "communautés sources".
+- Pour mettre en avant les productions locales, beaucoup d'artistes et d'institutions se mettent à faire des Biennales comme manifestation d'art contemporain culturellement global dans une forme de [[Multiculturalisme]] de l'art.
+	- Certaines biennales veulent se démarquer du courant dominant.
+		- Biennale du Mercosur, Porto Alegre, Brésil.
+			- Volonté de présenter des artistes marginalisé.e.s.
+		- Biennale de Lubumbashi, RD Congo 2017.
+			- Mettre en avant l'art congolais et l'art contemporain.
+				- Région appauvrie par l'économie globale pour ses réserves de minerais rares, organise une manifestation culturelle qui dépasserait le statut de zone d'exploitation minière.
+- Leila Pazzoki: [*Moment of glory*](https://nadour.org/collection/moments-of-glory/), 2010
+	- https://emergeast.com/wp-content/uploads/2021/03/Moments-Of-Glory-by-Leila-Pazooki-1.jpg
+	- Listings de comparaison d'artistes sur le calque occidental
+		- *African Anselm Kiefer / Dali of Bali / Middle Eastern Louise Bourgeois*
+	- Evoque le rapprochement trop facile de l'évaluation des artiste sur des modèles occidentaux
+	- Symptôme de la visibilité problématisé de l'Art Global
+- Le terme Sud Global désigne un groupe de régions du Sud qui se développent face à l'Occident.
+- En 1989, *Les Magiciens de la terre* cherchent à s'adapter à ce tournant, quittant le centre pour penser la périphérie.
+	- Apparition d'un discours postcolonialiste.
+	- Éclatement d'un centre en divers centres géographiques.
+	- Apparition des biennales à travers le monde.
+		- Apparition d'un réseau d'institutions et de commissaires d'exposition.
+			- Recherche d'une identité culturelle dans l'art régional afin d'obtenir la reconnaissance mondiale pour elle.
+		- La biennale d'Istanbul va prononcer une forte envie d'intégrer l'Europe, une occasion de s'occidentaliser. Avec l'arrivée d'Erdogan, les libertés ont été restreintes.
+			- La Turquie est mal vue par l'Europe à cause de l'Islam, or elle reçoit beaucoup d'argent de l'UE pour retenir les vagues de migration du Sud, c'est le projet Frontex.
+		- La biennale de Sydney constitue aussi un pôle de représentation de cette région géographique.
+		- Le concept d'art occidental et la dichotomie centre/périphérie perdent de leur sens.
+		- Pour [[Hans Belting]], c'est la première fois que l'Occident se trouve dans une situation où d'autres États peuvent déterminer qui est inclus et exclu économiquement, politiquement, militairement, culturellement.
+	- Naît une anxiété d'être exclu ou déclassé par les autres.
+- Dans le champ de la culture, on est passé de la [[Modernité]] à la [[Post-Modernité]].
+	- Succession de mouvements artistiques [[Avant-Gardes "Historique"]] , Paris perd sa place de capitale du [[Monde de l'art]] face aux États-Unis.
+		- L' [[Abstraction]] américaine devient le modèle esthétique dominant.
+			- Tous les pays sauvés par l'Amérique vont adopter le style de vie et la culture américaine (Jazz, Jeans, Coca, voiture).
+		- La figure de l'artiste américain va naître en lien avec une forme de [[Primitivisme]] héroïque, avec notamment [[Jackson Pollock]].
+	- Brasilia est une ville qui va être conçue sous une influence architecturale [[Modernisme]], avec des élèves de Le Corbusier ou Oscar Niemeyer.
+		- ((661023c8-78f3-4167-97c9-7db144c57363))
+	- Après cette hégémonie de la rhétorique grandiloquente de l'[[Expressionnisme Abstrait Américain]], apparaît une nouvelle avant-garde, un néo-dadaïsme notamment dans les arts du corps.
+		- Yayoi Kusama, *Naked Happening Orgy and Flag Burning* ![Feminist Artist: Yayoi Kusama | Subversive Sweetheart](https://subversivesweetheartfatp.wordpress.com/wp-content/uploads/2017/09/kusama0.jpg)
+			- Manifestation contre la [[Guerre Du Vietnam]] .
+		- Apparition du mouvement Hippie et des mouvements de manifestation étudiante.
+- Apparaît le tournant du [[Post-structuralisme]] : contre la fixité et l'ordre, fin de l'histoire, simualcre , critique de l'institution muséale, "mort" de l'auteur, arts anonymes, [[L'appropriationnisme]], activisme, [[Féminisme]].
+	- Revisite les mouvements de la [[Modernité]].
+- En 1989, arrivée du nouvel Ordre Mondial.
+	- Mélange en tout genre.
+		- [[Jean-Michel Basquiat]], *LNAPRK*, 1982 ![Jean-Michel Basquiat | "LNAPRK" | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/7811/91_83_cropped.jpeg)
+			- Logique de collage et d'accumulation.
+- Dans les années 2000, arrivent les pratiques relationnelles [[Art Relationnel]], situationnelles et sociales. [[International situationnistes]]
+	- Art sans style, sans *ism*.
+- Apparition accrue de nouveaux musées.
+	- Le *Musée Guggenheim* de Bilbao est une succursale du musée Guggenheim de New York.
+	- *Leeum Samsung Museum* en Corée du Sud.
+	- Cape Town, *Musée d'art contemporain Zeitz*, le plus grand musée d'Afrique.
+	- *Tate Modern* à Londres, dans une ancienne centrale électrique rénovée dans le cadre des JO de Londres.
+- Weng Peijun, *On the Wall*, 2001 ![Weng Fen | Sitting on the Wall: Haikou V | The Metropolitan Museum of Art](https://collectionapi.metmuseum.org/api/collection/v1/iiif/291676/620336/restricted)
+	- Fascination ou basculement face à l'émergence des villes modernes.
+		- Vœu de transformation de la Chine, ce qui inquiète les Chinois.
+			- Cette transformation de la Chine a permis une baisse de la pauvreté et une hausse de l'économie.
+- # Globalisation/Mondialisation
+	- Globaliser:
+		- Œuvrer au règne du Marché, de la croissance illimitée, de la flexibilisation du travail et de l'hégémonie culturelle.
+	- Mondialiser:
+		- Établir un ordre mondial respectueux de notre environnement, du travail humain et de la diversité des peuples et des cultures.
+		- [[Edouard Glissant]] propose plutôt *Mondialité* comme un entrechoc entre les cultures, inévitable et nécessaire, dans un processus de créolisation.
+	- C'est un processus et non un état.
+		- Il touche à l'économie (financiarisation, néolibéralisation, dérégulation), aux technosciences (cyberspace, biotechnologies, nanotechnologies), à la culture et l'idéologie (massification).
+	- Les logiques internationales et mondiales coexistent.
+	- Selon l'OCDE, il y a trois temps de la mondialisation :
+		- L'internationalisation : développement des flux d'importation des matières premières des Sud, lieux de préservation des ressources pour une main-d'œuvre à bas prix.
+		- Transnationalisation (1945) : essor des flux d'investissements directs étrangers et des implantations à l'étranger.
+			- Implantation des firmes américaines dans les pays où les USA ont apporté une aide militaire.
+				- Approche extractiviste des ressources issues du passé colonial des USA.
+		- Globalisation (1980) : mise en place de réseaux mondiaux de production, de financement et d'information.
+	- La mondialisation entraîne une fragilité à l'échelle régionale.
+	- Les firmes multinationales sont les acteurs les plus puissants de l'espace mondial.
+	- Augmentation des inégalités Nord Sud.
+		- Arrivée des mouvements altermondialistes qui protestent contre les systèmes capitalistes propagés par la mondialisation.
+	- ## Critique de la Globalisation/Mondialisation
+		- ### David Harvey
+			- David Harvey est un théoricien [[Marxisme]] chef de file de la géographie critique
+			- Quelle rapport de pouvoir se traduise dans la géographie
+			- La globalisation repose sur notre perception du temps et de l'espace, phénomène de compression de l'espace et du temps
+				- Instantanéité, interconnexion, interchangeabilité et interdépendance
+			- Cette compression spatio-temporelle modifie notre perception du monde en générale
+				- La guerre en Ukraine et l'inflation des prix a traduit et représenté cette interdépendance
+				- Une augmentation du rythme de consommation
+				- Diffusion plus rapide à échelle globale des produits
+			- Une culture qui met l'accent sur la fragmentation, la discontinuité, le collage, l'inter-détermination
+			- La circulation et la collision des produits et des formes culturelle et des identités
+				- Instabilité qui rompt avec la stabilité suppose des identités des périodes précédentes
+		- ### Pierre Bourdieu
+			- La globalisation est un pseudo concept à la fois descriptif et prescriptif
+			- Maniere d'imposer un modèle évolutionniste naïvement ethnocentrique permettant de classer les sociétés selon leur distances par rapport à la société la plus avancée, c'est-à-dire la société américaines
+			- Incarnation de la forme la plus accomplie de l'impérialisme de l'universel, celle qui consiste à universaliser sa propre particularité en l'instituant tacitement en modèle universel
+				- Sociétés américaines instituées en terme et en but de tout l'historie humaine
+				- Américanisation des mœurs
+		- ### [[Paul Virilio]]
+			- La mondialisation annonce la fin de la géographie, et la fin d'un petite planète
+			- La mondialisation implique une uniformisation de la pluralité des temporalités, rythmes
+				- Fabrication d'un seul temps linéaires, rectiligne, marchand, utilitariste
+				- Fin de l'alternance diurne nocturne, un monde constamment "télé présent"
+			- Inversion des notions habituelles d'intérieur et d'extérieur
+				- Le privé devient le public
+			- Accélération de la vitesse ((67af7038-0d3a-4945-aad5-754809a09dfb))
+				- Télévision -> transformés en optique planétaire
+			- Généralisation de la télésurveillance particulièrement des milieux urbains
+				- Militarisation de l'espace ou tout le monde est suspect
+			- Les environnements sont désormais emplis d'appareil qui font la vision machine
+				- Deepface: algorithme d'analyse de portraits de Facebook permet d'identifier les individus
+		- ### Trevor Paglen
+			- Les systèmes d'[[AI]] se sont appropriés la culture visuelle humaine et l'ont transformée en un ensemble de données massif et flexible qui se passe très bien du regard des humains
+			- Trevor Paglen photographie ces lieux tenu secret, ou sont stockés les donnés du web
+				- Trevor Paglen, *They Watch the Moon*, 2010 ![Trevor Paglen, They Watch the Moon, 2010 · SFMOMA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrVBqWIEaGnzu7OcZvd_otkLfRGj4a-0v-A&s){:height 32, :width 438}
+					- Une station d’écoute cachée dans les forêts de Virginie-Occidentale
+				- Ces opérations fonctionnent sur un plan invisible il est plus difficile de les reconnaitre pour ce qu'elles sont
+					- Se sont des leviers de régulation sociale, d'intérêt, de race, de classe
+		- ### Ruben Pater, [*Drone Survival Guide*](http://www.dronesurvivalguide.org/)
+			- Guide de survie face aux drones
+				- Guide traduit dans plusieurs langues
+			- Droit de connaitre les usages des drones et leur fonctionnement
+		- ### Manuel Castells
+			- Le paradoxe du 21eme siècle et que nous risquons de vivre dans un monde principalement urbain mais sans villes
+			- Privatisation de l'espace mis sous surveillance et sécurisé
+			- Mobilité métropolitaines, compétitivités économiques des villes; absences de partages culturels
+			- Changement Macro-structuraux des population et de leurs environnements
+				- Redéfinition du local
+				- Augmentation de la violence et du sentiment de violence
+					- Cela s'accompagne d'une économie criminelle parallèle
+					- Cela se fait par la ségrégation des populations en *"gated communities"* et en secteurs réservés pour les populations pauvres
+		- ### Zygmunt Baumaun
+			- Intensifie les inégalités de classes
+				- Division entre ceux une élite minoritaire qui voyage énormément et qui tire les bénéfices d'une masse de plus en plus nombreuse exclus et laisse pour compte immobilisés et fixé dans un espace restreint.
+			- Processus de stratification à l'échelle mondial
+			- La mondialisation cache l'occidentalisation du mode et non pas un horizon vers lequel il faudrait tendre
+			- Pour Bauman il faut réhabilité le local. Ces lieux sont féconder pas des temps locaux, ces espace temps locaux sont les sites qui permettent à l'humain concret pluriel d'exister
+			- La quête de l'identité divise et sépare
+			- La pauvreté n'est pas le symptôme du la maladie du capitalisme
+				- C'est la preuve de la bonne santé du capitalisme, c'est ce qui le pousse vers de nouveaux efforts, de nouvelle accumulations
+		- ### Arjun Appadurai, *Après le [[Colonialisme]], les conséquences culturelles de la globalisation*
+			- Etudie la complexité de l'actuelle économie globales est liée à certains disjonctions fondamentales entre économie culture et politique que nous commence tout juste à théoriser
+			- Considéré 5 dimensions des flux culturels globaux:
+				- #### Ethnoscapes
+					- Paysage formé par les individus qui constituent le monde mouvant dans lequel nous vivons: touristes, immigrant, réfugiés, exilés, travailleur invité et d'autre groupe mouvant
+				- #### Mediascapes
+					- Distribution des moyens électroniques de produire et de disséminer de l'information, désormais accessibles à un nombre croissant d'intérêt publics et privés à travers le monde, et les images du monde
+					- Au USA il y a 6 sociétés de médias géantes, ces sociétés possèdes des radio des studio de production des journaux...
+					- Nouveaux médias -> nouveaux référents
+						- Possibilité d'un nouvel imaginaire social (Metoo, Black Lives Matters)
+					- L'image est devenue le principal vecteur social de la communication
+						- L'image n'est plus consommer mais circuler
+				- #### Technoscapes
+					- Configuration fluide de la technologies, déplacement à grande vitesse des frontières jusque-là infranchissable
+				- #### Financescapes
+					- Plus grandes fluidités du capital mondial, marché de changes, bourses nationales, spéculations sur les biens et les services.
+					- Vitesse de déplacement et de fluidité des grandes sommes
+				- #### Idéoscapes
+					- En rapport avec les mouvement d'idéologies d'états, composé d'éléments de la vison mondial des Lumières qui consiste en une chaines d'idées , de termes et d'images
+					- L'idée de paysage et de champ est issu de Bourdieu
+			- Homogénéisation et diversification culturel paradoxales
+				- Hans Eijkelboom, Global man
+			- Les frontières sont de plus en plus flou et discutés
+				- La mondialisation fait que seul les grand états peuvent vivre dans un espace temps du monde globale où la délocalisation globale propulse l'humain
+		- ### Naomi Klein, *No Logo*
+			- Avènement de la marque imposée par les grandes multinationales
+			- Le logo à pris le dessus sur le produit
+			- C'est avant tout l'image du logo et de la culture qu'il véhicule que le..a consommateur..ices achètent
+			- Il y a un militarisme et un fordisme présent dans les grandes entreprise de services
+			- Tirer profit des innovations culturelles, y compris la culture alternatives des jeunes et les débats autour des politique identitaires
+			- Accélération de l'étiquetage, du branding
+		- ### [[Edouard Glissant]], Traité du tout monde
+			- Pensée post continentale, pensée archipélique
+		- ### Aminata Traoré
+			- La culture est la première victime de la mondialisation
+			- L'acte d'achat est l'acte commun de la mondialisation
+		- ### Jean-Pierre Warnier, *La mondialisation de la culture*
+			- Les débats sur la mondialisation de la culture sont biaisés par des questions de méthodes
+				- Ou observe la production des bien culturel mondial
+				- Ou on étudie la maniere dont ils sont reçus au niveau local
+					- Les résultats de l'observation et les conclusion qu'one n tirera seront différents en fonction de ces deux échelles d'observation
+			- Le point de vue globales n'a pas accès à l'activité des instances intermédiaires qui trient et recontextualise les produits des cultures industries
+			- L'imagination est un facteur de diversification culturelle et social à l'infini à la proportion de la fragmentations des groupes
+				- Instrumentalise la consommation de masse afin de produire de l'identité
+			- *La mondialisation de la culture est un abus de langage*
+				- Ne pas confondre la globalisation des "biens culturels" et la cultures comme choix d'expression et de manière
+				- La globalisation des biens culturels n'est pas la culture elle mêmes
+			- Les Œuvres d'art se situerait dans la tension dynamique locale et globale, nationale, transnationale
+			- La culture mondiale est une [[Utopie]]
+- ## Tournant géopolitique, 1989
+	- On rompt avec la bipolarité américano-soviétique au profit d'un monde global.
+	- Chute du mur de Berlin, deux ans plus tard effondrement de l'Union Soviétique.
+	- Cela entraîne une reformulation complète des alliances politiques, économiques et militaires.
+	- Explosion des moyens de communication (téléphone, télévision, internet)
+		- Inégalités d'accès entre les pays qui redéfinit les moyens de faire lien avec les pays
+			- Sa Abell, At Home Outdoors, 1991
+		- Du point de vue de la consommation d'énergie il y a une utilisation très contrasté
+			- Production de nouveau déchets, collectes des déchets de téléphones mobiles au Burkina Faso.
+				- L'occident à utiliser l'inde et une partie de l'Afrique de L'Ouest pour le pseudo recyclage des composants mobiles
+	- Arrivé des chaines d'information en temps réelle
+		- Début de la désinformation
+		- Les grandes chaines deviennent des véhicules de propagande idéologique (tenu principalement par des milliardaires)
+			- L'accès à Internet et aussi un enjeux politique
+		- Les Datacenters sont des espaces très énergivores
+			- Trevor Paglen Columbus III, 2015
+	- Arrivé des OGM permet par les bio-technologies qi explosent
+		- L'agriculture se voit modifier, par une maximalisation des profits
+	- *Sociétés Post-Mortelle*, Céline Lafontaines
+		- Renvoi plus spécifiquement à la volonté affiché de vaincre techniquement la mort de vivre sans vieillir et de prolonger indéfiniment la vie
+	- L'ensemble de ces avancés technologiques impliquent des tonnes de déchets électroniques
+		- La gestion de ces déchets se fait mal, exportation massif des déchets en Afrique
+- # De la ville à l'Urban
+	- Organisation structure autour d'une maximisation rationaliste pour en faire un phénomène urbain
+		- Cela implique une peri-urbanité et accentue les inégalités d'accès au centre économique et culturelles
+	- Mutation radicales des villes notamment en Chine (Shenzhen)
+	- Compétition entre les capitales qui accentue une Uniformisation
+	- La mondialisation épouse la forme de la ville globale
+		- La ville globale se branche sur des réseaux interconnecté de villes, et des villes moyennes de mettent au services des autres
+	- ## Saskia Sassen, Global City
+		- La ville global fonctionne par emblèmes et signes architecturaux.
+			- Les geste architecturent situe les ville dans des positions économique
+		- La ville globale implique
+			- La dispersion géographique des entreprises à l'échelle du globe
+			- Concentrations des fonctions de direction et commandement dans certaines villes
+				- Siège sociaux implantés dans les grandes villes
+			- Montée en puissance des technologies de l'information
+			- Augmentation de la mobilité, réduction du temps de parcours
+			- Augmentation de la liquidité du capital
+	- ## Ulf Hannerz
+		- Les acteurs qui définissent la globalité d'une ville
+			- Les migrants des pays en voie de développement
+			- Les élites transnationale
+			- Les touristes internationale
+		- Les villes sont en compétition pour attirer certains acteurs riches
+- # Les *Sud* interconnectés.
+	- Tintin Wulia, *Eeny Meeny Money Moe*, 2012.
+		- Installation où l'on pioche au hasard des passeports.
+			- Questionne le hasard et la chance d'être né avec un passeport ou un autre. Les passeports n'ont pas du tout la même valeur.
+		- La mobilité des artistes s'inscrit aussi dans cette inégalité du traitement des identités.
+- # New Art History
+	- Se débarrasse d'une vision hégémonique de l'HDA eurocentré sous principe de ((66f1210b-a5e3-4309-9886-f50827578fa5)) , critique la capacité de l'HDA à exclure un grand nombre de pratique
+	- Un terme qui regroupe des nouvelles approche de l'HDA
+		- Mode d'analyse qui se veut influences par de nouvelle discipline et nouvelle traditions de l'HDA.
+			- Relie l'HDA au changement social, technique qui influence notre rapport sur l'HDA
+		- Rupture avec les formes d'analyse d'HDA qui veut une naissance et un déclin des style et des mouvements
+	- Interaction permanente avec les théories du [[Marxisme]] elle étudie
+		- La [[Modernité]] capitaliste, l'Etat nation et la représentation visuelle, le [[Féminisme]] , l'art et L'HDA, la question identitaire et l'idéologie visuelle, la représentation de la sexualité
+		- Restructuration de l'HDA allemand dans les années 1970
+			- Dans cette approche marxiste on se demande qui a le pouvoir et qui détient le pouvoir sur l'idéologie visuelle
+				- Etude du [[Marché de l'art]] sous le spectre économique notamment des milieux sociaux dans laquelle émerge les grand artistes des [[Avant-Gardes "Historique"]]
+					- Volonté de montrer comment les artistes et les œuvres d'art sont intégrés aux schémas sociaux
+					- Comment les artistes réagissent aux conflit sociaux par une interprétation et une redéfinition en termes visuel
+- ## Le groupe des Etoiles, Mouvement 85

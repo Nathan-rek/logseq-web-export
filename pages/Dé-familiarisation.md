@@ -1,0 +1,8 @@
+- L’Art nous dé-familiarise avec nos concepts perspectives, Avant garde sont en prise avec une nécessite de dé-familiariser l’art et ses codes.
+- [[Marcel Duchamp]] : Exposition surréaliste qui de-familiarise le spectateur, nous déshabituer de ce que l’on voit
+- Le théâtre réactive se principe, transformer l’art pour autrui , on retrouve ce principe du théâtre Brecktiens dans le cinéma de Godart. Laisse place la subjectivité du..la spectateur..ices à travers ses conditions cinématographiques
+	- Dé-familiarisation au théâtre et au cinéma: Jean Luc GODART / BRECHT, cherche a produire des effets de distanciation. La direction des acteurs et leurs jeux sorte de l’impression du jeu et amène l’idée d’incarné le jeu
+		- le procédé de distanciation consiste à faire percevoir un objet et en même temps à le rendre insolites
+		- Le spectateur prend des distances par rapport à la réalité qui lui est montré
+		- Contre les principes d’identifications qui fondent le théâtre classique
+- Manifeste [[Dada]] contradictoire qui montre que la contradiction et les actions opposés nous permette de nous dé-familiariser avec les œuvres. Contre les principes de ressenti objective qui régissent les œuvres ( la critique n’existe pas le beau n’ont plus )

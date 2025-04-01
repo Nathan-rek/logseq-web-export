@@ -1,0 +1,2 @@
+- expositon qui ne favorise pa sles etude de cas a echelle micro historique, comme le ferait les approcje de HDA d'une new Art History
+-

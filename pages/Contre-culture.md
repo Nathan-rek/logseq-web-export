@@ -1,0 +1,74 @@
+- Les contre cultures apparaissent comme contexte social
+	- Londres manifestation anti-nucléaire 1950
+- Les jeunes générations appelle à autre chose:
+	- Mai 1968: en défaveur d'un certaine culture vers une ouverture
+- # Theodore Roszak: *Vers une contre-culutre*:
+	- Se mettre face à la technocratie
+	- Les sociétés occidentales sont dominées par des états qui travaillent main à main avec des sociétés
+		- Mise sur le quantifiable, le nombre , la raison, la logique
+			- Met de coté tous se qui n'est pas dans se régime de logique ( Tous comme le [[Romantisme]] se réveil face aux logiques des Lumières - Nécessité du libération du sentiment romantique )
+	- Se tourner vers d'autres philosophies (orientale), spiritualité
+		- Il commente aussi l'usage de drogue comme pouvant augmenter la conscience de l'individu..e étouffé..es par le technocratie
+			- Timoty Leary: psychologue qui s'est intéressé à l'usage psychiatrique et thérapeutique du LSD
+				- Pour un usage libre des drogues
+				- Il devient un figure important pour beaucoup de générations
+				- Roszak présente les limites de ce partie pris
+- # Greil Marcus: *Lipstick Traces*
+	- Retrace la culture du 20ème en 3 moment clés
+		- Janvier 1968 dernier concert des Sex Pistol
+			- Entend l'esprit de contestation de l'époque mélanger à l'esprit nihiliste des [[Dada]] ensuite au [[International situationnistes]] contre la société spectaculaire marchandes
+			- S'intéresse donc au [[Dada]] -> [[International situationnistes]] -> Sex Pistol
+				- Voit le 20ème siècle comme parsemer d'esprit de contre culture
+- Le process de destruction est très présent dans les contre-cultures
+	- La tabula-rasa
+	- Nihilisme active : détruit pour construire quelque choses d'autres
+	- L'ordre sauvage: violence, dépense et sacré dans l'art des années 1950 - 1960 : L'artiste qui se crée une figure para-religieuse
+	- Dernier sursaut d' [[Utopie Moderne]] par la déstruction
+		- La nouvelle ontologie de la musique de [[John Cage]] a influencé la destruction d'instrument des [[Fluxus]]
+		- Hanatarash: [*performance 1985*](https://www.facebook.com/watch/?v=1530676013997212) ![Bulldozer Incident | Mapping Japanese Noise](https://www.johnaulich.co.uk/japanesenoise/wp-content/uploads/2015/04/bulldozer.jpg)
+			- Groupe de noise japonais qui détruisent la scène pendant le concert
+			- Deux extrême de la Japan noise :
+				- Hanatarash: Mur de bruit noise extrême
+				- Onkyo: bruit presque imperceptible
+		- [[Néo Dada-Organizers]]
+	- Raconter l'historie par la destruction avec [[Gustav Metzger]]
+- La contre-culture à comme limite de crée des sous-cultures qui elles peuvent renforcer l'industrie culturelles
+- D'autres formes de production culture plus contestataire devienne complètent intègre à un écosystème globale qu'a un moment voulait combattre: La BD, Le cinéma ( comme théâtre filme, forme de rhétorique de légitimation de pratique culturelle)
+- # Fabien Hein *Do it Yourself: autodétérmination et culutre punk*:
+	- Commente que la culture Punk peut être perverse
+	- La figure du punk contestataire est celui qui cherche l'alternatives mais certain figure emblématique en trouvant une place dans leur monde devienne de vrai produit musical qui appartiens à une industrie culturelle
+		- Cree un nouveau marché dans le marché globales: Celui qui s'autodétermine avec le [[Bricolage]] rentre dans l'idée néo-libéraliste
+		- La culture Punk est un produit de la culture néo-libérale, le punk est proche de la figure de l'auto-entrepreneur
+			- Contribue à la multiplication des cultures légitimées
+- # La légitimisassion de la culture, Pierre Bourdieu
+	- Bourdieu constate les différentes valorisation de la culture. Dans les écoles la littérature classique est plus légitime que l'histoire des musiques rock
+		- Se base sur les nouveaux outils de la statistique: 3ème vague de la culture de la sociologie
+	- L'espace social est fait de différent champ social
+		- Un champ est toujours conflictuelle: sociologie de la domination
+	- Habitus: bagage culturelle hérite et qui se construis et définit notre habitus futur
+	- Capital: comme ensemble des référence culturelles qui est inégale.
+		- Capital Culturelle objectivé: Ensemble des objets culturelles sans forcément les activés
+		- Capital Culturel Institutionnelle: Tout ce qu'une institution peut donner
+		- Capital Culturel Incorporé: Les ressources que l'on disposent qui permettent d'activer le capital culturelle objectivée
+	- Cette inégalité peut provoquer des rapports de force violents
+		- *La disticntion*: on consomme de la culture pour se positionner socialement
+	- La vision binaire de Bourdieu se voit très caricaturale
+		- Face à cela un éclectisme culturel (qui est surtout vrai dans un certain niveau de la population), omnivorie culturelle
+		- la culture des individus dissonances culturelles et distinction de soi : L'antagonie culturelle de Bourdieu se trouve assez changé
+		- Bernard Lahire *La culture des individus*
+		- On n'échappe à notre classe social mais nous sommes une somme des classes que l'on rencontrons
+		- Dilution de la légitimité culturelle
+			- Concurrence de instituions qui vont légitimer des biens différents
+			- Augmentation des consommations privés, on peut consommer sans êtres vu
+- ## [[Street-art]] et [[Skate]]
+	- Ce veut des pratiques qui dégradent l'espace public
+	- Qu'elle contestation dans l'art à l'ère contemporaine
+	- Joseph Heath et Andrew Potter: *Révolte consommé le mythe de la contre culture*
+		- Depuis le néo-transcendentaliste
+		- Figure du non-conformisme participe au mythe de l'individu libre
+		- Le non-conformisme se veut vendeur notamment dans les [[Industries Culturelles]]
+			- The Yes Men
+				- Figure de cynisme par rapport à cette figure non-conformiste
+				- Artivisme, qui par la performance critique les aspect d'un monde néo-libérale
+				- Parodie la société néo-libérale par le pastiche
+					- Se présente comme acteur du monde néolibérale dans l'ordre de la caricature

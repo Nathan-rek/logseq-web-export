@@ -1,0 +1,11 @@
+- Courant de pensé où le monde réel est le monde social est composé de structure visibles et invisible
+	- Qui constitue notre manière d'être et d'agir
+	- Il forme ensemble des cohérences constitutifs
+- Le structuralistes cherchent à comprendre la structure d'un évènement qu'elle sont les règles qui régit ce phénomènes
+	- Le structuralistes pensent a une structure qui régit au préalable le phénomènes
+- Pour Greimas tout les mythes repond a la meme structure
+- Le complexe d'Œdipe de [[Freud]] est un phénomène de psychanalyste structural
+- Le structuralisme permet d'étudier des mondes sociaux
+- La limites du structuralisme est qui est complqiuer ce qu'on signifie par structre
+	- La structure comme l'ensemble des éléments qui agissent en fonction de
+- La structure comme règle générale ne prend pas en compte certaines spécificité, limite dans le contexte

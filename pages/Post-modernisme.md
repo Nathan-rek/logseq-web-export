@@ -1,0 +1,27 @@
+- Le langage de la [[Post-Modernité]] se transforme dans un post-modernisme
+	- Le post-modernisme c'est l'expression culturel de la [[Post-Modernité]]
+- Les acteur..ices du [[Monde de l'art]] changent face au bouleversement de la [[Post-Modernité]]
+	- Charles Jencks: *Le langage de l'architecture Post-moderne*
+		- Contrairement à l'architecture de la [[Modernité]] on ne pense plus le futur mais on se mêle au langage passéiste
+	- Las Vegas comme prototype d'une ville post-moderne:
+		- Ville neuve qui s'est construit sur un rapport au temps décomplexés
+			- Las Vegas remploie plein de langage formelle, pastiche de style réimplémenter à échelle
+- Cette transition accompagne la transition de capital entre l'Europe qui centralise les pratiques d' [[Avant-Gardes "Historique"]] et les USA qui commence à prendre de plus en plus d'importance
+	- En 1964 La biennale de Venise attribue à [[Robert Rauschenberg]] le prix le plus important pour ses *combine paintings*
+		- ((653fbfba-d80d-4fe7-bc0b-405e41804d57))
+- Les femmes et les personnes racisées sont légèrement plus intégré..es au [[Monde de l'art]]
+- Rompt avec la [[Modernité]] et le [[Modernisme]]
+	- En architecture certains écrits et pratiques viennent directement critiquer l'approche moderniste et fonctionnaliste de l'architecture
+	- Le mouvement Memphis rompt avec le *“less is more”* de [[Modernisme]]
+		- Ettore Sottsass: [*Carlton*](https://www.espace-lumiere.fr/accueil/10358-carlton-etagere.html), 1981 ![Carlton par Ettore Sottsass | Gazette Drouot](https://medias.gazette-drouot.com/prod/medias/mediatheque/59811.jpg)
+	- Un forme d'humour apparait dans le langage architectural post-moderne
+- Certain..es voit dans l'art un manque de profondeur dans les sujets des œuvres modernes
+	- [[Andy Warhol]]: [*Diamond Dust Shoes*](https://www.sothebys.com/en/buy/auction/2021/contemporary-art-day-auction-2/diamond-dust-shoes), 1980 ![Diamond Dust Shoes | Contemporary Art Day Auction | 2021 | Sotheby's](https://sothebys-md.brightspotcdn.com/dims4/default/f024b33/2147483647/strip/true/crop/2000x1379+0+0/resize/2048x1412!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc7%2Fb8%2F8e3cee804b6cafdbd2f0d16726d5%2F361n10683-bq9px-01-a.jpg)
+- Une forme de dissolution des classes antagonistes bourgeoises
+	- *“Le postmodernisme va devenir par excellence le règne de l'imaginaire populaire dévoyé par la marchandisation de la culture, sur fond d'une inégalité exponentielle. En sortir est une affaire politique, et non de bilan.”*
+- La [[Post-Modernité]] donnera naissance à une ère de [[L'appropriationnisme]] car le métarécit de [[L'Originalité]] se voit désenchanté par la [[Post-Modernité]]
+  id:: 65f1939d-b892-4710-a628-cc285145e695
+	- L'artiste pioche dans les styles et dans l'histoire de l'art, dans une forme de citations [[Wim Delvoye]], [[Jeff Koons]]
+		- Cela déforme l'œuvre d'art traditionnelles vers un attrait pour le [[Document]]
+		- Comment recycler les données culturelles
+			- [[Picture Generation]] interroge le statut des images dans un contexte de sur donnés culturelles émergent

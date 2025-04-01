@@ -1,0 +1,31 @@
+- L’art minimal se développe dans les années 1960 au Etats-Unis, conteste les théories modernistes de [[Clément Greenberg]] et ses applications sur l’[[Expressionnisme Abstrait Américain]]
+- Un des héritages du minimalisme est Ludwig Mies van Der Rohe *«less is more»* un artiste du [[Bauhaus]] de Dressau s’étant exporté à Chicago, l'amélioration d'une œuvre se faisant selon les minimalistes par soustraction.
+- Contre cette automatisation de l’œuvre. Naît la nécessité de proposer des gestes artistiques accompagnés par une théorisation du geste. Les artistes eux..lles mêmes produisent des discours dans les formes artistiques. Les courants de pratique féministe vont aussi se développer par la production d’un discours théorique. Il y a la nécessité de produire un récit théorique pour crée un territoire libre et reprendre la main sur la théorie.
+	- Robert Morris: *Note sur la critique* : conteste la légitimité de la lecture des critiques, un texte qui redéfinie un langage de la sculpture.
+	  id:: 661023c8-d69b-4690-852f-8f15194c71a1
+		- Valorise des concepts de verticalité et d’espace, apparaît la notion de gravité
+			- Relation entre le constant connu et les conditions spatiales ce qui laisse une compréhension variable du volume.
+				- Ces questionnements découleront par la suite a l' [[L'Antiforme]] comme forme de cette relation préexistante de la matière et de la gravité
+	- Brian O’DOHERTY: médecin qui se rapproche de la scène artistique et réalise un White cube (revue) qui conserve plusieurs éléments (texte audio vidéo schéma) qui montre une scène artistique en ébullition, comment la [[Modernité]] a produit le [*White Cube*](https://www.lespressesdureel.com/ouvrage.php?id=1423&menu=0)
+- ## Peintures
+	- Les artistes minimalistes et les peintres désirent limiter toute trace de fracture picturale ou d’intervention de la main du peintre. Dans un  dépassement de la peinture moderniste, les peintres vont venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
+	- D’autres artistes ont entreprit des expérimentations picturales similaires à celle de [[Frank Stella]] dans l'exploration des signes et les procédés
+		- Ellsworth Kelly aussi se limitait à des couleurs en aplat mais d'un façon différentes des peintres du [[Color-Field Painting]]
+			- Ellsworth Kelly: [*Spectrum Colors Arranged by Chance II*](https://www.tate.org.uk/tate-etc/issue-16-summer-2009/sixty-years-full-intensity), 1951 ![Ellsworth Kelly Mediterranee 1952](https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/ellsworth-kelly-mediterrane_0.width-340.jpg)
+				- Il l'a créé en utilisant des bouts de papier numérotés; chacun faisait référence à une couleur, une parmi dix-huit teintes différentes à placer sur une grille de 40 pouces sur 40 pouces. Chacun des huit collages utilisaient un procédé différent
+	- La couleur comme élément pictural primordiale a été un principe que les minimalistes ont beaucoup travaillé..es, par les interaction des Kelly les structures de [[Frank Stella]] mais aussi par une interaction du blanc avec le blanc.
+		- L’artiste [[Robert Ryman]] a questionné beaucoup l’interaction du blanc en les confrontant à lui-même.
+			- [[Robert Ryman]] : [*Four Aquatints and One Etching: one print*](https://www.artnet.fr/artistes/robert-ryman/four-aquatints-and-one-etching-one-print-xPw1yzwygPtfgZ0K0UvDOQ2), 1991 https://media.mutualart.com/Images//2023_02/21/17/173547252/robert-ryman-four-aquatints-and-one-etch-1V53Q.Jpeg
+				- L’œuvre est une double surface. Dans ce dépassement de la peinture [[Modernisme]] le peintre veut venir hybrider le medium de la peinture et le démantelant de sa structure d’objets
+- ## Sculptures
+	- Les sculpteur..ices minimalistes utilisent de structures élémentaires et simple
+		- Le choix des volumes géométriques simples sont à appréhender immédiatement pour ce qu'ils sont (sans artifice)
+			- Carl André: *144 titanium Square*, 2011 https://media.tate.org.uk/art/images/work/AR/AR01265_565566_10.jpg
+			  id:: 65480be3-eb6e-476e-8e48-200bc5c97e96
+	- Les sculptures sont souvent réalisées dans des matériaux bruts ( cuivre poli, acier )
+		- Les couleurs, les matériaux individuels permettent de produire des objets qui n'ont aucune histoire émotionnelle et donc le contenu de la sculpture n'est autre que la sculpture elle-même, c'est une représentation minimale parce qu'elle se limite à l'essentiel.
+			- [[Donald Judd]] : [*Untitled*](https://bkdh.nl/en/kunstwerken/untitled-object/) (Acier),1982 ![Untitled object - Buitenkunst Den Haag](https://bkdh.nl/app/uploads/2021/06/DH500_06.jpg)
+	- Les sculptures minimalistes invitent les spectateur..ices à se mouvoir dans les œuvres minimales
+		- Richard Serra: [*Promenade*](https://www.paris-art.com/monumenta-2008-promenade/), 2008 ![Monumenta 2008, une promenade avec Richard Serra - archéologie du futur /  archéologie du quotidien](https://idata.over-blog.com/0/41/70/57/Exposition/Promenade--installation-de--Richard-Serra---Monumenta-2.jpg)
+		  id:: 661023c8-10f6-49a1-a8bc-c22487c4d39a
+			- Ces promenades étaient «rythmées» par de la musique, et notamment celle de Philip Glass (artiste minimaliste)

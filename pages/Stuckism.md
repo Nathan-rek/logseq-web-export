@@ -1,0 +1,17 @@
+- Parmi les détracteur..ices de la [[YBA]] il y a les Stuckist cofonder par l'ex petit ami de Tracey Emin Billy Childish
+	- Les stuckistes sont des conservateur..ices du [[Modernisme]] aspire à un remodernise et à remettre en avant l'authenticité
+		- S'oppose à la déconstruction et à l'ironie du [[Post-modernisme]]
+			- Dans un autre manifeste, ils se définissent comme *anti-anti-art*
+	- Ce groupe s'oppose chaque années au Prix Turner organise au Tate
+	- Les stuckistes s'opposent au conceptualisme et à « l'ego-art ».
+- Le Stuckistes regroupent toutes les personnes qui seraient en marge et en dehors du [[Monde de l'art]]
+- Le nom Stuck vient d'un commentaire de Tracey Emin fait à son petit ami de l'époque lui disant qu'il était bloquer dans son art
+	- Il reprendra ses mots dans un poèmes mettant en scène une dispute où Emin crierait *STUCK STUCK you are Stuck with your art*
+	- I..Elles écrivent plusieurs [[Manifeste]] dont l'un s'appelle *Remodernism* qu'i..elles envoient régulièrement au directeur du Tate
+		- L'affirmation la plus controversée du [[Manifeste]]  des stuckistes est : *« Les artistes qui ne peignent pas ne sont pas des artistes. »*
+		- Dans *Anti Anti-art* il denonce l' [[Art Conceptuel]] et le principe de [[Critique institutionnelle]] que le [[Ready-made]] de [[Marcel Duchamp]] peut entrevoir.
+- Leur acharnement contre Tracey Emin amènera a un mouvement anti-stuckiste avec des performances en faveur de Tracey Emin
+	- En réaction au lit controversé de Tracey Emin
+		- Tracey Emin, [*My Bed*](https://imagejournal.org/article/empty-bed-tracey-emin-persistent-self/), 1998 ![The Empty Bed: Tracey Emin and the Persistent Self - Image Journal](https://imagejournal.org/wp-content/uploads/2016/11/Plate-1-Tracey-Emin-My-Bed.jpg)
+- Les œuvres Stuckistes on un vrai caractère conservateur et sexiste
+	- Mark D*. Victoria Beckham : L'Amérique ne m'aime pas*, 2008 ![Fichier:Mark D. Victoria Beckham.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/f/ff/Mark_D._Victoria_Beckham.jpg)

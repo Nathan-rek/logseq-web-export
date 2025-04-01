@@ -1,0 +1,7 @@
+- La notion de performativité de [[Judith Butler]] est détourer dans un domaine écologique - Ce qui démantèle le rapport binaire [[Nature - Culture]]
+	- D'un point de vue scientifique: la nature ne peut être pleinement comprise si les animaux ou les particules sont considèré..es comme des entités distinctes et stagnantes, la nature existe plutôt comme "réseau" d'interactions
+- Etudie les frontière fluides entre les corps: humain, plus qu'humain
+- Plaide pour le rode positif et constructif du sexe dans l'écologie et la pratique artistique
+- Récupère le sexuel de l'érotophobie occidentale et des récits hétéronormatifs sur la nature et la reproduction
+-
+-

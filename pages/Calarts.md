@@ -1,0 +1,9 @@
+- Questionne le manifeste de Maurice STEIN et Larry MILLER Blueprint for Counter éducation et le séminaires post studio art
+	- Décloisonnement des pratique artistique par la mise en place d’une formation interdisciplinaire.
+	- Proposer une égalité professeur..e élèves chacun s’adressant en tant qu’artistes.
+	- Opposition face au modèle académique traditionnelle
+	- Le blueprints est un boite avec des écrits destinées à être activé par ses participant..es: un scripts qui doit être active rempli d’artefact en tout genre imprègne d’élément visuel politique et artistique
+		- L’art n’est plus un objet mais des opérations
+		- Critique de uniformisation de la pensée et de la subjectivité
+		- Un esprit de [[Contre-culture]] alimenté par la pensé de MCLUHAN et MARCUSE
+		- Post Studio-art: des œuvres qui sortent du studio et du système de l’œuvre traditionnelle et vont à la rencontre du monde

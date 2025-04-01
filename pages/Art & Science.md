@@ -1,0 +1,6 @@
+- Relation encrer dans l'histoire qui nait au moment ou il n'y a pas de différence entre les disciplines.
+- Aujourd'hui des artistes retrouvent cette jonction entre Art & Science
+- [[Bio-Art]]
+- [[Carsten Holler]]
+- [[Olafur Eliasson]]
+-

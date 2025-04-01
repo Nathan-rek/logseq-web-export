@@ -1,0 +1,32 @@
+- ![](https://koregos.org/Koregos/documents/Image201725.jpg)
+- Produire en amateur
+	- Amour d'une chose : racine du mot : faire quelque chose car on aime cette chose
+	- Se distingue du travail rémunérateur
+	- Sans formation
+- La figure de l'amateur
+	- Avec la démocratisation de la culture en déploient des stratégies de politique culturelles
+- Démocratie culturelles: participation de la culture qui s'ouvre
+	- Ont rompt avec la distinction artiste public, le public crée et participe la culture
+- Avec internet l'amateur..ices privée de lectorat devient un..e amateur..ice qui peut se montrer
+- Les [[Contre-culture]] ont mis en avant le DIY et le [[Bricolage]]
+- L'art comme fait social
+- Howard S. Beckers: *Outsiders*
+	- Sociologies de la déviance
+- Amateurisme est un réseaux
+- [myspace](https://fr.wikipedia.org/wiki/Myspace)
+	- Réseaux d'amateur..ices orienté vers les musicien..nes
+	- Bandcamp : Amateur..ices et professionel..les se retrouve sur le meme réseaux
+- Ses espaces sont encore inconsidérés comme des pratiques artistiques mais des pratiques culturelles
+- Etre dans l'invention de se montrer à l'autre
+	- Auto-medialité: se présenter soi-même à travers un medium
+	- Extimité : défini par le psychiatre Serge Tisseron, **le désir de rendre visibles certains aspects de soi jusque-là considérés comme relevant de l'intimité**
+		- Proche de l'autoportrait que ce soit en peinture ou littérature
+	- Utiliser les espaces numérique comme des [[Hétérotopie]]s
+- L'invention d'un certain quotidien
+- Auto-gestion
+	- Mode de gestion anarchique dans l'absence d'un pouvoir dans une horizontalité et un esprit collectif
+	- Ferme du Biéreau
+		- Lieux à Louvain l'anneuve qui exerce plusieurs activités culturelles
+			- Charte/Manifeste: crée un certain regard sur la culture
+				- Débrouilles, hédonisme
+-

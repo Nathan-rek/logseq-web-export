@@ -1,0 +1,9 @@
+- Simon Starling: [*Rescued Rhododendrons*](https://www.artimage.org.uk/18442/simon-starling/rescued-rhododendrons--1999-), 2000 ![Rescued Rhododendrons (1999) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/18/4/18442-842.jpg)
+	- Cherche à sauver une espèce de plante invasive (le rhododendrons) en ramenant les plantes à leur terre d'origine en Espagne. Cela dans un moyen de transport suédois.
+		- Créer des relations entre des éléments qui passent inaperçues
+	- Simon Starling: [*Flaga*](https://www.artimage.org.uk/18347/simon-starling/flaga--1972-2000---2002-), 2002 ![Flaga (1972-2000) (2002) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/18/3/18347-842.jpg)
+		- Fiat d'origine turinoise qui conduit jusqu'en Pologne et qu'il modifie avec des peintures polonaises
+			- Quelle sont les signes à l'ère de la mondialisation et de la globalisation
+	- Simon Starling: [*Autoxylopyrocycloboros*](https://www.artimage.org.uk/20198/simon-starling/autoxylopyrocycloboros--2006-), 2006 ![Autoxylopyrocycloboros (2006) : Simon Starling : Artimage](https://cdn.artimage.org.uk/production/20/1/20198-842.jpg)
+		- Restaure une épave qui s'alimente par combustion de bois il scie donc le bateau pour l'alimenter pour en faire encore une fois une épave.
+- [[Modernité]] à l'ère de la globalisation, ((67af8325-1638-4395-9441-36a60cf423af))

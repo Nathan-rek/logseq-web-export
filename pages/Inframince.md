@@ -1,0 +1,6 @@
+- Terme que Thierry Davilla:
+	- *De l’inframince, brève histoire de l’imperceptible, de [[Marcel Duchamp]] à nos jours*, 2010
+	- *Ce qui est à peine perceptible, à peine repérable, ce qui représente une **différence infime et singularisante*
+	- L'inframince est un terme inventé par [[Marcel Duchamp]], c'est ce qui est à peine perceptibles, a peine repérables.
+		- L'inframince est l'imperceptibles pourtant perçus, Si chez Leibniz la perception comporte une part de non conscience qui passe par des perceptions si infimes qu'elles ne se manifestent justement pas directement à l'attention par la conscience
+- Un queue devant une galerie qui ne mène à rien.

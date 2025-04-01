@@ -1,0 +1,30 @@
+- Née en Italie influencé par l' [[Expressionnisme Abstrait Américain]] et la renaissance baroque lors de sa jeunesse.
+	- Il développe une pratique proche de l'[[Art Conceptuel]]
+		- En 1989, il créa un manuel, une œuvre conceptuelle intitulée *Instructions* , qui s'inscrivait directement dans les débats sur la peinture des années 1980. Dans ce manuel, rédigé en six langues, il proposait un guide étape par étape sur la réalisation de ses tableaux.
+			- N'importe qui pouvait, en théorie, réaliser un Stingel en lisant ce manuel. Ces instructions n'étaient ni les peintures *Do It Yourself* d' [[Andy Warhol]] (1961) ni un [[Ready-made]] duchampien, mais bien sa propre prise de position sur la production de masse de la peinture, les débats houleux sur sa pérennité et la démocratisation de la forme d'art la plus élémentaire : un mode d'emploi.
+				- Rudolf Stingel, *Instructions*, 1989  ![artecontemporanea.com Rudolf Stingel. Instructions - artecontemporanea.com](https://www.artecontemporanea.com/wp-content/uploads/2017/01/AM-0822.jpg)
+				- [[Andy Warhol]] *Do It Yourself*, 1961 ![Andy Warhol | Do it Yourself (Landscape) (1962) | MutualArt](https://media.mutualart.com/Images/2009_02/22/0035/35300/35300_46055ac1-042a-4dcb-95a5-35f6b069f54e_29973_570.Jpeg)
+		- Les instructions présentées dans le manuel sont devenues un manifeste pour la pratique de Stingel.
+			- Le orange de son Instruction correspond au orange qu'il tapisserie plus tard.
+			- Il évoque aussi déjà des peinture argentes en Celotex
+				- Vue d'installation, Rudolf Stingel , Bourse de Commerce Pinault Collection, Paris ![La nouvelle exposition à la Bourse de Commerce questionne le temps - Côté  Maison](https://static.cotemaison.fr/medias_11987/w_640,c_fill,g_north/oeuvre-de-rudolf-stingel-untitled-exposition-une-seconde-deternite_6137756.jpg){:height 510, :width 640}
+				  id:: 67df30f9-df08-4817-8183-006d78d1ddb0
+		- Au début, Stingel était gêné lorsque les visiteurs commençaient à laisser leurs propres marques sur les panneaux argentés, gravant leurs noms et messages et gravant le revêtement argenté, mais il a finalement accepté la participation des visiteurs, dont les actes de rébellion destructeurs ont remplacé les coups de pinceau sur une peinture traditionnelle.
+- La première apparition de Stingel dans le [[Monde de l'art]] c'est fait en 1991 lorsqu'il remplace le sol de la galerie Daniel Newburg par un tapis orange.
+	- Détournant simultanément l'attention des murs vers le sol une critique sournoise et une réflexion sur notre façon de penser et de comprendre la peinture traditionnelle
+- Vue d'installation, Rudolf Stingel , Galerie Daniel Newburgh, New York, 1991 https://gagosian.com/media/images/quarterly/essay-rudolf-stingel-a-trace/Z-Yt1DBC4O41_2400x2400.jpg
+- Dix ans plus tôt, en 1981, l'essai de [[Douglas Crimp]] , ((67e01936-fd4b-4c3c-8645-96d9d64c82a9)) avait façonné un nouveau discours qui a marqué l'émergence de la [[Photographie]] comme forme d'art contemporain, après le déclin et la mort de la peinture
+	- Cette période à marqué une renaissance du medium avec l'élaboration de nouveaux critères pour définir la peinture.
+		- Stingel avec son tapis orange fait son entre dans ce débat
+- Après ses débuts en 1991, Stingel s'est consacré à transformer des matériaux ordinaires en installations
+	- Il présente une série de grandes peintures à Paula Copper en polystyrène industriel, marquées d'empreintes de pas sinueuses rappelant des coups de pinceau abstraits
+		- Rudolf Stingel, [*Untitled*](https://www.paulacoopergallery.com/artists/rudolf-stingel#tab:thumbnails), 2000 ![Rudolf Stingel - Artists - Paula Cooper Gallery](https://img.artlogic.net/w_1800,h_1000,c_limit/exhibit-e/5f5a43b313a837455d8b4567/6fbe669795eec9a6b4203f2d6ef801ee.jpeg)
+		- Il a créé ces motifs en trempant ses chaussures dans de l'acide, puis en marchant sur les panneaux de polystyrène.
+- En 2023, pour une exposition personnelle chez Gagosian, à Paris, Stingel a créé une série de peintures grand format en sélectionnant des détails de l'une des œuvres les plus célèbres de Kirchner,  *Fränzi vor geschnitztem Stuhl * ( *Fränzi devant une chaise sculptée *, 1910)
+	- Kirchner,  *Fränzi vor geschnitztem Stuhl * ( *Fränzi devant une chaise sculptée *,) 1910 ![Reproductions De Peintures Fränzi devant la chaise sculptée, 1910 de Ernst  Ludwig Kirchner (1880-1938, Germany) | ArtsDot.com](https://artsdot.com/ADC/Art-ImgScreen-2.nsf/O/A-D3VKJ5/$FILE/Ernst-ludwig-kirchner-franzi-in-front-of-carved-chair.Jpg)
+		- Stingel a installé ses peintures dans l'une de ses installations sur mesure, recouvrant les murs, du sol au plafond, d'un rouge profond et recouvrant le sol d'un tapis assorti
+			- Kirchner avait fait un choix inhabituel pour le visage de Fränzi, le peignant d'un vert éclatant, et le choix du rouge pour l'environnement offrait un contraste complémentaire qui activait et intensifiait son détail préféré.
+				- Il a également abstrait l'original en peignant par-dessus les détails choisis et en éliminant des parties de la composition
+		- Vue de l'installation, Rudolf Stingel , Gagosian, Paris, 17 mars–27 mai 2023  ![Rudolf Stingel, rue de Ponthieu, Paris, March 17–May 27, 2023 | Gagosian](https://gagosian.com/media/images/exhibitions/2023/rudolf-stingel/SDDDn0Z4JSmb_2400x2400.jpg)
+- L'œuvre de Stingel, bien que profondément imprégnée des débats des années 1980, ne traite pas de la mort de la peinture, mais d'un amour et d'une vénération profonds pour elle.
+	- Son œuvre tout entière nous invite à ressentir, à voir et à réfléchir aux possibilités de la peinture, aux multiples vies et permutations de son passé et de son avenir, ainsi qu'à son empreinte durable sur l'histoire.

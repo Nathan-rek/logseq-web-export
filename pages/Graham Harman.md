@@ -1,0 +1,28 @@
+- Tout comme [[Quentin Meillassoux]] il critique les pensée [[Corrélationisme]] et deonce le primat de l'humain dans la pensée vers un realisme ou les objets existent entre eux, indépendamment des relations humaines.
+	- [[Quentin Meillassoux]] veut penser un être en soi mathématisable.
+	- Harman refuse de réduire l’être à des équations et insiste sur le fait que les objets ont des relations entre eux sans nous.
+- # Art Without Relations
+  id:: 6783ec38-c84b-4b3e-89bc-c48c2603a54e
+	- Harman ne cherche pas à répliquer la pensé d'[[Esthétique Relationnelle]] qui pense une pensé comme des humain..es qui interagissent ensemble
+	- Harman s'oppose à une relationalité plus large.
+		- L’enjeu est l’indépendance des œuvres d’art non seulement par rapport à leur environnement social et politique, à leur environnement physique ou à leur valeurs d’échanges commerciale, mais aussi par rapport à tout autre objet quel qu’il soit.
+	- Dans une pensé qui penche vers la relationalité plutôt que vers les choses statiques avec les penseur..eus contemporain..es.
+		- L'[[Object Oriented Philosophy]] et la primauté des relations sur les choses n'est plus une idée libératrice (puisqu’elle réduit les choses à leur impact pragmatique sur les humains et les unes sur les autres).
+			- Harman qualifie de sympathies généralisé autour des substances mornes marque l'ambiance intellectuelle général de notre époque
+				- Harman critique la primauté des relations dans la pensée contemporaine
+	- Pour illustrer son propos il prend choix de nommer objet l'ensemble des sujets ( les plus universelles )
+		- Par objet il entend des réalités unifiés - physique ou autres qui ne peuvent être réduite ni à leurs effets ni à leurs morceaux
+		- Les objets ont des degrés de réalité
+			- Capacité a résister aux changements de ses composants
+	- Dans les sciences sociales et les arts le danger et dans la réduction vers le haut, qui paraphrase les objets en termes de leurs effets plutôt que de leurs parties
+		- Car les objets ne sont pas que définit par leur contexte.
+			- Dans ce cas il n'y aurait pas de changement si le melon, la ville, moi n'étions rien d'autre que nos relation actuelles avec tout le restes.
+	- Soit on explique de quoi est fait quelque chose, soit on décrit ses effets
+		- Ces deux réductions proposent de détruire l'objets
+			- Ce sont là les deux types fondamentaux de *connaissance* de ce qu’est quelque chose : soit nous expliquons de quoi quelque chose est fait, soit nous décrivons ses effets.
+		- Or la philosophie n'est pas une forme de connaissance
+			- Il privilégie l'amour de la sagesse que la sagesse
+		- De même pour l'art
+			- L’objet d’art, pris au sens large et non limité aux entités mobiles et durables, est tout aussi résistant à la connaissance que les objets au sens philosophique.
+	- [[Martin Heidegger]] et ((67e6dff1-1f82-46bf-a568-239ad5dd6db0)) on fait une première percées dans la théories des objets, dans une stratégie de philosophie empiristes il a fallu nier les objets en les remplaçant par des *groupe de qualités*
+		- Il n'y a pas de lunes mais des qualités blanches, lumineuses, rondes... le mot lunes est un surnom qui rassemble ces qualités

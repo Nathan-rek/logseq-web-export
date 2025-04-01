@@ -1,0 +1,23 @@
+# 1er vague
+	- La première vague du féminisme va se battre pour le droit de vote avec les suffragettes
+		- Acquis en en Belgique en 1948 et dans d'autre pays par la suite.
+	- Dans les années 1950 au Etats-Unis il renaît avec la "Mystique féminine"
+		- Un livre qui parle de la dépression des femmes dans les banlieues résidentielles
+- # 2ème vague
+	- En France après 1968 un deuxième élan prend forme notamment avec [[Hélène Cixious]] et [[Monique Wittig]]
+		- Moment de gloire pour le féminisme
+		- Pensée le féminisme comme un projet créateur dont on ne peut prédire le formes
+	- La deuxième vague se focalise davantage sur la sexualité, la place de la femme dans la famille mais aussi les violences conjugales ou le viol
+- # 3ème vague
+	- L'[[Eco-Féminisme]] fait partie de cette 3ème vague
+	- En Australie, en Angleterre, au USA on voit une effervescence de la pensée féministe dans les universités.
+		- Au même moment émerge des mouvements de pensée Queer [[Judith Butler]]
+- # 4ème vague
+	- La 4ème vague du Féminisme remet en question les représentations du divin féminin et masculin
+	- Pour Beauvoir les femmes n'existent qu'en relation avec les hommes
+		- Les femmes doivent apprendre à occuper l'espace des hommes comme des hommes
+		- Le génération d'après disent que les femme doivent crée un espace et les conditions d'émergence du féminin [[Hélène Cixious]]
+			- L'écriture est un domaine où les femmes n'ont que peu exister dans le système phallique, investir l'écriture en tant que terme féminin a travers l'érotique ((6717bd02-304e-46b7-b48a-96461c71318e))
+	- Approche du féministe anti biologiste -> approche du Constructivisme social
+		- Rien n'est biologiquement défini, tout est une construction social
+		- [[Donna Haraway]] étend le constructivisme social en réintégrant la biologie

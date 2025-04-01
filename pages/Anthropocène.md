@@ -1,0 +1,10 @@
+- Différentes ère géologique:
+- L’ère Holocène: A commencé à la fin dernière période glaciaire
+	- Croissance Démographique exponentiel
+	- Développement des activités anthropiques
+- Nouvelle ère: Anthropocène
+	- Pollution des l’air: impacte la qualité des sols et de l’eau
+	- Glaciers fondent
+	- Acidification de la mer et pluies acides
+	- Érosion
+- Concept utilisé par des penseur..eusses critiques pour repenser la relation entre la société humaine et la planète

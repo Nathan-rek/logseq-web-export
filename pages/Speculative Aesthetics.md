@@ -1,0 +1,3 @@
+- L'art contemporain en perpétuelle renégociation de sa relation à l'affecte c'est précipité sur le récent concept philosophique de Réalisme Spéculatif, a telle point que ces concepts sont devenue des unités de monnaie culturelle
+- Une alliance entre l'art et le Réalisme Spéculatif (SR) est déroutante car le SR rejette le rôle médiateur de l'expérience humain, ce qui est quelque chose de antiesthétique. Valeur centrale de l'art dans le sens de l'expérience humaine esthétique d'un rapport à l'expérience.
+- L'approbation de cette notion dans l'Art contemporain est du aussi avec la confusion avec les principes anti-[[Corrélationisme]] en croisement avec les enjeux anthropologiques d'un monde [[Post-Anthropocène]] un monde sans nous.

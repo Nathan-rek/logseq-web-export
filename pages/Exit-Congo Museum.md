@@ -1,0 +1,6 @@
+- Les objets perdent leur statut en fonction de leur destinataire, quelle type de voyage.
+- Comment fabriquer un objet d'art d'un point de vue ethnographique
+- Philip Aguire, L'homme de Tarifa
+	- Les objets d'art africains arrive à traverser les frontières mais pas les humains
+- David Hammons: [*Chasing the blue train*](https://www.switchonpaper.com/en/profile/artist/david-hammons-improvising-unpredictability/) ![Chasing the Blue Train | S.M.A.K.](https://smak.be/volumes/artworks/_800x418_crop_center-center_82_none/22f45f79-f8c0-bd78-e4bf-f49f346fcca7.jpg?mtime=1711545090)
+	- Le train bleu qui est le moyen de transport américain lors de la traite des esclaves. Symbole d'une ressource du capitalisme américain base sur l'esclavagisme

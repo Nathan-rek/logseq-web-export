@@ -1,0 +1,229 @@
+- Une pratique dominé par l’idée ou le concept dans laquelle l’exécution est superficielle – dématérialise l’art et centre l’idée
+	- Édouard Levé: [*André Breton*](https://ekladata.com/4Xj7E_O2Znx4nZLgCiKiXggnR5A/andre-breton.jpg) https://ekladata.com/4Xj7E_O2Znx4nZLgCiKiXggnR5A/andre-breton.jpg
+		- Edouard Levé prend en photo l’homonyme de André Breton
+- Idées d’œuvres non réalisées
+	- Édouard Levé[*Œuvre*](https://www.pol-editeur.com/index.php?spec=livre&ISBN=2-86744-910-3), 2002 un livre qui liste toutes les idées de l’artiste mais qu’il n’as pas réalisées
+	- [[Cory Arcangel]]: [*Continuous Partial Awareness (PDF )*](https://coryarcangel.com/things-i-made/2009-049-continuous-partial-awareness-pdf), 2009  https://coryarcangel.com/assets/imgs/Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg
+		- Sous la forme des plus classique de la feuille blanche l’artiste illustre de la façon la plus formelle une liste d’idées non réalisées
+- Sherrie Levine: [*After Walker Evans: 4*](https://www.metmuseum.org/art/collection/search/267214), 1970 https://wmuphoto.files.wordpress.com/2017/01/64.jpg?w=788&h=1024
+  id:: 655a7e71-ca8c-49fb-b21c-de12ed36eaca
+	- Pratique extractivisme: Récupérer les objets issues de la culture (prise de la photo de Walter Evans)  Questionnement sur le regard porté (regard paternaliste / regarde artistique féminine?) Pratique de la [[Modernité]] porter un regard sur un sujet social
+- # [[Benjamin Buchloh]], Art conceptuel
+	- C'est avec le [[Cubisme]] , bien sûr, que des éléments de langage apparaissent de manière programmatique dans le champ visuel pour la première fois dans l'histoire de la peinture moderniste
+		- C'est là aussi qu'un parallèle est établi entre l'analyse structuraliste émergente du langage et l'examen formaliste de la représentation
+			- Mais les pratiques conceptuelles vont au-delà de cette mise en correspondance du modèle linguistique avec le modèle perceptif, dépassant la spatialisation du langage et la temporalisation de la structure visuelle
+			- Parce que la proposition inhérente à l'Art Conceptuel était de remplacer l'objet de l'expérience spatiale et perceptive par la seule définition linguistique (l'œuvre comme proposition analytique )
+				- Elle constituait donc l'attaque la plus conséquente sur le statut de cet objet : sa visualité, son statut de marchandise et sa forme de distribution.
+					- Affrontant pour la première fois l'ensemble des implications de l'héritage de [[Marcel Duchamp]]
+						- pour la première fois, les pratiques conceptuelles ont réfléchi à la construction et au rôle (ou à la mort) de l'auteur tout autant qu'elles ont redéfini les conditions de la séquestration et de la diffusion de l'œuvre.
+							- Elles ont ainsi réalisé l'investigation la plus rigoureuse de l'après-guerre sur les conventions de la représentation avec un critique des paradigmes traditionnelles de la visualité
+	- l' Art Conceptuel s'est développé est composée d'un éventail si complexe d'approches mutuellement opposées que toute que toute tentative de rétrospective doit se méfier des voix fortes exigeant le respect de la pureté et de l'orthodoxie du mouvement.
+		- C'est précisément en raison de cet éventail d'implications de l' Art Conceptuel qu'il semble impératif de résister à la tentation d'une rétrospective
+			- Il semble impératif de résister à une construction de son histoire en termes d'homogénéisation stylistique, ce qui n'est pas le cas de l'Art Conceptuel.
+				- Ce qui limiterait cette histoire à un groupe d'individus et à un ensemble de pratiques et d'interventions historiques strictement définies
+					- On ne mélange pas les activités new yorkaise de Seth Sieglaub ( [[Xeroxbook]] ) et les quêtes autoritaires de [[Art & Language]]
+	- Pour [[Joseph Kosuth]] l'art avant la période moderne est autant de l'art que l'homme de Neandertal est l'homme
+	- Les oppositions au sein de la formulation de l' Art Conceptuel sont nées de lecture différente de la sculpture minimaliste  et des ses équivalant picturaux ( [[Frank Stella]]n [[Robert Ryman]] ... )
+		- Et quelle conséquence les artistes de la génération 1965 ont tiré de ces lectures
+			- Chaque artistes conceptuelles choisi dans le [[Minimalisme]] ces figures
+				- ### Dan Graham & Sol Lewitt
+					- Dan Graham dirige la premier exposition personnel de Sol Lewitt en 1965, dans son ouvrage *Two Structure: Sol LEwiit* il finit par dire que l'importance du travail de Lewitt est une évidence et 'espère seulement que l'appréciation a posteriori n'a pas trop submergé son œuvre séminale dans les catégories dressait par Graham
+						- Sol Lewitt, Wall Floor Piece (three squares), 1966 https://red.reynalddrouhin.net/wp-content/uploads/2012/02/Capture-d%E2%80%99%C3%A9cran-2012-02-29-%C3%A0-10.24.56.png
+				- ### Mel Bochner & Dan Flavin
+					- Mel Bochner lui a choisi Dan Flavin comme figure de référence
+						- Bochner organisera la premier exposition dite que l'on pourrait dire d'art conceptuel: *Working Drawings and Other Visible
+						  Things on Paper Not Necessarily Meant to Be Viewed as Art*
+							- La plupart des artistes minimalistes étaient présents, ainsi qu'un certain nombre d'artistes de l'art contemporain.
+							  étaient présents, ainsi qu'un certain nombre d'artistes post-minimaux et conceptuels encore peu connus à l'époque.
+								- Après avoir rassemblé des dessins, des esquisses, des documents, documents, tableaux et autres éléments du processus de production, l'exposition s'est limitée à présenter les « originaux » sous forme de photocopies rassemblées dans quatre classeurs à feuilles mobiles installés sur des piédestaux au centre de l'espace d'exposition.
+									- l'intervention de Bochner a clairement transformé à la fois le format et le contenu de l'exposition.
+										- Cela a fortement inspirer des expositions ou des livres comme le [[Xeroxbook]]
+				- ### [[Joseph Kosuth]] & [[Donald Judd]]
+					- Un troisième exemple de l'enchaînement étroit des générations serait le fait que [[Joseph Kosuth]] semble avoir choisi [[Donald Judd]] comme figure clé
+						- Joseph Kosuth: *Protoinvestigations* 1965 – 1967  https://img.artlogic.net/w_719,h_431,c_limit/exhibit-e/5ccc8899a5aa2c2f30864af2/221a4ecf66fed39e977ca1a27937edc3.jpeg
+							- Serait un hommage a [[Donald Judd]]
+								- Dans son texte Art After Philosphy il emploi autant [[Donald Judd]] que [[Marcel Duchamp]] et Ad Reinhardt
+									- À la fin de cet essai, [[Joseph Kosuth]] déclare explicitement : *Je m'empresse toutefois d'ajouter que j'ai certainement été beaucoup plus influencé par Ad Reinhardt, [[Marcel Duchamp]] par l'intermédiaire de [[Jasper Johns]] et Morris et de [[Donald Judd]] que je ne l'ai jamais été spécifiquement par LeWitt, [[Jackson Pollock]] et [[Donald Judd]] sont, selon moi, le début et la fin de la domination américaine dans l'art.*
+	- ## Entre visuel et sémantique
+		- Le travail proto-conceptuel de Lewitt des années 1960 trouve son origine dans la compréhension d'un dilemme essentiel qui a hanté l'art
+			- Un dilemme que l'on pourrait décrire comme le conflit entre la spécificité structurelle et l'organisation aléatoire
+				- C'est ce dilemme que Roland Barthes qualifiait en 1956 de « difficulté de notre temps » dans les derniers paragraphes de *Mythologie*
+					- *Il semble qu'il s'agisse d'une difficulté propre à notre époque : il n'y a encore choix possible, et ce choix ne peut porter que sur deux méthodes également extrêmes : soit poser une réalité entièrement perméable à l'histoire, et idéologiser  soit, à l'inverse, poser une réalité impénétrable, irréductible et, dans ce cas, poétiser (par poésie j'entends, de façon très générale, la recherche du sens inaliénable des choses)*
+				- Il y aurait d'un coté
+					- La structure inhérente de l'objet ou de l'œuvre . Il s'agit d'analyser et de réduire l'œuvre à ses éléments constitutifs essentiels, souvent formels et perceptibles par les sens
+						- Issu de l'autocritique du [[Modernisme]]
+					- L'expérience visuelle et sensorielle directe. L'importance est accordée à ce que l'on voit et perçoit de manière empirique, sans nécessairement recourir à des interprétations symboliques ou métaphoriques
+			- Poser une réalité entièrement perméable à l'histoire et à l'idéologie
+				- Cela correspondrait à une approche où le sens est fortement déterminé par le contexte social, politique et culturel.
+			- Poser une réalité ultimement impénétrable, irréductible, et dans ce cas, poétiser
+				- Cela s'apparenterait à la tentative de trouver un sens inaliénable des choses, potentiellement à travers une attribution plus libre et "poétique" de la signification.
+			- Barthes constate l'absence d'une synthèse entre ces deux pôles, entre l'idéologie et la poésie (entendue ici comme la recherche du sens inaliénable)
+				- De manière analogue, le dilemme entre la spécificité et l'organisation aléatoire dans l'Art Conceptuel reflète cette difficulté à concilier l'étude rigoureuse des structures et la liberté de l'attribution du sens.
+			- Ces deux pôles dans l'art d'après guerre américaine se sont opposé
+				- Par exemple, la forme extrême de positivisme perceptif autocritique de Reinhardt était allée trop loin pour la plupart des artistes de l'école de New York et certainement pour les apologistes de la culture américaine
+					- Reinhardt affichait un mépris profond pour [[Marcel Duchamp]] et son héritage, représenté par des figures comme [[John Cage]] et [[Robert Rauschenberg]], il dit être contre le mélange de tout les arts et de la vie
+						- Opération largement effectué par le [[Black Mountain College]] avec des pièces comme [[Theater Piece No. 1]] et le mouvement [[Fluxus]]
+						- Il considérait qu'il fallait choisir entre [[Marcel Duchamp]] et [[Piet Mondrian]] , excluant toute possibilité d'intégration ou de dialogue avec les idées conceptuelles et les remises en question de l'objet d'art traditionnel initiées par [[Marcel Duchamp]]
+							- Cette position tranchée isolait probablement Reinhardt d'une partie de la scène artistique new-yorkaise qui commençait à explorer l'influence de [[Marcel Duchamp]] .
+						- Ironiquement, bien que venant de perspectives diamétralement opposées, les critiques de la représentation de Reinhardt et de la tradition duchampienne aboutissaient à des résultats formels étonnamment similaires, comme les monochromes de [[Robert Rauschenberg]] et de Reinhardt
+							- ((6778639e-b29c-49d0-87b5-628f7a83981d))
+							- Ad Reinhardt, *Untitled*, 1954 https://whitneymedia.org/assets/artwork/11685/98_16_2_cropped.jpeg
+								- Ad Reinhardt, Black Quadruptych, 1955 ![Ad Reinhardt - Criticism - e-flux](https://images.e-flux-systems.com/aa_2013_11_12_REIAD0557-Abstract-Painting-1960.jpg,1600)
+								  id:: 9fd66048-7c7c-46ad-838b-721c706d447e
+								- Cependant, les fondements théoriques et les intentions derrière ces œuvres étaient radicalement différents, ce qui rendait difficile pour beaucoup d'artistes de l'école de New York de s'identifier pleinement à l'une ou l'autre des positions extrêmes.
+					- Reinhardt était en opposition à la "doxa paradoxale du transcendantalisme et de la critique auto-référentielle" de [[Clément Greenberg]] et [[Michael Fried]]
+						- Bien que Reinhardt partageât avec eux une certaine forme d'autocritique et une focalisation sur le médium artistique lui-même, son positivisme perceptif radical était perçu comme allant au-delà de ce que la plupart des artistes de l'école de New York étaient prêts à accepter.
+							- [[Clément Greenberg]] et [[Michael Fried]] avaient construit un discours moderniste américain basé sur une idée paradoxale de transcendance à travers l'autoréférentialité.
+								- L'approche de Reinhardt, axée sur une réduction empirique extrême de l'expérience perceptive, ne correspondait pas à cette vision
+				- Des artistes comme [[Jasper Johns]] et Morris ont commencé à explorer l'héritage de [[Marcel Duchamp]] d'une manière qui allait au-delà du simple acte déclaratif du [[Ready-made]] , en s'intéressant à ses implications structurelles et sémiotiques
+					- Cette exploration offrait une alternative à la fois au formalisme pur et dur et au rejet total de la visualité. De même, des artistes comme Sol LeWitt ont cherché à intégrer le langage et les signes visuels, proposant une voie médiane entre l'expérience perceptive pure et la primauté de l'idée
+						- Sol LeWitt, *Untitled (Red Square, White Letters)*, 1962 https://external-preview.redd.it/3uUMOjtJqjACzZebipzyfjWPJ-3bFxJldccPlXtfWsY.jpg?width=1080&crop=smart&auto=webp&s=7102d169ed2d3dfd46aa20d93a18cbc403103862
+							- Cette configuration ne provoquait pas seulement un questionnement sur le rôle à adopter face à la peinture : fallait-il la lire ou la regarder ? L'inscription nous invite à une lecture linguistique, tandis que la surface peinte sollicite notre perception visuelle.
+								- Fallait il accorder la primauté à l'inscription, en considérant que la définition linguistique précède et détermine la perception visuelle ? Ou, au contraire, l'expérience perceptive de l'élément visuel (sa forme, sa couleur) était elle antérieure à sa simple nomination par le langage ?
+									- Ce "conflit continu" que LeWitt instaurait visait à forcer les contradictions inhérentes aux sphères de l'expérience perceptive et de l'expérience linguistique
+										- Contrairement à une approche qui chercherait à privilégier l'"idée" ou la primauté linguistique, l'œuvre de LeWitt, dans son dialogue avec l'héritage paradoxal de [[Jasper Johns]] , insistait sur la mise en évidence de ces tensions
+											- Le caractère permutationnel de son travail suggérait que le spectateur/lecteur devait explorer systématiquement toutes les options visuelles et textuelles permises par les paramètres de la peinture
+						- Alors que chez [[Frank Stella]] le célèbre énoncé est "ce que vous voyez est ce que vous voyez" ce qui est l'attestation d'une conviction positiviste. [[Frank Stella]] privilégiait une expérience visuelle immédiate et objective, où la signification de l'œuvre se limitait à sa présence physique et à ce qui pouvait être directement perçu
+							- Il y aurait ainsi une emphase sur les faits visuels et empiriquement vérifiables et donc une accommodation au [[Positivisme américain]]
+						- Lewitt pense que la compulsion moderniste pour l'autoréflexivité empiriste ne trouvait pas sa seule origine dans une logique interne à l'art, mais était profondément ancrée dans le positivisme scientifique, décrit comme la "logique fondatrice du capitalisme"
+							- La recherche moderniste d'une autoréférence basée sur l'expérience sensible pourrait être vue comme un reflet, voire une intériorisation, de la logique positiviste qui structure le système capitaliste et ses modes de production
+	- # Tautologie
+		- [[Benjamin Buchloh]] avance que si une pratique artistique s'enferme dans une approche purement empiriste et autoréflexive, sa "destinée finale" serait d'"aspirer à la condition de tautologie"
+			- Sol Lewitt dans *Sentences on Conceptual Art* marque une différence radicale entre la logique de la production scientifique et celle de l'expérience esthétique
+				- La citation des trois premières sentences illustre cette rupture :
+					- *"Les artistes conceptuels sont des mystiques plutôt que des rationalistes. Ils sautent à des conclusions que la logique ne peut atteindre."*
+					- *"Les jugements rationnels répètent les jugements rationnels."*
+					- *"Les jugements irrationnels mènent à une nouvelle expérience."*
+						- Ces affirmations suggèrent que LeWitt et l'[[Art Conceptuel]] en général privilégient des modes de pensée non linéaires, intuitifs et même "mystiques", en opposition à la logique rationnelle et empirique de la science proche du [[Positivisme américain]] et du formalisme américain qui aurait influencé le dogme formaliste de [[Clément Greenberg]] et [[Michael Fried]]
+	- ## [[Art Conceptuel]] & Langages
+		- Robert Morris percevait l'art de son époque comme centré sur les "idées"
+			- Grand admirateur de [[Marcel Duchamp]] et [[John Cage]]
+				- Selon Morris, sa fascination pour [[Marcel Duchamp]] était liée à sa propre "fixation linguistique" et à l'idée que les actions artistiques de [[Marcel Duchamp]] reposaient sur une compréhension sophistiquée du langage
+					- Contrairement à une interprétation simpliste du [[Ready-made]] comme un acte de langage performatif ("c'est une œuvre d'art si je le dis"), Morris avait déjà entre 1961 et 1963 une compréhension plus profonde
+						- Il ne voyait pas le [[Ready-made]] comme un simple déplacement des modes de production traditionnels par une déclaration
+							- Morris s'intéressait au œuvre comme ((677bfe1a-0af5-4c09-9913-72acb04d6b22))ou des notes sur le ((67cea6a3-9cf4-4fa8-86cc-4797cc275f5e))
+			- Morris percevait un va et vient binaire entre le  l'arbitraire et le non arbitraire ou 'motivé
+				- Comme une caractéristique de l'évolution du langage, établissant une comparaison entre les structures du langage et celles de l'art plastique en tant que formes de comportement humain
+					- Bien qu'il ait réaffirmé plus tard la distinction ontologique entre l'art plastique et le langage, ses premières explorations ont jeté les bases d'une pratique artistique qui soulignait les parallèles, voire l'identité, avec les systèmes de signes linguistiques – [[Art Conceptuel]]
+						- Robert Morris, [*Box with the Sound of Its Own Making*](https://www.metmuseum.org/art/collection/search/689665), 1961 ![Robert Morris | Box with the Sound of Its Own Making | The Metropolitan  Museum of Art](https://collectionapi.metmuseum.org/api/collection/v1/iiif/689665/1516384/restricted)
+							- Il rompt à la fois avec la quête moderniste de la pureté du médium et avec la conviction positiviste d'une expérience purement perceptive. En accordant une importance égale, voire supérieure, à une expérience auditive, il renouvelait la quête duchampienne d'un art non rétinien
+							- La stratégie de Morris de **"retrait perceptif"** dans ses premières œuvres menait à des analyses des éléments constitutifs de l'objet structuré et des modes de lecture qu'il générait.
+								- Robert Morris, [*I-Box*](https://www.artic.edu/artworks/248725/i-box), 1965 https://www.artic.edu/iiif/2/c6832f67-95d5-daae-21ff-b22f869a89a9/full/843,/0/default.jpg
+									- jeu de mots sémiotique et une manipulation structurelle entre le tactile, le linguistique et la représentation visuelle
+					- Robert Morris, [*Document (Statement of Aesthetic Withdrawal)*](https://www.moma.org/collection/works/79897) ![Robert Morris. Document. 1963 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMjIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=8310e7653e1b048f)
+						- poussait la négation du visuel encore plus loin, soulignant qu'après [[Marcel Duchamp]] , la définition de l'œuvre d'art était devenue une question de convention linguistique, de contrat légal et de discours institutionnel plutôt que de goût ou de compétence manuelle
+							- L'auteur note que cette érosion de l'hégémonie du visuel et de l'autonomie de l'expérience esthétique avait été préfigurée par [[Marcel Duchamp]] , notamment avec la certification notariée de **"L.H.O.O.Q."** en 1944
+								- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
+								- Ce qui était peut-être une manœuvre pragmatique chez [[Marcel Duchamp]] est devenu une caractéristique constitutive des développements ultérieurs de l'art conceptuel, comme en témoignent les certificats de Manzoni et les zones de sensibilité picturale immatérielle d'Yves Klein
+									- Cette esthétique des conventions linguistiques et des arrangements légalistes remettait également en question l'esthétique de la production et de la consommation qui avait encore cours dans le [[Pop-Art]] et le [[Minimalisme]]
+				- Robert Morris, par sa lecture approfondie et linguistique de [[Marcel Duchamp]] , et par ses propres expérimentations artistiques au début des années 1960, a jeté des bases cruciales pour l'émergence de l'Art Conceptuel.
+					- Son approche se distinguait d'une simple interprétation du readymade comme une déclaration arbitraire et anticipait l'importance du langage, des structures et des contextes institutionnels dans la définition de l'œuvre d'art, des thèmes qui deviendront centraux dans l' Art Conceptuel
+	- # Art Conceptuel et distribution
+		- Les livres de Ed Ruscha sont un exemple majeur de certaines tendances qui ont marqué l'émergence de l'Art Conceptuel
+			- Ce travail est reconnu à la fois par Dan Graham comme une inspiration majeure pour son propre *"Homes for America"* et par [[Joseph Kosuth]] , qui le nomme comme un artiste proto-conceptuel dans son essai *"Art after Philosophy"*
+				- Ed Ruscha, [*Twentysix Gasoline Stations*](https://fr.wikipedia.org/wiki/Twentysix_Gasoline_Stations), 1963 ![Twentysix Gasoline Stations — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/e/e7/RuschaGasolineStations.jpg)
+			- Avant les années 1960, toute référence à l'architecture était impensable dans le contexte du formalisme américain et de l'expressionnisme abstrait, ainsi que dans l'esthétique européenne d'après-guerre
+				- Ces mouvements étaient centrés sur une esthétique privée d'expérience contemplative, sans réflexion sur les fonctions sociales de la production artistique ni sur leurs publics potentiels.
+					- Ruscha, en choisissant l'architecture comme sujet, a rompu avec cette tradition
+				- Ruscha a utilisé la photographie de manière directe, dans un médium d'impression approprié, se distançant des conventions de la photographie d'art, de la photographie documentaire traditionnelle et de la photographie "engagée"
+					- Son approche photographique est décrite comme *laconique, détachée, anonyme et amateurish*, correspondant à son choix iconographique du banal architectural
+			- En optant pour le livre produit commercialement, Ruscha a remis en question la forme traditionnelle du livre d'artiste et a potentiellement adressé un public différent
+				- Son livre *Twenty-Six Gasoline Stations* (1963), de par son format et sa production modestes, était aussi éloigné de la tradition du livre d'artiste que son iconographie l'était de l'art américain officiel des années 1950 et du début des années 1960
+		- [[Benjamin Buchloh]] explique que, tout comme [[Andy Warhol]] avec ses séries (par exemple, les boîtes de soupe Campbell), Ruscha acceptait une notion d'expérience publique contenue dans les conditions de consommation
+			- Cependant, les deux artistes ont modifié le mode de production et la forme de distribution de leur travail, adressant ainsi potentiellement un public différent
+				- L'iconographie vernaculaire de Ruscha a évolué d'une manière similaire à celle de [[Andy Warhol]] , à partir de l'héritage duchampien et cagien d'une esthétique de "l'indifférence" et d'un engagement envers une organisation anti-hiérarchique d'une factualité universellement valide
+					- Cette "esthétique de l'indifférence" implique un certain détachement de l'artiste vis-à-vis des jugements esthétiques traditionnels et une ouverture à intégrer des éléments de la réalité quotidienne sans les hiérarchiser.
+					- [[Benjamin Buchloh]] note que l'échantillonnage aléatoire et le choix aléatoire d'une infinité d'objets possibles (comme les stations-service de Ruscha ou les *Thirteen Most Wanted Men* de [[Andy Warhol]] ) deviendront des stratégies essentielles de l'esthétique de l'Art Conceptuel
+						- ((6778718e-0da6-4ea0-92da-3c5b4baaa0c0))
+							- L'œuvre de Ruscha est présentée comme une rupture significative avec les conventions artistiques établies, tant au niveau du sujet (le vernaculaire), du médium (la photographie directe et détachée), que de la distribution (le livre commercial). Ces innovations ont jeté les bases de nombreuses pratiques de l'art conceptuel ultérieur, marquant une transition vers une esthétique moins centrée sur l'objet unique et l'expérience contemplative, et davantage tournée vers le concept, le contexte et les modes de diffusion.
+								- Rober Barry, *One Billion Dots*, 1968/2008  ![Robert Barry-One Billion Colored Dots | Oeuvre | mfc-michèle didier | Paris  - Bruxelles](https://www.micheledidier.com/cspdocs/artwork/portfolio/robert_barry_mfc_michele_didier_12_15.jpg)
+								- On Kawara , [*One Million Years*](https://www.artbasel.com/catalog/artwork/67573/On-Kawara-One-Million-Years), 1999 https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/gallery/1608/On_Kawara_-_One_Million_Years_-_right_book_open_HD-3.jpg
+									- Ces œuvres privilégient un principe abstrait de quantification ou de documentation exhaustive au détriment des principes traditionnels d'organisation picturale ou sculpturale
+				- Dan Graham dans *Homes for Americia*, 1966 Graham invite implicitement à une réflexion sur le rôle de l'audience dans la réception et la compréhension de l'art, ainsi que sur la figure de l'auteur dans une œuvre distribuée par un média de masse
+					- Dan Graham, *Homes For America*, 1966 ![Dan Graham, Homes For America ← Acquisitions ← COLLECTION ← IAC — Institut  d'art contemporain — Villeurbanne/Rhône-Alpes](https://i-ac.eu/img/thumbs_cache/720x540_graham1.jpg)
+					- Cela suggère une tentative de situer les préoccupations formelles du Minimalisme dans un contexte culturel plus large et plus accessible.
+						- œuvre clé qui a marqué une transition importante en liant les préoccupations formelles du [[Minimalisme]] à une analyse de la culture de masse, tout en remettant en question les conventions de présentation, de distribution, d'audience et d'auteur dans l'art. Cette œuvre a contribué à redéfinir l'héritage du [[Pop-Art]] et s'est distinguée du détachement du [[Minimalisme]] vis-à-vis de l'expérience sociale
+	- ## [[Modernisme]] et Art Conceptuel
+		- L'extrait explique qu'en opposition à des approches comme celle de Dan Graham, [[Joseph Kosuth]] argumentait en 1969 en faveur de la continuation et de l'expansion de l'héritage positiviste du [[Modernisme]]
+			- Il utilisait pour cela ce qui lui semblait être les outils les plus radicaux et avancés de cette tradition : le positivisme logique de [[Wittgenstein]] et la philosophie du langage
+				- [[Joseph Kosuth]] affirmait explicitement cette continuité en déclarant que "la philosophie du langage peut certainement être considérée comme l'héritière de l'empirisme
+					- Bien que [[Joseph Kosuth]] prétende dépasser le formalisme de [[Clément Greenberg]] et de [[Michael Fried]] , il actualisait en réalité le projet d'autoréflexivité du [[Modernisme]]
+						- Au lieu de se concentrer sur les qualités visuelles et formelles de l'œuvre (comme le faisaient les formalistes), [[Joseph Kosuth]] déplaçait cette autoréflexivité vers le domaine du langage et des idées
+							- Kosuth cherchait à stabiliser la notion d'un art désintéressé et autosuffisant. Pour ce faire, il soumettait à la fois :
+								- Le modèle wittgensteinien du jeu de langage
+								- Le modèle duchampien du [[Ready-made]]
+									- Ces deux modèles étaient soumis aux strictes contraintes d'un modèle de signification qui opère dans la tradition moderniste de ce paradoxe que [[Michel Foucault]] a appelé la pensée "empirico-transcendentale" de la [[Modernité]]
+			- Pour [[Joseph Kosuth]] en 1968, la production artistique était toujours le résultat de l'intention artistique, mais celle-ci se constituait avant tout dans l'autoréflexivité
+				- La différence résidait dans la nature de cette autoréflexivité : elle devenait discursive plutôt que perceptive, épistémologique plutôt qu'essentialiste.
+					- En d'autres termes, l'art ne se définissait plus par son apparence ou sa matérialité, mais par les idées et les propositions qu'il avançait sur la nature de l'art lui-même.
+		- Cette approche de [[Joseph Kosuth]] contraste fortement avec celle de Dan Graham dans *Homes for America*. Alors que Graham ancrait la signification de l'œuvre dans son contexte social et culturel, [[Joseph Kosuth]] cherchait à définir l'art à travers une logique interne et autoréflexive, basée sur la philosophie du langage. Cette divergence illustre bien l'émergence, dès les débuts de l'Art Conceptuel , d'approches "diamétralement opposées"
+	- ## [[Ready-made]]
+		- Apres 1968 il y a eu une troisième réception du [[Ready-made]] de [[Marcel Duchamp]]
+			- Contrairement aux deux premières phases qui avaient progressivement révélé la richesse des implications des ready-mades de [[Marcel Duchamp]] cette troisième phase est marquée par une focalisation sur l'acte intentionnel de l'artiste de déclarer quelque chose comme étant de l'art
+				- [[Art & Language]] et [[Joseph Kosuth]] mettaient en avant l'idée de placer un objet dans un contexte artistique ou de le déclarer œuvre d'art par la volonté de l'artiste, s'appuyant sur l'exemple des ready-mades de [[Marcel Duchamp]] et du "Portrait d'Iris Clert" de [[Robert Rauschenberg]]
+					- [[Robert Rauschenberg]] *Ceci est un portrait d'Iris Clert si je puis me permettre (1961)* https://external-preview.redd.it/oSJFx9fNPescoaDgpHQQlR1PqVOVqJLr8lokMyhBvZs.jpg?auto=webp&s=039d9a9a7e21ca51abff0d8a65785f82f7dc5af9
+						- Cette lecture étroite réduisait le modèle du [[Ready-made]] à une simple proposition analytique, à savoir l'affirmation "ceci est une œuvre d'art".
+							- Elle passait sous silence la logique structurelle de l'objet, son statut d'objet industriel de consommation, sa sérialité et la dépendance de sa signification au contexte
+								- En 1969, [[Art & Language]] et [[Joseph Kosuth]] partageaient la mise en avant de la "proposition analytique" inhérente à chaque [[Ready-made]] , au-dessus de toutes les autres implications
+									- Pour [[Joseph Kosuth]] , cela signifiait que les propositions artistiques se constituaient dans la négation de toute référentialité, qu'elle soit historique ou liée à la fonction et à l'usage social de l'objet
+										- ll considérait les œuvres d'art comme des propositions analytiques qui, vues dans leur contexte artistique, ne fournissaient aucune information sur un fait quelconque
+	- ## Esthétique tautologique
+		- Pour [[Joseph Kosuth]] L'*absence de réalité dans l'art est précisément la réalité de l'art*
+			- Le renouveau du culte de la tautologie par [[Joseph Kosuth]] représente en réalité l'aboutissement du projet symboliste
+				- Même si l'intention du [[Symbolisme]] pouvait être de créer un domaine artistique autonome et auto-référentiel, son adoption rapide par la production commerciale suggère que cette autonomie était illusoire et que l'esthétique pouvait facilement être intégrée et utilisée par des forces externes.
+					- Tout comme le [[Symbolisme]] , l'art conceptuel, avec son insistance sur l'auto-référence et la définition interne de l'art, pourrait être interprété non pas comme une véritable rupture avec les systèmes externes, mais plutôt comme une nouvelle façon de s'y inscrire, voire de les servir, dans un contexte historique différent. La prétendue pureté analytique de l'art conceptuel pourrait ainsi être compromise par son inscription dans un monde déjà structuré par des logiques économiques et sociales, comme le suggère l'exemple de l'application du Symbolisme à la production de marchandises.
+		- Dans la situation contemporaine d'après-guerre, cette dialectique entre l'autonomie de l'art et son intégration à la société s'est manifestée avec encore plus de force
+			- L'accélération rapide de la fusion entre l'industrie culturelle et les derniers bastions d'une sphère autonome de l'art dit "noble" a entraîné un déplacement croissant (et inévitable) de la réflexivité vers la frontière entre le positivisme logique et la campagne publicitaire
+			- La classe moyenne d'après-guerre, dont le rôle principal est l'administration et la distribution, a trouvé une correspondance esthétique dans le modèle de la tautologie. L'art qui se définit par lui-même et ne réfère pas à un contenu extérieur fait écho à une identité sociale axée sur la gestion plutôt que sur la production directe.
+				- la tautologie par [[Joseph Kosuth]] pourrait être interprété comme une manifestation esthétique des dynamiques sociales de l'époque, en particulier l'ascension d'une classe administrative.
+		- Dix ans plus tard, au moment même où [[Joseph Kosuth]] découvrait la tautologie comme projet esthétique central de son époque, ce phénomène a été réexaminé en France. Cependant, au lieu d'être abordé comme une forme linguistique et rhétorique, il a été analysé comme un effet social général
+			- La tautologie était perçue à la fois comme un réflexe comportemental inéluctable et, avec la mise en place des exigences de l'industrie culturelle avancée (publicité et médias) dans la formation de la culture du spectacle, comme une condition universelle de l'expérience
+				- Dans quelle mesure Art Conceptuel d'un certain type a-t-il partagé ces conditions, voire les a-t-il mises en scène et appliquées dans la sphère esthétique ?
+					- La mention du succès de l'art conceptuel auprès des stratèges publicitaires pourrait indiquer que, loin d'être une critique radicale des systèmes existants, il a pu partager certaines de leurs logiques, notamment l'affirmation autoréférentielle et la création de systèmes clos.
+						- Au lieu d'être une force subversive, il pourrait être perçu comme une manifestation de cette logique administrative, où même la critique esthétique est intégrée et gérée par le système.
+		- ### Le carré
+			- Dans la sphère visuelle, les formes qui correspondent le plus précisément à la forme linguistique de la tautologie sont le carré et sa rotation stéréométrique, le cube
+				- Il n'est donc pas surprenant que ces deux formes aient proliféré dans la production picturale et sculpturale du début et du milieu des années 1960
+					- Cette période était caractérisée par une auto-réflexivité rigoureuse qui cherchait à examiner les frontières traditionnelles des objets sculpturaux modernistes, tout comme une réflexion phénoménologique sur l'espace de perception insistait sur la réintégration des paramètres architecturaux dans la conception de la peinture et de la sculpture
+						- Dès le Carré noir de [[Kazimir Malevitch]] en 1915, le carré pointe incessamment vers lui-même : comme périmètre spatial, comme plan, comme surface et, simultanément, comme support
+							- ((67858915-6d0c-4857-b765-4db51e2465d8))
+							- Avec le succès de ce geste auto-référentiel, marquant la forme comme purement picturale, le tableau carré assume paradoxalement mais inévitablement le caractère d'un relief/objet situé dans l'espace réel
+								- Il invite ainsi à une lecture de la contingence spatiale et de l'ancrage architectural, insistant sur la transition imminente et irréversible de la peinture à la sculpture
+									- La rotation du carré génère des structures cubiques. Ces dernières, comme le carré, peuvent être interprétées comme des formes auto-référentielles, examinant les relations entre l'objet, l'espace et le spectateur
+									- Robert Morris, *Four Mirrored Cubes*, 1965 https://englishatprepart.wordpress.com/wp-content/uploads/2016/01/untitled-mirrored-cubes-1971.jpg?w=1200
+										- Cette œuvre est mentionnée dans la section traitant de la prolifération du carré et du cube dans la production artistique du milieu des années 1960
+											- [[Benjamin Buchloh]] l'utilise comme un exemple de la "simple" rotation du carré qui a généré des structures cubiques diverses.
+												- [[Benjamin Buchloh]] précise que les *Mirrored Cubes* situent le spectateur dans la suture de la réflexion du miroir, à l'interface entre l'objet sculptural et le contenant architectural, où aucun élément ne domine dans la triade spectateur-objet-espace
+												  id:: 83053cec-9f31-4b67-969e-041c451a21bc
+													- L'œuvre inscrit un modèle phénoménologique d'expérience dans un modèle traditionnel de spécularité purement visuelle, tout en le déplaçant. Son focus principal reste l'objet sculptural et son appréhension visuelle.
+													- Robert Barry, *Painting in Four Parts*, 1967  ![Robert Barry. Untitled. August 1967 | MoMA](https://www.moma.org/media/W1siZiIsIjI5ODczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=8af6a32c221bc0ce)
+					- L'utilisation de formes géométriques simples comme le carré et le cube peut être vue comme une manifestation de cette auto-réflexivité propre au [[Modernisme]] , où l'attention est portée sur les éléments fondamentaux de la forme visuelle elle-même, de manière analogue à la tautologie linguistique qui se définit par elle-même.
+				- De plus, dans le contexte de l'esthétique de l'administration, la simplicité et la neutralité des formes géométriques comme le carré et le cube pourraient être interprétées comme un écho visuel à la rationalisation et à la systématisation caractéristiques de cette esthétique
+					- Ces formes, dépourvues d'ornementation ou de subjectivité expressive, pourraient correspondre à une conception de l'art qui se veut objective et presque administrative dans sa présentation.
+						- L'opacité de la peinture est devenu un caractère fondamental questionner dans l'Art Conceptuel
+							- Cette emphase sur l'opacité visait à souligner le statut d'objet de la structure picturale1 . Plusieurs stratégies ont été employées pour atteindre cet objectif
+								- Les peintures de [[Robert Ryman]] en fibre de verre joue de cette opacité
+									- [[Robert Ryman]], *Untitled*, 1969 ![Sold at Auction: Robert Ryman, Robert RYMAN (1930 - 2019) UNTITLED - 1969  Acrylique sur fibre de verre](https://image.invaluable.com/housePhotos/artcurial/88/691788/H1118-L257069118.jpg)
+							- [[Gerhard Richter]], 11 Panneaux, 2004 https://cdn.gerhard-richter.com/images/original/14254.jpg?width=673&height=673
+							- ((653ef669-a4fe-470d-b136-86dab4530f08))
+							- ((661023c4-cd58-49e6-ae23-b0af45f4ba54))
+								- Le cube contrairement a ceux de Morris établit plutôt un système bio-physique comme lien entre le spectateur, l'objet sculptural et le contenant architectural
+									- Haacke remplace le concept de "tactilité" activatrice dans l'expérience visuelle par un mouvement visant à encadrer le phénoménologique dans la détermination d'un "système"
+								- Lawrence Weiner [*A Square Removal from a Rug in Use et A 36" X 36" Removal to the Lathing or Support Wall of Plaster or Wallboard from Wall*](https://www.moma.org/collection/works/137437),  1968 https://www.moma.org/media/W1siZiIsIjI0NjM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=896cdfa6e97a1a9d
+									- Met en évidence les changements paradigmatiques initiés par l'art conceptuel en ce qui concerne l'héritage du formalisme réductionniste
+										- Bien qu'elles maintiennent des liens structurels et morphologiques avec les traditions formelles en respectant la géométrie classique au niveau de la forme, ces interventions s'inscrivent dans les surfaces de support de l'institution et/ou du foyer, que cette tradition avait toujours niées
+			- Chez Daniel Burren il y a
+				- D'une part, une réévaluation critique de l'héritage de la peinture moderniste avancée et américaine d'après-guerre
+				- D'autre part, une analyse de l'héritage de [[Marcel Duchamp]] , qu'il considérait de manière critique comme une négation totalement inacceptable de la peinture
+					- Sa thèse centrale était que le [[Ready-made]] , en tant qu'acte de déclaration de l'artiste, occultait les conditions institutionnelles et discursives qui permettaient à l'objet de devenir une œuvre d'art
+						- Buren a rendu caduques les approches qui se concentraient uniquement sur les qualités intrinsèques de l'objet ou sur l'intention de l'artiste
+					- Cette interprétation particulière de [[Marcel Duchamp]] et du [[Ready-made]] comme des actes de radicalité anarchiste petit-bourgeoise – bien que potentiellement incomplète ou inexacte – a permis à Buren de construire une critique efficace des deux : la peinture moderniste et le [[Ready-made]] de [[Marcel Duchamp]] , qu'il percevait comme son Autre historique radical
+						- Sa critique, même vingt ans plus tard, rend la continuation naïve de la production d'objets dans la veine duchampienne du [[Ready-made]] apparaît totalement hors de propos . Comme le texte le suggère, cette critique de Buren visait peut-être plus les conventions de réception de [[Marcel Duchamp]] prédominantes à la fin des années 1950 et au début des années 1960 que les implications intrinsèques du modèle duchampien lui-même
+				- L'expression "framework determining it" dans le contexte de Buren fait référence au cadre institutionnel et discursif qui détermine la signification et la réception de l'art, qu'il s'agisse de la peinture ou du [[Ready-made]]
+					- Buren a réussi de manière singulière à déplacer les paradigmes de la peinture et du [[Ready-made]] en critiquant ce cadre de détermination
+					- Buren a remis en question les conventions traditionnelles de la peinture, notamment son caractère spéculaire et autonome
+						- En utilisant des motifs répétitifs et standardisés (les bandes verticales) sur des supports variés et dans des contextes divers (y compris l'espace public), il a décontextualisé la peinture de son cadre habitue
+						- Daniel Burren, Installation @Guggenheim, 1971 ![Peinture-Sculpture Œuvres Daniel Buren](https://catalogue.danielburen.com/uploads/companies/8/media/1748/r2_1971_newyork_1152_013.jpg)
+						- ll a révélé que l'institution n'est pas un espace neutre mais un cadre actif qui façonne la perception et la valeur de l'art
+		- Ces installations entre sculpture et peinture ne correspondaient plus aux catégories traditionnelles de l'atelier** et ne pouvaient pas non plus être identifiés comme des reliefs ou des décorations architecturales, qui étaient des termes de compromis utilisés pour combler le fossé entre ces catégories
+			- Le [[Minimalisme]] et [[Post-minimalisme]] , en utilisant diverses stratégies, a produit des objets qui ont transgressé les classifications artistiques conventionnelles

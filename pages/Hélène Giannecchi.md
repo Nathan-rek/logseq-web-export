@@ -1,0 +1,8 @@
+- Curatrice historienne de l'art
+- # Amitiés Revolutionaires, Désire démesuré d'amitié
+	- Donne place à l'amitié dans le contexte de la lesbiannité
+	- Le triangle comme signe revendicateur de la communauté LGBTQIA+
+		- Le [Triangle Rose](https://fr.wikipedia.org/wiki/Triangle_rose) était dans l'univers concentrationnaire le symbole utilisé par les nazis  pour « marquer » les homosexuels masculins (ainsi que, par extension, les hommes bisexuels et les femmes trans, considérés comme « homosexuels » par les nazis
+	- L'amitié se perd avec le temps car les autres formes de structure social prennent le dessus
+	- St-Just propose un contrat d'amitié qui devrait chaque moi devrait déclarer ses amitiés
+	-

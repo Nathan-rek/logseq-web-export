@@ -1,0 +1,16 @@
+- Groupe d'art belges qui en 1974 propose des pratiques autour d'un [[Art Relationnel]]
+	- Dans ce groupe l'aspect relationnelle n'est pas que entre humain,
+		- L'aspect rationnelle ne peut être autre que dans le lien social
+			- Se relater à quelque chose
+				- Toutes œuvres d'art est une relation à quelque chose ( ensemble de relation entre les éléments) approche [[Structuralisme]]
+	- Questionne l'information comme lien
+		- Comment on lie une œuvre d'art dans un dispositif, une installation
+			- Travail la relation au sens structuraliste
+- Travail ensuite le lien inter-humains
+	- Jacques Lennep: [*Le musée de l'homme*](https://www.lennep.be/Lennep/Musee_de_lhomme.html), 1974 ![l'homme zèbre - Hilde Van Gelder](https://archive-magazine.jeudepaume.org/blogs/hildevangelder/files/2011/07/f1.jpg)
+	  id:: 661023c4-336d-4403-a129-f29593587135
+		- Initiatives qui démarre en 1974 qui décide plutôt d'exposer des personne dites 'ordinaire' en dehors du [[Monde de l'art]] ,
+			- N'exposant pas des artistes mais des personnes dont le mode de vie s'apparente à de l'art
+	- Approche plus relationnelle, expose l'homme telle qu'il est *"On est tous artistes"* chacun peut déployer un dispositif artistique
+	- Une fois cette pratique légitimée par le [[Monde de l'art]] , c’est toute la question du pouvoir de ce monde qui se pose, comme celle de sa nécessité (la « légitimation » de la pratique est-elle nécessaire ? ou n’est-elle une fois de plus que le signe du voeu – vain ? – de la reconnaissance, de la certification de la compétence, condition sine qua none à l’ « être artiste » ?)
+		- confondant les figures de l' [[Amateurisme]] et de l’artiste génial ou, tout au moins, « professionnel » (reconnu, évalué, exposé).

@@ -1,0 +1,17 @@
+- HDA est une histoire de cadre
+	- Un cadre qui définit ce qui est art et tout ce qui sort des limites n'est pas de l'art, un paradigme
+	- Un cadre qui dit ce qui est et ce qui n'est pas art
+- La tradition de l'HDA a exclu l'art non occidentale hors des domaines thématiques de la discipline.
+	- Les notions d'art sauvages, d'art Océanique sont des notions d'art non européens
+		- On remonte l'HDA avec les grottes de Lascaux or il y a des représentations rupestre antérieur à celle trouvée en Europe
+- *HDA a abandonné l'art de l'autre à l' [[Ethnologie]] .*
+	- Particulièrement celle dont les cultures n'ont pas introduit la [[Modernité]] occidentale
+- La notions de Beaux-Arts est une notion européennes
+	- L'ouverture des frontières fait disjoncter cette étude de l'art
+		- De nombreux termes apparaissent pour faire l'état de ce tournant artistique
+			- S'accorde à la prolifération des nouveaux terrains disciplinaires.
+- Kehinde Wiley, Francois Bertin, 2012 ![Le corps noir de l'Histoire avec Kehinde Wiley et Mickalene Thomas](https://focus.huffingtonpost.fr/2022/07/23/0/0/531/640/0/0/75/0/0d580a8_1658541625969-5c93bb3d2400007e064f3a4a.jpeg)
+- Jean Auguste Dominique Ingres, Louis-Françoise Bertin, 1832 ![Reproductions De Qualité Musée Robert Phelps (1808–1890), maître (1843–1890), 1890 de Alfred Edward Emslie (1848-1918) | ArtsDot.com](https://fr.artsdot.com/ADC/Art.nsf/O/8YDEA5/$File/Jean-Auguste-Dominique-Ingres-Louis-Francois-Bertin-S.JPG)
+- ### Post-ethnique
+	- Quand ceux qui était incapables de se représenter eux-mêmes acquièrent une certaine liberté d'action dans la construction de leur propre identité
+	- L'arrivé de l'artiste du tiers monde à l'horizon de l'art contemporain

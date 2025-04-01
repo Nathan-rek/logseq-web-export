@@ -1,0 +1,37 @@
+- Penseuse [[Marxisme]]
+	- Neo-marxisme, branche [[Marxisme]] qui s'intéresse au manifestations culturelle de l'économie
+- # Immediacy or the Style of to Late Capitalism
+  id:: 67b4a3fb-efd2-49c9-b980-bce1164d8f53
+	- L'immédiateté est un style présent dans nos vie, très présent dans l'économie, mais cela à un fort impact culturelle
+		- La désigne le processus actif de mise en relation, qui consiste à donner un sens et une signification en s'insérant
+		  dans le médium, à créer des intermédiaires qui fusionnent les extrêmes, à rendre disponibles dans le langage, l'image et le rythme les abstractions super-valentes autrement inaccessibles à notre perception sensorielle, comme la « justice » ou la « valeur »
+		- Pour les néo-marxiste il y a la base (tout élément de société économique) et la superstructure (la culture).
+			- La culture est sous tendu par la base
+				- On retrouve dans la culture des idéologies qui servent les classe dominantes (la croissance, la propriéte privé, La famille)
+					- Le bon-sens est l'endroit où l'idéologie la plus active
+						- Stade de l'idéologie totalement normalisé et donc invisibilisé
+							- Pour Slavoj Žižek l'idéologie est transparent
+		- La médiation est en manque
+			- Il n'y a plus de capacité des œuvres d'art à nous mettre à l'exercice de la pensée.
+			- Van Gogh a subi cette perte de médiation
+				- Toute substance artistique est éliminé par la sur marchandisation que Van Gogh a subi
+					- Il n'y a plus de déplacement du..la spectateur..ice
+	- L'omnicrise contemporaine est systemique est peu etre lier à la mediation
+		- Il n'y a plus de sens à la médiation, il n'y a que la nécessité de l'immédiateté
+	- On n'est plus dans un capitalisme tardifs mais dans un capitalisme trop tardif.
+		- Le trop tard est un concept qui nous empêche de réfléchir et d'être mis au travail de la pensé.
+	- Le [[Modernisme]] assiste à la fragmentation du monde mais dont les procédés artistique marque une forme d'unité.
+		- Le [[Post-modernisme]] face à cette fragmentation va chercher l'irone le pastiche la superficialité
+	- les [[NFT]] artistiques témoignent d'une pulsion culturelle naissante : en finir avec la médiation
+	- Cette fin de la médiation est une logique de capitalisme tardif car il y a un point commun entre ces tendances artistiques et la dynamique de la production et de la circulation capitalistes du XXIe siècle
+		- Envie d'éliminer les intermédiaires ne relève pas tant d'une élévation de l'art que d'une fusion avec une vague déferlante d'autres activités sociales et commerciales, du travail à la tâche à l'auto-édition en passant par le courtage en ligne
+			- Le grand business de la « désintermédiation » accompagne les événements esthétiques
+				- C'est cette confluence qui donne sa cohérence à un style culturel : **l'immédiateté**
+	- L'immédiateté écrase la médiation
+		- C'est ce qu'elle est. Identité propre sans représentation, fermentation « sans mots ». Le préfixe « im- » évoque cette négation - au milieu sans intermédiaire, # NoFilter - ainsi qu'une prépositionnalité
+		- L'immédiateté explose dans l'ontologie pop et l'épistémologie quotidienne
+	- *Immediacy, or, The Style of Too Late Capitalism* présente l'immédiateté comme une catégorie maîtresse pour donner un sens à la production culturelle du XXIe siècle.
+		- L'immédiateté régit l'art ainsi que l'économie, la politique autant que l'intimité
+	- La *médiation* évoque le processus social de création de représentation, de connexions et de sens - qui révèle souvent que ce qui est simplement évident ou qui existe de manière intransitive n'a pas déjà de sens
+	- Là où le [[Post-modernisme]] embrasse esthétiquement et épistémiquement la surface et évite la profondeur, l'immédiateté s'enlise dans les profondeurs de la corporéité, de l'affect et de l'extrême polarisation
+	-

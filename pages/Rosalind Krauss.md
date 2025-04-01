@@ -1,0 +1,48 @@
+- Issu d'un école formaliste proche de [[Clément Greenberg]] et [[Michael Fried]] elle suivra sa propre voie vers une sociologie de l'art
+- # Grilles
+	- La grille comme structure formelle apparait en Europe dans les arts visuels. Symptôme visuel de la [[Modernité]]
+		- La grille contre l'illusion de la parole
+		- Cette investigation de la grille se voue aujourd'hui à l'échec pour Krauss face aux pratiques de l'art contemporain.
+	- La grille résiste à l'expansion, l'extension, la transmutation.
+		- Pour Krauss [[Piet Mondrian]] à émis une œuvre ((65d37714-b729-417a-8824-f7b8e7265c57))
+		- Il l'as répéter pendant 15 ans et le [[Modernisme]] continue d'engendrer des exemples de grille.
+	- La grille fonctionne de deux manières
+		- Spatial: bidimensionnelle, géométrique, ordonné, elle est antinaturelle , anti mimétique elle va à l'encontre du réel.
+			- Décret esthétique où l'ordre n'est que relation pure, elle permet de refouler la prétention qu'ont les objets naturels d'avoir un ordre propre
+				- La grille devient un espace autonome et autotélique
+	- La grille symbole de [[Modernité]] qui marque l'omniprésence de l'art à l'ère moderne
+		- La grille a permis au [[Cubisme]] au [[De Stijl - Néo-plasticisme]] à [[Kazimir Malevitch]] de s'inscrire dans le présent et rend tout ce qui n'est pas grille passé. La grille effectue la tabula rasa des [[Avant-Gardes "Historique"]]
+			- Même si la grille pouvait apparaitre dans les études de perspective de DaVinci
+				- Mais la perspective est une science du réel et non un moyen de s'en abstraire.
+		- La grille ne représentant pas le réel pour être un manifeste matérialiste mais ni [[Kazimir Malevitch]] ni [[Piet Mondrian]] ne traite de la toile il traite de l'être
+			- Dans un monde de plus en plus désacraliser l'art moderne et sa grille rejoue de cette héritage issue de la croix. L'art devient le refuge de l'émotion religieuse.
+	- Le paradoxe de la grille et dans son pouvoir à nous faire croire qu'on touche à des notions logiques et à travers un matérialisme logique et scientifique alors que l'on ouvre en même temps un chemin vers la croyance et l'illusion
+	- Les traités d'optique physiologique qui se concentre sur la couleur non pas en tant que telle mais de la couleur dans l'interaction retienne de l'œil avec la lumière
+		- Ces traités utilisent la grille pour illustrer les interactions de particules spécifiques à l'intérieur d'un champ continu
+		- La grille devient l'emblème de l'infrastructure de la vision, marqué par la peinture Néo-[[Impressionisme]] qui mette à l'exemple les traités d'optique physionomique
+			- Cela pousse aussi vers une [[Abstraction]] certaine, la science commençait à produire son contraire: Le [[Symbolisme]]
+	- Les symbolistes s'opposaient au proposition entre [[Art & Science]] et la représentation d'un réel.
+		- Le [[Symbolisme]] cherche à comprendre la métaphysique, non terrestre des objets. Le symbolisme vas plus sur une interprétation du réel que son imitation optique.
+			- Malgré ce dépassement optique la grille existe chez les symbolistes à travers l'usage de la fenêtres.
+			- Dans les mains des symbolistes la fenêtre devient moderniste car ils en font une expérience du réel
+				- La fenêtre éclaire et reflète elle est la naissance via l'éclaircissement mais le reflet devient le gel celui qui fige
+					- Pour Mallarmé c'est *la cristallisations de la réalité dans l'art*
+						- Odille Redon: *Jour*, 1891  ![Odilon Redon | Le jour VI (1891) | MutualArt](https://media.mutualart.com/Images//2021_09/08/18/185414033/c7dca692-2650-4fb9-b3b4-7746ef361836.Jpeg)
+- # The originality of the Avant-Garde: A Postmodernist Repetition
+	- Rodin décède en 1918 léga tout son héritage à l'été Français, il lega donc le droit de reproduction de ses œuvre notamment le droit d'utiliser ses moules pour refaire des œuvres, il limiterai à 12 le nombre de reproduction de la porte des enfers ((65480be3-819c-46f5-b25d-348e223d9332))
+		- Le problème est que Rodin n'as jamais finit de son vivant le moule entier c'est une recomposition à partir de note, le premier bronze s'est fait en 1921 3 ans après la mort de Rodin
+		- La porte de l'enfer est donc un multiple qui n'existe sans original
+			- La notion d'authentification est un problème dans chacune de version tout reproduisant une porte différente sur la même base
+			- La notion de multiple est marquante chez les artistes suite à [[Walter Benjamin]] le négatif comme le moule sont les particularités de ses mediums et deviennent des possibles multiples
+				- Rodin n'allait jamais à l'usine ou été coulé ses sculptures il ne s'intéressait qu'au moule, le résultat lui importait peu.
+					- Le travail de Rodin était fait de potentiel multiples
+						- ((661877cf-c29a-4526-b2a1-61f46d745ddd))
+	- Ou placer un..e artiste en perpétuel quête de singularité par l [[L'Originalité]] quand à sa mort sa production devient reproductible
+	- Pour [[Rosalind Krauss]] on passe d'une culture de l'original à une culture du multiple
+	- Le photographe est celui qui prend la photo et on le jugera sur sa prise de photo et non sur sa maniere de l'imprimer
+	- Dans les avant-gardes américaines le souhait est d'être nouveaux non pas en brulant le passé mais un nouveau littérale, qui serait le fruit d'un fluide amniotique
+		- Une création à partir de 0
+		- Prend le soi comme origine est une solution car il n'y aurait de contamination du passé
+			- De plus si il est maintenu par une possible régénération du soi
+				- [[Kazimir Malevitch]] disait *Only he is alive who rejects his convictiosn of yesterday*
+		- Le travail des avant-gardes est plus un travail sur la notion [[L'Originalité]] que un travail qui produirait de [[L'Originalité]]

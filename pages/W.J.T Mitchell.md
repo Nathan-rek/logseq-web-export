@@ -1,0 +1,15 @@
+- Théoricien des images née en 1942 considéré comme membre fondateur des [[Visual Studies]]
+- ## Que veulent les Images ?
+	- La questionne la réponse émotionnel des images sur nous
+		- Pourquoi les images aurait un telle pouvoir sur nous
+			- L'une des thèses est le pouvoir de l'image à être un quasi sujet dans le sens ou elle possèderai une forme de subjectivité et donc créerait une forme de rencontre
+			- Question du fétiche de l'image, et le rôle de ce fétiches dans l'histoire occidentale rationaliste qui se dit ne pas agir par fétiche
+		- Aucun individu moderne rationnelle et séculaire pense que les images doivent être traité comme de personnes mais on est enclin à faire cela
+		- Ce n'est plus pourquoi les images ont un pouvoir sur moi mais la question de ce que veulent les images et leur désir
+	- Les images sont construites dans une subalternation, dans un position minoritaire à qui on le fait parler et à qui on donne du pouvoir
+		- On fait subir à l'image le rôle stéréotypé social de la femme
+			- On fait de l'image une séductrice sorcière potentiellement ensorceleuse
+		- Subalterne car l'image n'est pas écouté
+	- Toute image serait socialement perçu comme féminine ca socialement modelé sur la construction du féminin
+	- Notre rapport à l'image dit quelque chose de notre rapport sociaux
+	- On devrait dépasser le caractère subalterne des images et ne pas parler à la place des images

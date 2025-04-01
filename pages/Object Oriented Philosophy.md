@@ -1,0 +1,14 @@
+- Object Oriented Philosophy : refuse de réduire les différents objets à l'expression d'une substance uniques
+	- Il s’ensuit une ontologie plate, où tout existant est un objet et où tout objet est irréductible à n’importe quel autre
+	- L'enjeu est dans les conditions d'interactions entre les différents objets en évitant à la fois de faire disparaitre les parties dans le tout
+		- **Dans ces conditions, les objets n’interagissent pas directement, mais au moyen de certaines propriétés sensibles se manifestant dans le cadre d’un rapport particulier**
+			- Autrement dit, les objets sont doués d’une certaine capacité de « sentir », « percevoir », « connaître » les autres dans le cadre d’une relation particulière
+	- On aboutit en conséquence à une perspective anti-anthropocentrique où l’H n’est pas l’auteur de l’ordre de la réalité phénoménale, voire le point de vue privilégié, mais un des objets dont la modalité de relation au monde ne diffère pas essentiellement de celle de tout autres.
+		- L'objectif n'est pas de connaitre les choses en soi mais de dépasser la perspective anthropocentrique pour montrer la réalité de la modalité d'interactions des objet entre eux
+			- Il s’agit de montrer que la détermination des objets n’est pas une construction humaine; au contraire, chaque objet se laisse construire par un autre tout en restant irréductible à chaque représentation
+	- Ces propriétés sensibles comme conditions d'interactions concerne une expérience esthétique, ce que Harman appelle philosophie première
+		- [[dOCUMENTA (13)]] / Harman refuse de réduire les objets aux qualités sensibles par lesquelles ils se manifestent, c’est-à-dire les aspects que l’on peut décrire
+			- Une véritable expérience esthétique devrait pointer vers l’objet réel inaccessible derrière son apparence sensible
+			- C'est cette séparation entre l'identité inaccessible de l'objet et ses qualités sensibles qui pousse les objets à fusionner dans un troisième
+- Contrairement au [[Néo matérialisme]] ici ne se concentre pas sur le devenir d'un réseau de relation mais que contraire d'un "*paradigme non relationelle*" [[Graham Harman]] ((6783ec38-c84b-4b3e-89bc-c48c2603a54e))
+	- L’impossibilité d’épuiser les objets par l’énumération des relations sensibles dans lesquelles ils peuvent entrer

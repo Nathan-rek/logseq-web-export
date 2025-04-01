@@ -1,0 +1,61 @@
+- Danseuse elle pratique la danse contact
+	- La danse contact est une pratique improvisé de la danse qui consiste à faire l'expérience collective de la gravité.
+		- De là est née la petite danse (degré zéro de la danse), invitation à l'immobilité et à voir ce qui danse en nous
+- Proposer dans son livre et dans sa danse une plongé somatique
+	- Intérêt pour la vie anonyme qui est sous la vie qu'on se représente
+	- Une danse qui va plus loin que la binarité actif/passif
+- # Mouvementements
+	- Rompre avec l'image anatomique moderne
+		- Homme de Vitruve ou de Vésale
+			- ![De humani corporis fabrica — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vesalius_Fabrica_p178.jpg/250px-Vesalius_Fabrica_p178.jpg)
+		- Ce sont des images appauvries du corps. Incapable de dialoguer avec le plus qu'humain.
+			- Le corps serait une corp dur et hiérarchique qui suivrait la logique d'état de [[Platon]]
+	- Ces représentations sont le résultat de deux abstractions.
+		- Le faite de prendre un cadavre comme modèle pour ces images
+		- Utiliser les découpes que l'œil et le bistouri imposer aux corps découvert sous la peau.
+			- Sans prendre en compte les liens invisibles
+	- La science et l'imagerie médicale à participé à changer cette représentation du corp dur.
+	- On pense le corp aussi fluide qu'il n'est solide
+		- Les organes et leurs mouvements exprime une grande fluidité dans notre corps
+	- Une des autres étapes pour penser une nouvelle anatomie est d'arrêter de rompre le corps de son environnement, il est en effet penser comme entités hermétique. Or le corp est fait de sa relation avec l'environnement
+		- Cette césure du corp avec l'environnement l'institue au régime d'exception par rapport aux restes ce qui participe au régime [[Nature - Culture]]
+		- Vésale en 1543 avec la *Fabrique du corps humain* choisi de coupé l'humain de la série animale et mammifère selon laquelle l’aristotélisme et le galiénisme l’avaient jusqu’alors étudié
+			- De plus en examinent en interne et sous la peau des cadavres ont fait naitre l'idée que le mouvement vivant est interne et non dans l'interface avec l'extériorité
+	- Lors de la Renaissance apparait une vision déthéologisée du monde alimenté par l'invention de la [*perspectiva artificialis*](https://www.apmep.fr/IMG/pdf/BV_454_ConfPerspectivaArtificialis_C.pdf)
+		- Masaccio, [*Fresque de La Trinité*](https://fr.wikipedia.org/wiki/La_Trinit%C3%A9_%28Masaccio%29), 1430 ![La Trinité (Masaccio) — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Masaccio_-_Trinity_-_Santa_Maria_Novella.jpg/800px-Masaccio_-_Trinity_-_Santa_Maria_Novella.jpg)
+	- Les avancés en perspectives et en horlogerie serait le témoin de la coupure du partage du mouvement, c’est-à-dire l’oubli de l’idée que l’humain n’existe que par son lien métabolique avec les autres vivants, qu’il est mû autant qu’il se meut.
+	- La perspective témoigne de cette création du sujet hors monde
+		- Le sujet percevant : retranché dans un espace littéralement hors du monde
+			- ![Perspective centrale – Guide artistique de la Province de Sienne](https://i0.wp.com/provincedesienne.com/wp-content/uploads/2022/07/img_2282.jpg?ssl=1)
+	- La Renaissance accompagne aussi en anatomie une vision du corps comme régime musculaire et non viscéraux.
+		- Hubert Godard, *« ce n’étaient pas nous qui nous bougions : on était bougés, par Dieu »*
+			- Or avec les muscles  *« c’est moi qui deviens l’agent de mon propre mouvement, d’où l’intérêt pour ce qui est l’opérateur de cette agence de mouvement : la musculature »*
+		- L’anatomie moderne me confirme dans ma capacité à me mouvoir par moi-même.
+	- ## Corps et conscience
+		- La « conscience » comme phénomène de prise de décision subjectivement centré et le « corps » comme objet du monde manipulé par cette conscience sont loin d’être une évidence.
+			- Un bon témoin du fait que cette scission corps/conscience n’a rien d’évidente est *l’Iliade*.
+				- Dans le récit homérique, le processus de prise de décision n’est jamais l’affaire du seul sujet : même quand il s’agit de grands héros, leurs actions ne sont pas dirigées par leurs désirs, leurs volontés ou leurs représentations.
+					- Les dieux qui débattent, décident et mettent en mouvement le cœur, l’estomac ou la main des sujets
+						- Les sujets du poème homérique, en d’autres termes, sont (au moins en partie, au moins de temps en temps) de «nobles automates» animés par les dieux au service de voix qui leur intiment leurs actions et dont ils ne se sentent pas responsables
+				- A côté de cette absence étonnante de la conscience dans le poème homérique, on observe l’absence concomitante du corps humain comme unité vécue
+					- Nulle trace de corps humain unifié : les seules fois où il est question du soma, le mot que le grec emploiera plus tard pour dire le « corps », c’est quand il est question de cadavres
+	- Erin Manning va proposer une philosophie avec un refus du corp comme unité descriptive dernière des événements dynamiques. Refus en faveur des *bodyings* (encorporation, ou corps en train de se faire) elle va favoriser l'intra-action ([[Karen Barad]]) et la danse comme l’agent de liaison du pas-encore.
+		- Les *bodyings* ne remplace pas le corps mais pousse aux devenir au mouvements
+		- Penser le corps comme un champ de relation plutôt qu'une stabilité, une force prenant forme plutôt qu'une forme.
+		- *Embodiments*: un esprit qui s'incarne dans corps mais le *bodyings* est constament habité
+	- Cette pensée du corps s'inspire de la perception neurodiverse:
+		- La neurodiversité désigne la variabilité des conformations neurologiques et perceptives de l’espèce humaine. Le concept est né de l’activisme pour les droits des personnes autistes et des personnes présentant des formes atypiques d’apprentissage, d’attention ou de comportement. Une des formes de la lutte neurodiverse consiste à faire reconnaître que ces formes atypiques ne sont pas réductibles à des troubles ou des pathologies, mais peuvent être considérées comme des modes de l’existence humaine de plein droit, et qu’une partie des souffrances associées à la neuroatypie vient de la psychophobie et des formes de rigidité imposées par le monde neurotypique.
+			- Par exemple, dans leur manifeste *Faites entrer les fractales !* , des auteurices neurodiverses invitent à concevoir la puissance de vie à l’œuvre dans la récurrence gestuelle des « tocs » : « Un toc est une tautologie incorporée, un écho incorporé : il s’amplifie et se recroqueville à la fois, il navigue de façon récursive à travers le corps, se liant et se connectant à encore plus de tocs, formant des réseaux, des groupes, des coalitions “d’énoncés sensoriels” complexes.
+		- Tito Mukhopadhyay: *« Longtemps, je n’avais pas idée de la distinction entre la veille et le rêve, car tout me paraissait être une extension des pensées. Les pensées avaient une vie, comme n’importe quel autre vivant. »*
+	- La voix médiane de Emile Benvéniste
+		- Rompt avec la voix active et passive du français
+			- La voix moyenne est une voix plus en clin avec l'intra actions
+		- Le toucher en français crée l'illusion de stabilité dans le contact en disant je suis touché ou je touche
+			- Les grecs avec la voie médiane signifie toucher et être touché
+				- Situations instable
+			- De même pour la danse
+	- La danse et le mouvementement est lié à la musique comme espace privilégier pour le mouvementement
+		- Lors d'une fête nous ne dansons pas c'est l'atmosphère qui nous fait danser
+			- La danse est toujours une relation, un mouvement qui ne peut s'accomplir seul
+-
+-

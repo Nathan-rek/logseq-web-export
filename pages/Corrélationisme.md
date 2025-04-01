@@ -1,0 +1,12 @@
+- Concept introduit par [[Quentin Meillassoux]] pour critiquer une tendance dominante de la philosophie moderne, notamment issue de Kant et reprise par des phénoménologues comme ((67e6dff1-1f82-46bf-a568-239ad5dd6db0)) et [[Martin Heidegger]] .
+- Le postulat Corrélationisme est hérité de la [[Phénoménologie]]
+- Dans le postulat corrélationiste il y a la pensé d'un coté et la chose en soi.
+	- Dans le cercle corrélationiste la chose existe dans la corrélation de la pensé et de la chose.
+- *Le corrélationnisme, comme doctrine épistémologique, ne soulève aucune objection et, donc, est irréfutable. Cela signifie, tout simplement, qu’on ne peut pas connaître sans les concepts. Cette doctrine épistémologique judicieuse soulève des objections seulement si elle est associée à la thèse sceptique contestable qu’on ne peut jamais savoir si les objets correspondent ou non aux concepts grâce auxquels on le connaît. Compris comme une doctrine strictement épistémique, le corrélationnisme peut être considéré comme la condition du réalisme. […] Dans ce contexte, je pense que le terme « idéalisme » mérite d’être ressuscité pour réaffirmer l’autonomie du conceptuel et pour combattre l’irrationalisme virulent de certaines souches contemporaines de « réalisme » et « matérialisme ». […] Pour ma part, cela signifie soutenir la primauté de la raison et l’irrationalité du réel.[^1]*
+- ((661023c4-90aa-47b2-abc6-54fcb8fbceec))
+- Le cercle de la corrélation désigne l'idée selon laquelle nous ne pouvons jamais penser l’être en lui-même, mais seulement *l’être en relation avec la pensée*. Autrement dit, nous n’avons jamais accès à une réalité absolue en dehors de notre manière de l’appréhender.
+	- [[Quentin Meillassoux]] critique cela en disant que la philosophie occidentale s’est enfermée dans ce cercle et refuse d’admettre la possibilité d’une réalité indépendante de la pensée humaine.
+- [[Quentin Meillassoux]] ne cherche pas que à critiquer le Corrélationisme il cherche une alternative c'est le Réalisme spéculatif
+	- Il propose un réalisme absolu, où l’être peut être pensé indépendamment de toute relation avec une conscience.
+- ## Footnotes
+	- [^1]: Ray Brassier en conversation avec Malik, « Reason is Inconsolable and Non-Conciliatory », in Realism Materialism Art, op. cit., p. 223-4.

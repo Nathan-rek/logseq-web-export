@@ -1,0 +1,2 @@
+- En 1954 Johns détruit toutes ses œuvres et commence ses œuvres connus.
+-

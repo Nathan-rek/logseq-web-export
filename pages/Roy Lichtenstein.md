@@ -1,0 +1,83 @@
+- Pionner du [[Pop-Art]] il explorera le medium de la peinture à travers des recherches stylistiques et conceptuelles tout en embrassant le flux du [[Pop-Art]]
+- # Le Parti commoniste [[Roy Lichtenstein]] et l’Art Pop
+  collapsed:: true
+	- On nomme l'art Pop car c'est le nom que donnais Sidney Janis à ces expositions (neo-Dadaist [[Proto-Pop Néo Dada]] , Factualist, Artist of Pop Culture, Popular Realists, Commonists)
+	- Ce terme de **Commonist** présente le banal le commun de l'art de ces artistes
+		- De plus elle induit un soupçon de communisme qui rend le sens de la culture comme bien commun
+	- L'œuvre *Popeye* de Roy Lichtenstein était signé *© 1961 rfl* (Roy Fox Lichtenstein)
+		- Roy Lichtenstein, *Popeye*, 1961 ![Reproductions D'art Popeye, 1961 de Roy Lichtenstein (Inspiré par)  (1923-1997, United States) | ArtsDot.com](https://fr.artsdot.com/ADC/Art.nsf/O/6WHLMG/$File/Roy-Lichtenstein-Popeye-1961--S.JPG)
+		  id:: 67bed2bc-8211-41bb-b91b-5e30c1127fa5
+		- On retrouve le *©* du copyright dans le couvercle circulaire de la boîte d’épinards
+	- Par la suite il ne signera plus directement ses œuvres tout en laissant un espace pour
+		- Roy Lichtenstein, Composition III, 1996 ![Composition III', Roy Lichtenstein, 1996 | Tate](https://media.tate.org.uk/art/images/work/AL/AL00380_10.jpg)
+	- Le label Commoniste convenait donc plutôt bien à cet art menaçant pour la haut classe avec des œuvres comme ((67bed2bc-8211-41bb-b91b-5e30c1127fa5))
+	- Le problème du Commoniste c'est son manque de Sex-appeal alors que le terme Pop fait vendre.
+	- le terme Pop était déposé par beaucoup de compagnies avaient déjà déposé les labels évocateurs de POP, POPS ou POP’S pour distribuer, entre autres, du matériel de plomberie, des sucettes ou des sous-vêtements masculins
+		- Le pouvoir évocateur du mot était si irrésistible que même les critiques les plus hostiles y succombaient.
+		- le critique d’art Brian O’Doherty ne put s’empêcher d’informer deux fois ses lecteurs, sans s’en justifier, que ce terme était non seulement supérieur à celui de New Realists, mais encore qu’il constituait tout simplement une excellente dénomination
+	- Avant d'etre [[Pop-Art]] il y a eu l'art "pop" en minuscule car il y avait une méfiance envers le terme pop et que beaucoup des artistes presentes dans ce groupe fessait parfois plus "pop" que de l'art pop.
+		- L'art pop etait vu comme l'ennemi par beaucoup d'autres d'artiste
+			- ((6778639f-c062-45bd-894f-1c75336a96bb))
+	- Parler d'art pop c'est écartes la menace commoniste
+	- Roy Lichtenstein n'as eu une période Pop que courte par la suite avec ces *brushs* il n’abandonne pas la technique inspirée de l’art commercial mise au point depuis 1961. Il l’affine et en exploite le potentiel abstrait, mais il préserve aussi au cœur de sa peinture un référent fort à la culture industrielle de masse
+		- Roy Lichtenstein, *Brushstroke*, 1965 ![Brushstroke', Roy Lichtenstein, 1965 | Tate](https://media.tate.org.uk/art/images/work/P/P07/P07354_9.jpg)
+	- Les sujets de Roy Lichtenstein deviennent moins Pop dans l'immédiat mais qui le sont quand même car l'art est un sujet populaire
+	- Petit à petit, ce n’est plus la peinture de Lichtenstein qui ressemble aux produits industriels, mais ces derniers qui évoquent aux consommateurs le charme discret de l’art Pop
+		- Lichtenstein renie l'héritage de l' [[Expressionnisme Abstrait Américain]] et sa propre infleunce dedans
+			- *J’avais plus ou moins la conviction que c’était la bonne manière de peindre. Il n’y a pas particulièrement de sujet. On s’appuie sur une dynamique de réciprocité et d’interaction avec la couleur et il est supposé en sortir quelque chose d’authentiquement personnel — même si ça ressemble exactement à un [[Willem DeKooning]]*
+			- Roy Lichtensitein, *Donald Duck* 1958 ![Donald Duck, 1958 (RLCR 517) | Catalogue entry | Roy Lichtenstein: A  Catalogue Raisonné](https://cdn.panopticoncr.com/roylic001/catalogue_images/main_md/wibdrhol/RL_1359_WEB.jpg)
+				- Qualifie cette esquisse d'hérité d'un [[Expressionnisme Abstrait Américain]]
+		- L'art pop de Lichtenstein est une opposition face à l [[Expressionnisme Abstrait Américain]]
+	-
+- # Un dialogue avec l’histoire des styles
+	- *«Je ne cois pas que je fasse des parodies. Je crois que je réinterprète des œuvres antérieures; comme Picasso quand il réinvente Vélazquès, Delacroix, ou Rembrandt»*
+	- Roy Lichtenstein se prêtera à des exercices de style en dialogue avec des styles préexistant et son style à lui
+		- le critique d’art Robert ROSENBLUM[^99] qualifiera ces peinture «variation-habiles» de l’école de paris
+	- ## [[Avant-Gardes "Historique"]]
+	  collapsed:: true
+		- Il commencera avec un attrait pour l’art moderne européens et ses [[Avant-Gardes "Historique"]] . Un attrait qu’il marque avec des termes comme dans la série d’œuvre [*Modern Head*](https://www.imageduplicator.com/main.php?decade=70&year=70&work_id=1201),1970 ou voir même les peintures [*Modern Paintings*](https://www.imageduplicator.com/main.php?decade=60&year=67&work_id=1548) où il se prête à user d’un style moderne
+			- ### Le [[Cubisme]]
+				- Il effectuera des processus d’ [[Abstraction]] en série qui rappel le processus de déconstruction des éléments du [[Cubisme analytique]] avec la série *Bull*![Roy Lichtenstein | Bull Profile Series, 1973 | Art Basel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-bvgBLXcwQ1rPRkLoMZ3k7p-1qcRhCE0fb_6-VjHy6w&s):
+					- La série commence avec [*Bull I*](https://www.imageduplicator.com/main.php?decade=70&year=73&work_id=3616) ![Bull I', Roy Lichtenstein, 1973 | Tate](https://media.tate.org.uk/art/images/work/P/P11/P11482_10.jpg)
+						- Un taureau représente de façon figurative, ensuite avec
+						- [*Bull II*](https://www.imageduplicator.com/main.php?decade=70&year=73&work_id=3617)![Roy Lichtenstein Bull II, 1973, 84×58 cm : Descriptif de l'œuvre | Artchive](https://arthive.net/res/media/img/oy800/work/ee5/424440@2x.jpg)
+						- Il évolue vers uns style plus proche du Lichtenstein connu, commence un abstraction géométrique avec
+						- [*Bull III*](https://www.imageduplicator.com/main.php?decade=70&year=73&work_id=3618)![Bull III', Roy Lichtenstein, 1973 | Tate](https://media.tate.org.uk/art/images/work/P/P11/P11484_10.jpg)
+						- Qui prendra fin avec [*Bull VI*](https://www.imageduplicator.com/main.php?decade=70&year=73&work_id=3621)![Roy Lichtenstein Bull VI, 1973, 84×64 cm : Descriptif de l'œuvre | Artchive](https://arthive.net/res/media/img/oy800/work/89d/424445@2x.jpg)
+							- Qui est un tableau totalement abstrait tout en gardant le style de et la série se conclue sur [*Bull VII*](https://www.imageduplicator.com/main.php?decade=70&year=73&work_id=3622)
+						- Le bœuf ici fait directement schéma référence aux étapes d’abstraction de Picasso de 1945. Un schéma de déconstruction abstraite connu que d’autre avant-garde européenne ont utilisées comme [[De Stijl - Néo-plasticisme]] ((65480be3-6d68-4646-8c25-cd1b5a276772))
+						- Comme si l’ [[Abstraction]] et la figuration était un cycle. Un rapport cyclique où superposé qui intrigue l’artiste avec des œuvres comme
+						- Cette exercice de se prêter au jeu de la décomposition figurative par l’abstraction géométrique est quelque chose qu’il continuera de travail en gardant le bœuf comme image
+					- Le [[Cubisme]] sera un mouvement que l’artiste explore avec une série d’œuvre qui emprunte des représentations figuratives cubiste (nature morte) tout en restant du Lichtenstein avec la série
+						- [*Cubist Still Life*](https://www.imageduplicator.com/main.php?decade=70&year=74&work_id=600), 1974 ![Cubist Still Life](https://media.nga.gov/iiif/6283c853-4c9b-4ddd-906a-23ca117c35a3/full/!588,600/0/default.jpg)
+						- Il explore le dialogue entre le [[Cubisme]] et son propre style
+						- Il reproduire et repensera certains tableaus de Picasso notamment le violoniste avec [*Violonist*](https://www.imageduplicator.com/main.php?decade=70&year=75&work_id=648) ![Sold at Auction: Roy Lichtenstein (after), ROY Lichtenstein 'The Violin'  Lithograph Print Framed](https://image.invaluable.com/housePhotos/Signari/03/670203/H21558-L206015575.jpg) ou peindra même Picasso lui même dans [*Paintings: Picasso Head*](https://www.imageduplicator.com/main.php?decade=80&year=84&work_id=985), 1984 ![Roy Lichtenstein >> Picasso head (1984) | (Oil, artwork, reproduction,  copy, painting). | Roy lichtenstein pop art, Roy lichtenstein, Pop art  illustration](https://i.pinimg.com/736x/05/93/bb/0593bb0b49b2f1179353ca7443e8d81c.jpg)
+							- Il explore aussi le style [[Post-Cubisme]]
+								- Il déclinera cette approche en série par style avec une série qui porte le nom de [[Purisme]] [*Purist Still Life*](https://www.imageduplicator.com/main.php?decade=70&year=75&work_id=1299)![Purist Still Life - Roy Lichtenstein | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/lichtenstein-purist.jpg.webp?itok=2xHRP9Q7).
+							- Il poussera même la déclinaison en mélangeant le style cubiste de Picasso et Mickey Mouse avec
+								- [*Mickasso*](https://www.imageduplicator.com/main.php?decade=90&year=96&work_id=43),1996 ![Mickasso (Study), 1996 : Roy Lichtenstein : Artimage](https://cdn.artimage.org.uk/production/4/1/4146-842.jpg){:height 523, :width 450}
+				-
+				- Son approche du terme abstraction rappel fortement l’approche d’artistes comme [[Piet Mondrian]]  ou [[Vassily Kandisky]] qui développe une [[Abstraction]] géométrique forte
+					- Roy Lichtenstein:[*Eclipse of the sun*](https://www.imageduplicator.com/main.php?decade=70&year=75&work_id=623),1975 ![Roy Lichtenstein - Eclipse of the Sun (1975) | Eclipses art, Roy  lichtenstein, Contemporary abstract art](https://i.pinimg.com/originals/70/70/2b/70702bb5b590d9380d2656af44e46ca4.png)
+					- De plus il développe un regard sur l’abstraction géométrique comme une un style parfait dont sa perfection réside dans sa capacité à être encadré
+						- Les tableaux qu’il nomme [*Perfect Paintings*](https://www.imageduplicator.com/main.php?decade=80&year=85&work_id=978) ![Perfect Painting - Roy Lichtenstein | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/lichtenstein_perfect_ptg.jpg.webp?itok=gK7_2MIA)
+						- sont encadrés rien ne dépasse mais les *Imperfect Painting* présente des formes géométriques qui elles dépassent
+							- [*Imperfect Painting*](https://www.imageduplicator.com/main.php?decade=80&year=86&work_id=970) ![Imperfect painting, 1986 - Roy Lichtenstein - WikiArt.org](https://uploads4.wikiart.org/images/roy-lichtenstein/imperfect-painting-1986(1).jpg)
+							-
+					- L’ [[Abstraction]] est un processus qui possède différentes échelles et caractéristiques pour l’artiste > une vision sur l’abstrait qui l’amène à nommer des sketchs [*«pseudo abstraction»*](https://www.imageduplicator.com/main.php?decade=90&year=94&work_id=4217)
+				- Il se prête aussi au style des [[Surréalisme]] avec[*Surrealist Quilt*](https://www.imageduplicator.com/main.php?decade=70&year=78&work_id=1403) ![Reimagining with Pop: Roy Lichtenstein's Surrealist Series | MyArtBroker |  Article](https://cdn.sanity.io/images/dqllnil6/production/6a6bf8808a76923d4f6785117570fffc6f64a552-1200x673.jpg?w=1920&q=60&auto=format)
+				- Il approchera aussi le genre Expressionisme avec la série [*Expressionism Head*](https://www.imageduplicator.com/main.php?decade=80&year=80&work_id=827), 1980
+				- Il reprendre l’œuvre de Oskar SCHLEMMER: [*Bauhaus Stairway*](https://elephant.art/jacqueline-de-jong-how-oskar-schlemmers-bauhaus-stairway-elevated-her-art-24022022/). 1932 ![Fichier:Oskar Schlemmer - Bauhaustreppe 1932.jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Oskar_Schlemmer_-_Bauhaustreppe_1932.jpg/640px-Oskar_Schlemmer_-_Bauhaustreppe_1932.jpg)  incarnant l’esprit [[Bauhaus]] >  [*Bauhaus Stairway*](https://www.imageduplicator.com/main.php?decade=80&year=88&work_id=1165), 1988 ![Roy Lichtenstein: Bauhaus Stairway Mural – The Brooklyn Rail](https://storage.googleapis.com/rail-legacy-media/production/content/article_image/image/38198/licht-1989-0013-swp.jpg)
+				- Le style picturale des [[Futurisme]] passera aussi dans cette exercice à travers [*The Conductor*](https://www.imageduplicator.com/main.php?decade=70&year=75&work_id=650) ![Roy Lichtenstein - 20th Century & Conte... Lot 10 June 2019 | Phillips](https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1/auctions/UK010419/10_001.jpg)
+				- Il porta tout comme Picasso un fort attrait pour la peinture de [[Piet Mondrian]]
+					- Il s’essayera au composition de ((653ec305-4163-4b1a-b45e-ef083e8c8df1)) avec [*Non-objective I*](https://www.imageduplicator.com/main.php?decade=60&year=64&work_id=211) ![Non-Objective I - Roy Lichtenstein | The Broad](https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/lichtenstein_non_objective_i_0.jpg.webp?itok=EKbNRdnl)
+				- La série de [[Claude Monet]] et des ((6564d3ba-8540-4a82-bc16-43702b55f5b2)) ou des meules de foins est aussi passer à travers le style de Lichtenstein à travers sa série [*Cathedral*](https://www.imageduplicator.com/main.php?decade=60&year=69&work_id=3578) ![Roy Lichtenstein. Cathedral #4 from Cathedral Series. 1969 | MoMA](https://www.moma.org/media/W1siZiIsIjI3OTM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=05550c3ec3076c37) ou [*Haystack*](https://www.imageduplicator.com/main.php?decade=60&year=69&work_id=1512)
+				- Dans [*Bedroom at Arles*](https://www.imageduplicator.com/main.php?decade=90&year=92&work_id=49) ![Roy Lichtenstein's "Bedroom" is a take on Van Gogh's bedroom in Arles  (which I also love) | Roy lichtenstein pop art, Roy lichtenstein,  Lichtenstein pop art](https://i.pinimg.com/736x/49/77/f8/4977f8e8d8be3507f23e3b6a8154bf3d.jpg){:height 356, :width 450} il reprend le tableau de VAN-GOGH lors de son voyage à Arles sans même être allé à Arles
+				- [*Figure with Sunset*](https://www.imageduplicator.com/main.php?decade=70&year=78&work_id=747) ![Roy Lichtenstein, Figures with Sunset, 1978 · SFMOMA](https://sfmoma-media-dev.s3.us-west-1.amazonaws.com/www-media/2022/05/02110109/99.374_01_H02-Large-TIFF_4000-pixels-long-1.jpg) lui se prête au style de Fernand LEGER
+				- Il fera d’autre hommage plus personnel avec [*Homage to Max Ernst*](https://www.imageduplicator.com/main.php?decade=70&year=75&work_id=3637) ![Roy Lichtenstein | HOMAGE TO MAX ERNST (1975) | Artsy](https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fj8PcyBHPX4cJ5N7l4pvX3A%2Fnormalized.jpg&width=609)
+				- Les sujets de Roy Lichtenstein sont aussi des sujets qu’il emprunte à la peinture européenne à travers ses natures mortes *Still Life* et ses séries de nues qu’il commence à peindre dans les années 1980 :
+					- Avec des œuvres comme [*Reclining Nude*](https://www.imageduplicator.com/main.php?decade=80&year=80&work_id=830) ![Roy Lichtenstein | Reclining Nude | Whitney Museum of American Art](https://whitneymedia.org/assets/artwork/4666/80_43_cropped.jpeg){:height 400, :width 450} ((659dd84c-4f84-4a04-96c4-12195d55575f))
+	- Il intéressera aussi au genre stylistique des amérindiens avec des œuvres comme [*Amerind Composition*](https://www.imageduplicator.com/main.php?decade=70&year=79&work_id=771) ![Amerind composition by Roy Lichtenstein on artnet](https://www.artnet.com/WebServices/images/ll00037lldpVqFFgneECfDrCWvaHBOcP9G/roy-lichtenstein-amerind-composition.jpg)
+		- Ses tableaux fessant référence à un genre de peinture américaine historico documentaire condamné à cette époque pour sa « médiocrité provinciale » renvoyait à un autre cliché : celui de la vision folklorique du peuple indien indigène et de l’histoire que ces artistes avaient fabriquée
+		- Certain voit chez Lichtenstein un attrait pour les « recoin-négligés » de la culture avec des œuvre comme [*The explorer*](https://www.artimage.org.uk/8553/roy-lichtenstein/the-explorer--1952),1952 ![The Explorer, 1952 : Roy Lichtenstein : Artimage](https://cdn.artimage.org.uk/production/8/5/8553-842.jpg)
+			- Il tirait déjà son imagerie d’une carte postale publicitaire des années 1870 pour « Libby,McNeill & Libby’s Cooked Corned Beef » représentant un chercheur d’or bien propre et décemment nourri

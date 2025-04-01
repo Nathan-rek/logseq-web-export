@@ -1,0 +1,9 @@
+- Suite au coup d'état de Napoléon III et à cette période marquée par des troubles, les artistes se sont investis dans la société. Ils ont exploré la nature dans le contexte social, ce qui a conduit à l'émergence de la sociologie.
+- Littérature comme étude de la société
+	- BLAZAC / FLAUBERT dans rôle de description du monde contemporain
+- Auguste Comte, à l'origine de la sociologie, a introduit le concept de "physique sociale".
+- Différentes figures de l’artiste apparaissent
+	- L’artiste est intègré..e dans un contexte social, à l’inverse de l’art pour l’art avec les parnassiens
+	- Gustave COURBET: Manifeste du réalisme cristallise le type social de l’artiste engagé
+		- Autodidacte à la marge de l'[[Académie - Beaux-Arts]]
+			- Organise sa propre exposition en dehors du salon officiel

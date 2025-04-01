@@ -1,0 +1,16 @@
+- Exposition réalisée à la Bourse de Commerce Pinault Collection inspiré par la question de l'expérience du temps.
+- Le titre de l'exposition s'emprunte à l'œuvre de [[Marcel Broodthaers]]
+	- ((65d3770e-0a1c-428c-a1c8-b0c81f20b2d0))
+- L'exposition traverse la relation entre Roni Horn et [[Felix Gonzalez-Torres]]
+	- [[Felix Gonzalez-Torres]] dont le travail se questionne sur cette expérience du temps ((65d3770e-5f6b-484e-a594-ef933a2f3851))
+	- Le corps chez [[Felix Gonzalez-Torres]] s'incarne peut il s'incarne à travers les objet ((65dbbe48-d5a3-494c-9d7a-ae5a9f8008de))
+		- Ces œuvres interroge la perception du corps, tout comme celle de son amie Roni Horn
+			- Roni Horn: a.k.a, 2008 ![RONI HORN, a.k.a. (GROUP II), 2008-09 | i8 Gallery](https://artlogic-res.cloudinary.com/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/i8/images/view/54628232dae6fbce91cdb13845dc640dj.jpg)
+				- Série de portrait réaliser pendant 30 ans où l'identité à travers le corps change et où le corps n'est que dans l'espace [[Hétérotopie]] que je me crée.
+					- Le miroir ouvre cette perception vers un lieu irréel je me situe dans un ailleurs délimité
+	- Reflet et ombre sont sujets dans les œuvres présentes.
+		- Symbole d'une dépersonnalisation du sujet.
+			- [[Rudolf Stingel]] : [*Untitled*](https://www.tate.org.uk/art/artworks/stingel-untitled-t14769), 1994 Wall to Wall carpet ![Untitled', Rudolf Stingel, 1993 | Tate](https://media.tate.org.uk/art/images/work/T/T14/T14769_10.jpg)
+				-
+- Cette disponibilité de l'œuvre est fondamentale dans l'art contemporain. Qe que [[Nicolas Bourriaud]] appelle l'offrande convivial de la disponibilité de l'œuvre.
+	- Les expériences polysensorielle de [[Philippe Parreno]] ((66033de3-d11c-4a9a-9eee-b0604577f5f8)) ou de [[Dominique Gonzalez-Foerster]] marque cette instant présent.

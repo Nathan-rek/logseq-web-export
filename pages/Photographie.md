@@ -1,0 +1,18 @@
+- Origines et condition de l’émergence de la photographie:
+- Condition social: révolution industrielle / social: Les bourgeois..e prennent le pouvoir
+- Conditions culturelle: Révolution philosophique: encyclopédie avoir des images qui représente le réel.
+	- Technique: lentille de contact / Oxydation de l’argent / fixé l’image pour éviter que l’argent continue à s’oxyder
+	- Recherche de figer une image
+- Première photo
+	- Nicéphore Niepce(1765-1833):[*Point De Vu Sur Le Gras*](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nicéphore_Niépce.jpg/260px-View_from_the_Window_at_Le_Gras%2C_Joseph_Nicéphore_Niépce.jpg)*,* 1826
+	- Louis DAGUERRE: Diorama reprend les inventions de NIEPCE qui présente (1839) le brevet à l’académie des beaux art et des sciences
+	- William Henry Fox TALBOT: produire plusieurs images à partir d’un plan négatif:
+		- Premier livre de photographie: [*The Pencil Of Nature*](https://www.beaux-arts.ca/sites/default/files/styles/ngc_scale_1200/public/pennatplate1combo_0.jpg?itok=K4_OJ-6-&timestamp=1546012877)
+- Le portrait
+	- Hippolyte BAYARD: [*Autoportrait En Noyé*](https://www.connaissancedesarts.com/wp-content/uploads/2020/08/hippolyte_bayard_selfe28090portrait_as_a_drowned_man_le_noye_1840.jpg): premier Autoportrait / Autofiction
+	- NADAR: Grand portraitiste: portrait de Charles BAUDELAIRE / Victor HUGO daguerréotypomanie[^60]:
+- Voyage Photographique:
+	- Maxime DUCHAMP et Gustave FLAUBERT: Partent en Égypte pour ramener des images: [*Statue Colossales De Ramsès A Abu Simmel*](https://www.meisterdrucke.fr/kunstwerke/500px/Maxime%20Du%20Camp%20-%20Colossal%20statue%20of%20Ramesses%20II%20at%20Abu%20Simbel%201850%20%20-%20%28MeisterDrucke-237935%29.jpg)
+	- Mission Héliographique: Contre rendu photo par régions et faire un inventaire patrimoniales français avec la photographie. Capture ce qui va changé dans le futur / Saisir le présent
+	- Alexander GARDNER: premier photographe de guerre
+-

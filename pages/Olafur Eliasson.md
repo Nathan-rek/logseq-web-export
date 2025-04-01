@@ -1,0 +1,9 @@
+- Travail qui se situe entre art et culture qui passe souvent par l'usage de technique et technologies
+	- Travail sur des phénomènes naturelles assez simple
+	- Olafur Eliasson: [*Green River*](https://blogjmpblog.wordpress.com/2019/07/16/olafur-eliasson/), 1998 - 2001 ![Olafur Eliasson | Blog jmp](https://blogjmpblog.wordpress.com/wp-content/uploads/2019/07/olafur-green-river-5.jpg?w=772)
+	- Verse de l'uranime dans un fleuve
+		- L'uranime est un liquide qui permet d'étudier les mouvements marins
+	- Travaille sur la notion de couleur sous le spectre scientifique
+		- Olafu Eliasson: [*Room for one colour*](https://olafureliasson.net/artwork/room-for-one-colour-1997/), 1997 ![Room for one colour • Artwork • Studio Olafur Eliasson](https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/room-for-one-colour_21495.jpg)
+		- Dispositif où toutes les couleurs deviennent grises
+-

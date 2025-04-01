@@ -1,0 +1,8 @@
+- Terminologies présent dans plusieurs domaines.
+- Terme inventé qui désigne les organismes vivants qui ont été intentionnellement et héréditairement modifiés par des processus tel que la domestications, la sélection sélective, le génie génétique(OGM), la biologie synthétique.
+	- Les monocultures sont de cultures post-naturel où les espèces modernes ne ressemblent en rien à leur homologues prénéolithique
+- Dans la philosophie environnementale le post naturelest une appel à ne plus utiliser le concept de nature.
+	- La Nature comme concept romantiser comme l'arrière plan de l'humanité
+	- La Nature est une construction social [[Nature - Culture]]
+		- La distinction du naturel de l'humain implique un dualisme métaphysique où l'humain est supérieur
+	-

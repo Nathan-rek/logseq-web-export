@@ -1,0 +1,23 @@
+- Philosophe contemporain, qui refuse de donné son avis, il refuse volontairement de donné sa position dans le texte. Ce qui le rend dur à cerner et à lire.
+- D'abord [[Marxisme]] avec Althusser qui par le temps s'en est éloigné à partir de 1968, pour penser sa propre gauche radicale en dehors du [[Marxisme]] dominant
+- Philosophe politique qui a beaucoup écrit sur le cinéma et qui aujourd'hui pose l'importance de la pratique artistique dans le champ politique
+- La notion de partage du sensible est centrale chez Rancière
+- # Le partage du sensible, Jacques Rancière
+	- Qu'est ce qu'un art Politique ?
+	- Il a deux sens du mot politique
+		- Le politique comme sujet
+			- Le sujet de ne suffit, c'est une affaire de justice, présenter un contenu politique
+		- Le politique comme acte et manière de faire
+			- C'est la pratique de justesse, pratique qui revoir et renégocie le partage du sensible
+	- Pour faire un cinéma politique il faut revoir les manières profondes du cinéma
+	- Toutes sociétés se construit sur une forme de partage de la sensibilité
+		- Décide ce qu'on voit ou ne voit pas, on est d'emblé dans la qualification de ce qui est discours ou non, important ou non
+		- Ces décisions ce font par le biais de la sensibilité, c'est nos sens qui qualifie
+			- En fessant société on partage nos sensibilités pour mettre en place des formes de discours
+		- La critique Marxiste est que le savoir vient à ell..eux mais ne viennent pas d'ell..eux c'est les intellectuel..lles et le partie qui ont et qui offre le savoir au travailleur..euses qui eux n'ont pas le temps de produire du savoir
+	- L'art et la politique ont fort en commun c'est une répartition de corps d'espace et de parole
+	- Il y a un enjeux dans la mise en forme et dans la production
+	- L'art politique est une idée qu'il a toujours rapport d'autorité dans la manière de mettre en forme
+		- A qui ont attribue du commun qui à le droit de rentre dans le champs de fabrication du commun
+	- 1er Chapitre: Du partage du sensible et des rapports qu'il établit entre politique et esthétique
+-

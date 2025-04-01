@@ -1,0 +1,24 @@
+- Vers le milieu du XIXe siècle l’ethnographie devient une discipline autonome de l' [[Ethnologie]]
+- *"Chaque époque et chaque société recrée ses propres Autres", de même que "l’identité humaine
+  est non seulement ni naturelle ni stable, mais résulte d’une construction intellectuelle, quand elle n’est pas inventée de toutes pièces."* Edward Saïd
+- *"Le pouvoir c’est la capacité non seulement de raconter l'histoire d'une autre personne, mais d'en faire l’ histoire définitive de cette personne. Montrer un peuple comme une seule chose, une seule chose, encore et encore, et c'est ce qu'il devient en définitive."* Chimamanda Ngozi Adichie
+- # Ethnographies et Arts
+	- Les collections ethnographiques ont d’abord un statut indécis, relevant aussi bien de musées d’antiquités, de marine, d’histoire naturelle, que de collections géographiques.
+	- On va favorise les artistes d'Art Nouveaux à utiliser des matériaux issu du commerces coloniales
+	- Les expressionnistes allemand en rupture avec l'académie vont se tourner vers les arts primitifs. Vont s'inspirer d'objets et côtoyer des personnes issue de colonies allemand.
+		- Ludwig Kirchner à une volonté de s'inspire des art non occidentaux
+			- Il prend comme modèles des personnes noires du Cirque Schumann
+		- L'expressionisme allemand veut mettre en avant l'instinct du trait et font une amalgame avec des caractéristiques de ces peuples
+		- [[Vassily Kandisky]] ira en Tunisie pour s'enrichir du contact de l'ailleur
+			- [[Vassily Kandisky]] [*Arabes I - Cimetières*](https://fr.m.wikipedia.org/wiki/Fichier:Vassily_Kandinsky,_1909_-_Arabs_%28Cemetery%29.jpg), 1909 ![Fichier:Vassily Kandinsky, 1909 - Arabs (Cemetery).jpg — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/7/7c/Vassily_Kandinsky%2C_1909_-_Arabs_%28Cemetery%29.jpg)
+	- L'écrit de ((661023c5-bcae-4e75-a865-e6ff654d50a2)) va être un texte qui va changer la conception de l'art africains dans l'art
+	- ((661023c8-f7c0-42a3-afb4-2fc8e825a9a7))
+		- regarde et formalise ces objets sans comprendre leurs pleines significations
+	- Emile Nolde, *Trophées des sauvages*, 1914 ![Intercepted by Gravitation — Trophies of the Savages Emil Nolde 1914 Nolde ...](https://64.media.tumblr.com/7a96554c947f5110afa180e67b333248/tumblr_om0ncy4ILm1s0u653o1_1280.jpg)
+	- Hannah Hoch: *Monument 1*, 1924 ![Monument 1: From an Ethnographic Museum | Jessica Hoffman's Blog](https://jessicahoffman.wordpress.com/wp-content/uploads/2010/06/hannah_hoch_5.jpg?w=294)
+		- Collages d'hybridation d'illustration d'art africians.
+	- Man Ray: *Black and White*, 1926 ![Black and White, 1926 by Man Ray](https://www.manray.net/assets/img/paintings/black-and-white.jpg)
+	- Les Surréalistes ont à l'écart des ses objets un regard ambivalent, il..elles recherchent du primitifs dans l'H et dans les objets
+		- Les surréalistes sont contre l'exposition coloniale et font des tracts contre les expositions de zoo humains
+		- Le partie communiste aussi s'oppose à l'impérialisme coloniale. Ils dont un parallèle entre le sort des ouvrier..es et des peuples coloniaux.
+	- Début de prises de conscience face au [[Colonialisme]] et l'impérialisme. Qui va se suivre d'un évolution dans la maniere de montrer les objets d'art non-européens

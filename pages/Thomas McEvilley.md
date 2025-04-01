@@ -1,0 +1,34 @@
+- Notes de conférence faites dans le cas de l'exposition ((fbc9e5c5-84e0-4e8a-9af1-583585b85be4))
+- # Qu'est-ce qui fait que quelque chose est de l'art?
+	- Depuis Kant l'œuvre d'art à faire avec le beau
+		- De fait beaucoup d'art son belle d'un point d vue kantienne mais cela ne semble pas indispensable
+		- Il y a des chose belles qui ne sont pas des œuvres et d'autre moins belle qui sont des œuvres
+		- Restreindre la catégorie du beau, la limiter aux choses faites par les hommes, comme Kant s'efforce de le faire, ne résout pas le problème.
+		- À l'évidence la catégorie de l'objet d'art n'a rien d'essentiel à voir avec celle du beau
+	- Pour Susan Vogel si une chose a une forme signifiante et expressive ont doit l'appeler art
+		- Le terme « intention expressive » est souvent utilisé pour rendre cette idée mais, ici encore, il y a des problèmes pour le proposer comme une définition effective.
+		- Or d'autres choses ont une qualité expressives mais ne sont pas appelées en pratiquant de l'art
+			- Certains objets ont un soin qui va au delà de leur expression fonctionnelle et nous n'appelons pas ça Art, cela se rapproche plus du design
+		- Faire l'amour ou se mettre en colère relèvent d'intention expressives
+		- des objets n'ont pas de forme expressives mais son appelés art [[Ready-made]]
+			- Pour [[Marcel Duchamp]] l'intention expressive n'est pas nécessaires à l'art
+	- Finalement, il semble que lorsqu'on parle de la manière dont les choses paraissent, on ne parle pas d'art mais de design, une qualité que les œuvres manifestent dans un immense et contradictoire éventail de types, présences et négations.
+	- Pour Arthur Danto: "*être une oeuvre d'art, c'est incarner une pensée, avoir un contenu, exprimer une signification.*"
+		- Cette caractérisation n'arrive pas à distinguer les œuvres d'art de certains autres groupes d'objets, comprenant les icônes religieuses et les publicités
+		- Ailleurs Danto renvoie à l'idée hégélienne que l'œuvre d'art véhicule une telle intensité de signification qu'elle indique par là qu'elle participe au domaine de l'esprit
+	- Si le critère de l'intention expressive semble trop étroit, le critère du contenu semble trop large.
+	- Pour McEvilley les œuvres d'art comme une sous-classe de l'ensemble plus large des choses impliquent une pensée, une idée, un concept
+	- Pour le philosophe Timothy Binkley (élèves de [[Wittgenstein]]) *Tout ce qui appelé art, est de l'art, puisqu'être de l'art ne signifie rien d'autre sinon que le mot art est appliqué*
+	- Quand les usages d'un mot changent, changent aussi les limites de la catégorie
+		- Quelque chose qui n'est pas appelé art un jour peut re un autre ; d'autres choses qui se sont vues conférer le titre d'art peuvent se le voir retirer
+	- De ce point de vue, il n'y a pas de propriété de l'objet qui en fasse de l'art ou du non-art. Il devient de l'art en étant désigné art par le système de l'art [[Monde de l'art]]
+	- Aux temps homériques, c'est le concept d'inspiration qui distingue l'artiste de l'artisan. A la fin du VIe siècle avant J.-C., les artistes — pas les artisans — signaient leurs œuvres, autre forme de désignation par le langage.
+	- Aux temps de Phidias, Athènes avait un musée d'art, sans lien avec la religion, ce qui fournissait un contexte de différenciation équivalent à une distinction lexicale.
+	- Nommé un objet dans la catégorie art signifie en effet que l'on se rapporte à l'objet d'une manière différente de celle dont on se rapporterait à lui s'il était nommé différemment.
+	- Le fait que nous appelions quelque chose « art » signifie que c'est de l'art pour nous mais ne dit rien sur ce qu'il est en lui-même ou pour d'autres personnes.
+		- Leur statut est celui d'objets trouvés [[Ready-made]] ou d'objet d'art africains est le même se sont des objets que nous avons contextualisés comme art
+	- La question de qu'est ce que de l'art s'est soulever avec les [[Ready-made]] de [[Marcel Duchamp]] jusqu'au années 1970 ou la question avait été tellement étirés qu'il n'était plus intéressant de se la poser.
+		- Jusque ((66e7f1c5-7507-45b1-850c-81c9bdfd8ace)) ou la question des objets tribaux au contact d'objet d'art occidentales à reposé la question qu'est ce que de l'art
+			- Les objets tribaux n'étaient pas compris comme de l'art dans leurs propres contextes et se demandèrent si ce n'était pas un acte d'impérialisme culturel de les appeler art dans notre contexte sans apparemment aucun souci des sentiments et des intentions des gens qui firent ces objets et de ceux pour qui ils étaient faits
+	- La recherche d'une définition essentielle, est posée à partir de la croyance dans l'existence des essences dans les choses
+		- La définition par l'essentielle n'abouti à rien pour Socrate ou [[Wittgenstein]]

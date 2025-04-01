@@ -1,0 +1,30 @@
+- Philosophe belge
+- # Au Bonheur des morts
+	- Qu'elle est notre rapport au mort
+		- Le lien des vivant..es avec les mort..es
+	- Réflexions théorique accompagne d'histoire personnelle
+	- Travail sous la direction de Simondon
+		- Mode d'existence, diffèrent mode ontologique  comme manière d'exister diffèrent
+		- Un Nekuia est un rituel qui permet de rentrer en contact avec les mort..es
+	- La mort non pas comme une hantise ou un fantôme mais comme une coexistence
+	- Faire le deuil est un problème car on coupe tout rapport avec la personne connu et donc toute relation
+	- Le positivisme matérialiste du 19ème siècle a détruit le culte de l'au-delà, dans un projet anticléricale
+		- Remplace l'au-delà dans le psychique
+			- Existence dans le mental dans l'esprit sans incarnation matériel
+	- L'idée qu'il n'y a rien au dessus est une nouveauté moderne dans la société l'idée de l'au delà est un nouveau phénomène social mais qui ne laisse pas d'autre place à la mort
+		- Par conséquent il faut faire le travail du deuil, couper tout les liens
+	- Penser des modes d'existences qui ne sont pas physique et matériel
+	- Le..a mort..e fait parti de l'écosystème dans laquelle on vit
+	- Le mode d'existence de l'œuvre est une instauration et une apparition l'œuvre est en quête d'existence qui appelle le..a peintre le..a sculpteur..ice
+		- L'inspiration est l'idée qu'une force extérieur vient à nous, agit par une force qui nous contrôle
+			- Pour Michel-Ange le marbre appelle à la sculpture
+				- Vision romantique de l'artiste comme individualité très présent dans le [[Romantisme]]
+	- Le dialogue avec les mort..es serait à un autre niveau d'existence qui serait plus proche du fictionnelle
+		- On ne ment pas dans la fiction or on assimile à un déni le dialogue au mort comme un mensonge
+	- Notre rapport au mort exige un lieu
+		- Certain lieu doivent être instituer pour pouvoir parler et relation avec les mort..es
+	- La question du milieu est une question pratique
+		- Il faut situer le mort, lui faire une place
+	- Le désir n'est jamais isolé, vouloir rentrer en contact avec les morts est le fruit de la volonté des vivant..es et des mort..es, désire d'être commémoré et désire de se rappeler se joignent dans l'agencement
+		- C'est dans l'agencement de ces deux parties que nait la relation
+			- L'agencement c'est une matrice narrative qui raconte un récit, le récit est performatif et produit des choses, il peut produire de la réconciliation

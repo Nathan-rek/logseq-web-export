@@ -1,0 +1,33 @@
+- Penseur Martiniquais, née en 1928, meurt 2011, il développe une écriture philosophique proche de la poésie
+- Influence plusieurs penseur..euse qui proviennent des îles caraïbéennes
+- ## Poétique de la relation, Poétique III
+  id:: 6745e9c6-db9f-490a-840b-7bf2b0ab9720
+	- Critique de la pensée occidental, tendance à croire que la pensé n'est pas un devenir
+		- Contre l'unité hégémonique glissant va se concentré sur la relation sur l'archipel.
+			- La créolisation c'est l'inconnue de la rencontre dans la relation.
+	- Penser le devenir, penser la relation
+		- La relation dans la construction d'identité
+	- *sea is History* rappelle du passage de l'atlantique dans la traite négrière
+		- La mer comme dépositaire de l'histoire notamment celle du [[Colonialisme]]
+	- *Unity is sub-marine*
+	- Glissant donne une description de l'imaginaire
+		- Penser la penser c'est souvent à se retirer dans un lieu sans dimension, la pensée est une conception parnassienne dans l'occident.
+			- Séparation présent depuis [[Platon]] et la séparation du corps et de l'esprit
+		- Mais la pensée s'espace, donc pour exister elle existe toujours une dimension incarné dans le monde
+	- Défaire l'aliénation culturelle des caraïbes
+		- La culture comme outils de résistance face à l'hégémonie coloniale
+	- *Ubuntu*: je suis parce que nous sommes
+		- concept d'interdépendance issue d'Afrique central, oriental et australe.
+- # Traité du tout-monde
+	- La mondialisation est un chaos-monde
+	- Choc des cultures qui s'embrassent se repoussent disparaissent subsistent s'endorment.
+	- Il faut accepter l'imprevu de ce choc
+		- Accepter la créolisation
+	- Les identités fixe deviennent préjudiciable
+		- On favorise l'identité relation ou l'identité rhizome de [[Gilles Deleuze]].
+		- L'autres est l'autres car il n'est pas moi, car il a des qualités que je ne possèdent pas
+			- Je ne peux pas regarder l'autre sans être regarder
+	- La créolisation est cette entrechoc aux résultats imprévisibles de toutes les cultures entre elle.
+		- * La créolisation c'est un métissage d'arts ou de langage qui produit l'innatendu*
+		- Définir l'être à partir de la pratique de l'échange du frottement des culture entre elles
+	- Dans certaines iles des caraïbes

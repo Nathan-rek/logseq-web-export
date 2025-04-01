@@ -1,0 +1,54 @@
+- Les Navajos sont environ 250 000 membres.
+- Peuple autochtone le plus important d'Amérique du Nord apparenté aux Apaches évoluant dans un espace bien déterminé.
+- Ont migrés sur le territoire américain et ont rencontrer d'autres peuples autochtones. Peuple agressifs qui ont beaucoup fait la guerre avec d'autres peuples. Et on souvent volée des femmes dans les autres peuples avec qui ils entraient en guerre
+- Aujourd'hui i..elles vivent dans des zones d'autonomies, appelées réserve. Entre le Colorado, l'Utah, Nouveau-Mexique, Arizona
+	- Désigne le territoire par le *Dinetah*
+		- Le peuple est le Diné
+		- La géographie est importante pour le peuple qui s'identifie par le territoire
+			- Les Navajos tombent malades quand i..elles s'éloignent de la terre
+			- Les Navajos sont uni à la nature et en fait partie, tout dans la nature est sacré
+	- Peuple assez proche des Hopis
+- Les divinités navajos sont attachés aux montagnes qui bornent leur territoire. Ses montagnes ont un caractère vivant
+	- Le Mont Blanca (*Sisnaajini*) représente la femme coquillage qui est associé à la couleur blanche
+	- Le Mont Taylor (*Tsoodzil*) la femme turquoise associé au bleu
+	- San Fransisco Peak (*Sook'o'ooslid*) la Femme abalone associé au jaune*
+	- La Plata Mountains (*Dibé Ntsaa*) La femme Jais associé au noire
+- La plupart des Navajos parlent anglais et participent au industrie et à l'économie américaine car il y a de fortes exploitation de leur territoire
+- Le Hogan est l'habitat traditionnelle
+	- Logement construit à partir de poteaux et de boue
+	- Aujourd'hui le Hogan octogonal est fait de bois
+		- Le tapis Navajo a une valeur culturelle importante
+	- Le Hogan aussi est vivant il respire par la cheminé. Lieu de spiritualité qui est un microcosme des 4 montagnes sacrés
+		- Hogan féminin (cercle) ou Hogan masculin (cône) dépend de la forme du Hogan
+- La pratique du tissage est réputées chez les Navajos
+	- Selon la mythologie Navajo l'univers lui même est une forme de tissage, filé par la *femme araignée*
+- La société est organisée en clans
+	- Clans organisés autour de Totems
+	- Peuple Matrilinéaire et matrilocale
+		- Chaque Navajo appartient à quarte clans diffèrent et indépendants
+			- Le clan de sa mère son père et de ses grands parents
+- La spiritualité est lié à la géographie et la cosmogonie
+- Le mythe des origines relate de l'Emergence où les ancêtres sont passé..es graduellement d'un monde obscur et chaotique dans les profondeurs de la terre au monde de la surface appelé *Dinetah* où tout n'est qu'ordre et harmonie
+	- Grande importance au mondes inférieurs qui représentent autrui
+- Les colons blanc ont bouleversés l'harmonie navajo ont essayé de les évangéliser
+- # Hozho
+	- Principe fonctionnelle de la spiritualité navajo
+		- Idée d'harmonie de beauté et d'équilibre de l'univers avec la nature
+	- Spiritualité et médecine sont lié par l'Hozho
+		- La maladie est un processus de contamination par un corps extérieur
+	- Les Yéis sont des êtres sacrés
+		- Figure Anthropomorphique ancestrales multiple incarné par des masques portés par les Yéis
+		- Les Yéis sont versatiles (bon/mauvais)
+		- Les Yéis sont très exigeant dans leur représentation
+	- Cérémonie des Voies ou *Xata'l*
+		- Cérémonie chantés où on trace un chemin vers la guérison
+		- Restaurer Hozho chez un patient qui a un manque d'harmonie
+		- Il y a cinquantaine de Voies différentes qui chacune permettent de guérir certains type de maladie
+		- Le chaman ou l'homme médecine est *Hataali*, il est détenteur de la mémoire du monde.
+			- Le chaman est toujours lié aux chants
+		- La peinture de sable va permettent aux malades de rentrer au contact avec la divinité
+- # Les peintures de sable *iikhààt*
+	- A base de pigment naturel qui est une répartition de sable par le pousse et l'index
+	- Dessiner tourner vers l'est
+	- Commence par le centre et les détails sont ajoutés au fur et à mesure
+	- Les lignes masculines sont rationnelle et renforce la stabilité et les courbes sont féminine pour le développement

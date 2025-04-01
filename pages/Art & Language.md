@@ -1,0 +1,5 @@
+- Produire de l'art comme idées. Ecrit des texte de théorie de l'art [[L'artiste théoricien..ne]] notamment sur l' [[Art Conceptuel]]
+- L'art et la théorie fusionne entièrement avec des artistes comme [[Joseph Kosuth]]
+- Proche de la [[Philosophie Analytique]]
+	- La [[Philosophie Analytique]] met l'accent sur le langage comme moyen d'explorer les concepts et les problèmes philosophiques. De la même manière, **Art & Language** utilise le langage non seulement comme support ou matériau de l'œuvre d'art, mais aussi comme sujet d’investigation en soi. Les membres de ce collectif considéraient que le langage pouvait être un outil pour interroger les pratiques artistiques traditionnelles.
+-

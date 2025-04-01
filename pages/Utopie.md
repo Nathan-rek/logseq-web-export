@@ -1,0 +1,13 @@
+- Thomas Moore, Ambassadeur anglais
+	- Utopie: Repense le modèle économique - Fiction qui propose une lecture critique de la société anglaise
+- ### Familistère
+	- Projet 1860 qui s’ancre dans le développement des pensés socialistes, pensé de Fourrier, chaque familistère est un échec, la structure est un société coopérative qui permet de disposer d’un salaire et de biens, lecture scientifique dans le corps social.
+- ### Cité mondiale JB. GODIN Marie MORET OTLET LAFONTAINE ( sénateur belge )
+	- crise identitaire assez forte, enjeux géopolitique, pense l’émancipation de l’individu et de la communauté basé sur un projet américain le centre social. La SDN et l’ONU née au même moment. Association avec le Crobusier pour penser l’architecture de la cite mondial. Opère un critique de la SDN ( ne représente que des nation et ne représente pas la culture )
+- ### Auroville en Inde:
+	- « Auroville n’appartient à personne elle appartient à tout l’humanité, mais pour y séjourner il faut être le serviteur d’une divinité, entre le passé et l’avenir , Auroville sera le lieux des recherche matérielle et humaine.
+- ### L'Arcosanti de Paolo Soneri en Arizona
+	- principe archéologie ( entre architecture et d’écologie ) devait s’étendre mais au final n’accueille qu’un dizaine de personne.
+- [[Hétérotopie]]
+- Louis Marin: étude de la structure du parc Walt Disney – dispositif qui capte le spectateur pour renforcer la culture de masse et non d’émanciper l’individu dans le divertissement. Analyse des limites
+-

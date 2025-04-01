@@ -1,0 +1,22 @@
+- Neurologue autrichien né en 1856 il est le fondateur de la psychanalyse
+	- Une psychanalyse qui révèle l'importance du psychisme sur l'être, révèle l'inconscient et ses pouvoir sur le conscient à travers le spectre du *ça*
+	- Freud va jeter les bases de la lecture de l'inconscient avec la *deuxième topique freudienne*
+	  id:: 6703fd6c-2860-4c69-868f-c1b15c351fde
+		- Deuxième topique freudienne: ![La psychanalyse pour étudiants en psychologie ou curieux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVnaolbO79P5P-E7IFDJYyXiMYrNa5l_Bog&s)
+		  id:: 07ef3bb4-85c3-47a0-bec1-5cf0df8ced8f
+		-
+		- En haut le *conscient/préconscient* à disposition (mémoire souvenir).
+		- L'inconscient nourrit par les pulsions du *ça*
+			- *ça* : fond animal et sexuel qui cherche la survie et la reproduction
+		- Le moi se négocie entre le *ça* et le *préconscient* face aux normes sociétales et morales
+			- Slavoj Žižek analyse le film Psycho et l'architecture de la maison ou se déroule le crime comme une représentation graphique de la deuxième topique freudienne
+- Le désir est la force fondamentale pour Freud, il emploi sous le terme de libido
+	- Il le lie autant à la sexualité car il étudie sur les enfant de 0 à 5 ans et suite à cette observation
+		- La sexualité des enfant est très diffèrent des adultes et elle ne peut pas être juxtaposé
+		- La découverte du monde à travers le corps
+			- Stade oral: les enfants qui lèches tous
+			- Stade anal: Intérêt particulier dans la défection
+			- Stade phallique(présent aussi chez les filles par le clitorice): sentiment de toutes puissance vis à vis de leur organes, masturbation récurrente chez les enfants
+	- Donc pour Freud la découverte du monde passe par le corps, ces stades reste des lieux privilégié de la sexualité
+- Freud met en avant la régénération du patriarcat dans chaque génération
+- Freud se méfie de la musique car elle résiste au langage

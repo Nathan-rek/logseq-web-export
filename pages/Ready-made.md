@@ -1,0 +1,13 @@
+- Prélever un objet de commodité et de l’inscrire dans un dispositif institutionnel
+	- Pratique de ((65d3770f-5748-408e-8fa4-ae4087cae3ad))
+- Mise en crise de la question de [[L'Originalité]] par l' [[Art Conceptuel]]
+	- Singularité du tempérament créateur
+	- Crise de la reproductibilité
+		- [[Walter Benjamin]] perte de l’aura du à la reproductibilité des objets d’arts / que faire face à l’arrivé de l’usage massif des reproductions d’images dans les systèmes de propagandes totalitaires
+- [[Marcel Duchamp]] : [*Fontains*](https://upload.wikimedia.org/wikipedia/commons/f/fa/Fontaine_Duchamp.jpg), 1917 ![](https://upload.wikimedia.org/wikipedia/commons/f/fa/Fontaine_Duchamp.jpg)
+  id:: 661023c8-6e3c-40c5-84bb-9bb92b5ceb59
+	- Fonction nominative de [[Marcel Duchamp]] dans l’objet exposé durant la société des artistes indépendants à New York (participation libre / Malgré cette liberté écarte l’œuvre de Richard Munt)
+		- Crée un appareil de réflexion (Revue: [*The Blindman*](https://upload.wikimedia.org/wikipedia/commons/2/29/The_Blind_Man%2C_issue_1%2C_April_1917.jpg)) qui présente cette exposition pour trouver une alternative de réception de son œuvre: Texte qui explique pour l’œuvre de «Richard Mutt»  photographié par Albert Stieglitz est passé à coté de l’exposition l’article reprend le titre Blind Man
+	- Certain..e attribue le geste à Elsa Von Ferytag-Loringhoven,
+		- [[Marcel Duchamp]] dans une lettre aurait dit à sa sœur que c’est Elsa qui aurait proposer l’urinoir.
+-

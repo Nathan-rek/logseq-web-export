@@ -1,0 +1,120 @@
+- Economiste et philosophe allemand théoricien de la révolution socialiste et du communisme prussien
+- Il produit une analyse critique de la société capitaliste du 19eme
+- # L'aliénation
+	- ## Hegel chez Marx
+		- Marx était influencé par Hegel
+			- Pour Hegel, l'histoire est le lieu de déploiement de la raison universelle
+				- Le déploiement du sens de l'histoire
+					- L'histoire ne s'accomplit au hasard, elle suit une ligne directrice
+						- En se déployant, elle fait apparaître ce qui la guide : la raison
+							- C'est une philosophie idéaliste, car c'est l'esprit qui guide la matière
+								- La matière est organisée et se déploie selon la logique rationnelle de l'esprit
+				- Chez Hegel, il y a une direction des événements
+		- Pour Marx, il y a donc un sens de l'histoire
+			- Contrairement à Hegel, l'histoire n'est pas guidée par un principe spirituel, mais par un principe matérialiste
+				- Le guide de l'histoire, c'est la lutte des classes
+					- Les conflits sont à l'origine des évolutions de l'histoire
+						- Ce qui motive les avancées, c'est la notion de concurrence et de compétition qui s'incarne dans le conflit
+							- Chez Hegel, l'évolution est conditionnée par le conflit
+								- La conscience évolue par la contradiction
+									- C'est dans l'expérience de l'autre que la conscience se construit, ce rapport à l'altérité permet au monde d'évoluer
+										- Le conflit est un moteur et chez Marx, c'est le conflit de l'histoire
+		- Marx et Hegel ont une vision heuristique de l'histoire
+			- Le conflit amène au dépassement du conflit
+				- C'est la notion de dialectique
+					- Tout doit passer par son contraire, son autre, pour se dépasser
+		- ### Matérialisme historique
+			- L'histoire humaine est donc guidée par la lutte des classes
+				- Les deux acteurs de cette lutte sont les propriétaires et les prolétaires
+					- La lutte entre ces deux classes détermine le devenir du monde
+						- Il n'existe pas de hasard, mais une loi de nécessité
+							- La dialectique de Hegel est que l'esprit détermine la matière, or chez Marx, la dialectique est que la matière détermine l'esprit
+								- C'est une dialectique matérialiste ou du matérialisme historique
+									- Pour Marx, il n'y a pas au-dessus du monde un esprit qui guide le monde
+										- Le monde est ce qui va générer la raison et l'esprit
+											- C'est un renversement matérialiste de Marx de la pensée de Hegel
+												- Pour Marx, c'est la matière qui guide les idées
+													- C'est l'être social qui détermine notre conscience
+														- Nous avons les idées de notre condition matérielle
+	- ## Liberté humaine
+		- La conscience est déterminée par des rapports matériels, des rapports économico-sociaux
+			- Par conséquent, il n'y a pas de liberté
+				- Si l'on est déterminé par notre situation matérielle, c'est notre situation matérielle qui fait de nous ce que nous sommes
+					- Notre condition matérielle nous conditionne à penser de telle et telle manière
+					- Parce qu'un vécu différent implique une conception du monde différente
+						- La conscience est le fruit de cette condition matérielle
+			- La liberté, c'est la capacité à s'autodéterminer, à s'arracher au déterminisme qui nous conditionne
+				- Si toutes nos pensées sont issues du vécu et que le vécu est issu d'un déterminisme auquel on ne peut échapper
+					- On ne peut pas penser en dehors de notre condition
+		- Pour Marx, toutes nos idées sont le fruit de notre condition matérielle, donc notre conscience n'est pas libre, elle est déterminée socio-politiquement
+		- Cette conception de la liberté va en contradiction avec le sentiment de liberté que nous avons
+			- Malgré le déterminisme, nous agissons au quotidien comme maîtres de nos choix
+		- L'aliénation, c'est le processus par lequel un autre que soi prend le contrôle de notre conscience
+			- C'est la dépossession de ce qui fait notre humanité, à savoir notre conscience
+				- Quand le salarié travaille, il travaille pour le propriétaire, il vend sa force de travail au patron contre un salaire (un moyen de subsistance)
+					- Le produit du travail n'appartient pas au salarié, mais au propriétaire
+						- C'est l'extorsion de la plus-value
+							- La production d'une valeur ajoutée qui se retrouve dans la poche du propriétaire
+								- C'est le principe de l'exploitation
+									- Exploiter une situation, c'est utiliser des ressources pour les mettre à notre profit
+					- Le moyen de subsistance donné par le propriétaire a conditionné le salarié à accepter cette exploitation
+						- L'aliénation, c'est l'intériorisation par le prolétariat de la volonté du propriétaire
+							- C'est l'acceptation d'une situation objectivement déséquilibrée, au lieu de considérer sa perte dans l'histoire, le travailleur considère ce qui le maintient dans sa condition, ce qui le verrouille dans sa position d'exploité
+								- C'est ce que souhaite le propriétaire, car il n'y a pas d'acceptation de l'exploitation sans le consentement du prolétaire
+									- Un consentement altéré par l'aliénation du travailleur qui subit cette situation
+									- Le travailleur est poussé à créer un chemin psychologique d'acceptation de cette situation défavorable
+										- Comment admettre qu'on est un esclave ?
+											- Par l'aliénation
+												- On ne peut pas consentir consciemment à être un esclave
+													- Il faut justifier intellectuellement une situation matérielle qu'on n'a pas choisie
+														- L'aliénation, c'est l'intériorisation en soi de la volonté d'autrui
+															- Ce n'est plus qu'une explication rationnelle de la situation, on est dans la légitimation voire dans l'adhésion
+																- Approuver sa propre servitude, c'est se rendre responsable de sa servitude à l'échelle collective
+																	- Par l'aliénation, nous réduisons notre champ de conscience
+																		- L'aliénation, c'est jouer contre nos intérêts
+		- La liberté suppose une conscience active et non passive
+			- Cela remet en cause le consentement, car le consentement ne prend pas en compte cette condition de l'aliénation
+				- Que vaut un consentement quand notre conscience est altérée par autrui ?
+		- Il suffit de créer les conditions objectives dans lesquelles nous allons nous aliéner nous-mêmes, aliéner la conscience de l'autre pour justifier notre situation matérielle
+		- En s'opposant à cette situation, il risque de perdre une situation qui lui apparaît comme un privilège
+	- Pour Marx, c'est cette aliénation qui guide l'histoire des hommes
+		- C'est en telle condition qu'on ne se rend pas compte qu'on est aliéné
+			- On n'envisage même pas à l'esprit que l'on est aliéné
+				- La remise en question et l'auto-examen sont des examens de la sortie de l'aliénation
+					- Dans *1984* de George Orwell, quand on n'a plus les mots pour penser notre condition, notre condition ne nous appartient plus
+	- Trouver quelque chose de normal, c'est ne pas se poser la question de sa normalité. L'aliéné ne se pose pas la question de sa servitude
+		- L'acceptation est poussée par le sentiment de normalité
+			- C'est l'habitude qui crée le sentiment de normalité
+	- L'aliénation, c'est la privation des moyens de mise en question de sa propre situation, c'est l'impossibilité d'avoir conscience de sa servitude
+	- Dans ce schéma d'aliénation, il n'y a pas de contrainte physique.
+		- Un totalitarisme mature ne force plus les corps, car la contrainte physique et la douleur peuvent activer une remise en question de sa situation.
+			- Or, si l'on fait en sorte que la conscience soit consentante à l'exploitation, il n'y a plus besoin de contraindre les corps.
+				- Ce qui permet aux dominants de justifier leur position par le consentement du dominé.
+					- On fait de l'esclave notre allié.
+		- Dans *L'École des femmes*, Arnolphe veut se marier, mais il a peur que sa femme le trompe. Pour parer à cette situation, il épouse sa fille adoptive, Agnès, et pour cela, il l'a élevée dans l'ignorance de l'amour afin qu'elle ne soit pas tentée par lui.
+			- C'est une totale aliénation mentale visant à conditionner domestiquement Agnès pour qu'elle ne pense pas à la tromperie.
+				- Arnolphe sait que si l'on n'a pas conscience de l'existence d'une chose, on ne peut pas l'envisager.
+					- Il pense ainsi faire d'Agnès une épouse fidèle.
+						- Sauf qu'Agnès tombe amoureuse d'Horace.
+							- Il a fallu une activité extérieure pour qu'Agnès sorte de son aliénation.
+								- Car Agnès était programmée pour consentir à sa situation.
+									- Le consentement peut donc être un instrument de domination.
+	- C'est le contrat démocratique qui nous oblige à accepter les lois.
+		- Dans une société de sacralisation du désir individuel, il est facile de manipuler les consciences dans le sens des intérêts du pouvoir.
+	- Ce dérèglement de notre conscience par l'aliénation a pour but non pas de servir mes intérêts, mais les intérêts de celui qui exerce l'aliénation.
+		- Le propre de l'aliénateur est de dire qu'il défend vos intérêts.
+			- Toute personne qui veut aliéner le fait au nom des aliénés.
+	- C'est le plus puissant des processus de déshumanisation.
+	- ## Aliénation dans le travail
+	  id:: 67e93195-bc33-466f-856b-391ecadaaae2
+		- Dans l'analyse de Marx, l'ouvrier devient plus aliéné à mesure qu'il est investi dans le processus marchand.
+			- En psychologie, c'est l'escalade de l'engagement : plus on est investi dans un processus, plus il est difficile de le quitter.
+				- Mais l'aliéné est encore plus loin, car il ne peut quitter sa situation puisqu'il la considère comme normale, voire bénéfique pour lui.
+					- On peut prendre l'exemple de "l'employé du mois", qui, dans la vision marxienne, est l'exploité fier d'être exploité.
+						- L'aliénation moderne rend fiers les exploités.
+							- Dans le management, l'autonomie des employés fait partie activement du processus d'aliénation.
+								- On va rétrograder un employé qualifié mais pas assez soumis.
+									- Par un employé moins qualifié, mais plus soumis.
+										- On élimine tout ce qui pourrait faire croître les germes de la conscience de la situation.
+	- Nous sommes tous encore les dépositaires de la conscience humaine sur terre.
+		- Si la lutte pour la conscience précède toutes les autres luttes...

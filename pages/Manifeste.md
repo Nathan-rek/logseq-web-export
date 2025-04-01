@@ -1,0 +1,14 @@
+- Élément d’expression public, qui développe le projet artistique, esthétique et sociétale. Le fait de manifester une intention un projet
+- D’origine politique.
+	- Manifeste du Parti Communiste, 1848 [[Karl Marx]] & Frederic Engel.
+		- Les ouvrier..es s’emparent de l’outil du manifeste, texte commandité à [[Karl Marx]] par la ligue communistes.
+			- Texte qui met les bases du [[Marxisme]]
+- Apparaîtra des manifestes artistiques
+	- Les groupes d’artistes se fédèrent de plus en plus en forme de groupe.
+		- Se regroupe autour d’idée commune de ce que peut être l’art
+	- Le manifeste permet de regrouper et revendiquer une identité de groupe. Il..elles font usage du manifeste pour ce démarquer.
+		- Régime de la singularité, chacun veut exprimer une singularité
+	- Les avants-gardes veut se marquer en rupture avec un temps
+		- Le Dandysme est une manière d’être singulier, figure de la [[Modernité]] dans l’envie d’être en rupture
+- Faire table-rase du passé
+	- Manifeste [[Futurisme]] qui use du manifeste pour revendiquer leurs propos artistiques

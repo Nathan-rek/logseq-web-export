@@ -1,0 +1,37 @@
+- Une partie du rapport au temps se fait lors de la socialisation primaire (famille)
+	- Socialisation : processus d'acceptation des règles de vie commun et collectives qui corresponde aussi a certain famille, transformer une individu en un être social. Nos interactions vont intégrer différents savoir-faire, compétences, savoir être qui s'acquière pendant ces temps de socialisation. Rencontre face aux règles implicites ou explicites
+		- Socialisation primaire: essentiellement familliales
+		- Socialisation secondaire:
+- Les écoles et les institutions sont aussi des instances de socialisation
+- # Le temps de la ville, Jean-Yves Boulin
+	- Comment approcher les contraintes temporelles du travail avec le travail non rémunéré, et comment la semaine de 35 heures a accentué ces inégalités dans l’utilisation du temps ?
+	- Comment des acteurs locaux peuvent-ils participer à réduire ces inégalités ?
+	- Plusieurs réorganisations des villes se font sur la base d’un réagencement des fonctionnements collectifs, tant dans leur dimension temporelle que spatiale.
+	- La discipline du temps est héritée de la Révolution industrielle ; c’est la politique du travail comme création d’identité individuelle et collective.
+		- Le loisir est présent dans cette discipline.
+			- Ces temps hors travail se structurent sur ce temps de travail et prennent donc place dans des temps au marge du temps de travail, créant une synchronisation du temps collectif.
+			- Cette synchronisation est à la base du modèle des ressources humaines et de la femme au foyer.
+- # Le temps des mères, le temps des pères, Christine Barnet-Verzat
+	- La prise en charge matérielle des enfants est un enjeu social fort, c'est au femmes que se temps s'incombe traditionnellement, or la généralisation de l'activité féminine redéfinit ce temps.
+	- Suite à  L’enquête « Emploi du temps » réalisée par l’Institut national de la statistique et des études économiques (Insee) en 1998-1999
+		- Cette enquete montre une repartition inegale du temps passer les femmes a ces taches par rapport au hommes
+			- 30min pour les Hommes et 1h10 pour les femmes
+			- Les types d'activités differment les H s'attarde au loisir exterieur et au devoirs
+			- et les femmes s'y attardent aussi mais elle participe à plusieurs autres taches plus courtes
+			- Les femmes participe à des taches plus régulière en semaine la ou les hommes sont plus actif le weekend
+		- Cette écart est aussi chez les enfant le temps accordé au garçon au de 56min et de 48min pour les filles
+- # Le rapport au temps des adolescents, Gilles Pronovost
+	- Quelle place au temps dans la quête identitaire adolescente
+		- L'adolescence c'est déjà une assimilation du temps institutionnelles
+		- Ce rapport au temps est un rapport qui peut être inégale et est une construction social
+	- ## Temps présent
+		- La culture jeune trouve refuge dans l'instant, horizon d'un temps court
+			- Les jeunes en sont conscient et mettent en avant un hédonisme individuel
+			- Ce temps immédiat et parfois un refuge face au problématique rencontrer qui elle peuvent s'étaler sur le temps long
+		- Les médias amplifie le culte de l'instant
+		- La famille comme vaste entreprise de socialisation au temps
+		- Le temps institutionnelle notamment de l'école influence énormement la construction au temps des jeunes en dehors de l'école.
+			- Ceu..elles qui se retrouve dans le temps scolaire et qui se projette dans les études ont une capacité a se projeter dans d'autre temps long. Il peuvent affirmer vouloir garder une activité sportive sur le long termes
+			- L’horizon temporel dans lequel se situe le jeune demeure fortement tributaire de son expérience de vie, tout particulièrement de ses rapports à son milieu familial et scolaire.
+- # [[Paul Virilio]]
+-

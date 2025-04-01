@@ -1,0 +1,33 @@
+- Le cybersapce est une alternative virtuelle à notre monde actuel.
+	- Un espace sensée être désidentifiés, une liberté de mouvement au dessus des races, sexes, frontières.
+	- Pour Felix Guattari le développement des technologies numériques participe à un:
+		- *remaniement du pouvoir mass-médiatique qui écrase la subjectivité contemporaine et [d’]une entrée vers une ère postmédia consistant en une réappropriation individuelle collective et un usage interactif des machines d’information, de communication, d’intelligence, d’art et de culture[1](https://journals.openedition.org/hybrid/931?lang=en#ftn1) *
+	- Aujourd'hui ce qui paraissait comme une [[Utopie]] virtuelle est devenu une aliénation capitaliste
+	- L'idée aujourd'hui n'est plus de pensée qu'une autre réalité est possible, mais de protégé les zones du saccage capitaliste.
+	- Pour cela il faut une nouvelle perspective du monde, une perspective qui passe par une forme d'acceptation du nouveaux paysage capitaliste qui s'est dessiné et qui domine
+		- Il faut ce que Cornélius Castoriadis appelait « l’imagination instituante[3](https://journals.openedition.org/hybrid/931?lang=en#ftn3) ». Il nous faut apprendre à voir les mêmes choses autrement, sous un autre angle, de façon à en saisir d’autres saillances donnant lieu à d’autres possibilités de prises.
+- Pour aborder ce nouveau monde et cette imagination collective il faut avoir en tête la notion de Alfred North Whitehead, *préhension*
+	- Les donnés devrait être traduite comme préhension. Les data ne sont pas gratuites elles sont le fruit de calcul couteux et donc intéressé
+- Pour Bruno Latour il faut questionner les *faits* qui comme leur nom l'indique ont été faits, fabriqué, et ne sont pas prétendument objectif.
+- Le renversement de perspective nécessaire à mieux nous orienter dans le déploiement actuel des possibilités du numérique appelle à chercher d’autres modèles imaginaires
+	- C'est pour Pierre Lévy le virtuel: Comprendre quelles sont les « vertus » encore non découvertes du numérique
+- C'est ce que le penseur Vilèm Fusser s'évertue à faire
+- ## Vilém Fusser
+- Grand penseur de la mutation numérique, il approfondie les intuitions lance de Marshal Macluhan. C'est dans un de ses texte le plus étrange qu'il cherche cette alternative à notre façon familière d'envisager le numérique
+	- Pour cela c'est un voyage au fond des mers qu'il faut remonter palier par palier
+- Le *vampyroteuthis infernalis* est un céphalopodes, un être qui fait coïncider sa tête et ses pieds contrairement à nous qui nous efforçons de nous écarter de nos pieds
+	- Le Vampyroteuthis infernalis s'est enfoui dans les profondeurs de l'océan, il est un contemporain des dinosaures.
+- Tout nous oppose a lui, en cas de danger nous nous cachons or lui crache un mucus bioluminescent comme barrage lumineux
+	- Tout sépare ces deux cultures. Les objets sont pour nous des problèmes qui nous barrent la route et qu’il faut manipuler si nous voulons les écarter. La culture est par conséquent un projet dirigé contre les objets fixes, un affranchissement de la loi (des lois naturelles). Pour le vampyroteuthis, les objets sont des bribes dans un flux d’eau qui se jettent sur lui. Il les engloutit pour les incorporer. La culture est pour cette raison une discrimination entre ce qui est digestible et ce qui ne l’est pas, soit une critique des impressions. La culture n’est pas pour lui un projet dirigé contre le monde, mais une injection critico-discriminatoire du monde à l’intérieur du sujet. (p. 40)*
+- Il est donc un filtre
+	- Les eucœlomates […] se composent de trois types de tissus cellulaires : l’ectoderme, le mésoderme et l’endoderme. L’ectoderme les enveloppe et les délimite du reste du monde ; l’endoderme sécrète les fluides qui permettent à ces animaux de digérer le monde ; le plus intéressant des trois restant le mésoderme : se situant entre les dermes délimitant et digérant, il permet à l’animal d’agir sur le monde. (p. 13)*
+	  id:: 66f1d8fe-0823-421a-a9d7-405a03cce52e
+- Son existence symétriquement inverse de la nôtre semble nous dire silencieusement quelque chose de notre propre existence en tant que mailles d’un tissu de relations concrètes dont le réseau nerveux traverse désormais tous les corps, tous les pays et tous les océans de la planète
+- Pour Fusser les connexions du numérique sont unilatérales, les câbles vont dans un sens, les émetteurs émettent des images quo nous arrive comme des réalités non négligeables car les câblages ne permettent aucune connexion transversales.
+	- Ce régime de communication mass médiatique est depolitique il pense un solution post médiatique en cherchant un outil qui serait une téléphone muni d'un écran
+		- Des qu'il propose cette solutions utopique il en dessine les écueils
+			- *Toutes les fenêtres seraient alors ouvertes. Cela équivaudrait à une politisation généralisée, car la société serait alors rassemblée sur une agora planétaire, et chacun pourrait « publier ». Partout naîtraient des informations nouvelles, mais à vrai dire en même temps un problème nouveau. Aujourd’hui, c’est le dialogue qui fait défaut ; alors, ce serait le discours. La politisation généralisée tendrait à priver de son contenu l’espace privé.*
+		- Flusser ne tend pas faire une dérive du monolithe mass-médiatique, mais il ne dit pas non plus que l'interactivité numérique est le panacée de tout les problèmes de domination.
+			- Les smartphones à bas prix aiderait il pas un totalitarisme mass-médiatique. Cela donne la possibilité a chacun..e de prendre part au "dialogue" social. En diffusant par exemple sur le web des preuves filmées des brutalités policières dont sont victimes les minorités opprimées), pluralisant ainsi de fait le « discours » à sens unique tenu par les médias dominants.
+				- Pour autant, un foisonnement de « dialogues » horizontaux risquerait de diluer tout « discours » structurant dans une soupe de palabres aussi libres qu’insignifiants.
+		- Flusser met en garde les promesses émancipatrices des nouveaux media et la part d'aliénation qu'il retiennent.

@@ -1,0 +1,20 @@
+- Pratique qui c'est vu chargée d'une forte charge de revendication politique présente dans l'espace publique mais désormais en totale légitimisation dans le [[Monde de l'art]]
+- Pratique souvent rallier au vandalisme (dégradation de bien public)
+- L'intérêt de l'étude culturelle du Street-art s'est vu légitimer cette pratique
+	- Une esthétique intègre le [[Monde de l'art]] et les instituions et se demande si elle à encore du sens car n'est plus revendicatrice et devient juste un style graphique
+	- Déplacement de la culture urbaine dans le champ de l'art qui se veut hermétique
+- Street-art maintenant participe à la gentrification de certains quartiers
+- # Invader
+	- S'emparent de canon de la culture classique et le fait fusionner avec de matériaux non légitimes (bout de rubikscube)
+		- Invader: [Rubik Mona Lisa](https://www.lemonde.fr/culture/article/2020/02/24/la-joconde-en-rubik-s-cube-de-l-artiste-invader-vendue-480-000-euros-aux-encheres_6030646_3246.html), 1980 ![La Joconde en Rubik's Cube de l'artiste Invader vendue 480 000 euros aux  enchères](https://img.lemde.fr/2020/02/24/30/0/4368/2910/1440/960/60/0/9c63321_pzGgUQpqaM0KcdlCGJvccF4u.jpg){:height 308, :width 450}
+			- Rencontre en la culture vernaculaire et la grand cultures
+- # Banksy
+	- Participe à une chaine de coopérations
+	- La réception critique populaire du travail de Banksy peut être problématique
+		- L'espace publique devient une espace qui se veut sacralisé et quitte les enjeux du street art
+	- Légitime la pratique du [[Street-art]] un dehors et dedans du street art qui dérange
+	- Banksy Peckham Rock: ![Banksy hoax caveman art to go back on display at British Museum](https://c.files.bbci.co.uk/5595/production/_101590912_banksy_hoax_brit_museum2.jpg)
+	- Un dessin vendu 60$ vendu dans la rue en vaut 160 000$ quand vendu dans le [[Monde de l'art]]
+		- Transvasions des objet entre un intérieur et un extérieur du marché
+	- Rend compte du process de légitimation du [[Monde de l'art]]
+	-

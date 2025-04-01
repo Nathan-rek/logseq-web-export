@@ -1,0 +1,53 @@
+- Philosphe et physicienne née en 1956, elle a fait une thèse en physique, elle noue la physique quantique et la philosophie queer
+- Basé sur le principe de la physique quantique de Bohr
+	- Bohr à changer l'incertitude en l'inter-détermination
+- Réalisme Agentielle
+	- L'unité de base de la réalité au niveau des propriétés empiriquement vérifiables de la matière est le phénomène entre les partie
+	- Les choses n'existent pas seul elles sont en interdépendance et donc la matière au niveau atomique est enchevêtrer.
+		- Sortir d'une vision individualiste et séparatrice de la matière
+	- L'existence entre un phénomène est inséparable d'un autres phénomènes
+- Travail formel sur la langue pour rendre compte de sa théorie
+	- La langue qui pour elle cherche à diviser or pour Barad elle essaie de rendre compte de l'enchevêtrement
+- # Transmatérialité
+	- Nouvelle théorie du toucher et par la de la matière en physique quantique
+		- L'intra-action: néologisme qui refuse toute forme d'ontologie, premier sur l'entité
+			- Elle refuse qu'il y est un noyau qui interagit avec un autre, l'intra action est premier sur l'entité, l'élément n'existe pas sans l'interaction avec le monde
+			- Il n'y a pas de substance individualiste
+	- La matière est une construction abstraite, il n'existe pas de chose isolée il n'existe que les agencements dynamiques
+	- L'espace et le temps ne sont pas préfiguré il se reconditionne par l'intra-action
+	- Le social est un enchevêtrement tout comme la Nature
+		- Les sciences naturels auraient tendance à dire ce qui est nature ou non
+			- Dans le cadre de sa thèse accepter son agencement et donc sa transidentité c'est accepter ce qui serait d'un naturelle
+	- Le toucher chez les physiscien..nes n'est qu'une interaction électromagnétique
+		- Le toucher est impossible, le toucher est enfaite une répulsions électromagnétique
+	- Cette théorie du toucher pour Barad est réactionnaires, qui serait gangrené pas un dogme religieux qui rend le désir (contact amoureux) impossible
+		- Un préjuges normaux hétéronormés
+	- Elle base sa théorie sur l'étude des éclairs
+		- On c'est rendu compte que les éclairs ne vient pas que du ciel, le sol projetait aussi de l'électricité
+		- Schéma de l'éclaire qui ne serait pas hétéronormé
+			- La terre est active dans la création de l'éclair
+	- La trans-matérialité car tout se redéfinit en permanence par l'interaction quantique
+		- Tout comme l'éclair qui est précaire qui parvient par l'interaction d'éléments chargés
+		- Ne pas nous aligner avec une essence mais de nous reconnaitre nous-mêmes mobilisation de la "nature" n'a de cesse de défaire le naturel
+			- Rupture avec la construction [[Nature - Culture]]
+	- Inspiré par Susan Stryker
+		- Elle a réécrit Frankenstein dans une perspective trans-identitaire
+		- Elle travail à partir de la science biologique là où Barad part à partir de la physique
+- # La Grandeur de L'Infinitésimal
+	- *Nuages de champignons, écologies du néant, et topologies étranges de l’espacetempsmatérialisant*
+	- L'arrive du nucléaire à mis à mal le micro et le macro, la distinction apriori entre le chose ne fonctionne plus car il y a un enchevêtrement entre le micro et le macro
+		- Ce rapport d'échelle qui est aussi politique doit être revu car le plus petit peut avoir un impact mondial
+		- Il n'y a pas de petit matière
+	- Qu'en est t'il de *l'espacetempsmatérialisant* face à ce déchirement nucléaire ?
+	- La philosophie classique est le cadre de tout expérience
+		- Dans l'espacetempsmatérialisant, il n'y a pas d'espace et de temps absolu, la matière est imbriqué dans l'espace temps
+	- La séparation d'un noyau d'un atome redéfinit le champ géopolitique social
+	- Le vide existe t'il ?
+		- N'est il pas un outils utiliser par le capitalisme, le [[Colonialisme]], L'imperialisme, le militarisme.
+			- Les colons déterminent la terre vierge comme celle qui n'aurait pas de bâtisse *Nature*, à l'inverse d'une terre qui serait bâti et qui ferait la *culture* [[Nature - Culture]]
+			- Le vide n'est pas un fond que lequel apparait quelque chose, mais une partie constitutive active de chaque chose.
+- ## Intra-action
+	- Intra-action est un terme Karan Barad utilisé pour remplacer le terme « interaction », qui nécessite des corps préétablis qui participent ensuite à l'action les uns avec les autres.
+		- L'intra-action conçoit l'action non pas comme une propriété inhérente à un individu ou à un être humain à exercer, mais comme un dynamisme de forces dans lequel toutes les « choses » désignées échangent et se diffractent en permanence, s'influencent et travaillent de manière inséparable.
+		- L'intra-action reconnaît également l'impossibilité d'une séparation absolue ou d'une objectivité au sens classique, dans laquelle un appareil (une technologie ou un support utilisé pour mesurer une propriété) ou une personne utilisant un appareil ne sont pas considérés comme faisant partie du processus qui permet d'obtenir des « résultats » ou des mesures spécifiques.
+	-

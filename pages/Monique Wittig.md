@@ -1,0 +1,43 @@
+- Witting est née en 1935 en Alsace, elle fait la Sorbonne à Paris en Lettres, organise des conférence et commence une carrier de romancière
+	- A 29ans en 1969 elle sort son premier roman et gagne le prix Médicis et est publier au Editions Minuits
+- Elle va participer à la renaissance du [[Féminisme]] en Europe
+- Wittig en tant que lesbienne [[Marxisme]] , elle conçoit les femmes comme une classe et l'hétérosexualité comme la matrice social dominante
+- Pour Wittig la différence sexuel et le [[Féminisme différentialiste]] ne marche pas pour les lesbiennes
+	- Les H et les Femmes comme l'étant donné, comme le jardin d'Eden, mythologie qui s'incarne dans la religion, la moral, la sciences
+	- La médecine et le discours médical voit l'hétérosexualité comme la seul pratique saine.
+		- Jusqu'en 1980 l'homosexualité est vu comme une maladie
+	- Pour Wittig le problème premier est la vision de l'hétérosexualité comme mythe fondateur de la pensée occidentale ((6717bd02-d185-45d0-9a5a-e3ff9dc3b395))
+	- La vision de l'hétérosexualité est pour Wittig ce qui empêche d'exister comme sujet lesbiens
+- # Les Guérillères
+	- Le livre commence après le renversement du patriarcat
+		- Des femmes essaie de nettoyer la nouvelle société des reste du patriarcat
+	- Le livre finit par la guerre entre les Elles et les Ils
+		- On voit a la fin du livre qu'il y a des ils allié dans les Elles
+	- Le cercle est un symbole récurent dans le livre
+		- Il est aussi le symbole de l'anneau vulvaire dans le projet de Wittig
+- ## Un nouveau regard
+	- Le Male gaze est un concept produit par Laura Mulvey
+		- Elle analyse le regard au cinéma et comment le cinéma mainstream (Hollywoodien) regarde les femmes
+			- Le regard se base sur deux grand modes le modes voyeuriste et le mode fétichiste
+		- Le désir est base sur le regard et sur par l'objectivisation du corps des femmes
+	- Le regard est souvent un regard dans l'action
+		- Pour [[Henri Bergson]] on ne voit pas les ensembles on voit ce qu'on cherche dans l'action, c'est la perception
+	- La vision qui sépare et qui divise est un regard par l'action
+	- Le regard de Wittig qui abolit les virgules est un regard qui ne divise pas.
+		- Il ne met pas dans un rapport d'action, il est actif dans la contemplation
+			- Rentre en résonances avec les choses
+	- L'extrait de tableau trouver représente un reliquat du patriarcat avec un tableau qui représente une jeune fille sous le male gaze
+	- Lors de la chasse aux Hommes le male gaze est retourner, c'est l'H qui est décrit par ses attributs physiques "le mal jambé"
+	- En fessant un personnage principale collectif on rend impossible l'individu
+- # La pensée Straight
+  id:: 6717bd02-d185-45d0-9a5a-e3ff9dc3b395
+	- La place du langage dans les mouvements lesbiens et de libération de la femme.
+		- Le développement de la linguistique a fort impacter le langage social et le langage du pouvoir
+		- Les imbrications du langage dans le pouvoir fait perdre de vue les cause matérielle des oppressions
+		- Les discours et le langage des sciences donnent de la réalité social une version scientifique où les humains sont donnés comme invariants
+	- Le langage symbolique est devenu une arme de détournement. Les symboles étant des productions de l'inconscient ils sont donc facilement manipulable par voie de théorisation et de thérapies.
+		- Et ces interprétations sont facilement imposable à l'inconscient collectif ou individuel.
+		- L'inconscient aurait le bon gout de structurer à partir de ces symboles et métaphores.
+			- L'Œdipe de [[Freud]]
+	- Si les inconscients sont facile à manipuler il exiges des interprétations multiples, et seul les spécialistes sont capable de mener à bien ce déchiffrement
+	- Le discours psychanalytique agit comme structure d'oppression pour ceux..celles

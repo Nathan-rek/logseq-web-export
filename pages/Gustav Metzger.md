@@ -1,0 +1,16 @@
+- Artiste allemand dont la famille est mortes dans des camps de concertation
+	- Gustav Metzger : *Historic Photographs: No. 1- Liquidation of the Warsaw Ghetto, April 19-28 days*, 1943 ![Historic Photographs: No. 1- Liquidation of the Warsaw Ghetto, April 19-28 days, 1943, 1995 - Gustav Metzger](https://uploads7.wikiart.org/images/gustav-metzger/historic-photographs-no-1-liquidation-of-the-warsaw-ghetto-april-19-28-days-1943-1995.jpg)
+- Révélé la capacité de l'humain..e à s'autodétruire
+	- La peinture la sculpture ne sont plus à même de rendre compte de la violence de la société
+		- Il va développer un art autodestructif: écrit un manifeste
+			- Gutave Metzger [*Auto-destructive Art*](https://designmanifestos.org/gustav-metzger-auto-destructive-art-manifesto/),1960 https://designmanifestos.files.wordpress.com/2020/04/metzger_gustav_auto-destructive_art_demonstration_1961.jpg
+	- Il va ensuite développer l'autocréation la ruine peut aboutir à un nouveau processus
+	- En 1966 il organise un symposius sur la destruction en art:
+		- Se retrouve des représentantx de [[Fluxus]] ou [[Hermann Nitsch]]
+- Gustav Metger: [*Liquid Crystal Environment*](https://www.tate.org.uk/art/artworks/metzger-liquid-crystal-environment-t12160), 1965 https://media.tate.org.uk/art/images/work/T/T12/T12160_9.jpg
+	- Deux cristaux qui se désintègre face à la chaleur de la lampe du diapositives
+		- Autodestruction qui projette de nouveaux visuelle Autocréation
+- Dans les années 1977 a 1980 il rentre dans une grève de l'art
+	- Les artistes participent à multiplier des productions qui finissent à avoir des valeurs marchandes
+		- Tout ça pour réinventer un art qui ne serait pas de valeur marchandes. Il souhaite changer le [[Monde de l'art]] avec un caractère réformiste par la grève
+			- Cette [[Critique institutionnelle]] se fait au sein de l'institution donc ne prend pas sens pour lui

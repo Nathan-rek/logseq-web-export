@@ -1,0 +1,4 @@
+- Exposition organisé par [[Douglas Crimp]] avec des artistes qui crée un nouveaux rapport à l'art et à l'images
+	- *While it once seemed that pictures had the fucntion of interpreting reality it no seems that they have usurped it*
+	- Jack Goldstein: Dissapearing, 1970 ![Jack Goldstein | Disappearing – California, c. 1970 — 1301PE](https://images.squarespace-cdn.com/content/v1/59cc690fcf81e0b2a21215aa/1556749576340-51JXHAWXTIJUHQVX1JOR/Goldstein.Astronaut.Det.email.jpg)
+		-

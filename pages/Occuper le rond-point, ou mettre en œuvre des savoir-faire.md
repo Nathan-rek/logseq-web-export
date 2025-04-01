@@ -1,0 +1,16 @@
+- Choix tactique et politique des rond point à occuper.
+	- L'occupation des rond point à eu un pic lors du 17novembre mais par la suite les mobilisations ont pris d'autre formes
+- L'aspect convivial de l'occupation des rond point a permis au manifestant de perdurer dans leurs mobilisations
+- L’occupation de rond-point peut donc être synonyme d’inversion momentanée de la hiérarchie sociale par les décisions de circulation que les manifestants mettent en place.
+- La mediatisation de cette occupation aussi reste festive e joyeuse marquant leur approriation des ses lieux qvec lesquelle il..elles sont habitués
+	- Les débordements lié a ces occupations font aussi débats au sein des Gilets Jaunes
+- L'article traite des biais et des dérives possibles lié à la régulation routière que l'occupation des ronds points par les gilets jaunes
+- Les Gilets Jaunes rencontre aussi des formes de soutiens populaire avec la disposition de Gilets jaunes sous le pare-brise montrant leur soutien a ce mouvement.
+	- Ce qui est équivoque avec le soutien marquer dans les sondages
+- La dimension technique de maintien de la circulation devient preuve de légitimité du mouvements
+	- L’État cède de facto son pouvoir aux Gilets jaunes, puisque la police n’intervient pas
+	  id:: 672b7e76-acc5-4806-a978-22a18506a3cd
+- L'article étudie tout les micro phénomes sociaux que les rond point on crée, les interaction avec les dons caritatives, que ce soit de l'argent ou des denrées.
+- Rendre festif les rond point répond à cette maniere de faire commun l'article met en lien la géographie des lieu de rassemblements et les particpant..es qui si trouve.
+	- de ce socle commun de cette familiarité géographique nait des interactions qui aide la cause.
+		- *Ceux-ci partagent en effet un faisceau de références qui se rattachent au supportérisme sportif et à ce que l’on a coutume d’appeler la « culture populaire».*

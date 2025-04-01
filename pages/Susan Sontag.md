@@ -1,0 +1,36 @@
+- Hérite de la pensée de [[Nietzsche]]
+- L'expérience de la vie est primordial pour l'exercice de la philosophie
+	- La vie n'est pas dans la pensée
+- La psychanalyse pour Sontag à un pouvoir démesuré, qui est dangereux par rapport à la personne qui offre le l'analyse.
+	- Mettre nos sentiments à distance génère une aliénation de notre propre vies
+- Sontag poursuit le projet nietzschéen dans [[Nietzsche]], ((66f32cb0-14a4-4894-9a38-b02457e7b8b1)) sur l'art en cherchant une carnation de l'art par la vie et non pas par le concept
+- ## Contre l'interprétation
+	- Herméneutique: qui a un attrait pour l'interprétation
+	- Les premières conceptions théoriques sont des conceptions herméneutiques de l'art. Elles interprètent l'art comme imitation du réel, et donc un besoin de justification
+		- Pour [[Platon]] cela rend l'art incertain car le monde matériel est déjà une imitation d'un monde des idées. ((66f3bf78-2e80-4509-88cf-d182bac25b9f))
+		- [[Aristote]] partage cette conception d'un art trompe l'œil mais ne trouve pas qu'il est inutile pour autant
+		- Que ce soit pour [[Platon]] ou [[Aristote]] l'art à une conception figurative
+			- Cette tradition figurative a crée dans le temps de concept comme la forme, le fond, et le contenu.
+	- A l'époque moderne bien que l'art de la représentation d'une réalité extérieur, on prend plus l'art comme une expression d'une réalité subjective²
+		- L'art n'est plus copie il est geste
+			- Le "contenu" devient distinct et primordiale
+				- Ce contenu à pu petit à petit devenir moins réaliste ou consciemment moins réaliste. On considère encore qu'une œuvre est représenter par son contenu.
+					- On n'attend que l'art doit nous dire quelque chose, qui doit délivrée un contenu.
+	- Que serait un art proto-théorique, sans théorie, un art qui na pas besoin de se justifier
+		- Aujourd'hui il y a une tache de défense de l'art par le biais du contenu qui n'est qu'une perpétuelle actualisation du désir d'interprétation
+	- Sontag entant par interprétations une démarche de la pensée consciente qui se conforme à un certain code, à certaines "règles"
+		- *L’interprétation d’une œuvre d’art consiste à sélectionner dans cette œuvre un certain nombre d’éléments (l’élément X, l’élément Y, l’élément Z, etc.). Celui qui interprète n’a plus alors qu’à se livrer à une transposition. Ne voyez vous pas, nous dit-il, que X équivaut à A, ou signifie A ; qu’en réalité Y = B ; que Z = C ?*
+			- Un exercice que pratique Slavoj Žižek analyse le film Psycho et l'architecture de la maison ou se déroule le crime comme une représentation graphique de la deuxième topique freudienne
+		- Historiquement l'interprétations c'est vu être le moye de mettre en avant les morales des penseurs: Les grecs transforment les mythes en récit allégorique de la condition humaine et les religieux interprète la bible et les écrits bibliques pour représenter la pensée chrétienne
+			- *L’opposition entre le sens clair d’un texte et les exigences de lecteurs d’une période postérieure est donc à l’origine de l'interprétation qui s’efforce de les concilier*.
+			  id:: 66fc227d-75c9-4b3b-b652-5e6af1bb68f8
+				- L'interprète sans toucher à la forme change le sens d'un texte qui risquait de tomber dans l'oubli. Il dira le rendre intelligible en révélant son sens réel.
+	- La pensée de [[Karl Marx]] et [[Freud]] qui domine les années 1960 est profondément herméneutique
+		- Tous ce que l'on observe est pour [[Freud]] le contenu apparent de quelque chose. Il faut écarter ce contenu pour atteindre un contenu lattent, le sens véritable pour [[Freud]] .
+	- L'interprétation du temps de Sontag est pollué par des multiple parasites d'interprétations.
+		- L'interprétation est un acte de réduction de l'œuvre à son contenu. on interprète pour minimiser une œuvre qu'on serait inapte a intégré comme elle est.
+	- L'[[Abstraction]] peut être vu comme un rejet de l'interprétations pour les modernes.
+		- Elle élimine tout contenu
+		- Le [[Pop-Art]] pourrait l'être aussi dans son opposé, tellement explicite et clair que l'interprétation en devient impossible.
+- La forme est subalterne à la pensé dans la pense de l'art occidentale
+- Nécessité d'une erotique de l'art

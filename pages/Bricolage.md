@@ -1,0 +1,10 @@
+- Le bricolage devient se semi-loisir, des pratiques culturelles se déploiement par le bricolages
+- Fanzine: objet d'amateur..ices fait pour les amateur..ices
+- La cassette devient aussi cette objet utilisé pas les amateur..ices
+- Légitimation des pratiques culturelles
+- Le bricolages permet l'invention du quotidien
+	- Chaque individus à la possibilité de ce qu'il consomme
+	- La pratique du détournent c'est entreprendre un acte créatif
+- Le Hacker pratique qui nait de façon [[Amateurisme]] (sans rémunération)
+- Creative Commons
+	- Multiplication des licences pour protéger les créations et leurs diffusion sur internet

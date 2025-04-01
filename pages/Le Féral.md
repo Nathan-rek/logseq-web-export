@@ -1,0 +1,8 @@
+- Un film de 1000 ans réalisé par une intelligence artificielle. 32 générations d'humains. Un paysage transformé. Une multitude d'auteur..es. Diffusé en direct, de 2024 à 3024.
+	- *Le Féral* est une œuvre collective à l’échelle d’un paysage - lieu d’apprentissage pour une intelligence artificielle en charge de créer un film. Ce milieu, en même temps qu’il croît, se peuple progressivement des interventions d’artistes invités à nourrir son apprentissage, comme autant de co-auteur.es de cette « *fiction concrète *», pour 1000 ans.
+	- *Le Féral *ouvrira au public en 2026 avec une première collaboration entre les artistes Fabien Giraud et [[Pierre Huyghe]] .
+- Féral est un terme issu de la zoologies veut dire animal qui redevient sauvage
+- *Le Féral* se déploie sur un site de plusieurs hectares au sommet d’une colline,
+- Au sein du parc naturel régional du Plateau de Millevaches, en France. Ce site vise à s’étendre progressivement, élargissant au fil des ans le terrain d’apprentissage de l’intelligence artificielle. Les parcelles, exploitées jusque-là en coupe rase par l’industrie du bois, seront replantées, diversifiées et préservées.
+- L’Institut est une plateforme de recherche et d’éducation déployant les concepts et les expériences concrètes développés au sein du *Féral*, ainsi que leurs conséquences philosophiques, technologiques et politiques.
+- Il est structuré autour de trois axes: un programme de résidences pour artistes et chercheur.ses, une école en ligne, et une publication annuelle.

@@ -1,0 +1,48 @@
+- Production par des personnes qui ne se destinent pas au [[Monde de l'art]]
+  id:: 661023c4-9193-4c01-87c1-712161d76510
+- A commencé par qualifié l'art des "fou"
+	- Personnes intérné..es en hôpital psychiatrique commence à élaborer des pratiques artistique ( dessin, collages... )
+		- Dans un élan romantique ces productions procurent un intérêt qui est d'abord médicale
+			- Cherche des indices pour comprendre la psychée de la personne
+		- Hans Prinzhom ajoute un intérêt esthétique plastique à ces productions
+- Jean Dubuffet s'intéresse à ces productions et les mediums utilisés
+	- Il s'intéresse aux personnes coupé..es du [[Monde de l'art]] ( notion relatives car nous ne sommes jamais coupée de notion d'art )
+	- Il propose le terme d'art Brut
+		- Brut au sens quelque chose qui n'est pas encore apprivoisé
+		- Un art en dehors des singeries et du mimétismes du [[Monde de l'art]]
+		- *Nous entendons des ouvrages exécutés par de personnes indemnes de culture artistique / une opération artistique brut*
+			- L'œuvre est produit de son intention pure
+	- Commence à collectionner des œuvres d'art Brut
+		- Aloïse Corbaz ![Collection de l'Art Brut - Corbaz, Aloïse](https://www.artbrut.ch/thumbnails/s3/w750/historic/artworks/f0a26215d239962c366af3ed2cff60db.png)
+			- N'est pas une artiste apriori, elle est internée et commence à dessiner avec ce qu'elle à sous la main -> [[Bricolage]] pratique [[Amateurisme]]
+		- Adolf Wölfli ![Collection de l'Art Brut - Wölfli, Adolf](https://www.artbrut.ch/thumbnails/s3/w750/historic/artworks/d76ded66684d733a7e6b8c7aede445ef.png)
+		  collapsed:: true
+			- Wöfli travaillait comme bucheron puis va être emprisonné et interné
+				- Se met à dessiner en N&B de façon compulsives tout en suivant une architecture qui lui est propre
+				- L'horror Vacui: la peur du vide
+					- Si il y une page vide il faut recouvrir la page dans son entièreté
+			- Il y a aura plusieurs Cycles
+				- Cycle Autobiographique - Cahier des chants et danse - Cahier des danses macabres - La marche funèbre...
+- Paul Meunier
+- *Que tout ces créateurs dévoilent la nudités des mécanismes de créations / Ces créateurs sont aux maitres ce qu'est la poussiere de charbon est au diamant*
+- # Lieu d'[[Hétérotopie]] où les œuvres restes
+	- L'abbaye de Fouré - [*Rothéneuf*](https://rochersrotheneufartbrut.com/abbe-foure/) ![Art Brut - Quand l'abbé Fouré sculpte les rochers de Rothéneuf](https://www.pleinevie.fr/wp-content/uploads/pleinevie/2015/08/Art-Brut-Quand-l-abbe-Foure-sculpte-les-rochers-de-Rotheneuf-scaled.jpg)
+		- Suite à un accident se met en posture de retrait et se met à sculpter le bois la pierre et la roche elle même à front de mer
+	- Le palais idéal du Facteur Cheval ![Drôme : que voir autour du palais idéal du facteur Cheval](https://lecaillouauxhiboux.fr/uploads/articles/hauterive/palais-ideal-du-facteur-cheval.jpg)
+		- Suite à un trébuchement sur un pierre qu'il considère de pierre d'abouchement
+			- Pré-art: dans la capacité à reconnaitre une silhouette dans la nature
+		- Le temple prend une forme éclectique intrigante
+		- Fabrication d'un tombeau, une [[Hétérotopie]] éternelle
+	- Huang Yung-Fu: [*Rainbow Village*](https://en.wikipedia.org/wiki/Rainbow_Village)*, Taiwan ![Village Arc en Ciel de Huang Yung Fu - NetKulture](https://www.netkulture.fr/data/images/2022/02/rainbow_village2.jpg)
+		- Ancien village militaire qu'un quadragénaire qui y vivait encore se met à peindre
+	- Robert Garcer: [*Tour d'Eben-Ezer*](https://fr.wikipedia.org/wiki/Tour_d%27Eben-Ezer) ![Tour d'Eben-Ezer — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/From_the_south_with_stairs_and_door_Eben-Ezer.jpg/260px-From_the_south_with_stairs_and_door_Eben-Ezer.jpg)
+		- Cherche dans le sol des cailloux qu'il trouve remarquables
+			- Il les extraits et invente une fiction du monde autour de cela
+- Les artistes vont au delà du paradigme de l'éxposabilité
+- Gordon Brinckle ![Gordon Binckle | lenscratch](https://lenscratch.files.wordpress.com/2011/09/01_project_ch1_0151a1.jpg)
+	- Fan du monde du cinéma, particulièrement les lieux de diffusion
+	- Il va y crée un espace à soi: un cinéma miniature
+- [Mingering Mike](https://www.mingeringmike.com/) ![Mingering Mike Superstar: Imagined credulities | Bidoun](https://public.bidoun.org/images/2015/10/mingeringmike_1_feature.jpg)
+	- Dessinée des vinyles cartonnées dessinées au marquer
+		- Avec à l'intérieur des disques en cartons
+-

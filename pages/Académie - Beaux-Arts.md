@@ -1,0 +1,30 @@
+- Académie grec réparait lors de la renaissance
+- 1563 premier académie, l’académie de dessin à Florence
+	- Le dessin comme l’élément de construction et de conception
+		- Léonard De Vinci fait de l’art un exercice intellectuelle
+- Se développe en Europe le modèle de l’académie des beaux-art.
+	- Dans le contexte de l’académie il y a une hiérarchie entre les peintures
+	- Le dessin prévaut:
+		- Jean Dominique Ingres: [*La Grand Odalisque*](https://fr.wikipedia.org/wiki/La_Grande_Odalisque),1814: ![La Grande Odalisque — Wikipédia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg/1200px-Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg)
+	- L’académie crée le principe même d’ [[Exposition]] à travers le salon
+	- Paolo FREIRE : La notion d'éducation n'est pas une accumulation bancaire du savoir.
+- LABAN ( Chorégraphe vient expérimenter des techniques pédagogiques ) s'installe à Monte Verita E. Reclus : Géographe anarchiste : Géographe sociale > début d'un courant écologique Implantation du mouvement [[Bauhaus]] à Monte-Verita
+- Monte Verita: Anarchiste italien qui cherche un camp de base pour ce fédérer
+	- Invite des artistes des philosophes des penseur..es
+	- La famille OEDENKOVEN[^53] s'installe à Monte Verita en 1900. Une communauté basée sur les principes de socialisme primitif (où le rapport à l’environnement conduit à repenser le rapport au social) entre 1913 et 1918 sera monté une école d’art par Rudolf LABAN
+- [[Joseph Beuys]] : Repense l’institution notamment à l’école des Beaux art de Düsseldorf dont il sera renvoyé en 1972
+- Comment mettre en place des rapports entre les individus: organise des séminaires en expérimentant l’éducation et la pédagogie. Faisant de son enseignement une forme de « ((661023c7-8f10-4946-bec7-15a2831ef6c3)) », comme lieu d’apprentissage non plus uniquement de techniques, de compétences, mais de mise en place possible de structure de coopération et de collaboration entre individus.
+- Mike KELLEY: Façonner une maquette rétrospective des espace dans lesquelles il a été confronté à des systèmes éducatifs ( famille, école, etc… ): [*Educational Complexe*](https://whitney.org/collection/works/10293), 1995 ![](https://whitneymedia.org/assets/artwork/10293/96_50_cropped.jpeg)
+- #### <a name="__refheading___toc34406_3754709155"></a>Réforme de l’académie:
+- Paris en 1863: ré-articulations pratique et théorique ( historiquement Paris n’enseigne que la théorie ) tentative d’adaptation à la [[Modernité]] .
+	- VIOLLET-LE-DUC veut mettre en place des conditions d’enseignement qui amène l’expression de la sensibilité afin de placer [[L'Originalité]] au centre / en conflit avec ceux qui pense que l’originalité s’articule a la représentation d’un idéal qui dépasse l’histoire.
+	- Vide technico-ésthetique : refonte de la subjectivité
+		- Contexte social :émancipation du système capitaliste avènement de la bourgeoisie de la division des classes sociales et des hiérarchisations des genres et de la division des mediums.
+			- Cette reforme de l’enseignement a une nécessite historique – ce défaire des acquis de l’académie royale qi établie une séparation entre pratique et théorie.  ( exemple enseignement pratique de Manet est en dehors de l’école )
+			- Violet-le-Duc pointe le manque d’originalité des travaux des étudiant au partiel copiant leur professeurs – l’enseignement n’a pas évoluer depuis 1819 – Le système pédagogique ne prend pas acte du milieux dans le quelle il vit.
+			- Développer une individualité artistique et sortir des artistes stériles académique
+		- Séparation entre pratique et théorie: mise à mal de la hiérarchisation verticale de l’enseignement:
+			- Rupture avec un modèle aristocratique qui établie cette indépendance hiérarchique entre pratique et théorie par une de verticalisation de la structuration de l’enseignement traditionnel
+		- Originalité : la [[Modernité]] mène au [[Avant-Gardes "Historique"]] et une certaine originalité en opposition au convention stérile de l’académie – travailler en dehors de l’atelier [[Impressionisme]] développer leur spontanéité
+		- [[Modernité]] : adapter un enseignement par rapport à la culture contemporaine moderne
+			- sortir des sujets et des modèles fondés sur un répertoire religieux historique et mythologique

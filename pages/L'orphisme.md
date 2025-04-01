@@ -1,0 +1,8 @@
+- L’extension logique du [[Cubisme]] pour APPOLINAIRE dont le terme est orphisme est tirée du poème Orphée D'Appolinaire,
+	- Robert Delaunay : [*Rythme n°1*](https://www.mam.paris.fr/fr/oeuvre/rythme-ndeg1), 1938  ![Rythme n°1 | Paris Musées](https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/MAM/3y08014.jpg?itok=wUn6XIwW)
+- L’orphisme donne à voir les source de lumière, il figure des objets dans leurs sources. On parle de destruction de l'objet une destruction héritée du [[Cubisme analytique]]
+- Les fenêtres de de Delaunay annonce le mouvement
+	- Robert Delaunay: [*Les Fenêtres*](https://fr.wikipedia.org/wiki/Les_Fen%C3%AAtres_(Delaunay)), 1912, ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%27Windows_Open_Simultaneously_%28First_Part%2C_Third_Motif%29%27_by_Robert_Delaunay.JPG/800px-%27Windows_Open_Simultaneously_%28First_Part%2C_Third_Motif%29%27_by_Robert_Delaunay.JPG)
+- Ensuite il développa une technique picturale en se concentrant sur le soleil il essaie de peintre les disque luminaux que le soleil fessait.
+	- Robert Delaunay: [*Formes circulaires, Soleil n° 2*](https://www.centrepompidou.fr/fr/ressources/oeuvre/uxnaOhy) ![Formes circulaires, Soleil n° 2 - Centre Pompidou](https://www.centrepompidou.fr/media/picture/aa/84/aa84cce3fc8118498cf147f33867df77/thumb_large.jpg)
+-

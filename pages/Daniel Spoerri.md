@@ -1,0 +1,5 @@
+- Tableaux surréaliste (le nouveau réalisme)
+- Le principe du repas est au centre de ces recherches
+	- Daniel Spoerri: [*Le déjeuner sous l'herbe*](https://www.nouvelobs.com/culture/20160930.OBS9123/les-derniers-secrets-du-dejeuner-sous-l-herbe-de-daniel-spoerri.html), 1980 ![Mon rêve : devenir le collant d'Ursula Andress.: Daniel Spoerri - Le  déjeuner sous l'herbe.](https://4.bp.blogspot.com/-2wKMNDlNqfw/Tt6ENfR3aEI/AAAAAAAAAFM/1IEOm4FIB0k/s1600/dej+ss.jpg)
+		- Banquet dont la table a été enterrée pour être plus tard déterrée par des archéologues 20 ans après
+		- L'expérience compte autant que le déterrage.

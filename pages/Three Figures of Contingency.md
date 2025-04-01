@@ -1,0 +1,29 @@
+- Dans sa forme la plus simple, le terme « contingence » désigne la tentative de penser des événements qui se produisent mais qui n'ont pas besoin de se produire: des événements qui pourraient être, ou qui auraient pu être, différents.
+	- La contingence est ce que la pensée peut saisir uniquement comme événement, et non comme résultant d'une nécessité rationnelle
+- La contingence va donc à l'encontre des systèmes de rationalité dogmatique et métaphysique. La linéarité du temps crée un récit de ce qui doit être.
+	- Penser la contingence c'est mettre fin à ces systèmes car ces systèmes définissent les événements qui nous arrivent avec une forme de nécessité prédestinée ; qui soutiennent que, en principe du moins, tout peut être connu à l'avance.
+- Penser la contingence c'est ce mettre appart de ces systèmes et c'est penser les événements en dehors de leur nécessité d'être selon le système métaphysique ordinaire.
+- La contingence cherche à subordonner d'autres outils conceptuels comme le hasard ou la probabilités. Or cela failli car en pensant la contingence dans une gestion du risque on réduit la contingence à une métaphysique rationnelle. L'événement est quelque chose qui dépasse la compartimentalisation de la gestion de ce qui est.
+- [[Quentin Meillassoux]]  le rappelle dans son livre ((6783eb82-50ac-4686-8823-703521b4be12)) mais l'étymologie de contingence est différentes du hasards ou de l'aléatoire qui eux se rapportent à tomber , l'éventualité de l'un des nombreux résultat possibles. La contingence vient de "arriver" c'est un événement qui vient de l'extérieur qui frappe.
+	- [[Quentin Meillassoux]] ((66d34cae-f1f1-4b84-b296-3804e410b377))
+- Le constat de la contingence serait la pilule la plus dure à avaler pour l'H
+	- [[Freud]] disait qu'il y avait 3 grosses blessures narcissiques pour l'H
+		- Le systèmes Coperniciens et le fait que la terre n'est pas au centre
+		- L'évolution de Darwin, et le fait que l'humain est le produit d'une sélection naturelles
+		- La psychanalyse de [[Freud]] , et le fait que l'humain n'est pas le maitres de sa propre conscience et de son destin car dirigées pas des processus inconscient.
+	- Ces humiliations brise l'attitude humaine dans sa perspective naturelle qui fait de lui le sujet qu'il pense être, central fondateur et nécessaire. Elles soulignent que notre identité est façonnée par des forces qui ne dépendent pas uniquement de notre pensée consciente.
+- Pour Meillasoux penser la contingence serait la tache ultime pour se débarrasser des illusions optimistes de la [[Modernité]].
+	- Mais considérer cette réflexion comme une tâche positive signifie refuser de rester simplement piégé dans un état ([[Post-Modernité]]) de deuil pour des certitudes perdues.
+- Penser la contingence c'est sortir de tous ce qui est pré-enregistré
+- ## Art and contingency
+- L'œuvre d'art dans ca conception modernes est un bloc de matière ordonné et organisé pour être une expérience autonome, intentionnelle et contrôlé (enregistrée). Ensuite il eu une certaines prise de conscience de la nature contingente des support matériels, ce qui a poussé a thématiser autour de la fragilité de ces support ( [[L'Antiforme]] ).
+	- A l'heure de l'art contemporain, l'œuvre s'ouvre a de nouveaux processus. En cela elle abandonne l'autonomie passé de l'œuvre.
+- Reza Negarestani met en garde le travail de l'art sur la contingence. Il présente un risque de retomber sur des modèles qui nous ramènent à la métaphysique de la chance et du calcul.
+- ## 1. Menace de la contingence
+- C'est le fait de se préparer du mieux à quelque chose qui est imprévisible
+	- Nous avons peut-être les montres, les dispositifs et concepts pour mesurer et planifier, qu'ils soient militaires, économiques ou philosophiques... *mais le temps est toujours du côté de la contingence*.
+- ## 2. L'anxiété existentielle et le suspense de la contingence
+- C'est le fait de côtoyer d'un point de vue existentielle, avec plus ou moins d'horreur, une situation où tout et rien ne peut arriver. Le banal communique avec les profondeurs impensables des matériaux contingents et de leurs interactions
+- ## 3. La complicité avec la contingence
+- Présente dans la création artistique, la contingence peut détruire ces illusions de contrôle, et il est donc crucial de la prendre en compte dans notre pensée et notre création, car des événements inattendus peuvent facilement ébranler nos certitudes.
+-

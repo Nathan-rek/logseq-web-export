@@ -1,0 +1,25 @@
+- Fin de la [[Modernité]] , faille de l' [[Utopie Moderne]], période du désenchantement
+	- On ne croit plus au grand métarécit  ((67af6af3-e214-4992-b9c0-26b6c6d3aff9)) , ce qui remet en cause le sujet universelle
+	- On ne rêve plus de faire un monde avec rien on fait un monde avec
+		- Culte du maintenant
+			- Une figure hédonisme apparait
+	- La société démocratique pluriel fragmente la société en groupe sociaux et opère une fragmentation de l'individu
+		- Omnivorie culturelle, pluri identité, l'individu est lui même fragmenté
+- La figure post moderne peut introduire au néo-tribalisme
+	- Nécessité de vouloir appartenir à une culture
+		- La culture techno est un des signes de ce néo-tribalisme
+			- Malgré l'individualisme exacerber il faut quand même se rattacher à quelque chose
+- ### Gilles Lipovestky: *L'ère du vide*
+	- Ne considère plus la postmodernité mais l'hypermodernité
+		- Tout est vérité, tout est superlatif, tout est hyper, exacerbation du tout
+			- On remplace l'envie du bien-être par la peur de la maladie
+		- Plutôt comme une deuxième phase de la [[Modernité]] des [[Modernité]] avancées
+- ### Frederic Jameson: *Le post-modernisme ou la logique culturelle du capitalisme tardif*
+  id:: 661023c8-2b1a-4d95-9cf5-afd42ddbb0f2
+	- Le [[Post-modernisme]] se veut est une époque pénètrer par le capitaliste notamment dans le champ de la culture
+	- Il étudie le passage du [[Modernisme]] à cette nouvelle logique culturelle dominante, propre au capitalisme tardif, à partir d'exemples : peinture, architecture, littérature, [[Photographie]] , cinéma ou vidéo.
+		- Ce livre, qui s'inscrit dans la tradition des [[Cultural Studies]] anglo-saxons
+- ### Brian Wallis: *Art in America*, 1992
+  id:: 663ca491-e79b-4e04-b9c5-efd65f616240
+	- *The post modern artist is no longer seen as a contemplative source of original and enlightened but is regarded mor as a consumer or manipulator of cultural signs. The artwork that he or she makes is seen less as an autonomous, sacrosanct objet and more as a "text" endlessy replicable and interpenetrated by innumerable potential meanings.*
+-

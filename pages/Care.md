@@ -1,0 +1,76 @@
+- Prend naissance dans la deuxième vague du [[Féminisme]]
+- Nait en critique de la psychologie du développement moral: le dilemme de Heinz
+	- Un médicament existe mais est trop chère Heinz à besoin de ce médicament pour sauver sa femme doit-il le voler
+		- Pour Jake le juge comprendra et appliquera une sentence légère
+		- Pour Amy il devrait emprunter de l'argent, et ne pas risquer la prison pour ce vol
+	- Perspective de l'idée du Care
+- Kohlberg situe le raisonnement logico déductif qui fait que la pensée d'Amy est moins moral que Jake
+- Care est contraire à l'autosuffisance
+- ## Carol Gilligan
+	- Décrit un biais de genre dans ce dilemme
+- ## Joan Tronto
+	- Comment ne pas reléguer le care au féminin
+	- Penser le care dans un espace public
+	- Penser le care comme un type d'expérience et de savoir
+- ## Gut and depression
+	- Les mélancholies contemporaines sont moins humorales et plus moléculaires
+	- La mélancholie a un fort liant au langages
+- ## Inflammation
+	- Ecrit entre une médecin et un théoricien
+	- Toutes les maladies modernes sont accompagnée d'un état d'inflammation chronique
+	- L'inflammation est une situation qui a un temps limité
+		- L'inflammation est un système de signal qui enclenche un tas de réactions en chaine
+	- Avant l'avancé médicale on mourrait principalement d'infection
+	- La chaleur fait partie des méthodes de signalement de l'infection
+	- A l'amont du symptômes il y aurait toujours un corps sain
+		- On prend le symptôme comme point de départ. On décontextualise le corps.
+	- Comment sortir de cette pseudo égalité des corps des patients face aux symptômes.
+		- La place des traumas collectifs dans la configuration des corps
+			- Prendre en considération la toxicité des environnements dans lesquelles ont vit
+			- Un corps est un corps historique et relationnelle
+	- Concevoir la maladie comme une réponse à une menace externe permanente
+		- L'inflammation comme mode de vie
+			- Réaction constante face aux dangers
+	- Munus Munera sont des citoyens de second ordre dans la Grèce antique
+		- Le paradigme du système immunitaires a été penser comme une défense face à une invasion des corps étrangers
+		- La théories des fenêtres cassé
+			- Le corps ne réagira pas face à l'étranger car si c'était une réaction face au corps étrangers on ne pourrait pas manger ni enfanter
+			- On réagit seulement quand il y des fenêtre cassée, un dommage, ce n'est plus l'intrusion d'un corps mais un dommage crée dans le corps
+			- Le système immunitaire est épigéniste, il contient une mémoire dans la réaction.
+				- C'est la base du domaine vaccinale
+				- Cela est tout aussi vrai pour les micro-organismes
+	- Le stress est un état d'alerte
+		- Capacité de fuir de se battre de se figer
+	- Nous sommes une mouvement de négociation permanent avec l'environnements
+	- Comment sortir du paradigme coloniale du corps
+		- Corps comme territoire individuelle propriétaire, qui réagit face à l'invasion
+			- Reconstruire les possibilités d'interdépendance
+	- Le système digestif est en danger d'extinction par la stérilisation massives des produits
+		- Perte de biodiversité dans le corps
+	- L'homéostasie est un état d'équilibre du corps et l'inflammation permet de récupérer l'équilibre
+		- Le stress est une situation où il n'y a pas d'homéostasie
+	- Le saumon est un anti-inflamatoire
+		- Riche en OMEGA3
+		- Le saumon est l'emblème de la bonne circulation
+		- Un saumon née en amont d'une rivière, il redescend ensuite la rivière et se nourrissent et finissent dans la mer. Or il savent toujours retrouver leur rivières original.
+			- La période en mer est indéterminé 1 à 7 ans
+				- Ensuite il remonte la rivière, une fois en haut ils déposent des œufs
+		- Le saumon Chinook en pisciculture produit de l'OMEGA 6 au lieu de l'OMEGA 3,
+			- L'OMEGA 6 est un pro-inflammatoire
+	- ## Maladies auto-immunes
+		- C'est quand le système de signalement du métabolisme humain se retourne contre nous.
+			- Au lieu de réparer un problèmes la maladie auto-immunes aide le processus qui ne vas pas à se multiplier
+			- Notre système immunitaire avec repérer un dommage
+				- Le corps enflamme pour signaler et regrouper les effort pour mettre en place des processus de réparation
+				- Lors que le corps crée des territoires constamment inflammés on n'est plus capable de repère les dommage corporelles (cellules cancéreuses)
+					- Détournement de notre capacité à nous soigner nous mêmes
+			- Pour qu'un état de mal être deviennent auto-immunes c'
+		- Le processus d'auto-immunité
+		- Homéostasie et réponse inflammatoire aigue: limité dans le temps
+- ## Exposition
+	- Exposer à des bactéries qui aliment une conversation immunitaires permanentes
+		- L'exposition disparait du milieu urbain, plus ont est privilégie plus on s'éloigne de l'exposition
+	- Exposition à la toxicité, au trauma
+		- La chimie de notre corps ne fait pas la différence entre un danger présent et un danger potentiel
+			- La réaction métabolique face au stress est la même face à un danger imminant.
+	- Des dangers portés par des histoires et des contextes
