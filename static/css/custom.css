@@ -1,0 +1,39 @@
+: root {
+  font-size: 18px !important
+}
+
+a.tag[data-ref] {
+    font-size: 18px !important
+}
+
+h1, h2, h3, h4 {
+  color: red
+}
+
+.blocks-container i {
+  color : #FF0000
+}
+
+b {
+  text-decoration : underline green sold 2px
+}
+
+
+img {
+	
+	width: 450px;
+}
+
+ul {
+	
+	box-shadow: solid  black 10px
+}
+
+a + img {
+	width: 10px
+}
+
+.asset-container > img {
+  max-height: 1000px;
+  width: auto;
+} 
