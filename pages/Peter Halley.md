@@ -1,6 +1,5 @@
 # The Crisis in Geometry
 id:: 67d560df-a0b9-4ec6-9eec-88135ab9b30b
-collapsed:: true
 	- La géométrie évoquait la stabilité aujourd'hui elle confine et dissuade
 		- Le projet formaliste en géometrie est discredité
 			- Il n'existe plus de formes comme simplement des formes a explorer comme le fessait les [[Constructivisme Russe]] ou les [[De Stijl - Néo-plasticisme]] ou des vider les formes comme le fessaie le [[Minimalisme]]
@@ -14,8 +13,8 @@ collapsed:: true
 	- Nous sommes plutôt lancés dans une quête structuraliste des signifiés voilés que le signe géométrique peut révéler
 		- Quelle est la place de la  forme géométrique dans notre culture ?
 		- Pourquoi les sociétés modernes sont elle obsédée par la formes géométrique
-	- ## * ((67b5988c-037d-4e70-bc70-f19b6e81c4a9)) *
-		- *Surveiller et punir* de [[Michel Foucault]] déconstruit les grand ordres géométrique de la société industrielles
+	- ##  ((67b5988c-037d-4e70-bc70-f19b6e81c4a9))
+		- *Surveiller et punir* de [[Michel Foucault]] déconstruit les grand ordre géométrique de la société industrielle
 			- Le déploiement omniprésent de structures géométriques dans les villes, les usines et les écoles, dans les logements, les transports et les hôpitaux, se révèle comme un mécanisme inédit permettant de canaliser, de mesurer et de normaliser l'action et le mouvement. Des voies de circulation, les lignes droites omniprésentes du paysage industriel, ont été établies pour faciliter les mouvements ordonnés.
 				- Se cristallise avec la formes du panoptique dans les prisons, ou la formes est directement former pas ces désirs de surveillance
 					- Le panoptisme, combiné à la sérialité, est apparu comme le principe fondamental permettant de superviser et d'observer plus efficacement les corps et les lieux dans des lieux clés tels que la prison, l'hôpital, l'usine et l'école
@@ -23,7 +22,7 @@ collapsed:: true
 			- Les artistes du XXe siècle ont souvent revendiqué la légitimité de leur recours à la géométrie en se référant à des sources antiques et religieuses. Ironiquement, ces mêmes sources sont citées par Foucault comme les véritables modèles des schémas géométriques de confinement et de surveillance présents dans la société industrielle
 		- Premièrement, la Rome antique a fourni à l'ère capitaliste naissante non seulement un modèle de gouvernement républicain, comme on le dit communément, mais aussi un modèle de discipline idéale, fondé sur la technologie militaire romaine
 			- La naissance de l'ordre industriel, le modèle traditionnel de la vie monastique, avec sa supervision rigide du temps et des activités, a été soudainement adopté par le corps social dans son ensemble.
-		- Cette obsession modernes pour la géometrie remet en question le mysthiscisme géometrique des figure de l'Art tel que [[Piet Mondrian]], [[Kazimir Malevitch]], [[Mark Rothko]], Newman
+		- Cette obsession modernes pour la géométrie remet en question le mysticisme géométrique des figure de l'Art tel que [[Piet Mondrian]], [[Kazimir Malevitch]], [[Mark Rothko]], Newman
 		  id:: 67d5553e-03d6-4d09-a056-875117f2820a
 			- Remise en question de la géométrie constituait une forme neutre, avancée par le [[Minimalisme]] et le formalisme des années 1960. [[Clément Greenberg]]
 				- On décèle dans l'œuvre de ces transcendantalistes géométriques un mécanisme de classification à l'œuvre, où la géométrie, objet même de gêne, se transforme en objet d'adulation
@@ -37,7 +36,7 @@ collapsed:: true
 				- Robert Smithson, [*Non-site (Palisades-Edgewater, N.J.)*](https://whitney.org/collection/works/5560), 1968 ![Robert Smithson | Non-site (Palisades-Edgewater, N.J.) | Whitney Museum of  American Art](https://whitneymedia.org/assets/artwork/5560/69_6a-b_vw1_cropped.jpeg)
 					- Confrontation entre des matériaux extrait zone d'un système de trolley abandonné et une forme [[Minimalisme]] dans ce cas la celle de [[Donald Judd]]
 						- Smithson se rapproche le plus d’une critique foucaldienne explicite : les monuments géométriques de la tradition des Lumières sont transformés en instruments de confinement et de torture sado-masochistes.
-		- Dans l'oeuvre de Serra la géometrie devient menace
+		- Dans l'œuvre de Serra la géométrie devient menace
 			- Richard Serra, [*Corner Prop*](https://www.moma.org/collection/works/100314), 1969 ![Richard Serra, Corner Prop, 1969](https://i.pinimg.com/736x/11/dc/cb/11dccbe9366f67f2eda3cb92ca66af31.jpg)
 			- un solide cubique en plomb, à la fois polygone cartésien et produit industriel, est soulevé de manière précaire au-dessus de la tete du..la spectateur..ices
 				- Si certaines caractéristiques de la forme géométrique suscitent un sentiment immédiat d'anxiété et de menace, les œuvres de Serra n'en demeurent pas moins ambiguës par leur (et la sienne) insistance sur leur « matérialité ». Cette affirmation constante de la matérialité renforce l'idée que ces formes et processus représentent une réalité immuable et transcendante
@@ -101,9 +100,8 @@ collapsed:: true
 		- De plus, si l'on peut encore croire à la distinction entre capital et travail, entre cadre et ouvrier, il faut souligner que si les signes médiatiques s'adressent principalement à la masse, au consommateur et au travailleur, ce sont les signes géométriques, sous forme d'art, d'architecture et d'analyses statistiques, que la classe dirigeante se réserve pour communiquer avec elle-même
 		- Pour les artistes, s'attaquer à cette idéologie relève de l'autocritique plutôt que de la condescendance. Enfin, nombreux sont aujourd'hui les artistes qui rejettent les tentatives de critique de la géométrie et des médias, et semblent convaincus que, grâce à l'intuition, au subconscient et aux techniques traditionnelles de la peinture à l'huile, ils peuvent redonner vie à ce monde sans vie.
 		- Baudrillard décrit cet effort désespéré :
-		- *« On assiste à une prolifération de mythes d'origine et de signes de réalité ; de vérité de seconde main, d'objectivité et d'authenticité. On assiste à une escalade du vrai, de l'expérience vécue ; une résurrection du figuratif là où l'objet et la substance ont disparu. » Ces artistes, et l'art qu'ils produisent, méconnaissent la complexité des transformations qui ont eu lieu au sein du social. Et ils sont inconscients du coût du retour romantique qu'ils prônent, que Baudrillard expose également : « Si nous nous remettons à rêver, aujourd'hui surtout, d'un monde de signes certains, d'un « ordre symbolique » fort, ne nous y trompons pas : cet ordre a existé et il était celui d'une hiérarchie féroce, puisque transparence et cruauté pour les signes vont de pair. »*
+			- *« On assiste à une prolifération de mythes d'origine et de signes de réalité ; de vérité de seconde main, d'objectivité et d'authenticité. On assiste à une escalade du vrai, de l'expérience vécue ; une résurrection du figuratif là où l'objet et la substance ont disparu. » Ces artistes, et l'art qu'ils produisent, méconnaissent la complexité des transformations qui ont eu lieu au sein du social. Et ils sont inconscients du coût du retour romantique qu'ils prônent, que Baudrillard expose également : « Si nous nous remettons à rêver, aujourd'hui surtout, d'un monde de signes certains, d'un « ordre symbolique » fort, ne nous y trompons pas : cet ordre a existé et il était celui d'une hiérarchie féroce, puisque transparence et cruauté pour les signes vont de pair. »*
 - # Contre le [[Post-modernisme]]: reconsidérer le [[Modernisme]] avec Ortega
-  collapsed:: true
 	- Le [[Post-modernisme]] est une notion qui prête à penser une fin de l'art [[Modernisme]] et qu'un nouvelle ensemble de théorie est nécessaire pour décrire l'art actuel (1981)
 	- Pour Peter Halley le [[Modernisme]] ne serait pas révolue mais mal formulé
 		- L'assimilation du [[Modernisme]] aux idées formalistes de [[Clément Greenberg]] n'est pas suffisante

@@ -1,6 +1,6 @@
 - Penseuse [[Marxisme]]
 	- Neo-marxisme, branche [[Marxisme]] qui s'intéresse au manifestations culturelle de l'économie
-- # Immediacy or the Style of to Late Capitalism
+- # *Immediacy or the Style of to Late Capitalism*
   id:: 67b4a3fb-efd2-49c9-b980-bce1164d8f53
 	- L'immédiateté est un style présent dans nos vie, très présent dans l'économie, mais cela à un fort impact culturelle
 		- La désigne le processus actif de mise en relation, qui consiste à donner un sens et une signification en s'insérant

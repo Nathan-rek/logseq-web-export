@@ -111,8 +111,9 @@
 								- Robert Morris, [*I-Box*](https://www.artic.edu/artworks/248725/i-box), 1965 https://www.artic.edu/iiif/2/c6832f67-95d5-daae-21ff-b22f869a89a9/full/843,/0/default.jpg
 									- jeu de mots sémiotique et une manipulation structurelle entre le tactile, le linguistique et la représentation visuelle
 					- Robert Morris, [*Document (Statement of Aesthetic Withdrawal)*](https://www.moma.org/collection/works/79897) ![Robert Morris. Document. 1963 | MoMA](https://www.moma.org/media/W1siZiIsIjIxMjIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=8310e7653e1b048f)
-						- poussait la négation du visuel encore plus loin, soulignant qu'après [[Marcel Duchamp]] , la définition de l'œuvre d'art était devenue une question de convention linguistique, de contrat légal et de discours institutionnel plutôt que de goût ou de compétence manuelle
-							- L'auteur note que cette érosion de l'hégémonie du visuel et de l'autonomie de l'expérience esthétique avait été préfigurée par [[Marcel Duchamp]] , notamment avec la certification notariée de **"L.H.O.O.Q."** en 1944
+						- En 1963, Robert Morris déclare solennellement qu'une de ses oeuvres, "Litanies" (ci-après en position couchée), renonce à toute qualité esthétique.
+						- Poussait la négation du visuel encore plus loin, soulignant qu'après [[Marcel Duchamp]] , la définition de l'œuvre d'art était devenue une question de convention linguistique, de contrat légal et de discours institutionnel plutôt que de goût ou de compétence manuelle
+							- L'auteur note que cette érosion de l'hégémonie du visuel et de l'autonomie de l'expérience esthétique avait été préfigurée par [[Marcel Duchamp]] , en fessant appelle à un notaire pour authentifier son ready-made *L.H.O.O.Q.* en 1944
 								- ((65480be3-afaf-4930-9455-f36be8cbbe2c))
 								- Ce qui était peut-être une manœuvre pragmatique chez [[Marcel Duchamp]] est devenu une caractéristique constitutive des développements ultérieurs de l'art conceptuel, comme en témoignent les certificats de Manzoni et les zones de sensibilité picturale immatérielle d'Yves Klein
 									- Cette esthétique des conventions linguistiques et des arrangements légalistes remettait également en question l'esthétique de la production et de la consommation qui avait encore cours dans le [[Pop-Art]] et le [[Minimalisme]]

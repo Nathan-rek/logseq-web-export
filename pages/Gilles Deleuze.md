@@ -324,6 +324,7 @@
 	- Hans échoue dans la tentative d'agencement machinique par [[Déterritorialisation]] car reterritorialiser par la famille, même si lui est prêt à prend la famille comme agencement fonctionnement machinique
 - # L'Anti-Œdipe
   id:: 67b0e4be-8284-4c30-8e63-43ac9913bde8
+  collapsed:: true
 	- Premier opus de *Capitalisme et Schizophrénie* issue de la collaboration entre le psychanalyse Felix Guattari et Gilles Deleuze
 	- L'Anti-Œdipe est une critique [[Post-structuralisme]] de la psychanalyse Freudienne notamment la place des grilles de lecture de la familles.
 		- Le travail de la psychologie va consister à explorer l'inconscient pour voir comment il se construit
@@ -364,6 +365,7 @@
 				- D&G cherchent à montrer que le désir fonctionne toujours en relation avec des agencements sociaux et économiques, et que **le désir lui-même** est investi dans la perpétuation des systèmes de pouvoir, y compris le capitalisme.
 					- De plus, ils rejettent l'idée que le **complexe d'Œdipe** soit universel. Ils y voient plutôt un outil idéologique utilisé pour contrôler et normaliser les individus, en particulier dans la cellule familiale bourgeoise.
 - # Sociétés de contrôle
+  id:: 67b0e5f1-265c-4ae0-9b15-c23f11f84784
   collapsed:: true
 	- La communication c'est la transmission d'une information
 		- Une information c'est un ensemble de mot d'ordre
@@ -398,6 +400,7 @@
 				- C'est une mutation du capitalisme
 					- Le marketing est maintenant l'instrument du contrôle social
 - # Image-Temps
+  collapsed:: true
 	- Images mouvements est un livre qui parle du cinéma mainstream et du cinéma d'avant-gardes
 		- Il va s'intéresser aux grands cinéastes d'avant-gardes
 	- Dans le cinéma mainsteam le montage est logique et régit par l'action et la causalité

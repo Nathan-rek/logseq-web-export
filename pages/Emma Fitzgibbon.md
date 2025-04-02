@@ -1,6 +1,5 @@
 # Digitaliser le punk
 id:: 67af7037-fd74-49a9-be0d-113996fa4a00
-collapsed:: true
 	- ## Le défi contestataire du digital hardcore, entre [[Cybernétique]] et anticipation
 		- **Continum Hardcore**: concept de Steve Goodman qui permet de catégoriser et théoriser les genres de musique électroniques
 			- Se distingue de la dance music de l'époque par : le BPM, le rythme, la progression
@@ -10,15 +9,15 @@ collapsed:: true
 		- Le digital Hardcore présentes plusieurs samples qu'il soit du punk ou du breakbeat se propose comme une production musicale extrême et diverse souvent synthétique.
 		- Alec empire se situe sous l'influence de plusieurs philosophes mais notamment de la théorie critique de l'école de francfort.
 			- Critique des sociétés industrielles et des dynamiques de domination sur base du modèle capitaliste. Une critique qui les positionnent contre l'industrie musical de l'époque qui marche sur un modèle industriel du label.
-	- ### Post-scriptum sur les sociétés de contrôle
-		- Le changement des sociétés disciplinaire aux sociétés de contrôles.
+	- ### Post-scriptum sur les ((67b0e5f1-265c-4ae0-9b15-c23f11f84784))
+		- Le changement des sociétés disciplinaire aux ((67b0e5f1-265c-4ae0-9b15-c23f11f84784))
 			- La discipline ne se fait plus que dans les lieux d'enfermement (panoptique [[Michel Foucault]] ) mais dans le contrôle de façon plus insidieuses.
 				- Un glissement qui est rendu possible par les technologies computationnelle. Cette position de [[Gilles Deleuze]] touche aux enjeux de la [[Cybernétique]].
 				- Cette enjeux de prédiction des corps est pour [[Gilles Deleuze]] en lien avec les systèmes de contrôles
 					- La transmission d'informations est le contrôle pour [[Gilles Deleuze]]
 			- Le but n'est pas de ce placer contre ces nouveaux systèmes mais d'en trouver les armes "*Teenage Riot*"
 	- ## Un son galvanisant
-		- Le digital Hardcore serait un cri de guerre face à ses sociétés de contrôles
+		- Le digital Hardcore serait un cri de guerre face à ses ((67b0e5f1-265c-4ae0-9b15-c23f11f84784))
 			- Le morceau *"Atari Teenage Riot"* comporte un extrait du discours de Louis Farrakhan qui porte sur la répression des populations noires aux Etats Unis D'Amérique.
 				- Les paroles appelant à la révolte ainsi que l’arrangement musical non linéaire (succession de samples et de breaks) font tous références à des discours de résistance face au pouvoir et au gouvernement établi.
 				- L'atmosphère sonore chaotique du Digital Hardcore à pour rôle de galvaniser l'auditeur..ices et de motiver à agir
@@ -28,7 +27,7 @@ collapsed:: true
 				- On peut donc apercevoir comme une armes dont la stratégie ne serait pas le contact mais l'émission
 					- Cette capacité des armes soniques sur les corps intéressent [[Gilles Deleuze]] dans le contrôle des corps
 						- Le son devient information et donc devient un moyen de communiquer *des mots d’ordre*.
-		- Pour Burroughs la manipulation du son muzak (musique de fond) peut être un outil de détournement fort il étudie le film Decoder ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
+		- Pour Burroughs la manipulation du son muzak (musique de fond) peut être un outil de détournement fort il étudie le film *Decoder* ou lorsque le personnage modifie la fréquences du son muzak entraine une suite de réaction violents
 		- Le muzak comme mots d'ordre des [[Gilles Deleuze]] doit être piraté il faut se réapproprier l'information (All of us can be rich in informations)
 		- La distorsion et le rendu sonore des machines que Eshun nomme *machine-musique* nous permettrait d'attendre des "états d'esprit" cette musique synthétique, loin de nous éloigner de nos émotions comme le pensent les technophobes, serait dans la capacité de nous faire ressentir plus de sensations et d’émotions de par l’intensité sonore synthétique qu’elle met en place
 			- Une position qui suit le ((661023c5-a697-4761-b3e1-3b90348ef18e)) , S'accorde avec la guérilla sonore d'Underground Resistance, et le révolte de Public Ennemy
@@ -36,7 +35,7 @@ collapsed:: true
 			- Il y aurait pour Eshun une dimension [[Accélérationisme]] dans la prise d'outils numériques dans la production sonore
 				- *Je fais de l’ingénierie, je m’empare de fictions, de concepts, d’hallucinations […]. J’utilise ces différents concepts pour fonder de nouveaux champs d’expérience, pour anticiper et accélérer différentes explorations dans des champs de perceptions nouveaux*
 	- ## Contre le [[Cybernétique]]-capitalisme
-		- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musicals comme la jungles.
+		- Ce système qui se caractérise par une linéarité totalitaire pourrait être déconstruit par des productions musical comme la jungles.
 			- La [[Cybernétique]] ayant une fonction de prévision du mouvement ennemi pourrait être en crise face à des breaks saccadé
 			- Un rythme qui s'oppose au binaire et au linéaire du rythme capitaliste
 				- L'écoute de ce genre rendrait les auditeur..ices inaptes et donc incapable de rentrer dans le moule capitaliste rythmique occidentale
@@ -74,7 +73,7 @@ collapsed:: true
 		- Le son synthétique serait le seul à investir le futur et donc à pouvoir l'influencer
 			- *Quiconque qui contrôle le synthétiseur contrôle le son du futur, parce qu’il connote l’alien*
 	- # Conclusion
-		- L’ [[Accélérationisme]] et le digital hardcore font tous les deux preuve d’une critique sévère des nouvelles technologies et tactiques de contrôle social? mais également preuve de stratégies de réinvestissement, de détournement et de [[Déterritorialisation]] de ces mêmes armes de contrôle [[Cybernétique]]
+		- L’ [[Accélérationisme]] et le digital hardcore font tous les deux preuves d’une critique sévère des nouvelles technologies et tactiques de contrôle social ? Mais également preuve de stratégies de réinvestissement, de détournement et de [[Déterritorialisation]] de ces mêmes armes de contrôle [[Cybernétique]]
 - # Vocaloid: Figures Post-moderne
   collapsed:: true
 	- Le Vocaloid est un logiciel de composition musical développé par Yamaha

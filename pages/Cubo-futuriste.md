@@ -1,4 +1,4 @@
-- Considéré comme une interprétation par les artistes russes du [[Cubisme analytique]] , du[[Cubisme synthétique]]  et du [[Futurisme]] .
+- Considéré comme une interprétation par les artistes russes du [[Cubisme analytique]] , du[[Cubisme synthétique et du [[Futurisme]] .
   Tout comme les cubistes Lioubov Popova travaille le portrait et la nature morte tout en intégrant un geste futuriste.
 	- Lioubov Popova : Étude pour un portrait, 1915 ![Le Cubo-Futurisme – Etude pour un portrait, Lioubov Popova (1914-1915) |  Charlotte MARTIN](https://chamartinlecolededesign.files.wordpress.com/2013/10/fut_086.jpg)
 	- Lioubov POPOVA: Nature morte, 1915 ![Lyubov Popova – Œuvres d'art et biographie de l'artiste russe – Artlex](https://www.artlex.com/wp-content/uploads/2022/08/the-jug-on-the-table.jpg)

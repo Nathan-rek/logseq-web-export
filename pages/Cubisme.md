@@ -4,8 +4,20 @@
 	- Communautarisation des échanges techniques et pratique: déconstruction de l’espace et de la perspectives > partage des teintes chromatique (champ colorimétrique le plus objectif répond à des suite mathématique objectif ) > obédience [[Marxisme]]
 	- Kahn WEILLER: La monté du cubisme à mettre en perspective avec  la monté du fascisme
 		- En élevant la signature: dé-singulariser l’œuvre > mettre a mal la singularité de [[L'Originalité]]
-- [[Proto Cubisme]]
+- ## Proto Cubisme
+	- Référence au [[Primitivisme]] : sculpture occidentale et océanienne, nouvelle vision de l’anatomie
+		- Pablo Picasso, Les demoiselles d'Avignon, 1907 ![5 choses à savoir sur… 'Les Demoiselles d'Avignon' de Pablo Picasso](https://media.timeout.com/images/103145336/750/422/image.jpg)
+		  id:: 661023c8-f7c0-42a3-afb4-2fc8e825a9a7
+			- Peinture de prostitués, Picasso avait peur d'attraper la syphilis lors de ces bordels il représentes cette peut en transformant les têtes de ces demoiselles en se basant sur des masque d'art africains
+	- Référence à [[Paul Cézanne]] , qui dans la fin de sa vie utilise des forme volumentielle pour représenter la réalité, invite les artistes a représenter la réalité par le cône ou le cube.
 - [[Cubisme analytique]]
-- [[Cubisme synthétique]]
+- # Cubisme synthétique
+  collapsed:: true
+	- L’utilisation du papier collé: Développement de stratégie [[Ready-made]]
+		- PICASSO: [*Portrait d’Ambroise Vollard*](https://fr.allpaintingsstore.com/FamousPaintingsStore.nsf/A?Open&A=5ZKDG3) ![](https://fr.allpaintingsstore.com/Art.nsf/O/5ZKDG3/$File/Pablo-Picasso-Portrait-of-Ambroise-Vollard.jpg)
+	- PICASSO : [*Nature morte à la chaise canné*](https://www.museepicassoparis.fr/sites/default/files/2022-02/nature%20morte%20à%20la%20chaise%20canée%20HD%20OK.jpg) ![](https://www.museepicassoparis.fr/sites/default/files/2022-02/nature%20morte%20%C3%A0%20la%20chaise%20can%C3%A9e%20HD%20OK.jpg)
+		- Premier collage sur un tableau: Cherche à recherche comment réinventer la perspective
+	- Fernand LÉGER: [*Nus Dans La Foret*](http://www.societe-cezanne.fr/wp-content/uploads/2017/11/Fernand-Henri-Léger-Works-Nus-dans-la-forêt-Nudes-in-the-forest-1909–1911-Oil-on-canvas-120-×-170-cm-Kröller-Müller-Museum-.jpg)![](https://www.societe-cezanne.fr/wp-content/uploads/2017/11/Fernand-Henri-L%C3%A9ger-Works-Nus-dans-la-for%C3%AAt-Nudes-in-the-forest-1909%E2%80%931911-Oil-on-canvas-120-%C3%97-170-cm-Kr%C3%B6ller-M%C3%BCller-Museum-.jpg)
+		- Géométrisation des éléments
 - [[Post-Cubisme]]
 -
